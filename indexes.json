@@ -1,0 +1,18 @@
+[
+	{
+		"url": "https://policies.google.com/terms",
+		"id": "1",
+		"name": "Google - Terms of Service",
+		"company": "Google",
+		"service": "Google Core",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://policies.google.com/privacy",
+		"id": "2",
+		"name": "Google - Privacy Policy",
+		"company": "Google",
+		"service": "Google Core",
+		"type": "PrivayPolicy"
+	}
+]
