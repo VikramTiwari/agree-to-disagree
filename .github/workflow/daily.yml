@@ -1,7 +1,10 @@
+# name: Auto update at the end of each day
+# on:
+#   schedule:
+#     - cron: "0 0 * * *" # At the end of each day
+
 name: Auto update at the end of each day
-on:
-  schedule:
-    - cron: "0 0 * * *" # At the end of each day
+on: ["pull_request"]
 
 jobs:
   updater:
