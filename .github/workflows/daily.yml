@@ -1,10 +1,7 @@
-# name: Auto update at the end of each day
-# on:
-#   schedule:
-#     - cron: "0 0 * * *" # At the end of each day
-
 name: Auto update at the end of each day
-on: [push]
+on:
+  schedule:
+    - cron: "0 0 * * *" # At the end of each day
 
 jobs:
   updater:
@@ -25,4 +22,9 @@ jobs:
         env:
           CI: true
       - name: Run
-        run: npm start
+        run: npm run dev
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
