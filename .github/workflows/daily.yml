@@ -25,4 +25,8 @@ jobs:
         env:
           CI: true
       - name: Run
-        run: npm start
+        run: npm run dev
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
