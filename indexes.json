@@ -190,5 +190,29 @@
 		"company": "Google",
 		"service": "Google Maps",
 		"type": "TermsOfService"
+	},
+	{
+		"url": "https://stackoverflow.com/legal/terms-of-service",
+		"id": "24",
+		"name": "Stackoverflow - Terms of Service",
+		"company": "Stack Exchange",
+		"service": "Stackoverflow",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://stackoverflow.com/legal/privacy-policy",
+		"id": "25",
+		"name": "Stackoverflow - Privacy Policy",
+		"company": "Stack Exchange",
+		"service": "Stackoverflow",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://stackoverflow.com/legal/cookie-policy",
+		"id": "26",
+		"name": "Stackoverflow - Cookies Policy",
+		"company": "Stack Exchange",
+		"service": "Stackoverflow",
+		"type": "CookiesPolicy"
 	}
 ]
