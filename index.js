@@ -24,9 +24,9 @@ async function start() {
 	const promises = []
 	for (let i = 0; i < indexes.length; i++) {
 		const index = indexes[i]
-		console.log(`adding ${index.id} from ${index.url}`)
+		console.log(`adding ${index.id} from ${index.url}`, performance.now())
 		await getScreenshot(page, index)
-		console.log(`added ${index.id} from ${index.url}`)
+		console.log(`added ${index.id} from ${index.url}`, performance.now())
 	}
 	await Promise.allSettled(promises)
 	if (process.env.NODE_ENV === `production`) {
