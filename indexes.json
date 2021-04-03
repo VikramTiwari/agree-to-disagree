@@ -14,5 +14,205 @@
 		"company": "Google",
 		"service": "Google Core",
 		"type": "PrivayPolicy"
+	},
+	{
+		"url": "https://www.facebook.com/legal/terms/plain_text_terms",
+		"id": "3",
+		"name": "Facebook - Terms of Service",
+		"company": "Facebook",
+		"service": "Facebook Core",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://www.facebook.com/about/privacy/update/printable",
+		"id": "4",
+		"name": "Facebook - Data Policy",
+		"company": "Facebook",
+		"service": "Facebook Core",
+		"type": "DataPolicy"
+	},
+	{
+		"url": "https://www.facebook.com/policy/cookies/printable",
+		"id": "5",
+		"name": "Facebook - Cookies Policy",
+		"company": "Facebook",
+		"service": "Facebook Core",
+		"type": "CookiesPolicy"
+	},
+	{
+		"url": "https://twitter.com/en/tos",
+		"id": "6",
+		"name": "Facebook - Terms of Service",
+		"company": "Facebook",
+		"service": "Facebook Core",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://twitter.com/en/privacy",
+		"id": "7",
+		"name": "Twitter - Privacy Policy",
+		"company": "Twitter",
+		"service": "Twitter Core",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://help.twitter.com/en/rules-and-policies/twitter-cookies",
+		"id": "8",
+		"name": "Twitter - Cookies Policy",
+		"company": "Twitter",
+		"service": "Twitter Core",
+		"type": "CookiesPolicy"
+	},
+	{
+		"url": "https://1password.com/legal/terms-of-service/",
+		"id": "9",
+		"name": "1Password - Terms of Service",
+		"company": "1Password",
+		"service": "1Password Core",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://1password.com/legal/privacy/",
+		"id": "10",
+		"name": "1Password - Privacy Policy",
+		"company": "1Password",
+		"service": "1Password Core",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://1password.com/legal/cookies/",
+		"id": "11",
+		"name": "1Password - Cookies Policy",
+		"company": "1Password",
+		"service": "1Password Core",
+		"type": "CookiesPolicy"
+	},
+	{
+		"url": "https://docs.github.com/en/github/site-policy/github-terms-of-service",
+		"id": "12",
+		"name": "GitHub - Terms of Service",
+		"company": "GitHub",
+		"service": "GitHub Core",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://docs.github.com/en/github/site-policy/github-privacy-statement",
+		"id": "13",
+		"name": "GitHub - Privacy Policy",
+		"company": "GitHub",
+		"service": "GitHub Core",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://www.ycombinator.com/legal/",
+		"id": "14",
+		"name": "YCombinator - Privacy Policy",
+		"company": "YCombinator",
+		"service": "YCombinator Core",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://slack.com/trust/privacy/privacy-policy",
+		"id": "14",
+		"name": "Slack - Privacy Policy",
+		"company": "Slack",
+		"service": "Slack Core",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://slack.com/trust/compliance/cookie-policy",
+		"id": "15",
+		"name": "Slack - Cookies Policy",
+		"company": "Slack",
+		"service": "Slack Core",
+		"type": "CookiesPolicy"
+	},
+	{
+		"url": "https://slack.com/slack-subprocessors",
+		"id": "16",
+		"name": "Slack - Subprocessors",
+		"company": "Slack",
+		"service": "Slack Core",
+		"type": "Subprocessors"
+	},
+	{
+		"url": "https://www.kaggle.com/terms",
+		"id": "17",
+		"name": "Kaggle - Terms of Use",
+		"company": "Kaggle",
+		"service": "Kaggle Core",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://www.kaggle.com/privacy",
+		"id": "18",
+		"name": "Kaggle - Privacy Policy",
+		"company": "Kaggle",
+		"service": "Kaggle Core",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://cloud.google.com/terms",
+		"id": "19",
+		"name": "Google Cloud - Terms of Service",
+		"company": "Google",
+		"service": "Google Cloud",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://cloud.google.com/terms/data-processing-terms",
+		"id": "20",
+		"name": "Google Cloud - Data Processing",
+		"company": "Google",
+		"service": "Google Cloud",
+		"type": "DataProcessing"
+	},
+	{
+		"url": "https://cloud.google.com/terms/subprocessors",
+		"id": "21",
+		"name": "Google Cloud - Subprocessors",
+		"company": "Google",
+		"service": "Google Cloud",
+		"type": "Subprocessors"
+	},
+	{
+		"url": "https://www.google.com/chrome/terms/",
+		"id": "22",
+		"name": "Google Chrome - Terms of Service",
+		"company": "Google",
+		"service": "Google Chrome",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://www.google.com/intl/en_us/help/terms_maps/",
+		"id": "23",
+		"name": "Google Maps - Terms of Service",
+		"company": "Google",
+		"service": "Google Maps",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://stackoverflow.com/legal/terms-of-service",
+		"id": "24",
+		"name": "Stackoverflow - Terms of Service",
+		"company": "Stack Exchange",
+		"service": "Stackoverflow",
+		"type": "TermsOfService"
+	},
+	{
+		"url": "https://stackoverflow.com/legal/privacy-policy",
+		"id": "25",
+		"name": "Stackoverflow - Privacy Policy",
+		"company": "Stack Exchange",
+		"service": "Stackoverflow",
+		"type": "PrivacyPolicy"
+	},
+	{
+		"url": "https://stackoverflow.com/legal/cookie-policy",
+		"id": "26",
+		"name": "Stackoverflow - Cookies Policy",
+		"company": "Stack Exchange",
+		"service": "Stackoverflow",
+		"type": "CookiesPolicy"
 	}
 ]
