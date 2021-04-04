@@ -1,0 +1,80 @@
+SKIP TO MAIN CONTENT
+Cookie Policy
+
+At Slack, we believe in being transparent about how we collect and use data. This policy provides information about how and when we use cookies for these purposes. Capitalized terms used in this policy but not defined have the meaning set forth in our Privacy Policy, which also includes additional details about the collection and use of information at Slack.
+
+What is a cookie?
+
+Cookies are small text files sent by us to your computer or mobile device, which enables Slack features and functionality. They are unique to your account or your browser. Session-based cookies last only while your browser is open and are automatically deleted when you close your browser. Persistent cookies last until you or your browser delete them or until they expire.
+
+To find out more about cookies, visit this site.
+
+Does Slack use cookies?
+
+Yes. Slack uses cookies and similar technologies like single-pixel gifs and web beacons. We use both session-based and persistent cookies. Slack sets and accesses our own cookies on the domains operated by Slack and its corporate affiliates (collectively, the “Sites”). In addition, we use third party cookies, like Google Analytics.
+
+How is Slack using cookies?
+
+Some cookies are associated with your account and personal information in order to remember that you are logged in and which workspaces you are logged into. Other cookies are not tied to your account but are unique and allow us to carry out analytics and customization, among other similar things.
+
+Cookies can be used to recognize you when you visit a Site or use our Services, remember your preferences, and give you a personalized experience that’s consistent with your settings. Cookies also make your interactions faster and more secure. Visit our cookie tables to learn more.
+
+Categories of Use	Description
+Authentication	
+
+If you're signed in to our Services, cookies help us show you the right information and personalize your experience.
+
+
+Security	
+
+We use cookies to enable and support our security features, and to help us detect malicious activity.
+
+
+Preferences, features and services	
+
+Cookies can tell us which language you prefer and what your communications preferences are. They can help you fill out forms on our Sites more easily. They also provide you with features, insights, and customized content.
+
+
+Marketing	
+
+We may use cookies to help us deliver marketing campaigns and track their performance (e.g., a user visited our Help Center and then made a purchase). Similarly, our partners may use cookies to provide us with information about your interactions with their services, but use of those third-party cookies would be subject to the service provider’s policies. Marketing cookies are limited to our Websites and are not used in our Services.
+
+
+Performance, Analytics and Research	
+
+Cookies help us learn how well our Sites and Services perform. We also use cookies to understand, improve, and research products, features, and services, including to create logs and record when you access our Sites and Services from different devices, such as your work computer or your mobile device. These cookies are limited to our Websites and are not used in our Services.
+
+What third-party cookies does Slack use?
+
+You can find a list of the third-party cookies that Slack uses on our Websites along with other relevant information in our cookie tables. While we do our best to keep this table updated, please note that the number and names of cookies, pixels and other technologies may change from time to time. Third-party cookies are limited to our Websites and are not used in our Services.
+
+How are cookies used for advertising purposes?
+
+Cookies and other ad technology such as beacons, pixels, and tags help us market more effectively to users that we and our partners believe may be interested in Slack. They also help provide us with aggregated auditing, research, and reporting, and know when content has been shown to you. These cookies are limited to our Websites and are not used in our Services.
+
+What can you do if you don't want cookies to be set or want them to be removed, or if you want to opt out of interest-based targeting?
+
+Some people prefer not to allow cookies, which is why most browsers give you the ability to manage cookies to suit you. In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust.
+
+MANAGE YOUR SETTINGS
+
+Browser manufacturers provide help pages relating to cookie management in their products. Please see below for more information.
+
+Google Chrome
+Internet Explorer
+Mozilla Firefox
+Safari (Desktop)
+Safari (Mobile)
+Android Browser
+Opera
+Opera Mobile
+
+For other browsers, please consult the documentation that your browser manufacturer provides.
+
+You can opt out of interest-based targeting provided by participating ad servers through the Digital Advertising Alliance (http://optout.aboutads.info/). In addition, on your iPhone, iPad or Android, you can change your device settings to control whether you see online interest-based ads.
+
+If you limit the ability of websites and applications to set cookies, you may worsen your overall user experience and/or lose the ability to access the services, since it will no longer be personalized to you. It may also stop you from saving customized settings, like login information.
+
+Does Slack respond to Do Not Track Signals?
+
+Our Sites and Services do not collect personal information about your online activities over time and across third-party websites or online services. Therefore, “do not track” signals transmitted from web browsers do not apply to our Sites or Services, and we do not alter any of our data collection and use practices upon receipt of such a signal.
