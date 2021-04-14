@@ -1,5 +1,6 @@
 name: Auto update at the end of each day
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # At the end of each day
 
