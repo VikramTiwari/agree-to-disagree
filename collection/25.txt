@@ -1,14 +1,3 @@
-Unblock your team by capturing collective knowledge that anyone can find.
-
-A private collaboration & knowledge sharing platform.
-Learn more about Teams 
-“If there is one thing developers like less than writing documentation, it’s responding to unnecessary escalations […] and too many escalations wear down the developers.”
-
-Tom Limoncelli
-Site Reliability Engineering Manager at Stack Overflow
-
-Read blog post
-  
 Public Network Terms of Service
 Stack Overflow for Teams Terms of Service
 Free

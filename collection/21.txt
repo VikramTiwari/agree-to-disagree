@@ -1,6 +1,6 @@
 Google Cloud Platform Subprocessors
 
-Last modified: March 25, 2021 | Previous Versions
+Last modified: April 15, 2021 | Previous Versions
 
 Third-Party Subprocessors
 
@@ -190,6 +190,9 @@ Google Germany GmbH	All Google Cloud Platform Services	All	Service Maintenance
 Technical Support	Germany	ABC-Strasse 19 Hamburg, Germany, 20354	Germany	HRB 86891
 Redtec Computing GmbH	All Google Cloud Platform Services	Germany	Data Center Operations	Germany	ABC-Strasse 19 Hamburg, Germany, 20354	Germany	HRB 141935
 Allied Trade Holdings Limited	All Google Cloud Platform Services	Hong Kong	Data Center Operations	Hong Kong	14th Floor, One Taikoo Place 979 King's Road Quarry Bay Hong Kong, Hong Kong	Hong Kong	1432445
+GOC Services India Private Limited	All Google Cloud Platform Services	All	Service Maintenance
+
+Technical Support	India	Meenakshi Technova Survey No.116,117,119,128/AA, 129, Road No.2, Financial District, Nanakramguda Serilingampally Mandal Hyderabad (TG), India, 500032	India	U72900TG2019FTC129995
 Google Cloud India Private Limited	All Google Cloud Platform Services	India
 
 
@@ -209,6 +212,9 @@ All	Data Center Operations
 Service Maintenance
 
 Technical Support	Indonesia	45th Floor, Pacific Century Place SCBD, Lot 10, Jl. Jenderal Sudirman Kavling 52-53 Jakarta, Indonesia	Indonesia	8120216211091
+Google Cloud EMEA Limited	All Google Cloud Platform Services	All	Service Maintenance
+
+Technical Support	Ireland	70 Sir John Rogersons Quay Dublin , Ireland, 2	Ireland	660412
 Google Ireland Ltd.	All Google Cloud Platform Services	All	Service Maintenance
 
 Technical Support	Ireland	Gordon House, Barrow Street Dublin, Ireland, 4	Ireland	368047
@@ -322,6 +328,6 @@ Subprocessors for Cloud Identity Services are listed at https://workspace.google
 Previous Versions
 
 View more
-February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
+March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
