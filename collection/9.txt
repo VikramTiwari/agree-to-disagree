@@ -3,7 +3,7 @@
 OK
 Terms of Service
 Service Agreement for 1Password users and customers
-Last updated: April 23, 2019
+Last updated: April 15, 2021
 
 These Terms of Service (“Terms”, “Terms of Service”, “Agreement”, or “Service Agreement”) govern your relationship with the 1Password Service (the “Service”) operated by AgileBits, Inc. (“us”, “we”, or “our”). It is important that you read this carefully because you will be legally bound to these terms.
 
@@ -135,15 +135,17 @@ Contact Us
 
 If you have any questions about these Terms, you can contact our support team or write us by mail at:
 
-Suite 303, 49 Spadina Ave
-Toronto, Ontario
-M5V 2J1, Canada
+4711 Yonge St, 10th Floor,
+Toronto, Ontario,
+M2N 6K8
+Canada
 
 
 🙌 Thanks for reading! ❤️
 
 Change Log
 
+2021-04-15: We changed our office address.
 2019-04-04: We added a section about operational emails.
 2018-10-26: We changed our office address.
 2017-09-08: We clarified what happens if we part ways.

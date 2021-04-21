@@ -3,7 +3,7 @@
 OK
 AgileBits Privacy Policy
 Much more than just a policy – 1Password is Private by Design
-Last updated: July 3, 2019
+Last updated: April 15, 2021
 
 Your privacy is important to us. This privacy policy explains the personal data that AgileBits collects and processes, how it processes data and for what purposes it is collected and processed. This privacy policy further describes our commitment to preserving the privacy and security of your personal data. This policy applies to the interactions that AgileBits has with you through your use of AgileBits 1Password products and services.
 
@@ -15,7 +15,7 @@ We use your data solely to provide you with services in which you enroll. Our bu
 
 Who We Are
 
-AgileBits is a Canadian company located at Suite 303, 49 Spadina Ave, Toronto, Ontario, M5V 2J1, Canada. AgileBits complies with Canadian privacy laws. We are fully compliant with the Canadian privacy laws and the GDPR. The European Union (“EU”) recognizes Canada as a destination country with “adequate level of protection” for data privacy of individuals. We are not U.S.- EU Privacy Shield certified since we are a Canadian company.
+AgileBits is a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. AgileBits complies with Canadian privacy laws. We are fully compliant with the Canadian privacy laws and the GDPR. The European Union (“EU”) recognizes Canada as a destination country with “adequate level of protection” for data privacy of individuals. We are not U.S.- EU Privacy Shield certified since we are a Canadian company.
 
 Who are You
 
@@ -156,9 +156,10 @@ Contact Us
 
 If you have any questions about this Policy, you can contact our support team or write us by mail at:
 
-Suite 303, 49 Spadina Ave
-Toronto, Ontario
-M5V 2J1, Canada
+4711 Yonge St, 10th Floor,
+Toronto, Ontario,
+M2N 6K8
+Canada
 
 Supervisory Authority
 
@@ -180,7 +181,7 @@ https://www.datenschutz-berlin.de/
 
 Glossary
 AgileBits, we, our, Service Provider
-AgileBits Inc., a Canadian company located at Suite 303, 49 Spadina Ave, Toronto, Ontario, M5V 2J1, Canada. Owners and operators of 1Password. As Data Processors, we include AgileBits’ employees and subcontractors appointed by AgileBits.
+AgileBits Inc., a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. Owners and operators of 1Password. As Data Processors, we include AgileBits’ employees and subcontractors appointed by AgileBits.
 Data Processor
 Data Processor as defined by the GDPR. We and the subprocessors (hosting services, payment processors) we appoint are the Data Processors.
 Master Password
@@ -211,6 +212,10 @@ You, Data Subject
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
 
 Change log
+
+2021-04-15:
+
+We changed our office address.
 
 2019-07-03:
 
