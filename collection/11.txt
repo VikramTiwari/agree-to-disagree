@@ -81,8 +81,3 @@ Anonymous user identifiers, like unique measurement IDs, that specify the applic
 
 ga-audiences
 Allows us to anonymously organize visitors who share preferences, so we can provide similar experiences for those visitors. It identifies unique website visits and revisits, users who visited the same section/group of webpages, and users who completed a goal or transaction.
-
-Marketo
-
-_mkto_trk
-Gathers, organizes, and classifies the anonymous information collected by Marketo.
