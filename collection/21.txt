@@ -1,6 +1,6 @@
 Google Cloud Platform Subprocessors
 
-Last modified: April 15, 2021 | Previous Versions
+Last modified: May 4, 2021 | Previous Versions
 
 Third-Party Subprocessors
 
@@ -24,6 +24,7 @@ Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)
 Accenture International Limited	Firebase Services, Firestore	All	Technical Support	Philippines and United States of America	1 Grand Canal Square, Grand Canal Harbour, Dublin 2, D02 P820	Ireland	620139	Accenture plc
 Achieve Internet, Inc.	Apigee	All	Technical Support	United States of America	2250 4th Ave, Suite 200, San Diego, CA 92101	United States of America	01-0724112 (Tax ID)	N/A
 Appen Butler Hill Inc.	Speech-to-Text	All	Voice Transcription	Australia	12131 113th Ave NE Suite #100 Kirkland, WA 98034-6944	United States of America	35-2238395 (Tax ID)	Appen Butler Hill Pty Ltd
+CallPoint New Europe EAD d/b/a Telus International Europe	All Google Cloud Platform Services	All	Technical Support	Bulgaria	1000 Sofia, Triaditsa district, 1 Alabin Str., TELUS Tower Bulgaria	Bulgaria	175138361	TELUS International (U.K.) Ltd.
 Canonical Group Limited	Anthos	All	Technical Support	Canada, Japan, Isle of Man, United Kingdom, United States of America, Taiwan	5th Floor, Blue Fin Building 110 Southwark Street London SE1 0SU United Kingdom	United Kingdom	06870835	Canonical Limited
 Cognizant Worldwide Limited	All Google Cloud Platform Services	All	Technical Support	India	1 Kingdom Street, Paddington Central, London, W2 6BD	United Kingdom	7195160	Cognizant Technology Solutions U.S. Corporation
 Deep Discount Servers LLC	Transfer Appliance	Americas	Hard Drive Erasure	United States of America	7465 W Badura Ave, BLDG B-1, Las Vegas, NV89113	United States of America	46-3618209 (Tax ID)	N/A
@@ -103,7 +104,7 @@ Transactel, Sociedad Anonima	All Google Cloud Platform Services	All	Technical Su
 Webhelp Holding Germany GmbH Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Webhelp Japan KK	All Google Cloud Platform Services	All	Technical Support	Japan	Tokyo Building Club, 11F, 3-2-6 Kasumigaseki, Chiyudo-ku, Tokyo	Japan	4-0100-01-207779	Webhelp SAS
-Sellbytel Services Malaysia Sdn. Bhd.	All Google Cloud Platform Services	All	Technical Support	Malaysia	Level 2, Tower 1, Avenue 5, Bangsar South City, 59200 Kuala Lumpur, Malaysia.	Malaysia	976878-T	Webhelp Holding Germany GmbH
+Webhelp Malaysia SDN. BHD (formerly listed as Sellbytel Services Malaysia Sdn. Bhd.)	All Google Cloud Platform Services	All	Technical Support	Malaysia	Level 2, Tower 1, Avenue 5, Bangsar South City, 59200 Kuala Lumpur, Malaysia.	Malaysia	976878-T	Webhelp Holding Germany GmbH
 Webhelp SAC Peru	All Google Cloud Platform Services	All	Technical Support	Peru	Avenida Víctor Andrés Belaúnde No. 280, Int. 3, Urb.
 El Rosario, distrito de San Isidro, provincia departamento de Lima, Perú	Peru	20606433329	Webhelp Spain Holding S.l
 WEBHELP ROMANIA SRL	All Google Cloud Platform Services	All	Technical Support	Romania	Str. Dr. Iacob Felix, nr.63-69, et.2, sector 1, București	Romania	J40/14080/2006	Webhelp SAS
@@ -328,6 +329,6 @@ Subprocessors for Cloud Identity Services are listed at https://workspace.google
 Previous Versions
 
 View more
-March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
+April 15, 2021March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
