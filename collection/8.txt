@@ -92,3 +92,7 @@ To control cookies, you can modify your settings in most web browsers to accept 
 
 
 Note: Please confirm that you are logged in if you want to view or change the web settings for your Twitter account. Changing your Twitter settings in your web browser when you are logged out will only affect behavior on that browser while you are not logged in to Twitter. Learn more about how to access your Personalization and data settings, including in your Twitter mobile app.
+
+By using Twitter’s services you agree to our Cookies Use. We use cookies for purposes including analytics, personalisation, and ads.
+
+OK
