@@ -1,12 +1,12 @@
 Google Cloud Platform Subprocessors
 
-Last modified: May 4, 2021 | Previous Versions
+Last modified: May 11, 2021 | Previous Versions
 
 Third-Party Subprocessors
 
 Google and its affiliates engage the third-party entities in the table below to perform limited activities in connection with the Google Cloud Platform Services. The table shows what activity each entity performs and indicates if an entity is only relevant to a specific Service or Region. More information about each activity is provided directly below. This explains the limited processing of Customer Data the entity is authorized to perform.
 
-Data Labeling: Human labelers apply labels to datasets submitted by Customer based on instructions provided by Customer. See the AI Platform Data Labeling Service page  for more information.
+Data Labeling: Human labelers apply labels to datasets submitted by Customer based on instructions provided by Customer. See the AI Platform Data Labeling Service page  and Human-in-the-Loop AI Service page  for more information.
 
 Hard Drive Erasure: Secure erasure of Transfer Appliance storage media. Data on storage media is encrypted and the Subprocessor does not have access to the keys to decrypt it. See the Transfer Appliance page for more information.
 
@@ -30,8 +30,8 @@ Cognizant Worldwide Limited	All Google Cloud Platform Services	All	Technical Sup
 Deep Discount Servers LLC	Transfer Appliance	Americas	Hard Drive Erasure	United States of America	7465 W Badura Ave, BLDG B-1, Las Vegas, NV89113	United States of America	46-3618209 (Tax ID)	N/A
 EPAM Systems, Inc.	All Google Cloud Platform Services	All	Technical Support	Australia, Mexico, Poland, Switzerland and United States of America	41 University Dr #202, Newtown, PA 18940	United States of America	3604150	N/A
 EPAM Systems Japan G.K.	All Google Cloud Platform Services	All	Technical Support	Japan	Roppongi Denki Building 7F, 6-1-20 Roppongi, Minato-Ku, Tokyo 106-0032 Japan	Japan	0104-03-018863	EPAM Systems, Inc.
-GlobalLogic Technologies Private Limited (formerly listed as GlobalLogic Technologies Limited)	AI Platform Data Labeling	All	Data Labeling	India	Plot No.590A, Phase-I, Road No.31, Jubilee Hills, Hyderabad, Telangana, India 500033	India	U72200TG2006PTC067980	GlobalLogic Inc.
-GlobalLogic Inc.	AI Platform Data Labeling	All	Data Labeling	United States of America	1741 Technology Drive, Suite 400, San Jose, CA 95110	United States of America	54-1986789 (Tax ID)	GlobalLogic Holdings Inc.
+GlobalLogic Technologies Private Limited (formerly listed as GlobalLogic Technologies Limited)	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	India	Plot No.590A, Phase-I, Road No.31, Jubilee Hills, Hyderabad, Telangana, India 500033	India	U72200TG2006PTC067980	GlobalLogic Inc.
+GlobalLogic Inc.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland and United States of America	1741 Technology Drive, Suite 400, San Jose, CA 95110	United States of America	54-1986789 (Tax ID)	GlobalLogic Holdings Inc.
 HCL America Inc.	Transfer Appliance	All	Technical Support	Poland and United States of America	330 Potrero Avenue Sunnyvale, California, 94085-4113	United States of America	77-0205035 (Tax ID)	HCL Technologies Limited
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India, Japan, Mexico and United States of America	2400 N Glenville Dr Suite C150 Richardson TX 75082 United States	United States of America	58-1760235 (Tax ID)	Infosys Limited
 Iron Mountain Information Management, LLC	Transfer Appliance	Americas	Hard Drive Upload	United States of America	1 Federal St., Boston, MA 02110	United States of America	23-2588479 (Tax ID)	Iron Mountain Incorporated
@@ -78,6 +78,9 @@ EPAM Systems (Australia) Pty Ltd	All Google Cloud Platform Services	All	Technica
 EPAM Systems Mexico S. de R.L. de C.V.	All Google Cloud Platform Services	All	Technical Support	Mexico	Av. Americas 1254, 20th and 21st floors, Country Club, Guadalajara, Jalisco, Mexico 44610	Mexico	ESM1503137K9 (Tax ID)	EPAM Systems, Inc.
 EPAM Systems (Poland) sp. z o.o.	All Google Cloud Platform Services	All	Technical Support	Poland	ul. Opolska 114, Kraków, MAL 31-323, Poland	Poland	KRS 0000390124	EPAM Systems, Inc.
 EPAM Systems (Switzerland) GmbH	All Google Cloud Platform Services	All	Technical Support	Switzerland	Boulevard Lilienthal 2, Glattpark (Opfikon) 8152, Switzerland	Switzerland	CHE-114.898.319	EPAM Systems, Inc.
+GlobalLogic Inc. Affiliates
+Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
+GlobalLogic Poland Sp z o.o.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland	Strzegomska 46B, 53-611,Wroclaw,Poland	Poland	PL894-29-24-978 (Tax ID)	GlobalLogic Inc.
 HCL America Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 HCL Poland SP. Z.o.o.	Transfer Appliance	All	Technical Support	Poland	Opolska Street no. 112, Krakow, Poland	Poland	6762347188 (Tax ID)	HCL Technologies Austria GmbH
@@ -329,6 +332,6 @@ Subprocessors for Cloud Identity Services are listed at https://workspace.google
 Previous Versions
 
 View more
-April 15, 2021March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
+May 4, 2021April 15, 2021March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
