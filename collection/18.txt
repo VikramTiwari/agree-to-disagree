@@ -10,11 +10,11 @@ Home
 
 emoji_events
 
-Compete
+Competitions
 
 table_chart
 
-Data
+Datasets
 
 code
 
@@ -22,7 +22,7 @@ Code
 
 comment
 
-Communities
+Discussions
 
 school
 
