@@ -1,14 +1,3 @@
- Privacy Policy
-Download PDF
-Download PDF
-Information You Share With Us
-Additional Information We Receive About You
-Information We Share and Disclose
-Managing Your Personal Information With Us
-Children and Our Services
-Our Global Operations and Privacy Shield
-Changes to This Privacy Policy
-Download PDF
  
 Twitter Privacy Policy
 
@@ -39,19 +28,6 @@ We require certain information to provide our services to you. For example, you 
 
  
 
-Basic Account Information
-Public Information
-Contact Information and Address Books
-Direct Messages and Non-Public Communications
-Payment Information
-How You Control the Information You Share With Us
- 
-Basic Account Information
-Public Information
-Contact Information and Address Books
-Direct Messages and Non-Public Communications
-Payment Information
-How You Control the Information You Share With Us
  
 
 1.1
@@ -61,15 +37,6 @@ Basic Account Information
 You don’t have to create an account to use some of our service features, such as searching and viewing public Twitter profiles or watching a broadcast on Periscope’s website. If you do choose to create an account, you must provide us with some personal data so that we can provide our services to you. On Twitter this includes a display name (for example, “Twitter Moments”), a username (for example, @TwitterMoments), a password, and an email address or phone number. Your display name and username are always public, but you can use either your real name or a pseudonym. You can also create and manage multiple Twitter accounts1, for example to express different parts of your identity.
 
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-1/chapter-1-1
-
-Content:
-
-The many sides of you
-
-Let your imagination run free. Explore your interests with a number of different identities.
-
-Close tooltip 
  
 
 1.2
@@ -78,29 +45,9 @@ Public Information
 
 Most activity on Twitter is public, including your profile information2, your time zone and language, when you created your account, and your Tweets and certain information about your Tweets like the date, time, and application and version of Twitter you Tweeted from. You also may choose to publish your location in your Tweets or your Twitter profile. The lists you create, people you follow and who follow you, and Tweets you Like or Retweet are also public. If you like, Retweet, reply, or otherwise publicly engage with an ad on our services, that advertiser might thereby learn information about you associated with the ad with which you engaged such as characteristics of the audience the ad was intended to reach. Periscope broadcasts you create, click on, or otherwise engage with, either on Periscope or on Twitter, are public along with when you took those actions. So are your hearts, comments, the number of hearts you’ve received, which accounts you are a Superfan of, and whether you watched a broadcast live or on replay. Any hearts, comments, or other content you contribute to another account’s broadcast will remain part of that broadcast for as long as it remains on Periscope. Information posted about you by other people who use our services may also be public. For example, other people may tag you in a photo3 (if your settings allow) or mention you in a Tweet.
 
-You are responsible for your Tweets and other information you provide through our services, and you should think carefully about what you make public, especially if it is sensitive information. If you update your public information on Twitter, such as by deleting a Tweet or deactivating your account, we will reflect your updated content on Twitter.com, Twitter for iOS, and Twitter for Android.
+You are responsible for your Tweets and other information you provide through our services, and you should , especially if it is sensitive information. If you update your public information on Twitter, such as by deleting a Tweet or deactivating your account, we will reflect your updated content on Twitter.com, Twitter for iOS, and Twitter for Android.
 
 By publicly posting content when you Tweet, you are directing us to disclose that information as broadly as possible, including through our APIs, and directing those accessing the information through our APIs to do the same. To facilitate the fast global dissemination of Tweets to people around the world, we use technology like application programming interfaces (APIs) and embeds to make that information available to websites, apps, and others for their use - for example, displaying Tweets on a news website or analyzing what people say on Twitter. We generally make this content available in limited quantities for free and charge licensing fees for large-scale access. We have standard terms that govern how this data can be used, and a compliance program to enforce these terms. But these individuals and companies are not affiliated with Twitter, and their offerings may not reflect updates you make on Twitter. For more information about how we make public data on Twitter available to the world, visit https://developer.twitter.com.
-
-pageReference: /content/twitter-com/legal/en/privacy/chapter-1/chapter-1-2
-
-Content:
-
-Hello, World
-
-Your profile information is displayed under your photo and username on your profile page.
-
-Close tooltip 
-
-Keep a low profile
-
-Friends want to tag you in a photo? Lucky you. If you’re not into that sort of thing, you can always change your settings.
-
-Close tooltip 
-Close 
-Think carefully
-
-What you Tweet becomes instantly public worldwide on Twitter, and can appear on other media like websites, newspapers, or television.
 
  
 
@@ -124,21 +71,6 @@ Direct Messages and Non-Public Communications
 
 We provide certain features that let you communicate more privately or control who sees your content. For example, you can use Direct Messages to have non-public conversations on Twitter, protect your Tweets, or host private broadcasts on Periscope. When you communicate with others by sending or receiving Direct Messages, we will store and process your communications and information related to them. This includes link scanning for malicious content, link shortening to http://t.co URLs, detection of spam4, abuse and prohibited images, and use of reported issues. We also use information about whom you have communicated with and when (but not the content of those communications) to better understand the use of our services, to protect the safety and integrity of our platform, and to show more relevant content. We share the content of your Direct Messages with the people you’ve sent them to; we do not use them to serve you ads. Note that if you interact in a way that would ordinarily be public with Twitter content shared with you via Direct Message, for instance by liking a Tweet, those interactions will be public. When you use features like Direct Messages to communicate, remember that recipients have their own copy5 of your communications on Twitter - even if you delete your copy of those messages from your account - which they may duplicate, store, or re-share.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-1/chapter-1-4
-
-Content:
-
-Spam stinks
-
-We scan your Direct Messages to try and prevent spam for you and on our service.
-
-Close tooltip 
-
-Just like email
-
-Only send Direct Messages to people you trust. Remember, even though someone can’t Retweet your Direct Messages, they still have a copy of your message.
-
-Close tooltip 
  
 
 1.5
@@ -147,22 +79,13 @@ Payment Information
 
 You may provide us with payment information6, including your credit or debit card number, card expiration date, CVV code, and billing address, in order to purchase advertising or other offerings provided as part of our services.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-1/chapter-1-5-tooltips---overlays
-
-Content:
-
-Approved by you
-
-We use your payment information to process transactions you’ve approved and for fraud detection.
-
-Close tooltip 
  
 
 1.6
 
 How You Control the Information You Share with Us
 
-Your Privacy and safety settings let you decide:
+Your Privacy and safety settings let :
 
 
 Whether your Tweets are publicly available on Twitter
@@ -179,16 +102,6 @@ When and where you may see sensitive content on Twitter
 
 Whether you want to block or mute other Twitter accounts
 
-
-pageReference: /content/twitter-com/legal/en/privacy/chapter-1/chapter-1-6-tooltips---overlays
-
-Content:
-
-Close 
-Your settings
-
-You have options when it comes to what information you share and see on Twitter.
-
  
 
 2
@@ -197,27 +110,6 @@ Additional Information We Receive About You
 
 We receive certain information when you use our services or other websites or mobile applications that include our content, and from third parties including advertisers. Like the information you share with us, we use the data below to operate our services.
 
-Location Information
-Links
-Cookies
-Log Data
-Twitter for Web Data
-Advertisers and Other Ad Partners
-Developers
-Other Third Parties and Affiliates
-Personalizing Across Your Devices
-How You Control Additional Information We Receive
- 
-Location Information
-Links
-Cookies
-Log Data
-Twitter for Web Data
-Advertisers and Other Ad Partners
-Developers
-Other Third Parties and Affiliates
-Personalizing Across Your Devices
-How You Control Additional Information We Receive
  
 
 2.1
@@ -226,34 +118,8 @@ Location Information
 
 We require information about your signup and current location, which we get from signals such as your IP address or device settings, to securely and reliably set up and maintain your account and to provide our services to you.
 
-Subject to your settings, we may collect, use, and store additional information about your location - such as your current precise position or places where you’ve previously used Twitter - to operate or personalize our services including with more relevant content like local trends, stories, ads, and suggestions for people to follow. Learn more about Twitter’s use of location here, and how to set your Twitter location preferences here. Learn more about how to share your location in Periscope broadcasts here.
+Subject to your settings, we may collect, use, and store additional information about  - such as your current precise position or places where you’ve previously used Twitter - to operate or personalize our services including with more relevant content like local trends, stories, ads, and suggestions for people to follow. Learn more about Twitter’s use of location here, and how to set your Twitter location preferences here. Learn more about how to share your location in Periscope broadcasts here.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-2/chapter-2-1-tooltips---overlays
-
-Content:
-
-Close 
-Basic location data
-
-Whenever you use Twitter, Twitter gets a general sense of your location from things like the network you’re using to access the Internet. This helps Twitter to provide you with relevant content.
-
-
- 
-
-Precise location data
-
-You can turn on Twitter’s location services, letting Twitter pinpoint your position. This enables you to use additional features on Twitter, like Tweeting with your precise location.
-
-
- 
-
-Tweet your location
-
-You can choose to share your location in a Tweet publicly, letting everyone know you’re at an event, venue, or anywhere else.
-
- 
-
- 
  
 
 2.2
@@ -272,15 +138,6 @@ Cookies
 
 A cookie is a small piece of data that is stored on your computer or mobile device. Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services. Cookies are not required for many parts of our services such as searching and looking at public profiles. Although most web browsers automatically accept cookies, many browsers’ settings can be set to decline cookies or alert you when a website is attempting to place a cookie on your computer7. However, some of our services may not function properly if you disable cookies. When your browser or device allows it, we use both session cookies and persistent cookies to better understand how you interact with our services, to monitor aggregate usage patterns, and to personalize and otherwise operate our services such as by providing account security, personalizing the content we show you including ads, and remembering your language preferences. We do not support the Do Not Track browser option. You can learn more about how we use cookies and similar technologies here.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-2/chapter-2-3-tooltips---overlays
-
-Content:
-
-Not hungry?
-
-You can change your cookie settings in your web browser.
-
-Close tooltip 
  
 
 2.4
@@ -289,40 +146,16 @@ Log Data
 
 We receive information when you view content on or otherwise interact with our services, which we refer to as “Log Data,” even if you have not created an account. For example, when you visit our websites, sign into our services, interact with our email notifications, use your account to authenticate to a third-party service, or visit a third-party service that includes Twitter content, we may receive information about you. This Log Data includes information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms (including those not submitted as queries), and cookie information. We also receive Log Data when you click on, view, or interact with links on our services, including when you install another application through Twitter. We use Log Data to operate our services and ensure their secure, reliable, and robust performance. For example, we use Log Data to protect the security of accounts and to determine what content is popular on our services. We also use this data to improve the content we show you, including ads and to improve the effectiveness of our own marketing.
 
-We use information you provide to us and data we receive, including Log Data and data from third parties, to make inferences like what topics you may be interested in, how old you are, and what languages you speak. This helps us better promote and design our services for you and personalize the content we show you, including ads.
+, to make inferences like what topics you may be interested in, how old you are, and what languages you speak. This helps us better promote and design our services for you and personalize the content we show you, including ads.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-2/chapter-2-4-tooltips---overlays
-
-Content:
-
-Close 
-Better data, better content
-
-Using data like the Tweets and accounts you view on Twitter…
-
-Better data, better content
-
-...Twitter can suggest relevant content you may also like.
-
-
- 
  
 
 2.5
 
 Twitter for Web Data
 
-When you view our content on third-party websites that integrate Twitter content such as embedded timelines or Tweet buttons, we may receive Log Data that includes the web page you visited. We use this information to better understand the use of our services, to protect the safety and integrity of our platform, and to show more relevant content, including ads. We do not associate this web browsing history with your name, email address, phone number, or username, and we delete, obfuscate, or aggregate it after no longer than 30 days. We do not collect this data from browsers that we believe to be located in the European Union or EFTA States.
+When you view our content on  that integrate Twitter content such as embedded timelines or Tweet buttons, we may receive Log Data that includes the web page you visited. We use this information to better understand the use of our services, to protect the safety and integrity of our platform, and to show more relevant content, including ads. We do not associate this web browsing history with your name, email address, phone number, or username, and we delete, obfuscate, or aggregate it after no longer than 30 days. We do not collect this data from browsers that we believe to be located in the European Union or EFTA States.
 
-
-pageReference: /content/twitter-com/legal/en/privacy/chapter-2/chapter-2-5-tooltips---overlays1
-
-Content:
-
-Close 
-Third-party websites
-
-You can see Twitter content on Twitter’s website and apps - but many other websites also choose to include Twitter content.
 
  
 
@@ -330,26 +163,12 @@ You can see Twitter content on Twitter’s website and apps - but many other web
 
 Advertisers and Other Ad Partners
 
-Advertising revenue allows us to support and improve our services. We use the information described in this Privacy Policy to help make our advertising more relevant to you, to measure its effectiveness, and to help recognize your devices to serve you ads on and off of Twitter. Our ad partners and affiliates share information with us such as browser cookie IDs, mobile device IDs, hashed email addresses, demographic or interest data, and content viewed or actions taken on a website or app. Some of our ad partners, particularly our advertisers, also enable us to collect similar information directly from their website or app by integrating our advertising technology. Information shared by ad partners and affiliates or collected by Twitter from the websites and apps of ad partners and affiliates may be combined with the other information you share with Twitter and that Twitter receives about you described elsewhere in our Privacy Policy.
+Advertising revenue allows us to support and improve our services. We use the information described in this Privacy Policy to help make our advertising more relevant to you, to measure its effectiveness, and to help recognize your devices to serve you ads on and off of Twitter. Our ad partners and affiliates . Some of our ad partners, particularly our advertisers, also enable us to collect similar information directly from their website or app by integrating our advertising technology. Information shared by ad partners and affiliates or collected by Twitter from the websites and apps of ad partners and affiliates may be combined with the other information you share with Twitter and that Twitter receives about you described elsewhere in our Privacy Policy.
 
 Twitter adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising (also referred to as “interest-based advertising”) and respects the DAA’s consumer choice tool for you to opt out of interest-based advertising at https://optout.aboutads.info. In addition, our ads policies prohibit advertisers from targeting ads based on categories that we consider sensitive or are prohibited by law, such as race, religion, politics, sex life, or health. Learn more about your privacy options for interest-based ads here and about how ads work on our services here.
 
 If you are an advertiser or a prospective advertiser, we process your personal data to help offer and provide our advertising services. You can update your data in your Twitter Ads dashboard or by contacting us directly as described in this Privacy Policy.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-2/chapter-2-6-tooltips---overlays
-
-Content:
-
-Close 
-Data from advertising partners
-
-Advertisers share information on Twitter…
-
-Better ads
-
-...so that, if your settings allow, they can show their most relevant ads.
-
- 
  
 
 2.7
@@ -374,30 +193,15 @@ You may choose to connect your Twitter account to accounts on another service, a
 
 Personalizing Based On Your Inferred Identity
 
-When you log into Twitter on a browser or device, we will associate that browser or device with your account for purposes such as authentication, security, and personalization. Subject to your settings, we may also associate your account with browsers or devices other than those you use to log into Twitter (or associate your logged-out device or browser with other browsers or devices). When you provide other information to Twitter, including an email address, we associate that information with your Twitter account. Subject to your settings, we may also use this information in order to infer other information about your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to Twitter. We do this to operate and personalize our services. For example, if you visit websites with sports content on your laptop, we may show you sports-related ads on Twitter for Android and, if the email address associated with your account shares components with another email address, such as shared first name, last name, or initials, we may later match advertisements to you from advertisers that were trying to reach email addresses containing those components.
+When you log into Twitter on a browser or device, we will associate that browser or device with your account for purposes such as authentication, security, and personalization. Subject to your settings, we may also associate your account with browsers or devices other than those you use to log into Twitter (or associate your logged-out device or browser with other browsers or devices). When you provide other information to Twitter, including an email address, we associate that information with your Twitter account. Subject to your settings, we may also use this information in order to infer other information about your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to Twitter. We do this to operate and . For example, if you visit websites with sports content on your laptop, we may show you sports-related ads on Twitter for Android and, if the email address associated with your account shares components with another email address, such as shared first name, last name, or initials, we may later match advertisements to you from advertisers that were trying to reach email addresses containing those components.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-2/chapter-2-9-tooltips---overlays
-
-Content:
-
-Close 
-Personalizing across devices
-
-To help make your Twitter experience better on one of your devices...
-
-
-Personalizing across devices
-
-...Twitter may use information from another device of yours.
-
- 
  
 
 2.10
 
 How You Control Additional Information We Receive
 
-Your Twitter Personalization and data settings let you decide:
+Your Twitter Personalization and data settings let :
 
 Whether we show you interest-based ads on and off Twitter
 
@@ -424,16 +228,6 @@ We also provide a version of these tools on Twitter if you don’t have a Twitte
 
 Please see here for more details of how we collect and use your data.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-2/chapter-2-10-tooltips---overlays
-
-Content:
-
-Close 
-Your settings
-
-You have options when it comes to what information you share and see on Twitter.
-
-
  
 
 3
@@ -442,17 +236,6 @@ Information We Share and Disclose
 
 As noted above, Twitter is designed to broadly and instantly disseminate information you share publicly through our services. In the limited circumstances where we disclose your private personal data, we do so subject to your control, because it’s important for operating our services, or because it’s required by law.
 
-Sharing You Control
-Service Providers
-Law, Harm, and the Public Interest
-Affiliates and Change of Ownership
-Non-Personal Information
- 
-Sharing You Control
-Service Providers
-Law, Harm, and the Public Interest
-Affiliates and Change of Ownership
-Non-Personal Information
  
 
 3.1
@@ -462,15 +245,6 @@ Sharing You Control
 We share or disclose your personal data with your consent or at your direction, such as when you authorize a third-party web client or application to access your account or when you direct us to share your feedback with a business. If you’ve shared information like Direct Messages or protected Tweets with someone else who accesses Twitter through a third-party service, keep in mind that the information may be shared with the third-party service.
 
 Subject to your settings, we also provide certain third parties with personal data to help us offer or operate our services. You can learn more about these partnerships in our Help Center, and you can control whether Twitter shares your personal data in this way by using the “Allow additional information sharing with business partners” option in your Personalization and Data settings. (This setting does not control sharing described elsewhere in our Privacy Policy, such as when we share data with our service providers, or through partnerships other than as described in our Help Center.) 
-
-pageReference: /content/twitter-com/legal/en/privacy/chapter-3/chapter-3-1-tooltips---overlays
-
-Content:
-
-Close 
-Sharing data with advertisers
-
-When you click on or view an ad on Twitter, if your settings allow, Twitter may send data about your device back to the advertiser to help them measure their success and improve future ads.
 
  
 
@@ -488,15 +262,6 @@ Law, Harm, and the Public Interest
 
 Notwithstanding anything to the contrary in this Privacy Policy or controls we may otherwise offer to you, we may preserve, use, share, or disclose your personal data or other safety data if we believe that it is reasonably necessary to comply with a law, regulation, legal process, or governmental request; to protect the safety of any person; to protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services, or to explain why we have removed content or accounts from our services8; to address fraud, security, or technical issues; or to protect our rights or property or the rights or property of those who use our services. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your personal data.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-3/chapter-3-3-tooltips---overlays
-
-Content:
-
-Transparency matters
-
-We remove content from our services when it violates our rules, like if it glorifies violence. When that content is gone, we want you to know.
-
-Close tooltip 
  
 
 3.4
@@ -522,17 +287,6 @@ Managing Your Personal Information With Us
 You control the personal data you share with us. You can access or rectify this data at any time. You can also deactivate your account. We also provide you tools to object, restrict, or withdraw consent where applicable for the use of data you have provided to Twitter. And we make the data you shared through our services portable and provide easy ways for you to contact us. Please note, to help protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or complying with deletion, portability, or other related requests.
 
 
-Accessing or Rectifying Your Personal Data
-Deletion
-Object, Restrict, or Withdraw Consent
-Portability
-Additional Information or Assistance
- 
-Accessing or Rectifying Your Personal Data
-Deletion
-Object, Restrict, or Withdraw Consent
-Portability
-Additional Information or Assistance
  
 
 4.1
@@ -626,15 +380,6 @@ Changes to This Privacy Policy
 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at https://twitter.com/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you within Twitter.com, Twitter for iOS, or Twitter for Android, via a Twitter owned and operated Twitter account (for example @TwitterSupport), or by sending an email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree9 to be bound by the revised Privacy Policy.
 
-pageReference: /content/twitter-com/legal/en/privacy/chapter-7/chapter-7
-
-Content:
-
-You're in control
-
-Even as Twitter evolves, you can always change your privacy settings. The power is yours to choose what you share in the world.
-
-Close tooltip 
  
 
 Effective: June 18, 2020
@@ -652,22 +397,6 @@ Archive of Previous Privacy Policies
 9 You’re in control. Even as Twitter evolves, you can always change your privacy settings. The power is yours to choose what you share in the world.
 
 © 2021 Twitter, Inc.
-Cookies
-Privacy
-Terms and conditions
-English 
- English
- 
-English
-Italian
-German
-Spanish
-French
-Japanese
-Korean
-Portuguese
-Russian
-
-By using Twitter’s services you agree to our Cookies Use. We use cookies for purposes including analytics, personalisation, and ads.
-
-OK
+Cookies 
+Privacy 
+Terms and conditions 
