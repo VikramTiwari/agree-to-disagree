@@ -1,5 +1,4 @@
 Google Cloud Platform Subprocessors
-bookmark_border
 
 Last modified: June 10, 2021 | Previous Versions
 
