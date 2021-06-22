@@ -1,5 +1,5 @@
 GitHub Docs
- All products
+All products
 GitHub.com
 USER ACCOUNTS
 PROFILES
@@ -61,6 +61,7 @@ GitHub Gifts and Entertainment Policy
 GitHub Event Terms
 GitHub Event Code of Conduct
 GitHub GPL Cooperation Commitment
+DEPRECATED SITE POLICY ARTICLES
 GitHub.comSite policyGitHub Terms of Service
 GitHub Terms of Service
 In this article
