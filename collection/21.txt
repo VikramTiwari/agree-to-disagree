@@ -1,7 +1,7 @@
 keyboard_arrow_left
 Google Cloud Platform Subprocessors
 
-Last modified: June 10, 2021 | Previous Versions
+Last modified: July 08, 2021 | Previous Versions
 
 Third-Party Subprocessors
 
@@ -23,8 +23,7 @@ Voice Transcription: Human transcribers label and transcribe audio recordings. T
 
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Accenture International Limited	Firebase Services, Firestore	All	Technical Support	Philippines and United States of America	1 Grand Canal Square, Grand Canal Harbour, Dublin 2, D02 P820	Ireland	620139	Accenture plc
-Achieve Internet, Inc.	Apigee	All	Technical Support	United States of America	2250 4th Ave, Suite 200, San Diego, CA 92101	United States of America	01-0724112 (Tax ID)	N/A
-Appen Butler Hill Inc.	Speech-to-Text	All	Voice Transcription	Australia	12131 113th Ave NE Suite #100 Kirkland, WA 98034-6944	United States of America	35-2238395 (Tax ID)	Appen Butler Hill Pty Ltd
+Appen Butler Hill Inc.	Speech-to-Text	All	Voice Transcription	Australia and Philippines	12131 113th Ave NE Suite #100 Kirkland, WA 98034-6944	United States of America	35-2238395 (Tax ID)	Appen Butler Hill Pty Ltd
 CallPoint New Europe EAD d/b/a Telus International Europe	All Google Cloud Platform Services	All	Technical Support	Bulgaria	1000 Sofia, Triaditsa district, 1 Alabin Str., TELUS Tower Bulgaria	Bulgaria	175138361	TELUS International (U.K.) Ltd.
 Canonical Group Limited	Anthos	All	Technical Support	Canada, Japan, Isle of Man, United Kingdom, United States of America, Taiwan	5th Floor, Blue Fin Building 110 Southwark Street London SE1 0SU United Kingdom	United Kingdom	06870835	Canonical Limited
 Cognizant Worldwide Limited	All Google Cloud Platform Services
@@ -47,7 +46,6 @@ HCL America Inc.	Transfer Appliance	All	Technical Support	Poland and United Stat
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India, Japan, Mexico and United States of America	2400 N Glenville Dr Suite C150 Richardson TX 75082 United States	United States of America	58-1760235 (Tax ID)	Infosys Limited
 Iron Mountain Information Management, LLC	Transfer Appliance	Americas	Hard Drive Upload	United States of America	1 Federal St., Boston, MA 02110	United States of America	23-2588479 (Tax ID)	Iron Mountain Incorporated
 iuppiter B.V.	Transfer Appliance	Europe	Hard Drive Erasure	Netherlands	Brugwachter 9, 3034 KD Rotterdam	Netherlands	65522133	N/A
-Lionbridge Global Sourcing Solutions, Inc.	Speech-to-Text	All	Voice Transcription	Finland	1050 Winter Street, Suite 2300, Waltham, MA 02451	United States of America	26-3123158 (Tax ID)	Telus International
 Productive Playhouse, Inc.	Speech-to-Text	All	Voice Transcription	United States of America	Productive Playhouse, Inc., 25231 Paseo de Alicia, Suite 205, Laguna Hills, CA 92653	United States of America	C3185390	N/A
 PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	2-6-11 Shibakouen, Minato-ku, Tokyo, Japan ZIP 105-0011	Japan	0118-01-025525	N/A
 SID Global Solutions, LLC	Apigee	All	Technical Support	India and United States of America	224 Valley Creek Blvd, Suite 220, Exton, PA 19341	United States of America	22-39129248 (Tax ID)	N/A
@@ -56,8 +54,9 @@ Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8
 Sureline Systems, Inc.	Transfer Appliance	Americas	Technical Support	India and United States of America	2025 Gateway Place, Suite 480, San Jose, CA 95110	United States of America	4738648	N/A
 Sutherland Global Services Bulgaria EOOD	All Google Cloud Platform Services	All	Technical Support	Bulgaria	82, Patriarch Evtimii Blvd. 82, fl.1, Sofia 164	Bulgaria	200182310	SGS Cayman, L.P.
 Sutherland Global Services Inc.	All Google Cloud Platform Services	All	Technical Support	Mexico	1160 Pittsford Victor Rd, Pittsford, New York 14534	United States of America	16-1287080 (Tax ID)	Sutherland Global Holdings Inc.
-Taos Mountain, LLC	All Google Cloud Platform Services	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	N/A
+Taos, an IBM Company (formerly listed as Taos Mountain, LLC)	All Google Cloud Platform Services	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
 Teleperformance Global Services Private Limited	AI Platform Data Labeling	All	Data Labeling	India	Teleperformance Towers, Plot CST No. 1406 - A / 28, Mindspace, Goregaon (West), Mumbai – 400104, Maharashtra, India.	India	U72900MH2001PTC232120	Dutch Contact Centers (DCC) B.V.
+TELUS International AI Inc. (formerly listed as Lionbridge Global Sourcing Solutions, Inc.	Speech-to-Text	All	Voice Transcription	Finland and India	1050 Winter Street, Suite 2300, Waltham, MA 02451	United States of America	26-3123158(Tax ID)	Telus International (CDA) Inc.
 Telus International (CDA) Inc.	All Google Cloud Platform Services	All	Technical Support	Canada	7th Floor, 510 West Georgia Street, Vancouver, BC V6B 0M3	Canada	BC1059858	TELUS Communications Inc.
 TELUS International Ireland (formerly listed as VoxPro Limited)	All Google Cloud Platform Services	All	Technical Support	Ireland	Voxpro House, Unit 6, Riverview Business Park, Blackrock, Cork	Ireland	390162	TELUS International Ireland Outsourcing Services Limited
 Transactel International Services Limited	All Google Cloud Platform Services	All	Technical Support	El Salvador, Guatemala and the Philippines	171, Old Bakery Street, Valletta, Malta	Malta	C 96117	TELUS International Ireland Outsourcing Services Limited
@@ -67,9 +66,10 @@ Accenture International Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Accenture, Inc.	Firebase Services, Firestore	All	Technical Support	Philippines	7th Floor, Robinsons Cybergate 1, Pioneer St., Mandaluyong City	Philippines	ASO91-199207	Accenture plc
 Accenture LLP	Firebase Services, Firestore	All	Technical Support	United States of America	161 N. Clark Street, Suite 1100, Chicago, IL 60601	United States of America	000-622	Accenture plc
-Appen Butler Hill Inc. Affiliate
+Appen Butler Hill Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Appen Butler Hill Pty Ltd	Speech-to-Text	All	Voice Transcription	Australia	9 Help St, Chatswood NSW 2067 Australia	Australia	088 829 556	Appen Limited
+Appen Services Philippines	Speech-to-Text	All	Voice Transcription	Philippines	BPO Tower One Suntech iPark Advincula Ave., Lancaster New City Alapan II-B Imus City, Cavite 4103, Philippines	Philippines	FS201729470	Appen Butler Hill Pty Ltd
 Canonical Group Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Canonical Holdings Limited	Anthos	All	Technical Support	Isle of Man	12-14 Finch Road, Douglas, IM1 2PT, Isle of Man	Isle of Man	014840V	Canonical Group Limited
@@ -108,9 +108,6 @@ Entity name	Relevant Service(s)	Applicable Cloud Region(s)	Activity	Country wher
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	Japan	1-6-3 Roppongi, Minato-ku, Tokyo 106-0032 Izumi Garden Wing	Japan	470015006268	Infosys Limited
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India	44, Infosys Avenue Electronics City, Hosur Road, Bengaluru 560 100, India	India	AAACI4798L	Infosys Limited
 Infosys Technologies S. de R. L. de C. V	All Google Cloud Platform Services	All	Technical Support	Mexico	Boulevard Díaz Ordaz # 130, Corporativo Santa María Piso 18 Monterrey, Nuevo León,C.P. 64650, México	Mexico	ITE0706203X7 (Tax ID)	Infosys Limited
-Lionbridge Global Sourcing Solutions, Inc. Affiliate
-Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
-Lionbridge AI Finland Oy	Speech-to-Text	All	Voice Transcription	Finland	Visiokatu 1 33720 Tampere, Finland	Finland	3170555-6	Lionbridge Technologies Intermediate Holdings Inc.
 Sureline Systems, Inc. Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Sureline Systems India Pvt. Ltd.	Transfer Appliance	All	Technical Support	India	3rd FLoor, Kapil Complex, Lalit Estate, Baner, Pune, Maharashtra 411045	India	U72200PN2011FTC140703	Sureline Systems, Inc.
@@ -118,6 +115,10 @@ Sutherland Global Services Inc. Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 SGS Holding de Mexico, S. de R.L. de C.V.	All Google Cloud Platform Services	All	Technical Support	Mexico	Av. Prolongacion Dr. Cantu 2777, Pisos 4, 6 y 7, Col. Los Doctores, Monterrey, Nuevo Leon, Mexico. 64710	Mexico	SHM060316I52 (Tax ID)	Sutherland Global Services Inc.
 SGS Labor de Mexico, S. de R.L. de C.V.	All Google Cloud Platform Services	All	Technical Support	Mexico	Av. Prolongacion Dr. Cantu 2777, Pisos 4, 6 y 7, Col. Los Doctores, Monterrey, Nuevo Leon, Mexico. 64710	Mexico	SLM060317LU3 (Tax ID)	SGS Holding de Mexico, S. de R.L. de C.V.
+TELUS International AI Inc. Affiliates
+Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
+Lb Ai Finland Oy	Speech-to-Text	All	Voice Transcription	Finland	Visiokatu 1 33720 Tampere, Finland	Finland	3170555-6	TELUS International AI Inc.
+Xavient Infotech Private Limited	Speech-to-Text	All	Voice Transcription	India	514 DLF Towers B Jasola New Delhi South Delhi – Delhi 110025, India	India	U72300DL2010PTC197821	TELUS International AI Inc.
 Transactel International Services Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 TELUS International Philippines, Inc.	All Google Cloud Platform Services	All	Technical Support	Philippines	31. Floor Discovery Centre, 25 ADB Ave. Ortigas Center, Pasig City, Philippines	Philippines	A200105382	Ambergris Solutions, Inc.
@@ -351,6 +352,6 @@ Subprocessors for Cloud Identity Services are listed at https://workspace.google
 Previous Versions
 
 View more
-May 11, 2021May 4, 2021April 15, 2021March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
+June 10, 2021May 11, 2021May 4, 2021April 15, 2021March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
 
 Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
