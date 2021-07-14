@@ -1,4 +1,3 @@
-keyboard_arrow_left
 Google Cloud Platform Subprocessors
 
 Last modified: July 08, 2021 | Previous Versions

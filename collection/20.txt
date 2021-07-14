@@ -1,4 +1,3 @@
-keyboard_arrow_left
 Data Processing and Security Terms (Customers)
 
 Last modified: August 19, 2020 | Previous Versions

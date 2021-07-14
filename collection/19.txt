@@ -1,4 +1,3 @@
-keyboard_arrow_left
 Google Cloud Platform Terms of Service
 
 Last modified: April 01, 2021 | Previous Versions
