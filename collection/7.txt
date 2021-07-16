@@ -19,8 +19,6 @@ If you have questions about this policy, how we collect or process your personal
 
  
 
-1
-
 Information You Share With Us
 
 We require certain information to provide our services to you. For example, you must have an account in order to upload or share content on Twitter. When you choose to share the information below with us, we collect and use it to operate our services.
@@ -103,8 +101,6 @@ When and where you may see sensitive content on Twitter
 Whether you want to block or mute other Twitter accounts
 
  
-
-2
 
 Additional Information We Receive About You
 
@@ -230,8 +226,6 @@ Please see here for more details of how we collect and use your data.
 
  
 
-3
-
 Information We Share and Disclose
 
 As noted above, Twitter is designed to broadly and instantly disseminate information you share publicly through our services. In the limited circumstances where we disclose your private personal data, we do so subject to your control, because it’s important for operating our services, or because it’s required by law.
@@ -279,8 +273,6 @@ Non-Personal Information
 We share or disclose non-personal data, such as aggregated information like the total number of times people engaged with a Tweet, demographics, the number of people who clicked on a particular link or voted on a poll in a Tweet (even if only one did), the topics that people are Tweeting about in a particular location, some inferred interests, or reports to advertisers about how many people saw or clicked on their ads.
 
  
-
-4
 
 Managing Your Personal Information With Us
 
@@ -347,16 +339,12 @@ You can confidentially contact Twitter’s Data Protection Officer here. If you 
 
  
 
-5
-
 Children and Our Services
  
 
 Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your parent or guardian to do so on your behalf). You must be at least 16 years of age to use Periscope.
 
  
-
-6
 
 Our Global Operations and Privacy Shield
  
@@ -372,8 +360,6 @@ If you have a Privacy Shield-related complaint, please contact us here. As part 
 Privacy Shield participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances, participants may be liable for the transfer of personal data from the EU, EFTA States, or the United Kingdom to third parties outside the EU, EFTA States, and the United Kingdom. Learn more about the EU-US Privacy Shield and Swiss-US Privacy Shield here.
 
  
-
-7
 
 Changes to This Privacy Policy
  
