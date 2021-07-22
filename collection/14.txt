@@ -107,7 +107,7 @@ Slack may transfer your Personal Data to countries other than the one in which y
 In particular, we offer the following safeguards if Slack transfers Personal Data from jurisdictions with differing data protection laws:
 
 European Union Model Clauses. Slack offers European Union Model Clauses (“Model Clauses”) also known as Standard Contractual Clauses, to meet the adequacy and security requirements for our Customers that operate in the EEA, Switzerland and the UK and for other international transfers of Customer Data as relevant. A copy of our standard data processing addendum, incorporating Model Clauses, is available here.
-E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield. While Slack Technologies, Inc. (“Slack US”) remains self-certified under the E.U.-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield, it is not currently relying on these frameworks for the transfer of personal data. For more information, including the types of information covered, see Slack US’s Privacy Shield Notice. To learn more about the Privacy Shield Program, please see http://www.privacyshield.gov/welcome.
+E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield. While Slack Technologies, LLC (“Slack US”) remains self-certified under the E.U.-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield, it is not currently relying on these frameworks for the transfer of personal data. For more information, including the types of information covered, see Slack US’s Privacy Shield Notice. To learn more about the Privacy Shield Program, please see http://www.privacyshield.gov/welcome.
 Asia-Pacific Economic Cooperation Cross-Border Privacy Rules System And Privacy Recognition For Processors. Slack’s privacy practices, described in this Privacy Policy, comply with the Asia-Pacific Economic Cooperation (“APEC”) Cross Border Privacy Rules (“CBPR”) system and the Privacy Recognition for Processors (“PRP”). The APEC CBPR system provides a framework for organizations to ensure protection of personal data transferred among participating APEC economies and the PRP demonstrates an organization’s ability to provide effective implementation of a personal data controller’s privacy obligations related to the processing of personal information. More information about the APEC framework can be found here.
 
 If you have an unresolved privacy or data use concern related to our APEC CBPR or PRP certifications that we have not addressed satisfactorily, you may contact our third-party dispute resolution provider.
@@ -117,7 +117,7 @@ To communicate with our Data Protection Officer, please email dpo@slack.com.
 
 Identifying The Data Controller And Processor
 
-Data protection law in certain jurisdictions differentiates between the “controller” and “processor” of information. In general, Customer is the controller of Customer Data. In general, Slack is the processor of Customer Data and the controller of Other Information. Different Slack entities provide the Services in different parts of the world. Slack Technologies Limited, an Irish company based in Dublin, Ireland, is the controller of Other Information and a processor of Customer Data relating to Authorized Users who use Workspaces established for Customers outside of the U.S. and Canada. Slack Technologies, Inc., a U.S. company based in San Francisco, California is the controller of Other Information and a processor of Customer Data relating to Authorized Users who use Workspaces established for Customers in the US and Canada.
+Data protection law in certain jurisdictions differentiates between the “controller” and “processor” of information. In general, Customer is the controller of Customer Data. In general, Slack is the processor of Customer Data and the controller of Other Information. Different Slack entities provide the Services in different parts of the world. Slack Technologies Limited, an Irish company based in Dublin, Ireland, is the controller of Other Information and a processor of Customer Data relating to Authorized Users who use Workspaces established for Customers outside of the U.S. and Canada. Slack Technologies, LLC, a U.S. company based in San Francisco, California is the controller of Other Information and a processor of Customer Data relating to Authorized Users who use Workspaces established for Customers in the US and Canada.
 
 Your Rights
 
@@ -154,7 +154,7 @@ Please also feel free to contact Slack if you have any questions about this Priv
 
 For Customers and Authorized Users who use Workspaces established for Customers in the US and Canada:
 
-Slack Technologies, Inc.
+Slack Technologies, LLC
 500 Howard Street
 San Francisco, CA, 94105
 United States
