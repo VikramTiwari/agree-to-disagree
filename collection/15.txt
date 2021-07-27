@@ -54,7 +54,7 @@ Cookies and other ad technology such as beacons, pixels, and tags help us market
 
 What can you do if you don't want cookies to be set or want them to be removed, or if you want to opt out of interest-based targeting?
 
-Some people prefer not to allow cookies, which is why most browsers give you the ability to manage cookies to suit you. In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust.
+Some people prefer not to allow cookies, which is why most browsers give you the ability to manage cookies to suit you. In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust. You may also change your cookie preferences and settings at any time by clicking on the Manage Your Settings button below.
 
 MANAGE YOUR SETTINGS
 
