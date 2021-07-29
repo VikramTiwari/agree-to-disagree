@@ -1,41 +1,44 @@
+Back to Google Cloud Terms Directory 
+Current
 Google Cloud Platform Subprocessors
-
-Last modified: July 08, 2021 | Previous Versions
-
 Third-Party Subprocessors
 
 Google and its affiliates engage the third-party entities in the table below to perform limited activities in connection with the Google Cloud Platform Services. The table shows what activity each entity performs and indicates if an entity is only relevant to a specific Service or Region. More information about each activity is provided directly below. This explains the limited processing of Customer Data the entity is authorized to perform.
 
-Data Labeling: Human labelers apply labels to datasets submitted by Customer based on instructions provided by Customer. See the AI Platform Data Labeling Service page  and Human-in-the-Loop AI Service page  for more information.
+Data Labeling: Human labelers apply labels to datasets submitted by Customer based on instructions provided by Customer. See the AI Platform Data Labeling Service page and Human-in-the-Loop AI Service page for more information.
 
-Hard Drive Erasure: Secure erasure of Transfer Appliance storage media. Data on storage media is encrypted and the Subprocessor does not have access to the keys to decrypt it. See the Transfer Appliance page for more information.
+Hard Drive Erasure: Secure erasure of Transfer Appliance storage media. Data on storage media is encrypted and the Subprocessor does not have access to the keys to decrypt it. See the Transfer Appliance page for more information.
 
-Hard Drive Upload: Secure upload of data on Transfer Appliance storage media to the Services selected by Customer. Data on storage media is encrypted and the Subprocessor does not have access to the keys to decrypt it. See the Transfer Appliance page for more information.
+Hard Drive Upload: Secure upload of data on Transfer Appliance storage media to the Services selected by Customer. Data on storage media is encrypted and the Subprocessor does not have access to the keys to decrypt it. See the Transfer Appliance page for more information.
 
-Technical Support: Customer-initiated technical support:
+Technical Support: Customer-initiated technical support:
 
-in the case of Apigee as described in the Apigee Technical Support Services Guidelines. The Subprocessor only has access to Customer Data if access is enabled in the Admin Console. See the Trace Overview page for more information.
+in the case of Apigee as described in the Apigee Technical Support Services Guidelines. The Subprocessor only has access to Customer Data if access is enabled in the Admin Console. See the Trace Overview page for more information.
 
-in the case of all other Google Cloud Platform Services as described in the Google Cloud Platform Technical Support Service Guidelines. The Subprocessor does not have access to Customer Data stored or processed by the Services. The Subprocessor only has access to Customer Data if Customer explicitly elects to share Customer Data in the course of a support case (e.g. screenshots).
+in the case of all other Google Cloud Platform Services as described in the Google Cloud Platform Technical Support Service Guidelines. The Subprocessor does not have access to Customer Data stored or processed by the Services. The Subprocessor only has access to Customer Data if Customer explicitly elects to share Customer Data in the course of a support case (e.g. screenshots).
 
-Voice Transcription: Human transcribers label and transcribe audio recordings. This activity only occurs if Customer elects to opt in to the Speech-to-Text data logging program. See the Speech-to-Text Data Logging page  for more information.
+Voice Transcription: Human transcribers label and transcribe audio recordings. This activity only occurs if Customer elects to opt in to the Speech-to-Text data logging program. See the Speech-to-Text Data Logging page for more information.
 
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
-Accenture International Limited	Firebase Services, Firestore	All	Technical Support	Philippines and United States of America	1 Grand Canal Square, Grand Canal Harbour, Dublin 2, D02 P820	Ireland	620139	Accenture plc
+Accenture International Limited	Firebase Services,  Firestore	All	Technical Support	Philippines and United States of America	
+
+1 Grand Canal Square, Grand Canal Harbour,  Dublin 2, D02 P820
+
+	Ireland	620139	Accenture plc
 Appen Butler Hill Inc.	Speech-to-Text	All	Voice Transcription	Australia and Philippines	12131 113th Ave NE Suite #100 Kirkland, WA 98034-6944	United States of America	35-2238395 (Tax ID)	Appen Butler Hill Pty Ltd
-CallPoint New Europe EAD d/b/a Telus International Europe	All Google Cloud Platform Services	All	Technical Support	Bulgaria	1000 Sofia, Triaditsa district, 1 Alabin Str., TELUS Tower Bulgaria	Bulgaria	175138361	TELUS International (U.K.) Ltd.
+CallPoint New Europe EAD d/b/a Telus International Europe	All Google Cloud Platform Services	All	Technical Support	Bulgaria	
+
+1000 Sofia, Triaditsa district, 1 Alabin Str., TELUS Tower Bulgaria
+
+	Bulgaria	175138361	TELUS International (U.K.) Ltd.
 Canonical Group Limited	Anthos	All	Technical Support	Canada, Japan, Isle of Man, United Kingdom, United States of America, Taiwan	5th Floor, Blue Fin Building 110 Southwark Street London SE1 0SU United Kingdom	United Kingdom	06870835	Canonical Limited
-Cognizant Worldwide Limited	All Google Cloud Platform Services
+Cognizant Worldwide Limited	All Google Cloud Platform Services Talent Solution, Retail Search	All	Technical Support Data Labeling	
 
-Talent Solution, Retail Search	All	Technical Support
+Argentina, India and Ireland
 
+India
 
-
-Data Labeling	Argentina, India and Ireland
-
-
-
-India	1 Kingdom Street, Paddington Central, London, W2 6BD	United Kingdom	7195160	Cognizant Technology Solutions U.S. Corporation
+	1 Kingdom Street, Paddington Central, London, W2 6BD	United Kingdom	7195160	Cognizant Technology Solutions U.S. Corporation
 Deep Discount Servers LLC	Transfer Appliance	Americas	Hard Drive Erasure	United States of America	7465 W Badura Ave, BLDG B-1, Las Vegas, NV89113	United States of America	46-3618209 (Tax ID)	N/A
 EPAM Systems, Inc.	All Google Cloud Platform Services	All	Technical Support	Australia, Mexico, Poland, Switzerland and United States of America	41 University Dr #202, Newtown, PA 18940	United States of America	3604150	N/A
 EPAM Systems Japan G.K.	All Google Cloud Platform Services	All	Technical Support	Japan	Roppongi Denki Building 7F, 6-1-20 Roppongi, Minato-Ku, Tokyo 106-0032 Japan	Japan	0104-03-018863	EPAM Systems, Inc.
@@ -60,15 +63,22 @@ Telus International (CDA) Inc.	All Google Cloud Platform Services	All	Technical 
 TELUS International Ireland (formerly listed as VoxPro Limited)	All Google Cloud Platform Services	All	Technical Support	Ireland	Voxpro House, Unit 6, Riverview Business Park, Blackrock, Cork	Ireland	390162	TELUS International Ireland Outsourcing Services Limited
 Transactel International Services Limited	All Google Cloud Platform Services	All	Technical Support	El Salvador, Guatemala and the Philippines	171, Old Bakery Street, Valletta, Malta	Malta	C 96117	TELUS International Ireland Outsourcing Services Limited
 Webhelp Holding Germany GmbH	All Google Cloud Platform Services	All	Technical Support	Japan, Malaysia, Romania, Spain, Peru and United States of America	Tullnaustrasse 20, 90402, Nuremberg	Germany	HRB 37006	Webhelp SAS
+More
+
 Affiliates of Third-Party Subprocessors
+
 Accenture International Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Accenture, Inc.	Firebase Services, Firestore	All	Technical Support	Philippines	7th Floor, Robinsons Cybergate 1, Pioneer St., Mandaluyong City	Philippines	ASO91-199207	Accenture plc
 Accenture LLP	Firebase Services, Firestore	All	Technical Support	United States of America	161 N. Clark Street, Suite 1100, Chicago, IL 60601	United States of America	000-622	Accenture plc
+More
+
 Appen Butler Hill Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Appen Butler Hill Pty Ltd	Speech-to-Text	All	Voice Transcription	Australia	9 Help St, Chatswood NSW 2067 Australia	Australia	088 829 556	Appen Limited
 Appen Services Philippines	Speech-to-Text	All	Voice Transcription	Philippines	BPO Tower One Suntech iPark Advincula Ave., Lancaster New City Alapan II-B Imus City, Cavite 4103, Philippines	Philippines	FS201729470	Appen Butler Hill Pty Ltd
+More
+
 Canonical Group Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Canonical Holdings Limited	Anthos	All	Technical Support	Isle of Man	12-14 Finch Road, Douglas, IM1 2PT, Isle of Man	Isle of Man	014840V	Canonical Group Limited
@@ -79,278 +89,505 @@ Canonical USA Inc.	Anthos	All	Technical Support	United States of America	9 E. Lo
 Canonical Group Limited Taiwan	Anthos	All	Technical Support	Taiwan	Room D, 46F, No. 7, Xin Yi Rd., Sec.5, Taipei 101, 11049 Taiwan	Taiwan	24798961	Canonical Group Limited
 Canonical Japan KK	Anthos	All	Technical Support	Japan	c/o Mazars Japan K.K., ATT New Tower 11F, 2-11-7, Akasaka, Minato-ku, Tokyo, Japan	Japan	2010401125558	Canonical Group Limited
 Canonical Canada Ltd	Anthos	All	Technical Support	Canada	1000 De la Gauchetière Street West, Suite 2500, Montreal, Quebec H3B 0A2	Canada	1166351081	Canonical Group Limited
+More
+
 Cognizant Worldwide Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Cognizant Technology Solutions Argentina S.R.L.	All Google Cloud Platform Services	All	Technical Support	Argentina	Moreno 877, 6th floor, City of Buenos Aires, Argentina	Argentina	1780740	Cognizant Technology Solutions Corporation
-Cognizant Technology Solutions India Private Limited	All Google Cloud Platform Services
-
-Talent Solution, Retail Search	All	Technical Support
-
-
-
-Data Labeling	India	No. 5/535, Old Mahabalipuram Road, Okkiyam Thoraipakkam Chennai - 600 097, Tamil Nadu	India	U72300TN1994PTC026590	Cognizant Technology Solutions U.S. Corporation
+Cognizant Technology Solutions India Private Limited	All Google Cloud Platform Services Talent Solution, Retail Search	All	Technical Support Data Labeling	India	No. 5/535, Old Mahabalipuram Road, Okkiyam Thoraipakkam Chennai - 600 097, Tamil Nadu	India	U72300TN1994PTC026590	Cognizant Technology Solutions U.S. Corporation
 Cognizant Technology Solutions Ireland Limited	All Google Cloud Platform Services	All	Technical Support	Ireland	Block F3, Dunluce House, Eastpoint Business Park, Alfie Byrne Road, Dublin 13	Ireland	358105	Cognizant Technology Solutions U.S. Corporation
+More
+
 EPAM Systems, Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 EPAM Systems (Australia) Pty Ltd	All Google Cloud Platform Services	All	Technical Support	Australia	33 Lexington Drive, Zhen Building, Level 2, Suite 2.14, Bella Vista, NSW 2153, Australia	Australia	166668293	EPAM Systems, Inc.
 EPAM Systems Mexico S. de R.L. de C.V.	All Google Cloud Platform Services	All	Technical Support	Mexico	Av. Americas 1254, 20th and 21st floors, Country Club, Guadalajara, Jalisco, Mexico 44610	Mexico	ESM1503137K9 (Tax ID)	EPAM Systems, Inc.
 EPAM Systems (Poland) sp. z o.o.	All Google Cloud Platform Services	All	Technical Support	Poland	ul. Opolska 114, Kraków, MAL 31-323, Poland	Poland	KRS 0000390124	EPAM Systems, Inc.
 EPAM Systems (Switzerland) GmbH	All Google Cloud Platform Services	All	Technical Support	Switzerland	Boulevard Lilienthal 2, Glattpark (Opfikon) 8152, Switzerland	Switzerland	CHE-114.898.319	EPAM Systems, Inc.
+More
+
 GlobalLogic Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 GlobalLogic Poland Sp z o.o.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland	Strzegomska 46B, 53-611,Wroclaw,Poland	Poland	PL894-29-24-978 (Tax ID)	GlobalLogic Inc.
+More
+
 HCL America Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 HCL Poland SP. Z.o.o.	Transfer Appliance	All	Technical Support	Poland	Opolska Street no. 112, Krakow, Poland	Poland	6762347188 (Tax ID)	HCL Technologies Austria GmbH
+More
+
 Infosys Limited Affiliates
 Entity name	Relevant Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	Japan	1-6-3 Roppongi, Minato-ku, Tokyo 106-0032 Izumi Garden Wing	Japan	470015006268	Infosys Limited
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India	44, Infosys Avenue Electronics City, Hosur Road, Bengaluru 560 100, India	India	AAACI4798L	Infosys Limited
 Infosys Technologies S. de R. L. de C. V	All Google Cloud Platform Services	All	Technical Support	Mexico	Boulevard Díaz Ordaz # 130, Corporativo Santa María Piso 18 Monterrey, Nuevo León,C.P. 64650, México	Mexico	ITE0706203X7 (Tax ID)	Infosys Limited
+More
+
 Sureline Systems, Inc. Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Sureline Systems India Pvt. Ltd.	Transfer Appliance	All	Technical Support	India	3rd FLoor, Kapil Complex, Lalit Estate, Baner, Pune, Maharashtra 411045	India	U72200PN2011FTC140703	Sureline Systems, Inc.
+More
+
 Sutherland Global Services Inc. Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 SGS Holding de Mexico, S. de R.L. de C.V.	All Google Cloud Platform Services	All	Technical Support	Mexico	Av. Prolongacion Dr. Cantu 2777, Pisos 4, 6 y 7, Col. Los Doctores, Monterrey, Nuevo Leon, Mexico. 64710	Mexico	SHM060316I52 (Tax ID)	Sutherland Global Services Inc.
 SGS Labor de Mexico, S. de R.L. de C.V.	All Google Cloud Platform Services	All	Technical Support	Mexico	Av. Prolongacion Dr. Cantu 2777, Pisos 4, 6 y 7, Col. Los Doctores, Monterrey, Nuevo Leon, Mexico. 64710	Mexico	SLM060317LU3 (Tax ID)	SGS Holding de Mexico, S. de R.L. de C.V.
+More
+
 TELUS International AI Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Lb Ai Finland Oy	Speech-to-Text	All	Voice Transcription	Finland	Visiokatu 1 33720 Tampere, Finland	Finland	3170555-6	TELUS International AI Inc.
 Xavient Infotech Private Limited	Speech-to-Text	All	Voice Transcription	India	514 DLF Towers B Jasola New Delhi South Delhi – Delhi 110025, India	India	U72300DL2010PTC197821	TELUS International AI Inc.
+More
+
 Transactel International Services Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 TELUS International Philippines, Inc.	All Google Cloud Platform Services	All	Technical Support	Philippines	31. Floor Discovery Centre, 25 ADB Ave. Ortigas Center, Pasig City, Philippines	Philippines	A200105382	Ambergris Solutions, Inc.
 Transactel El Salvador, S.A. de C.V.	All Google Cloud Platform Services	All	Technical Support	El Salvador	Calle Chiltiupan y 17 Avenida Norte; Torre Transactel; Plaza Merliot; La Libertad; Santa Tecla; El Salvador	El Salvador	0614-310506-103-7 (Tax ID)	Transactel International Services Limited
 Transactel, Sociedad Anonima	All Google Cloud Platform Services	All	Technical Support	Guatemala	18 calle 25-86 zona 10 Edificio Torre Pradera nivel 2. Guatemala, Guatemala	Guatemala	4017225-2 (Tax ID)	Transactel International Services Limited
+More
+
 Webhelp Holding Germany GmbH Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Webhelp Japan KK	All Google Cloud Platform Services	All	Technical Support	Japan	Tokyo Building Club, 11F, 3-2-6 Kasumigaseki, Chiyudo-ku, Tokyo	Japan	4-0100-01-207779	Webhelp SAS
 Webhelp Malaysia SDN. BHD (formerly listed as Sellbytel Services Malaysia Sdn. Bhd.)	All Google Cloud Platform Services	All	Technical Support	Malaysia	Level 2, Tower 1, Avenue 5, Bangsar South City, 59200 Kuala Lumpur, Malaysia.	Malaysia	976878-T	Webhelp Holding Germany GmbH
-Webhelp SAC Peru	All Google Cloud Platform Services	All	Technical Support	Peru	Avenida Víctor Andrés Belaúnde No. 280, Int. 3, Urb.
-El Rosario, distrito de San Isidro, provincia departamento de Lima, Perú	Peru	20606433329	Webhelp Spain Holding S.l
+Webhelp SAC Peru	All Google Cloud Platform Services	All	Technical Support	Peru	Avenida Víctor Andrés Belaúnde No. 280, Int. 3, Urb.El Rosario, distrito de San Isidro, provincia departamento de Lima, Perú	Peru	20606433329	Webhelp Spain Holding S.l
 WEBHELP ROMANIA SRL	All Google Cloud Platform Services	All	Technical Support	Romania	Str. Dr. Iacob Felix, nr.63-69, et.2, sector 1, București	Romania	J40/14080/2006	Webhelp SAS
 SELLBYTEL GROUP S.L.	All Google Cloud Platform Services	All	Technical Support	Spain	Avenida Diagonal 197, 08018 Barcelona	Spain	T40388	Webhelp SAS
 Webhelp Americas LLC	All Google Cloud Platform Services	All	Technical Support	United States of America	80 SW 8th Street, Suite 2900, Miami, FL 33130	United States of America	83-1454340 (Tax ID)	Webhelp Holding Germany GmbH
+More
 Google Group Subprocessors
 
 Google engages the Google Affiliates in the table below to perform limited activities in connection with the Google Cloud Platform Services. The table shows what activity each entity performs and indicates if an entity is only relevant to a specific Service or Region. More information about each activity is provided directly below. This explains the limited processing of Customer Data the entity is authorized to perform.
 
-Data Center Operations: Operates and maintains the Google data center and equipment that stores Customer Data. The Subprocessor does not require access to Customer Data to perform this activity.
+Data Center Operations: Operates and maintains the Google data center and equipment that stores Customer Data. The Subprocessor does not require access to Customer Data to perform this activity.
 
-Service Maintenance: Software and systems engineering, maintenance and troubleshooting. In the course of performing this activity the Subprocessor may require limited, authorized access to Customer Data e.g. to remediate technical issues.
+Service Maintenance: Software and systems engineering, maintenance and troubleshooting. In the course of performing this activity the Subprocessor may require limited, authorized access to Customer Data e.g. to remediate technical issues.
 
-Technical Support: Customer-initiated technical support:
+Technical Support: Customer-initiated technical support:
 
-in the case of Apigee as described in the Apigee Technical Support Services Guidelines 
+in the case of Apigee as described in the Apigee Technical Support Services Guidelines
 
-in the case of all other Google Cloud Platform Services as described in the Google Cloud Platform Technical Support Service Guidelines 
+in the case of all other Google Cloud Platform Services as described in the Google Cloud Platform Technical Support Service Guidelines
 
 In the course of performing this activity, the Subprocessor may require limited, authorized access to Customer Data to respond to Customer-initiated requests.
 
 The ultimate parent company for all Google Group Subprocessors listed below is Google LLC, which is itself a subsidiary of Alphabet Inc.
 
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number
-Google Argentina S.R.L.	All Google Cloud Platform Services	All	Service Maintenance
+Google Argentina S.R.L.	All Google Cloud Platform Services	All	
 
-Technical Support	Argentina	Alicia M. De Justo 350, 2º Floor Dique IV, Puerto Madero Buenos Aires, Argentina, C1107AAH	Argentina	IGJ 1766627
-Google Australia Pty Ltd.	All Google Cloud Platform Services	All	Service Maintenance
+Service Maintenance
 
-Technical Support	Australia	Tower One - International Towers Sydney Level 46, 100 Barangaroo Avenue Barangaroo, Australia, NSW 2000	Australia	102 417 032
+Technical Support
+
+	Argentina	Alicia M. De Justo 350, 2º Floor Dique IV, Puerto Madero Buenos Aires, Argentina, C1107AAH	Argentina	IGJ 1766627
+Google Australia Pty Ltd.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Australia	Tower One - International Towers Sydney Level 46, 100 Barangaroo Avenue Barangaroo, Australia, NSW 2000	Australia	102 417 032
 Google Cloud Australia Pty Ltd	All Google Cloud Platform Services	Australia	Data Center Operations	Australia	Tower One - International Towers Sydney Level 46, 100 Barangaroo Avenue Barangaroo, Australia, NSW 2000	Australia	610 798 466
-Google Austria GmbH	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Austria	Graben 19/9 Vienna, Austria, 1010	Austria	FN 265694b
-Crystal Computing SRL	All Google Cloud Platform Services	Belgium
-
-
-All	Data Center Operations
+Google Austria GmbH	All Google Cloud Platform Services	All	
 
 Service Maintenance
 
-Technical Support	Belgium	Zone Industrielle de Ghlin Baudour Sud Rue de Ghlin 100 Baudour, Belgium, 7331	Belgium	0883.073.944
-Google Belgium NV	All Google Cloud Platform Services	All	Service Maintenance
+Technical Support
 
-Technical Support	Belgium	Etterbeekstesteenweg 180 Brussels, Belgium, 1040	Belgium	878 065 378
-Google Brasil Internet LTDA.	All Google Cloud Platform Services	All	Service Maintenance
+	Austria	Graben 19/9 Vienna, Austria, 1010	Austria	FN 265694b
+Crystal Computing SRL	All Google Cloud Platform Services	
 
-Technical Support	Brazil	Avenida Brigadeiro Faria Lima nº 3.477 17º, 18º, 19º e 20º andares Torre Sul Itaim Bibi, São Paulo, Estado de São Paulo, Brazil, Cep 04538-133	Brazil	35.219.399.204
-Google Cloud Brasil Computação e Serviços de Dados Ltda.	All Google Cloud Platform Services	Brazil
+Belgium
 
+All
 
-All	Data Center Operations
+	
 
-Service Maintenance
-
-Technical Support	Brazil	Avenida Brigadeiro Faria Lima 3729, 4o e 5o andares Itaim Bibi, São Paulo, SP, Brazil, CEP 04538-905	Brazil	35.229.923.517
-Google Canada Corporation	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Canada	1741 Lower Street, Suite 600 Halifax, CAN_NS, Canada, B3J 0J2	Canada	33336763323461
-Google Cloud Canada Corporation	All Google Cloud Platform Services	Canada
-
-
-All	Data Center Operations
+Data Center Operations
 
 Service Maintenance
 
-Technical Support	Canada	1741 Lower Street, Suite 600 Halifax, CAN_NS, Canada, B3J 0J2	Canada	3300181
-Google Chile Limitada	All Google Cloud Platform Services	All	Service Maintenance
+Technical Support
 
-Technical Support	Chile	Avda. Andres Bello 2711 Suite 1701 Las Condes, Santiago, Chile	Chile	76.714.140-8 (Tax ID)
+	Belgium	Zone Industrielle de Ghlin Baudour Sud Rue de Ghlin 100 Baudour, Belgium, 7331	Belgium	0883.073.944
+Google Belgium NV	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Belgium	Etterbeekstesteenweg 180 Brussels, Belgium, 1040	Belgium	878 065 378
+Google Brasil Internet LTDA.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Brazil	Avenida Brigadeiro Faria Lima nº 3.477 17º, 18º, 19º e 20º andares Torre Sul Itaim Bibi, São Paulo, Estado de São Paulo, Brazil, Cep 04538-133	Brazil	35.219.399.204
+Google Cloud Brasil Computação e Serviços de Dados Ltda.	All Google Cloud Platform Services	
+
+Brazil
+
+All
+
+	
+
+Data Center Operations
+
+Service Maintenance
+
+Technical Support
+
+	Brazil	Avenida Brigadeiro Faria Lima 3729, 4o e 5o andares Itaim Bibi, São Paulo, SP, Brazil, CEP 04538-905	Brazil	35.229.923.517
+Google Canada Corporation	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Canada	1741 Lower Street, Suite 600 Halifax, CAN_NS, Canada, B3J 0J2	Canada	33336763323461
+Google Cloud Canada Corporation	All Google Cloud Platform Services	
+
+Canada
+
+All
+
+	
+
+Data Center Operations
+
+Service Maintenance
+
+Technical Support
+
+	Canada	1741 Lower Street, Suite 600 Halifax, CAN_NS, Canada, B3J 0J2	Canada	3300181
+Google Chile Limitada	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Chile	Avda. Andres Bello 2711 Suite 1701 Las Condes, Santiago, Chile	Chile	76.714.140-8 (Tax ID)
 Inversiones y Servicios Dataluna Limitada	All Google Cloud Platform Services	Chile	Data Center Operations	Chile	Avda. Andres Bello 2711 Suite 1701 Las Condes, Santiago, Chile	Chile	76.117.026-0 (Tax ID)
-Google Denmark ApS	All Google Cloud Platform Services	All	Service Maintenance
+Google Denmark ApS	All Google Cloud Platform Services	All	
 
-Technical Support	Denmark	Sankt Petri Passage 5, 2 København K, Denmark, 1165	Denmark	28866984
-Google Finland Oy	All Google Cloud Platform Services	All	Service Maintenance
+Service Maintenance
 
-Technical Support	Finland	Mannerheimintie 12 B Helsinki, Finland, 00100	Finland	0907346-8
+Technical Support
+
+	Denmark	Sankt Petri Passage 5, 2 København K, Denmark, 1165	Denmark	28866984
+Google Finland Oy	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Finland	Mannerheimintie 12 B Helsinki, Finland, 00100	Finland	0907346-8
 Tuike Finland Oy	All Google Cloud Platform Services	Finland	Data Center Operations	Finland	Ensontie 1 Hamina, Finland, 49420	Finland	2206071-7
-Google France SARL	All Google Cloud Platform Services	All	Service Maintenance
+Google France SARL	All Google Cloud Platform Services	All	
 
-Technical Support	France	8 Rue de Londres Paris, France, 75009	France	443 061 841
-Google Germany GmbH	All Google Cloud Platform Services	All	Service Maintenance
+Service Maintenance
 
-Technical Support	Germany	ABC-Strasse 19 Hamburg, Germany, 20354	Germany	HRB 86891
+Technical Support
+
+	France	8 Rue de Londres Paris, France, 75009	France	443 061 841
+Google Germany GmbH	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Germany	ABC-Strasse 19 Hamburg, Germany, 20354	Germany	HRB 86891
 Redtec Computing GmbH	All Google Cloud Platform Services	Germany	Data Center Operations	Germany	ABC-Strasse 19 Hamburg, Germany, 20354	Germany	HRB 141935
 Allied Trade Holdings Limited	All Google Cloud Platform Services	Hong Kong	Data Center Operations	Hong Kong	14th Floor, One Taikoo Place 979 King's Road Quarry Bay Hong Kong, Hong Kong	Hong Kong	1432445
-GOC Services India Private Limited	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	India	Meenakshi Technova Survey No.116,117,119,128/AA, 129, Road No.2, Financial District, Nanakramguda Serilingampally Mandal Hyderabad (TG), India, 500032	India	U72900TG2019FTC129995
-Google Cloud India Private Limited	All Google Cloud Platform Services	India
-
-
-All	Data Center Operations
+GOC Services India Private Limited	All Google Cloud Platform Services	All	
 
 Service Maintenance
 
-Technical Support	India	Unit 204, 2nd Floor Signature Tower-II Tower A, Sector 15 Part II Silokhera Gurgaon, Haryana, India, 122001	India	U72900HR2016FTC064680
-Google India Pvt. Ltd.	All Google Cloud Platform Services	All	Service Maintenance
+Technical Support
 
-Technical Support	India	No. 3, RMZ Infinity – Tower E Old Madras Road 4th & 5th Floors Bangalore, India, 560 016	India	U72900KA2003PTC033028
-PT Google Cloud Indonesia	All Google Cloud Platform Services	Indonesia
+	India	Meenakshi Technova Survey No.116,117,119,128/AA, 129, Road No.2, Financial District, Nanakramguda Serilingampally Mandal Hyderabad (TG), India, 500032	India	U72900TG2019FTC129995
+Google Cloud India Private Limited	All Google Cloud Platform Services	
 
+India
 
-All	Data Center Operations
+All
 
-Service Maintenance
+	
 
-Technical Support	Indonesia	45th Floor, Pacific Century Place SCBD, Lot 10, Jl. Jenderal Sudirman Kavling 52-53 Jakarta, Indonesia	Indonesia	8120216211091
-Google Cloud EMEA Limited	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Ireland	70 Sir John Rogersons Quay Dublin , Ireland, 2	Ireland	660412
-Google Ireland Ltd.	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Ireland	Gordon House, Barrow Street Dublin, Ireland, 4	Ireland	368047
-Google Israel Ltd.	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Israel	Electra Tower 98 Yigal Alon Street Tel Aviv, Israel, 6789141	Israel	513695478
-Google Italy S.r.l.	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Italy	Via Federico Confalonieri 4 Milano, Italy	Italy	3660670963
-Google Cloud Japan G.K.	All Google Cloud Platform Services	Japan
-
-
-All	Data Center Operations
+Data Center Operations
 
 Service Maintenance
 
-Technical Support	Japan	Roppongi Hills Mori Tower, 10-1 Roppongi 6-chome, Minato-ku Tokyo, Japan, 106-6126	Japan	0100-03-022051
-Google Japan G.K.	All Google Cloud Platform Services	All	Service Maintenance
+Technical Support
 
-Technical Support	Japan	Shibuya Stream, 21-3, Shibuya 3-chome, Shibuya-ku Tokyo, Japan, 150-0002	Japan	0104-01-089234
-Google Cloud Korea LLC	All Google Cloud Platform Services	South Korea
-
-
-All	Data Center Operations
+	India	Unit 204, 2nd Floor Signature Tower-II Tower A, Sector 15 Part II Silokhera Gurgaon, Haryana, India, 122001	India	U72900HR2016FTC064680
+Google India Pvt. Ltd.	All Google Cloud Platform Services	All	
 
 Service Maintenance
 
-Technical Support	South Korea	20th Floor Yeoksam-dong Gangnam Finance Center 152 Teheran-ro, Gangnam-gu Seoul, South Korea	South Korea	110114 - 0217817
-Google Korea, LLC.	All Google Cloud Platform Services	All	Service Maintenance
+Technical Support
 
-Technical Support	South Korea	22nd Floor Gangnam Finance Center 152 Teheran-ro, Gangnam-gu Seoul, Korea, 06236	South Korea	110114-0047545
-Google Malaysia Sdn. Bhd.	All Google Cloud Platform Services	All	Service Maintenance
+	India	No. 3, RMZ Infinity – Tower E Old Madras Road 4th & 5th Floors Bangalore, India, 560 016	India	U72900KA2003PTC033028
+PT Google Cloud Indonesia	All Google Cloud Platform Services	
 
-Technical Support	Malaysia	Level 21, Suite 21.01, The Gardens South Tower Mid Valley City, Lingkaran Syed Putra Kuala Lumpur, Malaysia, 59200	Malaysia	822412-M
-Google Netherlands B.V.	All Google Cloud Platform Services	All	Service Maintenance
+Indonesia
 
-Technical Support	Netherlands	Claude Debussylaan 34, 15th Floor Amsterdam, Netherlands, 1082 MD	Netherlands	34198589
+All
+
+	
+
+Data Center Operations
+
+Service Maintenance
+
+Technical Support
+
+	Indonesia	45th Floor, Pacific Century Place SCBD, Lot 10, Jl. Jenderal Sudirman Kavling 52-53 Jakarta, Indonesia	Indonesia	8120216211091
+Google Cloud EMEA Limited	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Ireland	70 Sir John Rogersons Quay Dublin , Ireland, 2	Ireland	660412
+Google Ireland Ltd.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Ireland	Gordon House, Barrow Street Dublin, Ireland, 4	Ireland	368047
+Google Israel Ltd.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Israel	Electra Tower 98 Yigal Alon Street Tel Aviv, Israel, 6789141	Israel	513695478
+Google Italy S.r.l.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Italy	Via Federico Confalonieri 4 Milano, Italy	Italy	3660670963
+Google Cloud Japan G.K.	All Google Cloud Platform Services	
+
+Japan
+
+All
+
+	
+
+Data Center Operations
+
+Service Maintenance
+
+Technical Support
+
+	Japan	Roppongi Hills Mori Tower, 10-1 Roppongi 6-chome, Minato-ku Tokyo, Japan, 106-6126	Japan	0100-03-022051
+Google Japan G.K.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Japan	Shibuya Stream, 21-3, Shibuya 3-chome, Shibuya-ku Tokyo, Japan, 150-0002	Japan	0104-01-089234
+Google Cloud Korea LLC	All Google Cloud Platform Services	
+
+South Korea
+
+All
+
+	
+
+Data Center Operations
+
+Service Maintenance
+
+Technical Support
+
+	South Korea	20th Floor Yeoksam-dong Gangnam Finance Center 152 Teheran-ro, Gangnam-gu Seoul, South Korea	South Korea	110114 - 0217817
+Google Korea, LLC.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	South Korea	22nd Floor Gangnam Finance Center 152 Teheran-ro, Gangnam-gu Seoul, Korea, 06236	South Korea	110114-0047545
+Google Malaysia Sdn. Bhd.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Malaysia	Level 21, Suite 21.01, The Gardens South Tower Mid Valley City, Lingkaran Syed Putra Kuala Lumpur, Malaysia, 59200	Malaysia	822412-M
+Google Netherlands B.V.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Netherlands	Claude Debussylaan 34, 15th Floor Amsterdam, Netherlands, 1082 MD	Netherlands	34198589
 Green Box Computing B.V.	All Google Cloud Platform Services	Netherlands	Data Center Operations	Netherlands	Oostpolder 4 Eemshaven, Netherlands, 9979 XT	Netherlands	58465197
-Google New Zealand Limited	All Google Cloud Platform Services	All	Service Maintenance
+Google New Zealand Limited	All Google Cloud Platform Services	All	
 
-Technical Support	New Zealand	Level 27, Lumley Centre 88 Shortland Street Auckland, New Zealand	New Zealand	1786635
-GOC Philippines, Inc.	All Google Cloud Platform Services	All	Service Maintenance
+Service Maintenance
 
-Technical Support	Philippines	Unit 25-B Net Lima, 5th Avenue Corner 26th Street, Fort Bonifacio, Taguig City, NCR, Fourth District Taguig, Philippines	Philippines	CS201901344
-Google Cloud Poland Sp. z o.o.	All Google Cloud Platform Services	All	Service Maintenance
+Technical Support
 
-Technical Support	Poland	ul. Emilii Plater no. 53 Warsaw, Poland, 00-113	Poland	0000840059
-Google Poland SP. z.o.o.	All Google Cloud Platform Services	All	Service Maintenance
+	New Zealand	Level 27, Lumley Centre 88 Shortland Street Auckland, New Zealand	New Zealand	1786635
+GOC Philippines, Inc.	All Google Cloud Platform Services	All	
 
-Technical Support	Poland	ul. Emilii Plater no. 53 Warsaw, Poland, 00-113	Poland	0000240611
+Service Maintenance
+
+Technical Support
+
+	Philippines	Unit 25-B Net Lima, 5th Avenue Corner 26th Street, Fort Bonifacio, Taguig City, NCR, Fourth District Taguig, Philippines	Philippines	CS201901344
+Google Cloud Poland Sp. z o.o.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Poland	ul. Emilii Plater no. 53 Warsaw, Poland, 00-113	Poland	0000840059
+Google Poland SP. z.o.o.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Poland	ul. Emilii Plater no. 53 Warsaw, Poland, 00-113	Poland	0000240611
 Topaz Computing Sp. z o.o.	All Google Cloud Platform Services	Poland	Data Center Operations	Poland	ul. Emilii Plater no. 53 Warsaw, Poland, 00-113	Poland	384963399
-GGLE Portugal Lda	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Portugal	Rua Duque de Palmela 37 Level 4 Lisbon , Portugal, 1250-097	Portugal	508099978
-Google Asia Pacific Pte Ltd.	All Google Cloud Platform Services	Singapore
-
-
-All	Data Center Operations
+GGLE Portugal Lda	All Google Cloud Platform Services	All	
 
 Service Maintenance
 
-Technical Support	Singapore	8 Marina Boulevard #05-02 Marina Bay Financial Centre Singapore, Singapore, 018981	Singapore	200817984R
-Google Slovakia, s.r.o.	All Google Cloud Platform Services	All	Service Maintenance
+Technical Support
 
-Technical Support	Slovakia	Karadzicova 8/A 821 08 Bratislava, Slovakia	Slovakia	45 947 597
-Google Spain S.L.	All Google Cloud Platform Services	All	Service Maintenance
+	Portugal	Rua Duque de Palmela 37 Level 4 Lisbon , Portugal, 1250-097	Portugal	508099978
+Google Asia Pacific Pte Ltd.	All Google Cloud Platform Services	
 
-Technical Support	Spain	Plaza Pablo Ruiz Picasso 1 Torre Picasso, Planta 26 Madrid, Spain, 28020	Spain	B-63272603
-Google Sweden AB	All Google Cloud Platform Services	All	Service Maintenance
+Singapore
 
-Technical Support	Sweden	Kungsbron 2 Stockholm, Sweden, 111 22	Sweden	556656 – 6880
-Citrine Computing GmbH	All Google Cloud Platform Services	Switzerland	Data Center Operations	Switzerland	Brandschenkestrasse 110 Zurich, Switzerland, 8002	Switzerland	CHE-238.548.365
-Google Switzerland GmbH.	All Google Cloud Platform Services	All	Service Maintenance
+All
 
-Technical Support	Switzerland	Brandschenkestrasse 110 Zurich, Switzerland, 8002	Switzerland	CHE-110.474.423
+	
+
+Data Center Operations
+
+Service Maintenance
+
+Technical Support
+
+	Singapore	8 Marina Boulevard #05-02 Marina Bay Financial Centre Singapore, Singapore, 018981	Singapore	200817984R
+Google Slovakia, s.r.o.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Slovakia	Karadzicova 8/A 821 08 Bratislava, Slovakia	Slovakia	45 947 597
+Google Spain S.L.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Spain	Plaza Pablo Ruiz Picasso 1 Torre Picasso, Planta 26 Madrid, Spain, 28020	Spain	B-63272603
+Google Sweden AB	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Sweden	Kungsbron 2 Stockholm, Sweden, 111 22	Sweden	556656 – 6880
+Citrine Computing GmbH	All Google Cloud Platform Services	Switzerland	Data Center Operations	Switzerland	
+
+Brandschenkestrasse 110 Zurich, Switzerland, 8002
+
+	Switzerland	CHE-238.548.365
+Google Switzerland GmbH.	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	Switzerland	Brandschenkestrasse 110 Zurich, Switzerland, 8002	Switzerland	CHE-110.474.423
 Charter Investments Limited	All Google Cloud Platform Services	Taiwan	Data Center Operations	Taiwan	15/F, 168 Dunhua North Road, Songshan District Taipei, Taiwan, 105	Taiwan	53104757
-Google Taiwan Limited	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	Taiwan	15F., No. 168, Dunhua N. Rd. Songshan Dist. Taipei City, Taiwan R.O.C., 105	Taiwan	54670929
-Global Infrastructure UK Limited	All Google Cloud Platform Services	United Kingdom	Data Center Operations	United Kingdom	5 New Street Square London, United Kingdom, EC4A 3TW	United Kingdom	10031299
-Google UK Ltd.	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	United Kingdom	Belgrave House, 76 Buckingham Palace Road London, United Kingdom, SW1W 9TQ	United Kingdom	3977902
-Apigee Corporation	Apigee	All	Service Maintenance
-
-Technical Support	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	3810517
-Design, LLC	All Google Cloud Platform Services	United States of America	Data Center Operations	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington DE, 19808 United States	United States of America	3888193
-Firebase, Inc.	Firebase Services	All	Service Maintenance
-
-Technical Support	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	4871239
-GOC International LLC	All Google Cloud Platform Services	All	Service Maintenance
-
-Technical Support	United States of America	251 Little Falls Drive Wilmington DE, 19808 United States	United States of America	7119843
-Google LLC	All Google Cloud Platform Services	United States of America
-
-All	Data Center Operations
+Google Taiwan Limited	All Google Cloud Platform Services	All	
 
 Service Maintenance
 
-Technical Support	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	3582691
-Looker Data Sciences, Inc.	Looker Services	All	Service Maintenance
+Technical Support
 
-Technical Support	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	5092908
-Orbitera Inc.	Orbitera Services	All	Service Maintenance
+	Taiwan	15F., No. 168, Dunhua N. Rd. Songshan Dist. Taipei City, Taiwan R.O.C., 105	Taiwan	54670929
+Global Infrastructure UK Limited	All Google Cloud Platform Services	United Kingdom	Data Center Operations	United Kingdom	5 New Street Square London, United Kingdom, EC4A 3TW	United Kingdom	10031299
+Google UK Ltd.	All Google Cloud Platform Services	All	
 
-Technical Support	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	5198177
+Service Maintenance
+
+Technical Support
+
+	United Kingdom	Belgrave House, 76 Buckingham Palace Road London, United Kingdom, SW1W 9TQ	United Kingdom	3977902
+Apigee Corporation	Apigee	All	
+
+Service Maintenance
+
+Technical Support
+
+	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	3810517
+Design, LLC	All Google Cloud Platform Services	United States of America	Data Center Operations	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington DE, 19808 United States	United States of America	3888193
+Firebase, Inc.	Firebase Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	4871239
+GOC International LLC	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	United States of America	251 Little Falls Drive Wilmington DE, 19808 United States	United States of America	7119843
+Google LLC	All Google Cloud Platform Services	
+
+United States of America
+
+All
+
+	
+
+Data Center Operations
+
+Service Maintenance
+
+Technical Support
+
+	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	3582691
+Looker Data Sciences, Inc.	Looker Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	5092908
+Orbitera Inc.	Orbitera Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	United States of America	Corporation Service Company 251 Little Falls Drive Wilmington, DE, United States, 19808	United States of America	5198177
+More
 Subprocessors for Cloud Identity Services
 
-Subprocessors for Cloud Identity Services are listed at https://workspace.google.com/intl/en/terms/subprocessors.html.
+Subprocessors for Cloud Identity Services are listed at https://workspace.google.com/intl/en/terms/subprocessors.html.
 
-Previous Versions
-
-View more
-June 10, 2021May 11, 2021May 4, 2021April 15, 2021March 25, 2021February 11, 2021February 4, 2021December 10, 2020December 3, 2020November 12, 2020October 26, 2020October 1, 2020September 14, 2020April 27, 2020February 27, 2020January 30, 2020January 6, 2020December 9, 2019November 20, 2019September 16, 2019March 7, 2019February 5, 2019December 6, 2018September 3, 2018August 2, 2018May 24, 2018May 15, 2018March 29, 2018December 14, 2017November 23, 2017November 8, 2017September 13, 2017June 20, 2017
-
-Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License, and code samples are licensed under the Apache 2.0 License. For details, see the Google Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+PREVIOUS VERSIONS (Last modified July 8, 2021)
+June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
