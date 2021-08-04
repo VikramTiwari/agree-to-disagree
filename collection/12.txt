@@ -50,7 +50,6 @@ GitHub Community Forum Code of Conduct
 GitHub Registered Developer Agreement
 GitHub Marketplace Terms of Service
 GitHub Marketplace Developer Agreement
-GitHub Pre-release Program
 GitHub Research Program Terms
 GitHub Open Source Applications Terms and Conditions
 GitHub and Trade Controls
