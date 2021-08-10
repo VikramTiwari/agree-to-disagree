@@ -154,7 +154,6 @@ Dansk
 Suomi
 Svenska
 Norsk
-Polski
 Magyar
 Română
 Čeština
