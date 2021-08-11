@@ -29,6 +29,7 @@ GitHub Data Protection Agreement (Non-Enterprise Customers)
 Global Privacy Practices
 GitHub Insights and data protection for your organization
 GitHub Sponsors Additional Terms
+GitHub Codespaces Privacy Statement
 GitHub Terms for Additional Products and Features
 GitHub Logo Policy
 GitHub Username Policy
