@@ -5,11 +5,7 @@ Third-Party Subprocessors
 
 Google and its affiliates engage the third-party entities in the table below to perform limited activities in connection with the Google Cloud Platform Services. The table shows what activity each entity performs and indicates if an entity is only relevant to a specific Service or Region. More information about each activity is provided directly below. This explains the limited processing of Customer Data the entity is authorized to perform.
 
-Data Labeling: Human labelers apply labels to datasets submitted by Customer based on instructions provided by Customer. See the AI Platform Data Labeling Service page and Human-in-the-Loop AI Service page for more information.
-
-Hard Drive Erasure: Secure erasure of Transfer Appliance storage media. Data on storage media is encrypted and the Subprocessor does not have access to the keys to decrypt it. See the Transfer Appliance page for more information.
-
-Hard Drive Upload: Secure upload of data on Transfer Appliance storage media to the Services selected by Customer. Data on storage media is encrypted and the Subprocessor does not have access to the keys to decrypt it. See the Transfer Appliance page for more information.
+Data Labeling: Human labelers apply labels to datasets submitted by Customer based on instructions provided by Customer. See the AI Platform Data Labeling Service page, Document AI Service page and Human-in-the-Loop AI Service page for more information.  
 
 Technical Support: Customer-initiated technical support:
 
@@ -39,21 +35,57 @@ Argentina, India and Ireland
 India
 
 	1 Kingdom Street, Paddington Central, London, W2 6BD	United Kingdom	7195160	Cognizant Technology Solutions U.S. Corporation
-Deep Discount Servers LLC	Transfer Appliance	Americas	Hard Drive Erasure	United States of America	7465 W Badura Ave, BLDG B-1, Las Vegas, NV89113	United States of America	46-3618209 (Tax ID)	N/A
+CData Software, Inc.	Apigee	All	Technical Support 	India and  United States of America	101 Europa Drive, Suite 110 Chapel Hill, NC 27517	United States of America	47-1860136 (Tax ID)	N/A
 EPAM Systems, Inc.	All Google Cloud Platform Services	All	Technical Support	Australia, Mexico, Poland, Switzerland and United States of America	41 University Dr #202, Newtown, PA 18940	United States of America	3604150	N/A
 EPAM Systems Japan G.K.	All Google Cloud Platform Services	All	Technical Support	Japan	Roppongi Denki Building 7F, 6-1-20 Roppongi, Minato-Ku, Tokyo 106-0032 Japan	Japan	0104-03-018863	EPAM Systems, Inc.
 GlobalLogic Technologies Private Limited (formerly listed as GlobalLogic Technologies Limited)	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	India	Plot No.590A, Phase-I, Road No.31, Jubilee Hills, Hyderabad, Telangana, India 500033	India	U72200TG2006PTC067980	GlobalLogic Inc.
 GlobalLogic Inc.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland and United States of America	1741 Technology Drive, Suite 400, San Jose, CA 95110	United States of America	54-1986789 (Tax ID)	GlobalLogic Holdings Inc.
-HCL America Inc.	Transfer Appliance	All	Technical Support	Poland and United States of America	330 Potrero Avenue Sunnyvale, California, 94085-4113	United States of America	77-0205035 (Tax ID)	HCL Technologies Limited
+HCL America Inc.	
+
+Transfer Appliance
+
+Document AI
+
+	All	
+
+Technical Support
+
+Technical Support, Data Labeling
+
+	
+
+Poland and United States of America
+
+United States of America
+
+	330 Potrero Avenue Sunnyvale, California, 94085-4113	United States of America	77-0205035 (Tax ID)	HCL Technologies Limited
+HCL Technologies Corporate Services Limited	
+
+Document AI
+
+	All	
+
+Technical Support, Data Labeling
+
+	
+
+India
+
+	Axon Centre, Church Road, Egham, United Kingdom TW20 9QB	United Kingdom	
+
+11234311
+
+	
+
+HCL Technologies Limited
+
+
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India, Japan, Mexico and United States of America	2400 N Glenville Dr Suite C150 Richardson TX 75082 United States	United States of America	58-1760235 (Tax ID)	Infosys Limited
-Iron Mountain Information Management, LLC	Transfer Appliance	Americas	Hard Drive Upload	United States of America	1 Federal St., Boston, MA 02110	United States of America	23-2588479 (Tax ID)	Iron Mountain Incorporated
-iuppiter B.V.	Transfer Appliance	Europe	Hard Drive Erasure	Netherlands	Brugwachter 9, 3034 KD Rotterdam	Netherlands	65522133	N/A
 Productive Playhouse, Inc.	Speech-to-Text	All	Voice Transcription	United States of America	Productive Playhouse, Inc., 25231 Paseo de Alicia, Suite 205, Laguna Hills, CA 92653	United States of America	C3185390	N/A
 PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	2-6-11 Shibakouen, Minato-ku, Tokyo, Japan ZIP 105-0011	Japan	0118-01-025525	N/A
 SID Global Solutions, LLC	Apigee	All	Technical Support	India and United States of America	224 Valley Creek Blvd, Suite 220, Exton, PA 19341	United States of America	22-39129248 (Tax ID)	N/A
 Sigma Technologies SLU	Speech-to-Text	All	Voice Transcription	Spain	Avenida de Burgos, 114; First floor; 28050 - Madrid	Spain	B85405702 (Tax ID)	Sigma.AI LLC (formerly known as Sigma Technologies Global LLC)
 Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8th Ave, Vancouver, BC, V5Z 1E5	Canada	BC1085262	Magnitude Software
-Sureline Systems, Inc.	Transfer Appliance	Americas	Technical Support	India and United States of America	2025 Gateway Place, Suite 480, San Jose, CA 95110	United States of America	4738648	N/A
 Sutherland Global Services Bulgaria EOOD	All Google Cloud Platform Services	All	Technical Support	Bulgaria	82, Patriarch Evtimii Blvd. 82, fl.1, Sofia 164	Bulgaria	200182310	SGS Cayman, L.P.
 Sutherland Global Services Inc.	All Google Cloud Platform Services	All	Technical Support	Mexico	1160 Pittsford Victor Rd, Pittsford, New York 14534	United States of America	16-1287080 (Tax ID)	Sutherland Global Holdings Inc.
 Taos, an IBM Company (formerly listed as Taos Mountain, LLC)	All Google Cloud Platform Services	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
@@ -62,7 +94,12 @@ TELUS International AI Inc. (formerly listed as Lionbridge Global Sourcing Solut
 Telus International (CDA) Inc.	All Google Cloud Platform Services	All	Technical Support	Canada	7th Floor, 510 West Georgia Street, Vancouver, BC V6B 0M3	Canada	BC1059858	TELUS Communications Inc.
 TELUS International Ireland (formerly listed as VoxPro Limited)	All Google Cloud Platform Services	All	Technical Support	Ireland	Voxpro House, Unit 6, Riverview Business Park, Blackrock, Cork	Ireland	390162	TELUS International Ireland Outsourcing Services Limited
 Transactel International Services Limited	All Google Cloud Platform Services	All	Technical Support	El Salvador, Guatemala and the Philippines	171, Old Bakery Street, Valletta, Malta	Malta	C 96117	TELUS International Ireland Outsourcing Services Limited
-Webhelp Holding Germany GmbH	All Google Cloud Platform Services	All	Technical Support	Japan, Malaysia, Romania, Spain, Peru and United States of America	Tullnaustrasse 20, 90402, Nuremberg	Germany	HRB 37006	Webhelp SAS
+Webhelp Holding Germany GmbH	All Google Cloud Platform Services	All	Technical Support	Japan, Romania, Spain, Peru and United States of America	Tullnaustrasse 20, 90402, Nuremberg	Germany	HRB 37006	Webhelp SAS
+Webhelp Malaysia Sdn. Bhd (formerly listed as Sellbytel Services Malaysia Sdn. Bhd.) 	
+
+All Google Cloud Platform Services
+
+	All	Technical Support	Malaysia	Menara Exchange 106, Level 6, Lingkaran TRX, Jalan Tun Razak Exchange 55188, Kuala Lumpur, Malaysia. 	Malaysia	976878-T	Webhelp Holding Germany GmbH
 More
 
 Affiliates of Third-Party Subprocessors
@@ -91,10 +128,99 @@ Canonical Japan KK	Anthos	All	Technical Support	Japan	c/o Mazars Japan K.K., ATT
 Canonical Canada Ltd	Anthos	All	Technical Support	Canada	1000 De la Gauchetière Street West, Suite 2500, Montreal, Quebec H3B 0A2	Canada	1166351081	Canonical Group Limited
 More
 
+CData Software Inc. Affiliate
+
+
+
+
+Entity name
+
+	
+
+Relevant Google Cloud Platform Service(s)
+
+	
+
+Applicable Cloud Region(s)
+
+	
+
+Activity
+
+	
+
+Country where processing is performed
+
+	
+
+Registered address
+
+	
+
+Country of  registration
+
+	
+
+Company number 
+
+	
+
+Parent company
+
+
+
+
+CData Software India Private Limited
+
+	
+
+Apigee 
+
+	
+
+All
+
+	
+
+Technical Support
+
+	
+
+India
+
+	
+
+A09, Pride Crosswinds, Pride Vatika Layout, Bukkasagara Village, Bannerghatta Post, Bangalore, Karnataka, India, 560083
+
+	
+
+India
+
+	
+
+U72900KA2020PTC142412
+
+	
+
+CData Software, Inc. 
+
+More
 Cognizant Worldwide Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Cognizant Technology Solutions Argentina S.R.L.	All Google Cloud Platform Services	All	Technical Support	Argentina	Moreno 877, 6th floor, City of Buenos Aires, Argentina	Argentina	1780740	Cognizant Technology Solutions Corporation
-Cognizant Technology Solutions India Private Limited	All Google Cloud Platform Services Talent Solution, Retail Search	All	Technical Support Data Labeling	India	No. 5/535, Old Mahabalipuram Road, Okkiyam Thoraipakkam Chennai - 600 097, Tamil Nadu	India	U72300TN1994PTC026590	Cognizant Technology Solutions U.S. Corporation
+Cognizant Technology Solutions India Private Limited	
+
+All Google Cloud Platform Services
+
+Talent Solution, Retail Search
+
+	All	
+
+Technical Support
+
+Data Labeling
+
+	India	No. 5/535, Old Mahabalipuram Road, Okkiyam Thoraipakkam Chennai - 600 097, Tamil Nadu	India	U72300TN1994PTC026590	Cognizant Technology Solutions U.S. Corporation
 Cognizant Technology Solutions Ireland Limited	All Google Cloud Platform Services	All	Technical Support	Ireland	Block F3, Dunluce House, Eastpoint Business Park, Alfie Byrne Road, Dublin 13	Ireland	358105	Cognizant Technology Solutions U.S. Corporation
 More
 
@@ -111,21 +237,25 @@ Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)
 GlobalLogic Poland Sp z o.o.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland	Strzegomska 46B, 53-611,Wroclaw,Poland	Poland	PL894-29-24-978 (Tax ID)	GlobalLogic Inc.
 More
 
-HCL America Inc. Affiliates
+HCL America Inc. Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 HCL Poland SP. Z.o.o.	Transfer Appliance	All	Technical Support	Poland	Opolska Street no. 112, Krakow, Poland	Poland	6762347188 (Tax ID)	HCL Technologies Austria GmbH
 More
 
+HCL Technologies Corporate Services Limited Affiliate
+
+
+Entity name	Relevant Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
+HCL Technologies Limited	Document AI	All	Technical Support, Data Labeling	India	806, Siddharth, 96, Nehru Place, New Delhi 110 019	India	L74140DL1991PLC046369	HCL Technologies Limited
+More
+
 Infosys Limited Affiliates
+
+
 Entity name	Relevant Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	Japan	1-6-3 Roppongi, Minato-ku, Tokyo 106-0032 Izumi Garden Wing	Japan	470015006268	Infosys Limited
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India	44, Infosys Avenue Electronics City, Hosur Road, Bengaluru 560 100, India	India	AAACI4798L	Infosys Limited
 Infosys Technologies S. de R. L. de C. V	All Google Cloud Platform Services	All	Technical Support	Mexico	Boulevard Díaz Ordaz # 130, Corporativo Santa María Piso 18 Monterrey, Nuevo León,C.P. 64650, México	Mexico	ITE0706203X7 (Tax ID)	Infosys Limited
-More
-
-Sureline Systems, Inc. Affiliate
-Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
-Sureline Systems India Pvt. Ltd.	Transfer Appliance	All	Technical Support	India	3rd FLoor, Kapil Complex, Lalit Estate, Baner, Pune, Maharashtra 411045	India	U72200PN2011FTC140703	Sureline Systems, Inc.
 More
 
 Sutherland Global Services Inc. Affiliate
@@ -149,11 +279,10 @@ More
 
 Webhelp Holding Germany GmbH Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
-Webhelp Japan KK	All Google Cloud Platform Services	All	Technical Support	Japan	Tokyo Building Club, 11F, 3-2-6 Kasumigaseki, Chiyudo-ku, Tokyo	Japan	4-0100-01-207779	Webhelp SAS
-Webhelp Malaysia SDN. BHD (formerly listed as Sellbytel Services Malaysia Sdn. Bhd.)	All Google Cloud Platform Services	All	Technical Support	Malaysia	Level 2, Tower 1, Avenue 5, Bangsar South City, 59200 Kuala Lumpur, Malaysia.	Malaysia	976878-T	Webhelp Holding Germany GmbH
+Webhelp Japan KK	All Google Cloud Platform Services	All	Technical Support	Japan	Tokyo Building Club, 11F, 3-2-6 Kasumigaseki, Chiyudo-ku, Tokyo	Japan	0100-01-207779	Webhelp SAS
 Webhelp SAC Peru	All Google Cloud Platform Services	All	Technical Support	Peru	Avenida Víctor Andrés Belaúnde No. 280, Int. 3, Urb.El Rosario, distrito de San Isidro, provincia departamento de Lima, Perú	Peru	20606433329	Webhelp Spain Holding S.l
-WEBHELP ROMANIA SRL	All Google Cloud Platform Services	All	Technical Support	Romania	Str. Dr. Iacob Felix, nr.63-69, et.2, sector 1, București	Romania	J40/14080/2006	Webhelp SAS
-SELLBYTEL GROUP S.L.	All Google Cloud Platform Services	All	Technical Support	Spain	Avenida Diagonal 197, 08018 Barcelona	Spain	T40388	Webhelp SAS
+WEBHELP ROMANIA SRL	All Google Cloud Platform Services	All	Technical Support	Romania	Str. Dr. Iacob Felix, nr.63-69, et.2, sector 1, București	Romania	J40/14080/04.09.2006	Webhelp SAS
+Webhelp Spain Business Process Outsourcing, S.L.U. (formerly known as SELLBYTEL GROUP S.L.)	All Google Cloud Platform Services	All	Technical Support	Spain	Avenida Diagonal 197, 08018 Barcelona	Spain	B59829382	Webhelp Spain Holding S.l.
 Webhelp Americas LLC	All Google Cloud Platform Services	All	Technical Support	United States of America	80 SW 8th Street, Suite 2900, Miami, FL 33130	United States of America	83-1454340 (Tax ID)	Webhelp Holding Germany GmbH
 More
 Google Group Subprocessors
@@ -589,5 +718,5 @@ Subprocessors for Cloud Identity Services
 
 Subprocessors for Cloud Identity Services are listed at https://workspace.google.com/intl/en/terms/subprocessors.html.
 
-PREVIOUS VERSIONS (Last modified July 8, 2021)
-June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified August 12, 2021)
+July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
