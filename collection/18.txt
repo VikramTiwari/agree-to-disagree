@@ -56,7 +56,7 @@ Things You Create or Provide to Us
 
 When you create a Kaggle account, submit competition entries or otherwise use the Services, you provide us with personal information that includes your name and a password. You may also provide your mailing address and home/mobile phone number, or other personal information.
 
-Your provision of this personal data is required for you to enter into the Terms of Use, a contract with us, as well as for you to enter competitions hosted on the Services. These entries are also a contract between you and the competition host, and we need your personal information to host the Services offered under that contract (see the Terms of Use for additional information). If you do not provide the minimum amount of personal data required to register an account, including your name and email address, you cannot use the Services, as this information is necessary for contractual reasons. Please see “European Requirements” below for further information on the bases for our processing your personal information.
+Your provision of this personal data is required for you to enter into the Terms of Use, a contract with us, as well as for you to enter competitions hosted on the Services. These entries are also a contract between you and the competition host, and we need your personal information to host the Services offered under that contract (see the Terms of Use for additional information). If you do not provide the minimum amount of personal data required to register an account, including your name and email address, you cannot use the Services, as this information is necessary for contractual reasons. Certain parts of the Services also require you to provide a mobile phone number, which is needed to protect against fraud and abuse. Please see “European Requirements” below for further information on the bases for our processing your personal information.
 
 We also collect the content you create, upload, or receive from others when using our Services. This includes things like messages you write and receive, forum posts, notebooks, datasets, and competition submissions.
 
@@ -126,7 +126,7 @@ Protect Kaggle, Our Users, and the Public
 
 We use information to help improve the safety and reliability of our Services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Kaggle, our users, or the public. For example, we collect and analyze IP addresses and cookie data to protect against automated abuse. This abuse can take many forms, such as sending spam to Kaggle users or launching a Distributed Denial of Service (DDoS) attack.
 
-When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
+We also analyze your content to help us detect abuse such as spam, malware, and illegal content. When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
 
 Managing and Deleting Your Information
 
