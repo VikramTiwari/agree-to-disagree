@@ -146,7 +146,7 @@ Bahasa Indonesia
 简体中文
 繁體中文
 ภาษาไทย
-Tiếng Việt
+Tiếng Anh
 Melayu
 Filipino
 فارسی‌
@@ -154,6 +154,7 @@ Dansk
 Suomi
 Svenska
 Norsk
+Polski
 Magyar
 Română
 Čeština
@@ -161,7 +162,7 @@ Română
 Українська
 मदत केंद्र
 உதவி மையம்
-български
+Български
 Català
 Hrvatski
 Српски
