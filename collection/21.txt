@@ -415,6 +415,23 @@ Technical Support
 
 	Finland	Mannerheimintie 12 B Helsinki, Finland, 00100	Finland	0907346-8
 Tuike Finland Oy	All Google Cloud Platform Services	Finland	Data Center Operations	Finland	Ensontie 1 Hamina, Finland, 49420	Finland	2206071-7
+Google Cloud France SARL	All Google Cloud Platform Services	All	
+
+Service Maintenance
+
+Technical Support
+
+	France	
+
+8 Rue de Londres
+
+Paris, France, 75009
+
+	France	
+
+881 721 583
+
+
 Google France SARL	All Google Cloud Platform Services	All	
 
 Service Maintenance
@@ -718,5 +735,5 @@ Subprocessors for Cloud Identity Services
 
 Subprocessors for Cloud Identity Services are listed at https://workspace.google.com/intl/en/terms/subprocessors.html.
 
-PREVIOUS VERSIONS (Last modified August 12, 2021)
-July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified September 2, 2021)
+August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
