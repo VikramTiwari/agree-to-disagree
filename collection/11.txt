@@ -2,7 +2,9 @@
 
 OK
 AgileBits Cookie Policy
+
 Everything you need to know about the cookies used on our website
+
 What are cookies?
 
 A cookie is a small file placed on your computer by a particular website. Cookies serve many purposes, but are mainly used to track user preferences for a more tailored experience.
@@ -58,7 +60,6 @@ ref
 Contains the URL of the website that referred you to ours.
 
 Tracking Pixels
-
 Source tracking
 
 dl, utm_source, utm_medium, utm_campaign, utm_term, utm_content, dr

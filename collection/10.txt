@@ -2,7 +2,9 @@
 
 OK
 AgileBits Privacy Policy
+
 Much more than just a policy – 1Password is Private by Design
+
 Last updated: April 15, 2021
 
 Your privacy is important to us. This privacy policy explains the personal data that AgileBits collects and processes, how it processes data and for what purposes it is collected and processed. This privacy policy further describes our commitment to preserving the privacy and security of your personal data. This policy applies to the interactions that AgileBits has with you through your use of AgileBits 1Password products and services.
@@ -175,8 +177,6 @@ Tel.: +49 30 13889-0
 Fax: +49 30 2155050
 E-Mail: mailbox@datenschutz-berlin.de
 https://www.datenschutz-berlin.de/
-
-
 🙌 Thanks for reading! ❤️
 
 Glossary
@@ -210,7 +210,6 @@ Service Data
 Data about a user account, which is available to AgileBits.
 You, Data Subject
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
-
 Change log
 
 2021-04-15:
