@@ -168,3 +168,5 @@ Hrvatski
 Српски
 Slovenčina
 Kannada
+Pashto
+Dari
