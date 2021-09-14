@@ -13,13 +13,13 @@ My privacy
 Getting Started Guide
 Contact Us
 Help Center
-General guidelines and policies
+Platform Use Guidelines
 Our use of cookies and similar technologies
 
 Our use of cookies and similar technologies
 
 Help Center 
-General guidelines and policies 
+Platform Use Guidelines 
 Our use of cookies and similar technologies
 
 Our services use cookies and other similar technologies, such as pixels or local storage, to help provide you with a better, faster, and safer experience. Here are some of the ways that our services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, and ads, use these technologies: to log you into Twitter and Periscope, save your preferences, personalize the content you see, protect against spam and abuse, and show you more relevant ads.
