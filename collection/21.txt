@@ -22,12 +22,24 @@ Accenture International Limited	Firebase Services,  Firestore	All	Technical Sup
 
 	Ireland	620139	Accenture plc
 Appen Butler Hill Inc.	Speech-to-Text	All	Voice Transcription	Australia and Philippines	12131 113th Ave NE Suite #100 Kirkland, WA 98034-6944	United States of America	35-2238395 (Tax ID)	Appen Butler Hill Pty Ltd
-CallPoint New Europe EAD d/b/a Telus International Europe	All Google Cloud Platform Services	All	Technical Support	Bulgaria	
+CallPoint New Europe EAD d/b/a Telus International Europe	
+
+All Google Cloud Platform Services
+
+Speech-to-Text
+
+	All	
+
+Technical Support
+
+Voice Transcription
+
+	Bulgaria	
 
 1000 Sofia, Triaditsa district, 1 Alabin Str., TELUS Tower Bulgaria
 
 	Bulgaria	175138361	TELUS International (U.K.) Ltd.
-Canonical Group Limited	Anthos	All	Technical Support	Canada, Japan, Isle of Man, United Kingdom, United States of America, Taiwan	5th Floor, Blue Fin Building 110 Southwark Street London SE1 0SU United Kingdom	United Kingdom	06870835	Canonical Limited
+Canonical Group Limited	Anthos	All	Technical Support	Brazil, Canada, Japan, Isle of Man, United Kingdom, United States of America, Taiwan	5th Floor, Blue Fin Building 110 Southwark Street London SE1 0SU United Kingdom	United Kingdom	06870835	Canonical Limited
 Cognizant Worldwide Limited	All Google Cloud Platform Services Talent Solution, Retail Search	All	Technical Support Data Labeling	
 
 Argentina, India and Ireland
@@ -81,6 +93,7 @@ HCL Technologies Limited
 
 
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India, Japan, Mexico and United States of America	2400 N Glenville Dr Suite C150 Richardson TX 75082 United States	United States of America	58-1760235 (Tax ID)	Infosys Limited
+Linguistix Tank Inc.	Speech-to-Text	All	Voice Transcription	Canada	4312 Village Centre Court, Mississauga, Ontario, Canada, L4Z 1S2	Canada	807066576	N/A
 Productive Playhouse, Inc.	Speech-to-Text	All	Voice Transcription	United States of America	Productive Playhouse, Inc., 25231 Paseo de Alicia, Suite 205, Laguna Hills, CA 92653	United States of America	C3185390	N/A
 PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	2-6-11 Shibakouen, Minato-ku, Tokyo, Japan ZIP 105-0011	Japan	0118-01-025525	N/A
 SID Global Solutions, LLC	Apigee	All	Technical Support	India and United States of America	224 Valley Creek Blvd, Suite 220, Exton, PA 19341	United States of America	22-39129248 (Tax ID)	N/A
@@ -88,7 +101,7 @@ Sigma Technologies SLU	Speech-to-Text	All	Voice Transcription	Spain	Avenida de B
 Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8th Ave, Vancouver, BC, V5Z 1E5	Canada	BC1085262	Magnitude Software
 Sutherland Global Services Bulgaria EOOD	All Google Cloud Platform Services	All	Technical Support	Bulgaria	82, Patriarch Evtimii Blvd. 82, fl.1, Sofia 164	Bulgaria	200182310	SGS Cayman, L.P.
 Sutherland Global Services Inc.	All Google Cloud Platform Services	All	Technical Support	Mexico	1160 Pittsford Victor Rd, Pittsford, New York 14534	United States of America	16-1287080 (Tax ID)	Sutherland Global Holdings Inc.
-Taos, an IBM Company (formerly listed as Taos Mountain, LLC)	All Google Cloud Platform Services	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
+Taos Mountain LLC, an IBM Company (formerly listed as Taos Mountain, LLC)	All Google Cloud Platform Services	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
 Teleperformance Global Services Private Limited	AI Platform Data Labeling	All	Data Labeling	India	Teleperformance Towers, Plot CST No. 1406 - A / 28, Mindspace, Goregaon (West), Mumbai – 400104, Maharashtra, India.	India	U72900MH2001PTC232120	Dutch Contact Centers (DCC) B.V.
 TELUS International AI Inc. (formerly listed as Lionbridge Global Sourcing Solutions, Inc.	Speech-to-Text	All	Voice Transcription	Finland and India	1050 Winter Street, Suite 2300, Waltham, MA 02451	United States of America	26-3123158(Tax ID)	Telus International (CDA) Inc.
 Telus International (CDA) Inc.	All Google Cloud Platform Services	All	Technical Support	Canada	7th Floor, 510 West Georgia Street, Vancouver, BC V6B 0M3	Canada	BC1059858	TELUS Communications Inc.
@@ -126,6 +139,7 @@ Canonical USA Inc.	Anthos	All	Technical Support	United States of America	9 E. Lo
 Canonical Group Limited Taiwan	Anthos	All	Technical Support	Taiwan	Room D, 46F, No. 7, Xin Yi Rd., Sec.5, Taipei 101, 11049 Taiwan	Taiwan	24798961	Canonical Group Limited
 Canonical Japan KK	Anthos	All	Technical Support	Japan	c/o Mazars Japan K.K., ATT New Tower 11F, 2-11-7, Akasaka, Minato-ku, Tokyo, Japan	Japan	2010401125558	Canonical Group Limited
 Canonical Canada Ltd	Anthos	All	Technical Support	Canada	1000 De la Gauchetière Street West, Suite 2500, Montreal, Quebec H3B 0A2	Canada	1166351081	Canonical Group Limited
+Canonical Brasil Serviços de Software Ltda.	Anthos	All	Technical Support	Brazil	Avenida Marquês de São Vicente, 230, Conjunto 1218, sala 05, Barra Funda, Zip Code 01139-000 São Paulo	Brazil	CNPJ: 39.993.703/0001-01	Canonical Group Limited
 More
 
 CData Software Inc. Affiliate
@@ -735,5 +749,5 @@ Subprocessors for Cloud Identity Services
 
 Subprocessors for Cloud Identity Services are listed at https://workspace.google.com/intl/en/terms/subprocessors.html.
 
-PREVIOUS VERSIONS (Last modified September 2, 2021)
-August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified September 21, 2021)
+September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
