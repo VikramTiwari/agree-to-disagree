@@ -4,7 +4,6 @@ Register
 menu
 Skip to
 content
-Create
 explore
 
 Home
