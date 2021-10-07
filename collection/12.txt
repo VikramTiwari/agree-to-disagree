@@ -433,4 +433,5 @@ Contact GitHub
 Pricing
 Developer API
 Training
+Blog
 About
