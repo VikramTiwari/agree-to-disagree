@@ -15,7 +15,7 @@ SITE POLICY
 GitHub Terms of Service
 GitHub Corporate Terms of Service
 GitHub Privacy Statement
-GitHub Data Protection Agreement (Non-Enterprise Customers)
+GitHub Data Protection Agreement
 Global Privacy Practices
 GitHub Sponsors Additional Terms
 GitHub Codespaces Privacy Statement

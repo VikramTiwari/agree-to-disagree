@@ -43,7 +43,7 @@ PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJ
 
 Terms of Use
 
-Effective Date: July 21, 2021
+Effective Date: October 7, 2021
 
 Welcome to Kaggle. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these Terms or the Services, please contact us. These Terms of Use (the “Terms”) are a binding contract between you and Kaggle Inc. (“Kaggle,” “we” and “us”). Kaggle is organized under the laws of the State of Delaware, USA, and has offices located at 1600 Amphitheatre Parkway, Mountain View, California 94043 USA. You must agree to and accept all of the Terms, or you don’t have the right to use the Services. Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document, as well as those in the Privacy Policy, Copyright Dispute Policy and the Community Guidelines. In these Terms, the words “include” or “including” mean “including but not limited to”, and examples are for illustration purposes and are not limiting.
 
@@ -61,7 +61,7 @@ What are the basics of using Kaggle?
 
 You may be required to sign up for an account, and select a password and username (“Kaggle User ID”). You promise to provide us with accurate, complete, and updated registration information about yourself. You may not select as your Kaggle User ID a name that you don’t have the right to use, or another person’s name with the intent to impersonate that person. You may not transfer your account to anyone else without our prior written permission. You also may not have, control, or operate under more than one active Kaggle account or Kaggle User ID. If we determine that you have, control, or are operating under more than one Kaggle account or Kaggle User ID, we may take action without notice, including banning your user account, revoking access to your Kaggle User ID, and disqualifying you from any ongoing Competition(s).
 
-You represent and warrant that you are of legal age to form a binding contract. If you are not of legal age to form a binding contract, please see the Privacy Policy and contact us at Kaggle Support for more information on the parental consent process. You must either be of legal age to form a binding contract or have completed the parental consent process to use the Services.
+If you are not of legal age to form a binding contract, please see “Our Commitment to Children’s Privacy” in the Privacy Policy and contact us at Kaggle Support for more information on the parental consent process.
 
 If you’re agreeing to these Terms on behalf of an organization or entity, you represent and warrant that you are authorized to agree to these Terms on that organization or entity’s behalf and bind them to these Terms (in which case, the references to “you” and “your” in these Terms, except for in this sentence, refer to that organization or entity), but you are still required to sign up each individual user from your organization with a Kaggle User ID. You are not allowed to allow multiple individuals to operate under one Kaggle User ID, even if you are an organization or entity.
 
