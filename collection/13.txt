@@ -3,8 +3,6 @@ All products
 GitHub
 GITHUB COPILOT
 WRITING ON GITHUB
-COMMIT CHANGES TO YOUR PROJECT
-COLLABORATE WITH PULL REQUESTS
 IMPORTING YOUR PROJECTS
 CUSTOMIZE YOUR WORKFLOW
 EXTENDING GITHUB
@@ -51,6 +49,8 @@ GitHub Event Terms
 GitHub Event Code of Conduct
 GitHub GPL Cooperation Commitment
 Enterprise management
+GitHub/Site policy/GitHub Privacy Statement
+English
 GitHub Privacy Statement
 In this article
 The short version
