@@ -5,19 +5,19 @@ AgileBits Privacy Policy
 
 Much more than just a policy – 1Password is Private by Design
 
-Last updated: April 15, 2021
+Last updated: October 15, 2021
 
-Your privacy is important to us. This privacy policy explains the personal data that AgileBits collects and processes, how it processes data and for what purposes it is collected and processed. This privacy policy further describes our commitment to preserving the privacy and security of your personal data. This policy applies to the interactions that AgileBits has with you through your use of AgileBits 1Password products and services.
+This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits, Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password Applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
 
-Brief overview of our commitment to privacy
+If you have questions or complaints regarding this Privacy Policy or Our practices, please contact Us via email at dpo@1password.com.
 
-At AgileBits, we believe that the less information we know about you, the better. After all, it is impossible to lose, misuse, or abuse information we don’t have. To the extent that we have control over your data or data about you, we see ourselves as custodians of that data on your behalf.
+Your privacy is important to us and we respect each individual’s right to privacy. This privacy policy explains the personal data that 1Password collects and processes, how it processes data and for what purposes it is collected and processed. This Privacy Policy further describes our commitment to preserving the privacy and security of your personal data. We will collect and use information through Our Website only in the ways disclosed in this Privacy Policy. We have created this Privacy Policy to let you know what information we collect when you visit Our Site, why we collect it, and how it is used. By using this website, you consent to the data practices prescribed in this Privacy Policy.
 
-We use your data solely to provide you with services in which you enroll. Our business is providing 1Password products and services to you, the customer. We have no desire or interest to use or transfer the limited data we acquire for any other purposes.
+Who We Are and Our Commitment to Privacy
 
-Who We Are
+1Password is a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. At 1Password, we believe that the less information we know about you, the better. After all, it is impossible to lose, misuse, or abuse information we don’t have. To the extent that we have control over your data or data about you, we see ourselves as custodians of that data on your behalf.
 
-AgileBits is a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. AgileBits complies with Canadian privacy laws. We are fully compliant with the Canadian privacy laws and the GDPR. The European Union (“EU”) recognizes Canada as a destination country with “adequate level of protection” for data privacy of individuals. We are not U.S.- EU Privacy Shield certified since we are a Canadian company.
+We use your data solely to provide you with Services in which you enroll and to provide you an enhanced user experience when you visit our Website. Our business is providing 1Password products and Services to you, the customer. We have no desire or interest to use or transfer the limited data we acquire for any other purposes.
 
 Who are You
 
@@ -29,9 +29,9 @@ Non-Owners
 
 If you are a non-owner member of a team, business, or family account, your use of 1Password may be subject to your organization’s privacy policy or practices, if any. Non-owner members of an account transfer some of the rights described here to the account owners.
 
-Personal Data We Collect and How We Use your Personal Data
+Information Collected Through the 1Password Services
 
-We do not collect or obtain data from third parties. We collect some data from you, in order to provide you with our 1Password products and associated services. You provide some data directly, such as when you create a 1Password account, when you register for a 1Password event or a webinar, or contact us for support. Such data is limited to your email address only. We get some limited data from your use of the 1Password products and services. Such data includes your IP address, and the make and model of your device through which you access or use 1Password products or services.
+We collect some data from you, in order to provide you with our 1Password products and Services, in addition to your use of our Website. You provide some data directly, such as when you create a 1Password account, when you register for a 1Password event or a webinar, or contact us for support. Such data is limited to your email address only. We get some limited data from your use of the 1Password products and services. Such data includes your IP address, and the make and model of your device through which you access or use 1Password products or services.
 
 We use your personal data to provide you with services associated with the use of 1Password account and to provide you with a rich customer experience through our customer support. In particular, we use your data to provide 1Password services, which includes updating, securing and troubleshooting, and providing support.
 
@@ -66,6 +66,32 @@ Diagnostic data never includes decrypted Secure Data. We will never ask for your
 Keeping Your Information Safe
 
 We understand and accept our responsibility to protect Service Data and Secure Data. We use strict access control mechanisms, network isolation, and encryption to ensure that Secure and Service Data is only available to authorized personnel. Additionally, Secure Data cannot be decrypted even by those who do have access to it.
+
+Information Collected from Your Use of Our Website
+
+In a few areas on Our Website, We ask you to provide personal information that will enable Us to enhance your site visit, to assist you with technical support issues or to follow up with you after your visit. It is completely optional for you to participate. For example, We request information from you when you:
+
+Subscribe to a newsletter
+Participate in promotional offers
+1Password uses your information for specific purposes. Your information may be used to:
+Send you requested information about 1Password
+Provide support
+Market 1Password products or Services to you
+Provide you with access to 1Password Services
+
+Personal information you provide will be kept confidential and used to support your customer relationship with Our company.
+
+All email communication with you will be on an Opt-In basis. This is solely at your discretion. Occasionally, We will send you e-mail communications with information, which may be useful to you, including information about Our products and Services or about offerings from affiliates or business partners. When you first provide Us with your e-mail address, you will be given the option of not receiving any such e-mail communications. We will include instructions in Our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mail communications. At any time, you can easily opt-out of receiving further marketing from 1Password by contacting Us at the address below and requesting to have your name removed from Our lists.
+
+Information Sharing and Disclosure to Third Parties
+
+Agents or contractors of 1Password may have access to your personal information for the purpose of performing services on behalf of 1Password. All such agents or contractors who have access to your personal information have Data Processing and Confidentiality obligations to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for 1Password.
+
+Unless We tell you otherwise, or unless otherwise stated in this Privacy Policy or required by law, We do NOT sell or rent your personal information to any third parties. However, We might share your personal information with Our service providers, such as Our hosting services providers. If you choose to participate in a survey, a focus group etc., we may also share de-identified data with Our customers.
+
+Information collected from you is only used to complete and support your purchases from 1Password and use of the Site and to comply with any requirements of law. 1Password may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on 1Password or this Site; (2) protect and defend the rights or property of 1Password; or (3) act in urgent circumstances to protect the personal safety of users of 1Password, its web sites or the public. We may collect and possibly share your information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Our terms and conditions posted on Our Websites, or as otherwise required by law.
+
+If 1Password is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on Our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
 
 Compliance with the laws
 
@@ -211,6 +237,10 @@ Data about a user account, which is available to AgileBits.
 You, Data Subject
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
 Change log
+
+2021-10-21:
+
+We have added language clarifying the use of your 1Password websites’ visits related data.
 
 2021-04-15:
 
