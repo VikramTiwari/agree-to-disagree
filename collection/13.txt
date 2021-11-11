@@ -27,7 +27,7 @@ GitHub Trademark Policy
 GitHub Private Information Removal Policy
 GitHub Subprocessors and Cookies
 GitHub Bug Bounty Program Legal Safe Harbor
-Responsible Disclosure of Security Vulnerabilities
+Coordinated Disclosure of Security Vulnerabilities
 Guidelines for Legal Requests of User Data
 GitHub Government Takedown Policy
 GitHub Acceptable Use Policies
