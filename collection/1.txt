@@ -2,7 +2,7 @@ GOOGLE TERMS OF SERVICE
 
 Effective March 31, 2020 | Archived versions
 
-Country version: United States
+Country version: Brazil
 
 What’s covered in these terms
 We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google services, and what we expect from you.
@@ -14,7 +14,7 @@ What we expect from you, which establishes certain rules for using our services
 Content in Google services, which describes the intellectual property rights to the content you find in our services — whether that content belongs to you, Google, or others
 In case of problems or disagreements, which describes other legal rights you have, and what to expect in case someone violates these terms
 
-Understanding these terms is important because, by using our services, you’re agreeing to these terms.
+Understanding these terms is important because, to use our services, you must accept these terms.
 
 Besides these terms, we also publish a Privacy Policy. Although it’s not part of these terms, we encourage you to read it to better understand how you can update, manage, export, and delete your information.
 
@@ -238,6 +238,10 @@ we reasonably believe that your conduct causes harm or liability to a user, thir
 If you believe your Google Account has been suspended or terminated in error, you can appeal.
 
 Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d appreciate knowing why so that we can continue improving our services.
+
+Handling requests for your data
+
+Respect for the privacy and security of your data underpins our approach to responding to data disclosure requests. When we receive data disclosure requests, our team reviews them to make sure they satisfy legal requirements and Google’s data disclosure policies. Google LLC accesses and discloses data, including communications, in accordance with the laws of Brazil or the United States. For more information about the data disclosure requests that Google receives worldwide, and how we respond to such requests, see our Transparency Report and Privacy Policy.
 
 Settling disputes, governing law, and courts
 
