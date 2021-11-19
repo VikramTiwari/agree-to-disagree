@@ -268,7 +268,7 @@ If we materially change these terms or service-specific additional terms, we’l
 DEFINITIONS
 affiliate
 
-An entity that belongs to the Google group of companies, which means Google LLC and its subsidiaries, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, and Google Dialer Inc.
+An entity that belongs to the Google group of companies, which means Google LLC and its subsidiaries, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Limited, and Google Dialer Inc.
 
 business user
 
@@ -280,7 +280,7 @@ An individual who uses Google services for personal, non-commercial purposes out
 
 copyright
 
-A legal right that allows the creator of an original work (such as a blog post, photo, or video) to decide if and how that original work may be used by others.
+A legal right that allows the creator of an original work (such as a blog post, photo, or video) to decide if and how that original work may be used by others, subject to certain limitations and exceptions (such as “fair use” and “fair dealing”).
 
 country version
 
@@ -313,12 +313,15 @@ A legal entity (such as a corporation, non-profit, or school) and not an individ
 
 services
 
-Google services that are subject to these terms are the products and services listed at https://policies.google.com/terms/service-specific, including:
+The Google services that are subject to these terms are the products and services listed at https://policies.google.com/terms/service-specific, including:
 
-Google apps and sites (like Search and Maps)
-platforms (like Google Play)
+apps and sites (like Search and Maps)
+platforms (like Google Shopping)
 integrated services (like Maps embedded in other companies’ apps or sites)
-devices (like Google Home)
+devices and other goods (like Google Nest)
+
+Many of these services also include content that you can stream or interact with.
+
 trademark
 
 Symbols, names, and images used in commerce that are capable of distinguishing the goods or services of one individual or organization from those of another.
@@ -329,7 +332,7 @@ An assurance that a product or service will perform to a certain standard.
 
 your content
 
-Things that you write, upload, submit, store, send, receive, or share with Google using our services, such as:
+Things that you create, upload, submit, store, send, receive, or share using our services, such as:
 
 Docs, Sheets, and Slides you create
 blog posts you upload through Blogger

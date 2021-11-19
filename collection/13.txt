@@ -66,7 +66,7 @@ Additional services
 How you can access and control the information we collect
 Our use of cookies and tracking
 How GitHub secures your information
-GitHub&apos;s global privacy practices
+GitHub's global privacy practices
 How we communicate with you
 Resolving complaints
 Changes to our Privacy Statement
