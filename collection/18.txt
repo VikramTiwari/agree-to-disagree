@@ -41,7 +41,7 @@ Privacy Policy
 
 Em português
 
-Effective Date: August 16, 2021
+Effective Date: November 26, 2021
 
 Welcome, and thank you for your interest in Kaggle Inc. (“Kaggle”), and our website(s), products, services and applications (the “Services”). This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information. If you have any questions about this Privacy Policy, you can contact us here.
 
@@ -242,7 +242,7 @@ European Requirements
 
 If European Union (EU) data protection law applies to the processing of your information, you can exercise your right to request access to, update, remove, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service. Please visit Kaggle Support to exercise these rights.
 
-If you have any questions, you may contact our data protection office at data-protection-office@kaggle.com. If you have concerns regarding your rights under local law, you can contact your local data protection authority. Kaggle has appointed Google Ireland Ltd. to act as its local representative under Article 27 of the EU General Data Protection Regulation. Google Ireland Ltd.’s address is Gordon House, Barrow Street, Dublin 4, Ireland. Kaggle has appointed Google UK Limited to act as its local representative under Article 27 of the UK General Data Protection Regulation. Google UK Limited's address is Belgrave House, 76 Buckingham Palace Road, London, SW1W 9TQ, UK.
+If you have any questions, you may contact our data protection office at data-protection-office@kaggle.com. If you have concerns regarding your rights under local law, you can contact your local data protection authority. Kaggle has appointed Google Cloud EMEA Ltd. to act as its local representative under Article 27 of the EU General Data Protection Regulation. Google Cloud EMEA Ltd.’s address is Gordon House, Barrow Street, Dublin 4, Ireland (Registered Number: 660412). Kaggle has appointed Google UK Limited to act as its local representative under Article 27 of the UK General Data Protection Regulation. Google UK Limited's address is Belgrave House, 76 Buckingham Palace Road, London, SW1W 9TQ, UK (Registered Number: 03977902).
 
 We process your information for the purposes described in this policy, based on the following legal grounds:
 
