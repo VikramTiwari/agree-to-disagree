@@ -5,7 +5,7 @@ AgileBits Privacy Policy
 
 Much more than just a policy – 1Password is Private by Design
 
-Last updated: October 15, 2021
+Last updated: December 7, 2021
 
 This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits, Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password Applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
 
@@ -91,7 +91,7 @@ Unless We tell you otherwise, or unless otherwise stated in this Privacy Policy 
 
 Information collected from you is only used to complete and support your purchases from 1Password and use of the Site and to comply with any requirements of law. 1Password may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on 1Password or this Site; (2) protect and defend the rights or property of 1Password; or (3) act in urgent circumstances to protect the personal safety of users of 1Password, its web sites or the public. We may collect and possibly share your information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Our terms and conditions posted on Our Websites, or as otherwise required by law.
 
-If 1Password is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on Our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. We may also disclose your personal information to any other third party with your prior consent.
+If 1Password is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on Our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. We may also disclose your personal information to any other third-party with your prior consent.
 
 Compliance with the laws
 
@@ -107,7 +107,7 @@ Our customer support and email services are hosted primarily in the United State
 
 Third-Party Data Processors
 
-Your Secure and Service data are held by third party data processors, who provide us with hosting and other infrastructure services. The locations of these are described above. In many cases (but we cannot promise that this will always be the case) even Service data held by these entities is encrypted with keys held only by us.
+Your Secure and Service data are held by third-party data processors, who provide us with hosting and other infrastructure services. The locations of these are described above. In many cases (but we cannot promise that this will always be the case) even Service data held by these entities is encrypted with keys held only by us.
 
 Data needed to process payments is collected by our payment processor, Stripe, Inc., which conforms to the U.S.-E.U. Privacy Shield Framework. See https://stripe.com/privacy-shield-policy
 
@@ -148,11 +148,11 @@ You can also make choices about collection and use of your data by AgileBits. Yo
 
 Cookies and Tracking
 
-We do not engage in or support cross-service tracking.
+We do set and use cookies (small text files placed on your device) on our own domains and subdomains to store settings that assist with identifying your account for sign-in. We also use third-party packages and trackers for our public pages that may set cookies on your computer. These cookies are used to understand broad and anonymous user behavior when you visit 1password.com, 1password.ca or 1password.eu. Such user behavior includes time spent by a visitor on the website, most visited webpage, aggregated clicks on signups etc. We also use these third-party cookies to serve more relevant advertisements to visitors once they have left the 1Password website on our partner sites across the web.
 
-We do set and use cookies (small text files placed on your device) on our own domains and subdomains to store settings that assist with identifying your account for sign-in. We also use third party analytics packages for our public pages that may set cookies on your computer. These are limited to our domains, and do not involve cross-service tracking. You may disable cookies in your browser and continue to use our services without impact.
+You may disable cookies in your browser and continue to use our services without impact. We do not use third-party trackers in our web application (my.1password.com), or our client applications for macOS, Windows, Linux, Android or iOS.
 
-Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Master Password, and Secret Key) on subsequent sign-ins.
+Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Master Password, and Secret Key) on subsequent sign-ins. For more information on our use of cookies, please visit our Cookie Policy page here.
 
 Consent for Underage Enrollment
 
@@ -178,7 +178,7 @@ If you lose access to the organization that you are affiliated with (for example
 
 Updates to our Privacy Policy
 
-At our discretion, we may make changes to this Policy and note the date of the last revision. You should check here frequently if you need to know of updates to our Privacy Policy. We maintain the right to send you annoying email informing you of substantive changes. Previous versions will be made available from this page.
+At our discretion, we may make changes to this Policy and note the date of the last revision. You should check here frequently if you need to know of updates to our Privacy Policy. We maintain the right to send you an email informing you of substantive changes. Previous versions will be made available from this page.
 
 Contact Us
 
@@ -237,6 +237,10 @@ Data about a user account, which is available to AgileBits.
 You, Data Subject
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
 Change log
+
+2021-12-07:
+
+We have added language regarding our use of third-party trackers on our web pages only (no in-app tracking)
 
 2021-10-21:
 

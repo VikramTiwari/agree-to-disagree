@@ -5,6 +5,10 @@ AgileBits Cookie Policy
 
 Everything you need to know about the cookies used on our website
 
+This Cookie Policy applies for the websites of AgileBits, Inc. (“1Password”) referred to in this Policy. The websites include https://1Password.com, https://1Password.ca and https://1Password.eu (together “Websites”).
+
+European Union (“EU”) legislation requires all website operators to inform website visitors about their usage of cookies and similar technologies, for example, pixels, (hereinafter “cookies”) and to collect the user’s consent to such cookie usage.   
+
 What are cookies?
 
 A cookie is a small file placed on your computer by a particular website. Cookies serve many purposes, but are mainly used to track user preferences for a more tailored experience.
@@ -82,3 +86,17 @@ Anonymous user identifiers, like unique measurement IDs, that specify the applic
 
 ga-audiences
 Allows us to anonymously organize visitors who share preferences, so we can provide similar experiences for those visitors. It identifies unique website visits and revisits, users who visited the same section/group of webpages, and users who completed a goal or transaction.
+
+Trade Desk Universal and Static Pixels
+
+This allows us to learn if a visitor to our website has also clicked on an advertisement before arriving at 1password.com. This information is used to serve more relevant adverts to that visitor once they have left the 1Password website on our partner sites across the web. The data used is not personally identifiable, but based on visitor session data, stored in a cookie in your browser.
+
+Updates
+
+This Cookie Policy is updated from time to time.
+
+Change Log
+
+Last updated: December 7, 2021
+
+Change: Added the use of Trade Desk Universal and Static Pixels as of the date of update.
