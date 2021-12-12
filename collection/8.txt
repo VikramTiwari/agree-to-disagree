@@ -170,6 +170,21 @@ Along with optout.aboutads.info, you can read more about opting out of interest-
 
 Important: To view or change web settings for your Twitter account, you'll need to log in to the web browser. Changing your Twitter settings in the web browser when you’re logged out will only affect behavior on that browser while you aren't logged in to Twitter. Read our article on how to access your personalization and data settings for more.
 
+The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on Twitter services are described below in the chart, which we update from time to time. Cookie lifespans are capped at 13 months in certain areas. 
+
+
+Name
+
+Use type
+
+External description
+
+Controller
+
+Learn more
+
+Web domain
+
 Share this article
 Tweet
 © 2021 Twitter, Inc.
