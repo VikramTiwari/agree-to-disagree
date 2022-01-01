@@ -401,7 +401,7 @@ Other translations
 
 For translations of this statement into other languages, please visit https://docs.github.com/ and select a language from the drop-down menu under “English.”
 
-© 2021 GitHub, Inc.
+© 2022 GitHub, Inc.
 Terms
 Privacy
 Security
