@@ -1,6 +1,6 @@
 GOOGLE TERMS OF SERVICE
 
-Effective March 31, 2020 | Archived versions
+Effective January 5, 2022 | Archived versions
 
 Country version: United States
 
@@ -16,8 +16,9 @@ In case of problems or disagreements, which describes other legal rights you hav
 
 Understanding these terms is important because, by using our services, you’re agreeing to these terms.
 
-Besides these terms, we also publish a Privacy Policy. Although it’s not part of these terms, we encourage you to read it to better understand how you can update, manage, export, and delete your information.
+Besides these terms, we also publish a Privacy Policy. We encourage you to read it to better understand how you can update, manage, export, and delete your information.
 
+Terms
 Service provider
 
 Google services are provided by, and you’re contracting with:
@@ -45,36 +46,38 @@ What you can expect from us
 Provide a broad range of useful services
 We provide a broad range of services that are subject to these terms, including:
 apps and sites (like Search and Maps)
-platforms (like Google Play)
+platforms (like Google Shopping)
 integrated services (like Maps embedded in other companies’ apps or sites)
-devices (like Google Home)
+devices (like Google Nest)
 
-Our services are designed to work together, making it easier for you to move from one activity to the next. For example, Maps can remind you to leave for an appointment that appears in your Google Calendar.
+Many of these services also include content that you can stream or interact with.
 
-Improve Google services
+Our services are designed to work together, making it easier for you to move from one activity to the next. For example, if your Calendar event includes an address, you can click on that address and Maps can show you how to get there.
 
-We’re constantly developing new technologies and features to improve our services. For example, we invest in artificial intelligence that uses machine learning to detect and block spam and malware, and to provide you with innovative features, like simultaneous translations. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones.
+Develop, improve, and update Google services
 
-If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice and an opportunity to export your content from your Google Account using Google Takeout, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues.
+We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations, and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones. When a service requires or includes downloadable software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
+
+If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues. We’ll also provide you with an opportunity to export your content from your Google Account using Google Takeout, subject to applicable law and policies.
 
 What we expect from you
 Follow these terms and service-specific additional terms
-The permission we give you to use our services continues as long as you meet your responsibilities in:
+The permission we give you to use our services continues as long as you comply with:
 these terms
 service-specific additional terms, which could, for example, include things like additional age requirements
 
-We also make various policies, help centers, and other resources available to you to answer common questions and to set expectations about using our services. These resources include our Privacy Policy, Copyright Help Center, Safety Center, and other pages accessible from our policies site.
+You also agree that our Privacy Policy applies to your use of our services. Additionally, we provide resources like the Copyright Help Center, Safety Center, and descriptions of our technologies from our policies site to answer common questions and to set expectations about using our services.
 
 Although we give you permission to use our services, we retain any intellectual property rights we have in the services.
 
 Respect others
-Many of our services allow you to interact with others. We want to maintain a respectful environment for everyone, which means you must follow these basic rules of conduct:
+We want to maintain a respectful environment for everyone, which means you must follow these basic rules of conduct:
 comply with applicable laws, including export control, sanctions, and human trafficking laws
 respect the rights of others, including privacy and intellectual property rights
-don’t abuse or harm others or yourself (or threaten or encourage such abuse or harm) — for example, by misleading, defrauding, defaming, bullying, harassing, or stalking others
-don’t abuse, harm, interfere with, or disrupt the services
+don’t abuse or harm others or yourself (or threaten or encourage such abuse or harm) — for example, by misleading, defrauding, illegally impersonating, defaming, bullying, harassing, or stalking others
+don’t abuse, harm, interfere with, or disrupt the services — for example, by accessing or using them in fraudulent or deceptive ways, introducing malware, or spamming, hacking, or bypassing our systems or protective measures. When we index the web to bring you search results, we respect standard usage restrictions that website owners specify in their websites’ code, so we require the same when others use our services
 
-Our service-specific additional terms and policies provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to report abuse. If we act on a report of abuse, we also provide a fair process as described in the Taking action in case of problems section.
+Our service-specific additional terms and policies provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to report abuse. If we act on a report of abuse, we also provide the process described in the Taking action in case of problems section.
 
 Permission to use your content
 
@@ -99,7 +102,7 @@ Scope
 This license is:
 worldwide, which means it’s valid anywhere in the world
 non-exclusive, which means you can license your content to others
-royalty-free, which means there are no fees for this license
+royalty-free, which means there are no monetary fees for this license
 Rights
 
 This license allows Google to:
@@ -136,7 +139,7 @@ If you meet these age requirements you can create a Google Account for your conv
 
 You’re responsible for what you do with your Google Account, including taking reasonable steps to keep your Google Account secure, and we encourage you to regularly use the Security Checkup.
 
-Using Google services on behalf of an organization
+Using Google services on behalf of an organization or business
 Many organizations, such as businesses, non-profits, and schools, take advantage of our services. To use our services on behalf of an organization:
 an authorized representative of that organization must agree to these terms
 your organization’s administrator may assign a Google Account to you. That administrator might require you to follow additional rules and may be able to access or disable your Google Account.
@@ -171,53 +174,44 @@ Some of our services include downloadable software. We give you permission to us
 The license we give you is:
 worldwide, which means it’s valid anywhere in the world
 non-exclusive, which means that we can license the software to others
-royalty-free, which means there are no fees for this license
+royalty-free, which means there are no monetary fees for this license
 personal, which means it doesn’t extend to anyone else
 non-assignable, which means you’re not allowed to assign the license to anyone else
 
 Some of our services include software that’s offered under open source license terms that we make available to you. Sometimes there are provisions in the open source license that explicitly override parts of these terms, so please be sure to read those licenses.
 
-You may not copy, modify, distribute, sell, or lease any part of our services or software. Also, you may not reverse engineer or attempt to extract any of our source code unless you have our written permission or applicable law lets you do so.
-
-When a service requires or includes downloadable software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
+You may not copy, modify, distribute, sell, or lease any part of our services or software.
 
 In case of problems or disagreements
+Warranty disclaimer
 
-By law, you have the right to (1) a certain quality of service, and (2) ways to fix problems if things go wrong. These terms don’t limit or take away any of those rights. For example, if you’re a consumer, then you continue to enjoy all legal rights granted to consumers under applicable law.
+We built our reputation on providing useful, reliable services like Google Search and Maps, and we’re continuously improving our services to meet your needs. However, for legal purposes, we offer our services without warranties unless explicitly stated in our service-specific additional terms. The law requires that we explain this using specific legal language and that we use capital letters to help make sure you see it, as follows:
 
-Warranty
-
-We provide our services using reasonable skill and care. If we don’t meet the quality level described in this warranty, you agree to tell us and we’ll work with you to try to resolve the issue.
-
-Disclaimers
-
-The only commitments we make about our services (including the content in the services, the specific functions of our services, or their reliability, availability, or ability to meet your needs) are (1) described in the Warranty section, (2) stated in the service-specific additional terms, or (3) provided under applicable laws. We don’t make any other commitments about our services.
-
-And unless required by law, we don’t provide implied warranties, such as the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+TO THE EXTENT ALLOWED BY APPLICABLE LAW, WE PROVIDE OUR SERVICES “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. FOR EXAMPLE, WE DON’T MAKE ANY WARRANTIES ABOUT THE CONTENT OR FEATURES OF THE SERVICES, INCLUDING THEIR ACCURACY, RELIABILITY, AVAILABILITY, OR ABILITY TO MEET YOUR NEEDS.
 
 Liabilities
 For all users
 
-These terms only limit our responsibilities as allowed by applicable law. Specifically, these terms don’t limit Google’s liability for death or personal injury, fraud, fraudulent misrepresentation, gross negligence, or willful misconduct.
+Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law allows us to limit certain liabilities — but not others — under these terms.
 
-Other than the rights and responsibilities described in this section (In case of problems or disagreements), Google won’t be responsible for any other losses, unless they’re caused by our breach of these terms or service-specific additional terms.
+These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for gross negligence or willful misconduct.
 
+To the extent allowed by applicable law:
+Google is liable only for its breaches of these terms or applicable service-specific additional terms
+Google isn’t liable for:
+loss of profits, revenues, business opportunities, goodwill, or anticipated savings
+indirect or consequential losses
+punitive damages
+Google’s total liability arising out of or relating to these terms is limited to the greater of (1) $200 or (2) the fees paid to use the relevant services in the 12 months before the dispute
 For business users and organizations only
 
-If you’re a business user or organization, then to the extent allowed by applicable law:
+If you’re a business user or organization:
 
-You’ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms. This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees.
-Google won’t be responsible for the following liabilities:
-loss of profits, revenues, business opportunities, goodwill, or anticipated savings
-indirect or consequential loss
-punitive damages
-Google’s total liability arising out of or relating to these terms is limited to the greater of (1) US$500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
-
+To the extent allowed by applicable law, you’ll indemnify Google and its directors, officers, employees, and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the services or violation of these terms or service-specific additional terms. This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs, and legal fees.
 If you’re legally exempt from certain responsibilities, including indemnification, then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
-
 Taking action in case of problems
 
-Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to fix the problem, unless we reasonably believe that doing so would:
+Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action, and give you an opportunity to fix the problem, unless doing so would:
 
 cause harm or liability to a user, third party, or Google
 violate the law or a legal enforcement authority’s order
@@ -225,7 +219,7 @@ compromise an investigation
 compromise the operation, integrity, or security of our services
 Removing your content
 
-If we reasonably believe that any of your content (1) breaches these terms, service-specific additional terms or policies, (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, and content that infringes someone else’s intellectual property rights.
+If any of your content (1) breaches these terms, service-specific additional terms or policies, (2) violates applicable law, or (3) could harm our users, third parties, or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content, and content that infringes someone else’s intellectual property rights.
 
 Suspending or terminating your access to Google services
 
@@ -233,9 +227,9 @@ Google reserves the right to suspend or terminate your access to the services or
 
 you materially or repeatedly breach these terms, service-specific additional terms or policies
 we’re required to do so to comply with a legal requirement or a court order
-we reasonably believe that your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you
+your conduct causes harm or liability to a user, third party, or Google — for example, by hacking, phishing, harassing, spamming, misleading others, or scraping content that doesn’t belong to you
 
-If you believe your Google Account has been suspended or terminated in error, you can appeal.
+For more information about why we disable accounts and what happens when we do, see this Help Center page. If you believe your Google Account has been suspended or terminated in error, you can appeal.
 
 Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d appreciate knowing why so that we can continue improving our services.
 
@@ -244,8 +238,6 @@ Settling disputes, governing law, and courts
 For information about how to contact Google, please visit our contact page.
 
 California law will govern all disputes arising out of or relating to these terms, service-specific additional terms, or any related services, regardless of conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
-
-To the extent that applicable local law prevents certain disputes from being resolved in a California court, then you can file those disputes in your local courts. Likewise, if applicable local law prevents your local court from applying California law to resolve these disputes, then these disputes will be governed by the applicable local laws of your country, state, or other place of residence.
 
 About these terms
 
