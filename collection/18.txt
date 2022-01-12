@@ -37,11 +37,6 @@ auto_awesome_motion
 
 View Active Events
 
-info_outline
-
-Kaggle recently enacted a notebooks abuse countermeasure which resulted in a large number of false account blocks. We have corrected the issue and are working on unblocking the affected accounts. It is safe to run notebooks again and we apologize for the inconvenience. See here for more info
-
-Dismiss
 Privacy Policy
 
 Em português
