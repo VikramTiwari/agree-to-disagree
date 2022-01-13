@@ -30,8 +30,9 @@ Cookie Policy
 Acceptable Use Policy
 Trademark Guidance
 Contact
+Submit Data Request
 Stack Exchange, Inc. Privacy Policy
-Updated 24 September 2021
+Updated: 12 January, 2022
 
 ABOUT STACK OVERFLOW
 
@@ -414,7 +415,7 @@ To object	The right to object:
 at any time to your personal data being processed for direct marketing (including profiling);
 in certain other situations to our continued processing of your personal data, e.g., processing carried out for the purpose of our legitimate interests.
 
-If you would like to exercise any of these rights, please email privacy@stackoverflow.com.
+If you would like to exercise any of these rights, please submit a data request.
 
 We may need to request specific information from you to help us confirm your identity before we can deal with your request. We will respond to your request within one month. If your request is complicated, it may take us longer. We will let you know if we need longer than one month to respond.
 
