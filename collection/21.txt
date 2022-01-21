@@ -452,9 +452,7 @@ Technical Support
 
 	France	
 
-8 Rue de Londres
-
-Paris, France, 75009
+8 Rue de Londres Paris, France, 75009
 
 	France	
 
@@ -468,6 +466,39 @@ Service Maintenance
 Technical Support
 
 	France	8 Rue de Londres Paris, France, 75009	France	443 061 841
+
+
+Tricolore Computing SARL
+
+	
+
+All Google Cloud Platform Services
+
+	
+
+France
+
+	
+
+Data Center Operations
+
+	
+
+France
+
+	
+
+8 Rue de Londres Paris, France, 75009
+
+	
+
+France
+
+	
+
+881 735 245
+
+
 Google Germany GmbH	All Google Cloud Platform Services	All	
 
 Service Maintenance
@@ -561,6 +592,39 @@ Service Maintenance
 Technical Support
 
 	Israel	Electra Tower 98 Yigal Alon Street Tel Aviv, Israel, 6789141	Israel	513695478
+
+
+Google Cloud Israel Ltd.
+
+	
+
+All Google Cloud Platform Services
+
+	
+
+Israel
+
+	
+
+Data Center Operations
+
+	
+
+Israel
+
+	
+
+Electra Tower 98 Yigal Alon Street Tel Aviv, Israel, 6789141
+
+	
+
+Israel
+
+	
+
+516371432
+
+
 Google Italy S.r.l.	All Google Cloud Platform Services	All	
 
 Service Maintenance
@@ -568,6 +632,70 @@ Service Maintenance
 Technical Support
 
 	Italy	Via Federico Confalonieri 4 Milano, Italy	Italy	3660670963
+
+
+Google Cloud Italy S.r.l.
+
+	
+
+All Google Cloud Platform Services
+
+		
+
+Service Maintenance
+
+Technical Support
+
+	
+
+Italy
+
+	
+
+Via Federico Confalonieri 420124 Milan, Italy
+
+	
+
+Italy
+
+	
+
+MI- 2590058
+
+
+
+
+Turquoise Computing S.r.l.
+
+	
+
+All Google Cloud Platform Services
+
+	
+
+Italy
+
+	
+
+Data Center Operations
+
+	
+
+Italy
+
+	
+
+Via Federico Confalonieri 420124 Milan, Italy
+
+	
+
+Italy
+
+	
+
+MI- 2590068
+
+
 Google Cloud Japan G.K.	All Google Cloud Platform Services	
 
 Japan
@@ -663,6 +791,39 @@ Service Maintenance
 Technical Support
 
 	Portugal	Rua Duque de Palmela 37 Level 4 Lisbon , Portugal, 1250-097	Portugal	508099978
+
+
+Google Cloud Qatar QFZ LLC
+
+	
+
+All Google Cloud Platform Services
+
+	
+
+Qatar
+
+	
+
+Data Center Operations
+
+	
+
+Qatar
+
+	
+
+Coworking space 34 Business and Innovation Park Ras Bufontas Free Zone Doha, Qatar
+
+	
+
+Qatar
+
+	
+
+001
+
+
 Google Asia Pacific Pte Ltd.	All Google Cloud Platform Services	
 
 Singapore
@@ -692,6 +853,31 @@ Service Maintenance
 Technical Support
 
 	Spain	Plaza Pablo Ruiz Picasso 1 Torre Picasso, Planta 26 Madrid, Spain, 28020	Spain	B-63272603
+
+
+Yeso Computing, S.L.U.
+
+	
+
+All Google Cloud Platform Services
+
+	
+
+Spain
+
+	
+
+Data Center Operations
+
+	Spain	Plaza Pablo Ruiz Picasso 1 Torre Picasso, Planta 26 Madrid, Spain, 28020	
+
+Spain
+
+	
+
+B01917020
+
+
 Google Sweden AB	All Google Cloud Platform Services	All	
 
 Service Maintenance
@@ -787,5 +973,5 @@ Multi-Cloud Service Third-Party Providers
 
 For customers using Google-Managed Multi-Cloud Services, to provide such Google-Managed Multi-Cloud Services, Google and its affiliates will engage the Multi-Cloud Service Third-Party Providers listed at https://cloud.google.com/terms/mcs-providers.
 
-PREVIOUS VERSIONS (Last modified December 9, 2021)
-November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified January 20, 2022)
+December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
