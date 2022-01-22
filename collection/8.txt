@@ -183,6 +183,7 @@ Terms and conditions
 English 
  Help Center
  
+Urdu
 English
 Español
 日本語
@@ -228,4 +229,3 @@ Dari
 Amharic
 Oromo
 Tigrinya
-Urdu
