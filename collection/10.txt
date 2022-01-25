@@ -282,3 +282,5 @@ Breach notification (GDPR)
 
 We clarified how we help you keep your data when we part ways.
 We also expanded on how your Secure Data is handled on our end.
+
+Archived versions
