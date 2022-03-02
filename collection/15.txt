@@ -78,3 +78,8 @@ If you limit the ability of websites and applications to set cookies, you may wo
 Does Slack respond to Do Not Track Signals?
 
 Our Sites and Services do not collect personal information about your online activities over time and across third-party websites or online services. Therefore, “do not track” signals transmitted from web browsers do not apply to our Sites or Services, and we do not alter any of our data collection and use practices upon receipt of such a signal.
+
+This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners.More Info
+
+ACCEPT ALL COOKIES
+COOKIES SETTINGS
