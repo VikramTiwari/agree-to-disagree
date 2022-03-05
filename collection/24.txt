@@ -25,6 +25,7 @@ Subprocessors
 Stack Overflow for Teams Data Processing Addendum
 Free & Basic
 Business
+Enterprise
 Collectives Joint Controller Agreement
 Cookie Policy
 Acceptable Use Policy
