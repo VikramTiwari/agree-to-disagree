@@ -1,59 +1,22 @@
 Skip to main content
 GitHub Docs
 All products
-GitHub
-GitHub Copilot
 Site policy
-GitHub Terms of Service
-GitHub Corporate Terms of Service
-GitHub Privacy Statement
-GitHub Data Protection Agreement
-Global Privacy Practices
-GitHub Sponsors Additional Terms
+GitHub Terms
+Acceptable Use Policies
+Privacy Policies
 GitHub Codespaces Privacy Statement
-GitHub Terms for Additional Products and Features
-GitHub Logo Policy
-GitHub Username Policy
-Submitting content removal requests
-DMCA Takedown Policy
-Guide to Submitting a DMCA Takedown Notice
-Guide to Submitting a DMCA Counter Notice
-GitHub Trademark Policy
-GitHub Private Information Removal Policy
+Global Privacy Practices
+GitHub Data Protection Agreement
+GitHub Privacy Statement
 GitHub Subprocessors and Cookies
-GitHub Bug Bounty Program Legal Safe Harbor
-Coordinated Disclosure of Security Vulnerabilities
-Guidelines for Legal Requests of User Data
-GitHub Government Takedown Policy
-GitHub Acceptable Use Policies
-GitHub Appeal and Reinstatement
 GitHub's Notice about the California Consumer Privacy Act
-GitHub Community Guidelines
-GitHub Community Forum Code of Conduct
-GitHub Registered Developer Agreement
-GitHub Marketplace Terms of Service
-GitHub Marketplace Developer Agreement
-GitHub Research Program Terms
-GitHub Open Source Applications Terms and Conditions
-GitHub and Trade Controls
-GitHub Deceased User Policy
-GitHub Statement Against Modern Slavery and Child Labor
-GitHub Anti-Bribery Statement
 GitHub Candidate Privacy Policy
-GitHub Gifts and Entertainment Policy
-GitHub Event Terms
-GitHub Event Code of Conduct
-GitHub GPL Cooperation Commitment
-GitHub Sexually Obscene Content
-GitHub Hate Speech and Discrimination
-GitHub Misinformation and Disinformation
-GitHub Bullying and Harassment
-GitHub Threats of Violence and Gratuitously Violent Content
-GitHub Disrupting the Experience of Other Users
-GitHub Impersonation
-GitHub Doxxing and Invasion of Privacy
-GitHub Active Malware or Exploits
-GitHub/Site policy/GitHub Privacy Statement
+Other Site Policies
+Content Removal Policies
+Security Policies
+GitHub Company Policies
+Site policy/Privacy Policies/GitHub Privacy Statement
 Free, Pro, & Team
 English
 Sign up
