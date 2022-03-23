@@ -5,12 +5,12 @@ Site policy
 GitHub Terms
 Acceptable Use Policies
 Privacy Policies
-GitHub Codespaces Privacy Statement
+GitHub Privacy Statement
 Global Privacy Practices
 GitHub Data Protection Agreement
-GitHub Privacy Statement
 GitHub Subprocessors and Cookies
 GitHub's Notice about the California Consumer Privacy Act
+GitHub Codespaces Privacy Statement
 GitHub Candidate Privacy Policy
 Other Site Policies
 Content Removal Policies

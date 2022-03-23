@@ -3,12 +3,12 @@ GitHub Docs
 All products
 Site policy
 GitHub Terms
-GitHub Corporate Terms of Service
-GitHub Community Forum Code of Conduct
-GitHub Community Guidelines
 GitHub Terms of Service
-GitHub Sponsors Additional Terms
+GitHub Corporate Terms of Service
 GitHub Terms for Additional Products and Features
+GitHub Community Guidelines
+GitHub Community Forum Code of Conduct
+GitHub Sponsors Additional Terms
 GitHub Registered Developer Agreement
 GitHub Marketplace Terms of Service
 GitHub Marketplace Developer Agreement

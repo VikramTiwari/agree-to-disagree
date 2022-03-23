@@ -26,7 +26,7 @@ First-party cookies are set by 1Password. They help calculate things like page v
 
 We don’t use cookies of any kind on my.1password.com (the web application).
 
-Files used
+Cookies we use on our website
 1Password
 
 _ab
@@ -91,12 +91,24 @@ Trade Desk Universal and Static Pixels
 
 This allows us to learn if a visitor to our website has also clicked on an advertisement before arriving at 1password.com. This information is used to serve more relevant adverts to that visitor once they have left the 1Password website on our partner sites across the web. The data used is not personally identifiable, but based on visitor session data, stored in a cookie in your browser.
 
+Television Advertising Tracking
+
+_ct
+Stores whether a user can be tracked with conditional tracking. The decision happens in CloudFront, using the Cloudfront-Viewer-Country header, comparing that value against [“US”, “UK”,“CA”]. We only store the yes or no decision in _ct
+
+TDCPM and TDID under .adsrvr.org guid, rt under .mountain.com, tt under .px.mountain.com
+Used to support Mountain’s performance tracking for ConnectedTV ads for visitors qualified by geolocation with ct. Allows us to learn when a visitor views a specific television commercial or our advertisement on a streaming device, and then visits our website.
+
 Updates
 
 This Cookie Policy is updated from time to time.
 
-Change Log
+Change log
 
-Last updated: December 7, 2021
+2022-03-10
 
-Change: Added the use of Trade Desk Universal and Static Pixels as of the date of update.
+Added the use of Tracking Pixels as of the date of update.
+
+2021-12-07
+
+Added the use of Trade Desk Universal and Static Pixels as of the date of update.
