@@ -39,18 +39,30 @@ Voice Transcription
 1000 Sofia, Triaditsa district, 1 Alabin Str., TELUS Tower Bulgaria
 
 	Bulgaria	175138361	TELUS International (U.K.) Ltd.
-Canonical Group Limited	Anthos	All	Technical Support	Brazil, Canada, Japan, Isle of Man, United Kingdom, United States of America, Taiwan	5th Floor, Blue Fin Building 110 Southwark Street London SE1 0SU United Kingdom	United Kingdom	06870835	Canonical Limited
-Cognizant Worldwide Limited	All Google Cloud Platform Services Talent Solution, Retail Search	All	Technical Support Data Labeling	
+Canonical Group Limited	Anthos	All	Technical Support	Brazil, Canada, Japan, Isle of Man, United Kingdom, United States of America, Taiwan	5 New Street Square, London, EC4A 3TW	United Kingdom	06870835	Canonical Limited
+Cognizant Worldwide Limited	
+
+All Google Cloud Platform Services
+
+Talent Solution, Retail Search
+
+	All	
+
+Technical Support
+
+Data Labeling
+
+	
 
 Argentina, India and Ireland
 
 India
 
-	1 Kingdom Street, Paddington Central, London, W2 6BD	United Kingdom	7195160	Cognizant Technology Solutions U.S. Corporation
+	1 Kingdom Street, Paddington Central, London, W2 6BD	United Kingdom	7195160	Cognizant Technology Solutions Corporation
 CData Software, Inc.	Apigee	All	Technical Support 	India and  United States of America	101 Europa Drive, Suite 110 Chapel Hill, NC 27517	United States of America	47-1860136 (Tax ID)	N/A
 EPAM Systems, Inc.	All Google Cloud Platform Services	All	Technical Support	Australia, Mexico, Poland, Switzerland and United States of America	41 University Dr #202, Newtown, PA 18940	United States of America	3604150	N/A
 EPAM Systems Japan G.K.	All Google Cloud Platform Services	All	Technical Support	Japan	Roppongi Denki Building 7F, 6-1-20 Roppongi, Minato-Ku, Tokyo 106-0032 Japan	Japan	0104-03-018863	EPAM Systems, Inc.
-GlobalLogic Technologies Private Limited (formerly listed as GlobalLogic Technologies Limited)	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	India	Plot No.590A, Phase-I, Road No.31, Jubilee Hills, Hyderabad, Telangana, India 500033	India	U72200TG2006PTC067980	GlobalLogic Inc.
+GlobalLogic Technologies Private Limited (formerly listed as GlobalLogic Technologies Limited)	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	India	6th floor, Block 1, DLF Cyber city, Hyderabad, Telangana 500019, India	India	U72200TG2006PTC067980	GlobalLogic Inc.
 GlobalLogic Inc.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland and United States of America	1741 Technology Drive, Suite 400, San Jose, CA 95110	United States of America	54-1986789 (Tax ID)	GlobalLogic Holdings Inc.
 HCL America Inc.	
 
@@ -95,7 +107,7 @@ HCL Technologies Limited
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India, Japan, Mexico and United States of America	2400 N Glenville Dr Suite C150 Richardson TX 75082 United States	United States of America	58-1760235 (Tax ID)	Infosys Limited
 Linguistix Tank Inc.	Speech-to-Text	All	Voice Transcription	Canada	4312 Village Centre Court, Mississauga, Ontario, Canada, L4Z 1S2	Canada	807066576	N/A
 Productive Playhouse, Inc.	Speech-to-Text	All	Voice Transcription	India, Thailand and United States of America	Productive Playhouse, Inc., 25231 Paseo de Alicia, Suite 205, Laguna Hills, CA 92653	United States of America	C3185390	N/A
-PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	2-6-11 Shibakouen, Minato-ku, Tokyo, Japan ZIP 105-0011	Japan	0118-01-025525	N/A
+PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	Shibadaimon 1F, 2-1-16.Shibadaimon,  Minato-ku, Tokyo, 105-0012, Japan	Japan	0118-01-025525	N/A
 SID Global Solutions, LLC	Apigee	All	Technical Support	India and United States of America	224 Valley Creek Blvd, Suite 220, Exton, PA 19341	United States of America	22-39129248 (Tax ID)	N/A
 Sigma Technologies SLU	Speech-to-Text	All	Voice Transcription	Spain	Avenida de Burgos, 114; First floor; 28050 - Madrid	Spain	B85405702 (Tax ID)	Sigma.AI LLC (formerly known as Sigma Technologies Global LLC)
 Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8th Ave, Vancouver, BC, V5Z 1E5	Canada	BC1085262	Magnitude Software
@@ -103,7 +115,7 @@ Sutherland Global Services Bulgaria EOOD	All Google Cloud Platform Services	All	
 Sutherland Global Services Inc.	All Google Cloud Platform Services	All	Technical Support	Mexico	1160 Pittsford Victor Rd, Pittsford, New York 14534	United States of America	16-1287080 (Tax ID)	Sutherland Global Holdings Inc.
 Taos Mountain LLC, an IBM Company (formerly listed as Taos Mountain, LLC)	All Google Cloud Platform Services	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
 Teleperformance Global Services Private Limited	AI Platform Data Labeling	All	Data Labeling	India	Teleperformance Towers, Plot CST No. 1406 - A / 28, Mindspace, Goregaon (West), Mumbai – 400104, Maharashtra, India.	India	U72900MH2001PTC232120	Dutch Contact Centers (DCC) B.V.
-TELUS International AI Inc. (formerly listed as Lionbridge Global Sourcing Solutions, Inc.	Speech-to-Text	All	Voice Transcription	Finland and India	1050 Winter Street, Suite 2300, Waltham, MA 02451	United States of America	26-3123158(Tax ID)	Telus International (CDA) Inc.
+TELUS International AI Inc. (formerly listed as Lionbridge Global Sourcing Solutions, Inc.	Speech-to-Text	All	Voice Transcription	Finland and India	2251 South Decatur Boulevard, Las Vegas, NV 89102	United States of America	26-3123158(Tax ID)	TELUS International AI Acquisition Inc.
 Telus International (CDA) Inc.	All Google Cloud Platform Services	All	Technical Support	Canada	7th Floor, 510 West Georgia Street, Vancouver, BC V6B 0M3	Canada	BC1059858	TELUS Communications Inc.
 TELUS International Ireland (formerly listed as VoxPro Limited)	All Google Cloud Platform Services	All	Technical Support	Ireland	Voxpro House, Unit 6, Riverview Business Park, Blackrock, Cork	Ireland	390162	TELUS International Ireland Outsourcing Services Limited
 Transactel International Services Limited	All Google Cloud Platform Services	All	Technical Support	El Salvador, Guatemala and the Philippines	171, Old Bakery Street, Valletta, Malta	Malta	C 96117	TELUS International Ireland Outsourcing Services Limited
@@ -120,7 +132,7 @@ Affiliates of Third-Party Subprocessors
 Accenture International Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Accenture, Inc.	Firebase Services, Firestore	All	Technical Support	Philippines	7th Floor, Robinsons Cybergate 1, Pioneer St., Mandaluyong City	Philippines	ASO91-199207	Accenture plc
-Accenture LLP	Firebase Services, Firestore	All	Technical Support	United States of America	161 N. Clark Street, Suite 1100, Chicago, IL 60601	United States of America	000-622	Accenture plc
+Accenture LLP	Firebase Services, Firestore	All	Technical Support	United States of America	350 S. Northwest Highway, #300, Park Ridge, Cook, IL, 60068	United States of America	000-622	Accenture plc
 More
 
 Appen Butler Hill Inc. Affiliates
@@ -221,7 +233,7 @@ CData Software, Inc. 
 More
 Cognizant Worldwide Limited Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
-Cognizant Technology Solutions Argentina S.R.L.	All Google Cloud Platform Services	All	Technical Support	Argentina	Moreno 877, 6th floor, City of Buenos Aires, Argentina	Argentina	1780740	Cognizant Technology Solutions Corporation
+Cognizant Technology Solutions Argentina S.R.L.	All Google Cloud Platform Services	All	Technical Support	Argentina	Tucumán 3720, C1189 AAV, Buenos Aires, Argentina	Argentina	1780740	Cognizant Technology Solutions Corporation
 Cognizant Technology Solutions India Private Limited	
 
 All Google Cloud Platform Services
@@ -234,13 +246,13 @@ Technical Support
 
 Data Labeling
 
-	India	No. 5/535, Old Mahabalipuram Road, Okkiyam Thoraipakkam Chennai - 600 097, Tamil Nadu	India	U72300TN1994PTC026590	Cognizant Technology Solutions U.S. Corporation
-Cognizant Technology Solutions Ireland Limited	All Google Cloud Platform Services	All	Technical Support	Ireland	Block F3, Dunluce House, Eastpoint Business Park, Alfie Byrne Road, Dublin 13	Ireland	358105	Cognizant Technology Solutions U.S. Corporation
+	India	No. 5/535, Old Mahabalipuram Road, Okkiyam Thoraipakkam Chennai - 600 097, Tamil Nadu	India	U72300TN1994PTC026590	Cognizant Technology Solutions  Corporation
+Cognizant Technology Solutions Ireland Limited	All Google Cloud Platform Services	All	Technical Support	Ireland	39/40 Upper Mount Street, Dublin 2, Ireland	Ireland	358105	Cognizant Technology Solutions  Corporation
 More
 
 EPAM Systems, Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
-EPAM Systems (Australia) Pty Ltd	All Google Cloud Platform Services	All	Technical Support	Australia	33 Lexington Drive, Zhen Building, Level 2, Suite 2.14, Bella Vista, NSW 2153, Australia	Australia	166668293	EPAM Systems, Inc.
+EPAM Systems (Australia) Pty Ltd	All Google Cloud Platform Services	All	Technical Support	Australia	Level 19, 68 Pitt Street, Sydney, NSW, 2000, Australia	Australia	166668293	EPAM Systems, Inc.
 EPAM Systems Mexico S. de R.L. de C.V.	All Google Cloud Platform Services	All	Technical Support	Mexico	Av. Americas 1254, 20th and 21st floors, Country Club, Guadalajara, Jalisco, Mexico 44610	Mexico	ESM1503137K9 (Tax ID)	EPAM Systems, Inc.
 EPAM Systems (Poland) sp. z o.o.	All Google Cloud Platform Services	All	Technical Support	Poland	ul. Opolska 114, Kraków, MAL 31-323, Poland	Poland	KRS 0000390124	EPAM Systems, Inc.
 EPAM Systems (Switzerland) GmbH	All Google Cloud Platform Services	All	Technical Support	Switzerland	Boulevard Lilienthal 2, Glattpark (Opfikon) 8152, Switzerland	Switzerland	CHE-114.898.319	EPAM Systems, Inc.
@@ -248,7 +260,7 @@ More
 
 GlobalLogic Inc. Affiliates
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
-GlobalLogic Poland Sp z o.o.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland	Strzegomska 46B, 53-611,Wroclaw,Poland	Poland	PL894-29-24-978 (Tax ID)	GlobalLogic Inc.
+GlobalLogic Poland Sp z o.o.	AI Platform Data Labeling, Human-in-the-Loop AI	All	Data Labeling	Poland	Strzegomska 48A, 53-611,Wroclaw,Poland	Poland	PL894-29-24-978 (Tax ID)	GlobalLogic Inc.
 More
 
 HCL America Inc. Affiliate
@@ -309,7 +321,7 @@ Webhelp Holding Germany GmbH Affiliate
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Webhelp Israel LTD	All Google Cloud Platform Services	All	Technical Support	Israel	Herzog Tower, 6 Yitzhak Sadeh St., Tel Aviv 6777506, Israel	Israel	516485745	Webhelp SAS
 Webhelp Japan KK	All Google Cloud Platform Services	All	Technical Support	Japan	Tokyo Building Club, 11F, 3-2-6 Kasumigaseki, Chiyudo-ku, Tokyo	Japan	0100-01-207779	Webhelp SAS
-Webhelp SAC Peru	All Google Cloud Platform Services	All	Technical Support	Peru	Avenida Víctor Andrés Belaúnde No. 280, Int. 3, Urb.El Rosario, distrito de San Isidro, provincia departamento de Lima, Perú	Peru	20606433329	Webhelp Spain Holding S.l
+Webhelp SAC Peru	All Google Cloud Platform Services	All	Technical Support	Peru	Calle Santa Inés 115, Urbanización Industrial Santa Rosa, distrito Ate, 15023, Perú	Peru	20606433329	Webhelp Spain Holding S.l
 WEBHELP ROMANIA SRL	All Google Cloud Platform Services	All	Technical Support	Romania	Str. Dr. Iacob Felix, nr.63-69, et.2, sector 1, București	Romania	J40/14080/04.09.2006	Webhelp SAS
 Webhelp Spain Business Process Outsourcing, S.L.U. (formerly known as SELLBYTEL GROUP S.L.)	All Google Cloud Platform Services	All	Technical Support	Spain	Avenida Diagonal 197, 08018 Barcelona	Spain	B59829382	Webhelp Spain Holding S.l.
 Webhelp Americas LLC	All Google Cloud Platform Services	All	Technical Support	United States of America	80 SW 8th Street, Suite 2900, Miami, FL 33130	United States of America	83-1454340 (Tax ID)	Webhelp Holding Germany GmbH
@@ -318,7 +330,7 @@ Google Group Subprocessors
 
 Google engages the Google Affiliates in the table below to perform limited activities in connection with the Google Cloud Platform Services. The table shows what activity each entity performs and indicates if an entity is only relevant to a specific Service or Region. More information about each activity is provided directly below. This explains the limited processing of Customer Data the entity is authorized to perform.
 
-Data Center Operations: Operates and maintains the Google data center and equipment that stores Customer Data. The Subprocessor does not require access to Customer Data to perform this activity.
+Data Center Operations: Operates and maintains the Google data center and equipment that stores Customer Data. Subprocessor personnel do not require access to Customer Data to perform this activity.
 
 Service Maintenance: Software and systems engineering, maintenance and troubleshooting. In the course of performing this activity the Subprocessor may require limited, authorized access to Customer Data e.g. to remediate technical issues.
 
@@ -529,7 +541,11 @@ Service Maintenance
 
 Technical Support
 
-	India	Unit 204, 2nd Floor Signature Tower-II Tower A, Sector 15 Part II Silokhera Gurgaon, Haryana, India, 122001	India	U72900HR2016FTC064680
+	India	
+
+5th Floor, DLF Centre, Block-124 Narindra Place, Sansad Marg New Delhi 110001 India
+
+	India	U72900DL2016FTC376206
 Google India Pvt. Ltd.	All Google Cloud Platform Services	All	
 
 Service Maintenance
@@ -973,5 +989,5 @@ Multi-Cloud Service Third-Party Providers
 
 For customers using Google-Managed Multi-Cloud Services, to provide such Google-Managed Multi-Cloud Services, Google and its affiliates will engage the Multi-Cloud Service Third-Party Providers listed at https://cloud.google.com/terms/mcs-providers.
 
-PREVIOUS VERSIONS (Last modified March 24, 2022)
-January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified March 31, 2022)
+March 24, 2022  January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
