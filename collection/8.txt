@@ -179,15 +179,11 @@ Name
 
 Description
 
-Domains
+Controller
 
-Lifespan
+Learn More (Privacy Policy URL)
 
-Party
-
-Policy Link
-
-Use Type
+Web Domain
 
 Share this article
 Tweet
