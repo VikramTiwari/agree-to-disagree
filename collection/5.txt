@@ -1,87 +1,87 @@
-Chuyển tới
-Các phần của trang này
-Trợ giúp về trợ năng
-Nhấn alt + / để mở menu này
+Jump to
+Sections of this page
+Accessibility Help
+Press alt + / to open this menu
 Facebook
-Email hoặc điện thoại	Mật khẩu
+Email or phone	Password
 		
 	
-Quên tài khoản?
-Đăng ký
-Công ty Facebook giờ có tên là Meta. Vào ngày 04/01/2022, chúng tôi đã cập nhật Điều khoản sử dụng, Chính sách dữ liệu và Chính sách cookie để thể hiện tên mới này. Mặc dù tên công ty đã thay đổi nhưng chúng tôi vẫn tiếp tục cung cấp các sản phẩm tương tự, trong đó có ứng dụng Facebook from Meta. Chính sách dữ liệu và Điều khoản dịch vụ của chúng tôi giữ nguyên hiệu lực. Tên này không ảnh hưởng đến cách chúng tôi sử dụng hoặc chia sẻ dữ liệu. Tìm hiểu thêm về Meta và tầm nhìn của chúng tôi đối với vũ trụ kỹ thuật số.
+Forgot account?
+Sign Up
+The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
 
 
 
-Cookie và các công nghệ lưu trữ khác
-Cookie là các đoạn văn bản nhỏ dùng để lưu trữ thông tin trên trình duyệt web. Cookie được sử dụng để lưu trữ và nhận thông tin nhận dạng, cũng như thông tin khác trên máy tính, điện thoại và các thiết bị khác. Những công nghệ khác (bao gồm dữ liệu chúng tôi lưu trữ trên trình duyệt web hoặc thiết bị của bạn, thông tin nhận dạng liên quan đến thiết bị của bạn và phần mềm khác) được sử dụng cho các mục đích tương tự. Trong chính sách này, chúng tôi gọi tất cả những công nghệ đó là "cookie".
+Cookies & other storage technologies
+Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-Chúng tôi dùng cookie nếu bạn có tài khoản Facebook, sử dụng Sản phẩm của Meta (bao gồm trang web và ứng dụng của chúng tôi) hoặc truy cập vào các trang web và ứng dụng khác sử dụng Sản phẩm của Meta (chẳng hạn như nút Thích). Nhờ cookie, chúng tôi có thể cung cấp Sản phẩm của Meta cho bạn, cũng như hiểu được thông tin mà chúng tôi tiếp nhận về bạn, bao gồm cả thông tin về việc bạn sử dụng các trang web và ứng dụng khác, cho dù bạn đã đăng ký hoặc đăng nhập hay chưa.
+We use cookies if you have a Facebook account, use the Meta Products, including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-Chính sách này giải thích cách chúng tôi sử dụng cookie và cung cấp các lựa chọn dành cho bạn. Trừ khi được quy định khác trong chính sách này, Chính sách dữ liệu sẽ áp dụng cho việc chúng tôi xử lý dữ liệu thu thập được qua cookie.
-Tại sao chúng tôi sử dụng cookie?
+This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the Data Policy will apply to our processing of the data that we collect via cookies.
+Why do we use cookies?
 
-Thông qua cookie, chúng tôi có thể cung cấp, bảo vệ và cải thiện Sản phẩm của Meta, chẳng hạn như bằng cách cá nhân hóa nội dung, điều chỉnh và đo lường quảng cáo, cũng như mang lại trải nghiệm an toàn hơn. Các cookie mà chúng tôi sử dụng bao gồm cookie theo phiên duyệt web (được xóa khi bạn đóng trình duyệt) và cookie cố định (duy trì trên trình duyệt của bạn cho đến khi hết hạn hoặc đến khi bạn xóa). Mặc dù đôi khi các cookie chúng tôi sử dụng có thể thay đổi trong quá trình cải tiến và cập nhật Sản phẩm của Meta, chúng tôi dùng các cookie này cho những mục đích sau:
-Xác thực
-Chúng tôi sử dụng cookie để xác minh tài khoản của bạn và xác định thời điểm bạn đăng nhập, qua đó hỗ trợ bạn truy cập vào Sản phẩm của Meta dễ dàng hơn, đồng thời hiển thị cho bạn các tính năng và trải nghiệm phù hợp.
-Ví dụ: Chúng tôi sử dụng cookie để duy trì trạng thái đăng nhập của bạn khi bạn điều hướng giữa các Trang Facebook. Ngoài ra, với Cookie, chúng tôi sẽ ghi nhớ được trình duyệt của bạn để bạn không phải đăng nhập lại vào Facebook và để bạn có thể đăng nhập Facebook dễ dàng hơn thông qua các ứng dụng và trang web của bên thứ ba. Ví dụ: chúng tôi sử dụng các cookie "c_user" và "xs" cho mục đích này trong khoảng thời gian 365 ngày.
-Độ bảo mật, tính toàn vẹn của trang web và sản phẩm
-Chúng tôi sử dụng cookie để giữ an toàn và bảo mật cho tài khoản, dữ liệu của bạn cũng như Sản phẩm của Meta.
-Ví dụ: Với cookie, chúng tôi có thể xác định và áp dụng các biện pháp bảo mật bổ sung khi ai đó cố gắng truy cập trái phép vào một tài khoản Facebook, chẳng hạn như bằng cách đoán nhanh các mật khẩu khác nhau. Chúng tôi cũng sử dụng cookie để lưu trữ các thông tin hỗ trợ chúng tôi khôi phục tài khoản của bạn (trong trường hợp bạn quên mật khẩu) hoặc yêu cầu xác thực bổ sung (nếu bạn cho chúng tôi biết tài khoản của mình đã bị tấn công). Chẳng hạn, các cookie "sb" và "dbln" hỗ trợ chúng tôi xác định trình duyệt của bạn một cách an toàn.
-Chúng tôi cũng sử dụng cookie để chống lại hoạt động vi phạm chính sách của mình hoặc gây ảnh hưởng tiêu cực đến khả năng chúng tôi cung cấp Sản phẩm của Meta.
-Ví dụ: Nhờ cookie, chúng tôi có thể chống lại các cuộc tấn công spam và lừa đảo bằng cách xác định những máy tính được sử dụng để tạo ra số lượng lớn tài khoản Facebook giả mạo. Chúng tôi cũng sử dụng cookie để phát hiện máy tính bị nhiễm phần mềm độc hại và thực hiện các bước nhằm ngăn chặn những phần mềm này gây hại thêm. Chẳng hạn, chúng tôi dùng cookie "csrf" để ngăn chặn các cuộc tấn công giả mạo yêu cầu trên nhiều trang. Ngoài ra, với cookie, chúng tôi có thể ngăn những người chưa đủ tuổi đăng ký tài khoản Facebook.
-Quảng cáo, đề xuất, thông tin chi tiết và đo lường
-Chúng tôi sử dụng cookie để hiển thị quảng cáo và đưa ra đề xuất của các doanh nghiệp cũng như tổ chức khác cho những người có thể quan tâm đến sản phẩm, dịch vụ hoặc mục đích xã hội mà họ quảng cáo.
-Ví dụ: Thông qua cookie, chúng tôi có thể phân phối quảng cáo cho những người trước đây đã truy cập vào trang web của một doanh nghiệp, mua sản phẩm hoặc dùng ứng dụng của doanh nghiệp đó, đồng thời đề xuất các sản phẩm cũng như dịch vụ dựa trên hoạt động đó. Nhờ cookie, chúng tôi còn có thể giới hạn số lần bạn nhìn thấy một quảng cáo để bạn không bắt gặp một quảng cáo quá nhiều lần. Ví dụ: chúng tôi sử dụng cookie "fr" để phân phối, đo lường và cải thiện mức độ phù hợp của quảng cáo trong khoảng thời gian 90 ngày.
-Chúng tôi cũng dùng cookie để đo lường hiệu quả của chiến dịch quảng cáo cho các doanh nghiệp sử dụng Sản phẩm của Meta.
-Ví dụ: Chúng tôi sử dụng cookie để đếm số lần hiển thị quảng cáo và tính chi phí của các quảng cáo đó. Ngoài ra, chúng tôi còn dùng cookie để đo lường tần suất mọi người thực hiện hành động (chẳng hạn như mua hàng) sau một lượt hiển thị quảng cáo. Ví dụ: cookie "_fbp" xác định các trình duyệt để cung cấp những dịch vụ quảng cáo và phân tích trang web trong khoảng thời gian 90 ngày.
-Nhờ cookie, chúng tôi có thể phân phối và đo lường quảng cáo trên các trình duyệt và thiết bị khác nhau do cùng một người sử dụng.
-Ví dụ: Chúng tôi có thể sử dụng cookie để tránh việc bạn phải nhìn thấy cùng một quảng cáo quá nhiều lần trên các thiết bị khác nhau mà bạn sử dụng.
-Nhờ cookie, chúng tôi còn có thể cung cấp thông tin chi tiết về những người dùng Sản phẩm của Meta, cũng như những người tương tác với quảng cáo, trang web, ứng dụng của các nhà quảng cáo và doanh nghiệp sử dụng Sản phẩm của Meta.
-Ví dụ: Chúng tôi sử dụng cookie để hỗ trợ doanh nghiệp nắm được những kiểu người thích Trang Facebook hoặc dùng ứng dụng của họ, qua đó họ có thể cung cấp nội dung phù hợp hơn và phát triển các tính năng mà khách hàng có thể quan tâm.
-Chúng tôi cũng dùng các cookie (chẳng hạn như "oo") trong khoảng thời gian 5 năm để bạn có thể chọn không thấy quảng cáo từ Meta dựa theo hoạt động của bạn trên các trang web bên thứ ba. Tìm hiểu thêm về thông tin chúng tôi nhận được, cách chúng tôi quyết định sẽ hiển thị cho bạn quảng cáo nào trên và ngoài Sản phẩm của Meta, cũng như các biện pháp kiểm soát dành cho bạn.
-Các tính năng và dịch vụ của trang web
-Chúng tôi dùng cookie để kích hoạt chức năng nhằm cung cấp Sản phẩm của Meta.
-Ví dụ: Nhờ cookie, chúng tôi có thể lưu trữ các tùy chọn, biết thời điểm bạn đã xem hoặc tương tác với nội dung trong Sản phẩm của Meta, đồng thời cung cấp cho bạn nội dung và trải nghiệm phù hợp. Ví dụ: cookie hỗ trợ chúng tôi đưa ra đề xuất cho bạn và người khác, tùy chỉnh nội dung trên trang web bên thứ ba tích hợp với các plugin xã hội của Meta. Nếu là quản trị viên Trang Facebook, thông qua cookie, bạn có thể chuyển đổi giữa việc đăng từ Trang Facebook và tài khoản Facebook cá nhân của mình. Chúng tôi dùng các cookie (chẳng hạn như "presence" dựa trên phiên truy cập) để hỗ trợ bạn sử dụng cửa sổ chat Messenger.
-Chúng tôi cũng sử dụng cookie để cung cấp cho bạn nội dung phù hợp với ngôn ngữ của bạn.
-Ví dụ: Chúng tôi lưu trữ thông tin trong một cookie được đặt trên trình duyệt hoặc thiết bị của bạn. Vì vậy, bạn sẽ nhìn thấy trang web bằng ngôn ngữ mình thường dùng.
-Hiệu quả
-Chúng tôi sử dụng cookie để mang đến cho bạn trải nghiệm tốt nhất có thể.
-Ví dụ: Nhờ cookie, chúng tôi có thể định tuyến lưu lượng truy cập giữa các máy chủ và nắm được tốc độ tải Sản phẩm của Meta đối với những người khác nhau. Ngoài ra, cookie còn hỗ trợ chúng tôi ghi lại thông tin về tỷ lệ, kích thước màn hình, cửa sổ của bạn và biết được bạn đã bật chế độ tương phản cao hay chưa, nhờ đó có thể hiển thị chính xác các trang web cũng như ứng dụng. Ví dụ: chúng tôi đặt các cookie "dpr" và "wd" (mỗi cookie trong khoảng thời gian 7 ngày) để mang đến trải nghiệm tối ưu cho màn hình thiết bị của bạn.
-Phân tích và nghiên cứu
-Chúng tôi sử dụng cookie để hiểu rõ hơn cách mọi người dùng Sản phẩm của Meta, qua đó có thể cải thiện các sản phẩm này.
-Ví dụ: Với cookie, chúng tôi có thể nắm được cách mọi người sử dụng dịch vụ của Facebook, phân tích xem mọi người thấy phần nào trong Sản phẩm của chúng tôi hữu ích và hấp dẫn nhất, cũng như xác định các tính năng có thể cải thiện.
-Trang web và ứng dụng của bên thứ ba
-Các đối tác kinh doanh của chúng tôi cũng có thể chọn chia sẻ với Meta thông tin thu thập từ cookie đặt trên các miền trang web của họ, cho dù bạn có tài khoản Facebook hoặc đã đăng nhập hay chưa. Cụ thể, các cookie có tên _fbc hoặc _fbp có thể được đặt trên miền của đối tác kinh doanh sở hữu trang web bạn đang truy cập. Khác với những cookie đặt trên miền riêng của Meta, chúng tôi sẽ không sử dụng được các cookie này khi bạn đang ở một trang web không phải là trang web đặt cookie, kể cả khi bạn đang ở trên một trong các miền của chúng tôi. Các cookie này có cùng mục đích với những cookie đặt trên miền riêng của Meta, đó là cá nhân hóa nội dung (kể cả quảng cáo), đo lường quảng cáo, tạo dữ liệu phân tích và mang lại trải nghiệm an toàn hơn, như được nêu trong Chính sách cookie này.
-Chúng tôi sử dụng cookie ở đâu?
-Chúng tôi có thể đặt cookie trên máy tính/thiết bị của bạn và nhận thông tin lưu trữ trong cookie, khi bạn sử dụng hoặc truy cập vào:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Authentication
+We use cookies to verify your account and determine when you’re logged in so that we can make it easier for you to access the Meta Products and show you the appropriate experience and features.
+For example: We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c_user" and "xs" cookies, including for this purpose, which have a lifespan of 365 days.
+Security, site and product integrity
+We use cookies to help us keep your account, data and the Meta Products safe and secure.
+For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely.
+We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
+For example: Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. Cookies also help us prevent underage people from registering for Facebook accounts.
+Advertising, recommendations, insights and measurement
+We use cookies to help us show ads and to make recommendations for businesses and other organisations to people who may be interested in the products, services or causes they promote.
+For example: Cookies allow us to help deliver ads to people who have previously visited a business’s website, purchased its products or used its apps and to recommend products and services based on that activity. Cookies also allow us to limit the number of times that you see an ad so you don’t see the same ad over and over again. For example, the "fr" cookie is used to deliver, measure and improve the relevancy of ads, with a lifespan of 90 days.
+We also use cookies to help measure the performance of ad campaigns for businesses that use the Meta Products.
+For example: We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. For example, the "_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days.
+Cookies help us serve and measure ads across different browsers and devices used by the same person.
+For example: We can use cookies to prevent you from seeing the same ad over and over again across the different devices that you use.
+Cookies also allow us to provide insights about the people who use the Meta Products, as well as the people who interact with the ads, websites and apps of our advertisers and the businesses that use the Meta Products.
+For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
+We also use cookies, such as our "oo" cookie, which has a lifespan of five years, to help you opt out of seeing ads from Meta based on your activity on third-party websites. Learn more about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+Site features and services
+We use cookies to enable the functionality that helps us provide the Meta Products.
+For example: Cookies help us store preferences, know when you’ve seen or interacted with Meta Products’ content and provide you with customised content and experiences. For instance, cookies allow us to make suggestions to you and others, and to customise content on third-party sites that integrate our social plugins. If you are a Facebook Page administrator, cookies allow you to switch between posting from your personal Facebook account and the Facebook Page. We use cookies such as the session-based "presence" cookie to support your use of Messenger chat windows.
+We also use cookies to help provide you with content relevant to your locale.
+For example: We store information in a cookie that is placed on your browser or device so that you will see the site in your preferred language.
+Performance
+We use cookies to provide you with the best experience possible.
+For example: Cookies help us route traffic between servers and understand how quickly Meta Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you’ve enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, for purposes including to deliver an optimal experience for your device’s screen.
+Analytics and research
+We use cookies to better understand how people use the Meta Products so that we can improve them.
+For example: Cookies can help us understand how people use the Facebook service, analyse which parts of our Products people find most useful and engaging, and identify features that could be improved.
+Third-party websites and apps
+Our business partners may also choose to share information with Meta from cookies set in their own websites' domains, whether or not you have a Facebook account or are logged in. Specifically, cookies named _fbc or _fbp may be set on the domain of the business partner whose site you're visiting. Unlike cookies that are set on Meta's own domains, these cookies aren’t accessible by Meta when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Meta's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
+Where do we use cookies?
+We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
 
 
-Các Sản phẩm của Meta;
-Các sản phẩm do thành viên khác trong Các công ty của Meta cung cấp; và
-Các trang web và ứng dụng do công ty khác (sử dụng Sản phẩm của Meta) cung cấp, bao gồm các công ty tích hợp Công nghệ của Meta vào trang web và ứng dụng của họ. Meta sử dụng cookie và nhận thông tin khi bạn truy cập vào các trang web cũng như ứng dụng đó, bao gồm thông tin thiết bị và thông tin về hoạt động của bạn, mà không cần bạn phải hành động thêm. Điều này xảy ra cho dù bạn có tài khoản Facebook hoặc đã đăng nhập hay chưa.
-Các Công ty khác có sử dụng cookie liên quan đến Sản phẩm của Meta không?
-Có, các công ty khác sử dụng cookie trên Sản phẩm của Meta để cung cấp dịch vụ quảng cáo, đo lường, tiếp thị và phân tích cho chúng tôi, cũng như cung cấp một số tính năng và cải thiện dịch vụ của chúng tôi cho bạn.
+The Meta Products;
+Products provided by other members of the Meta Companies; and
+Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+Do other Companies use cookies in connection with the Meta Products?
+Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
 
-Ví dụ: nhờ có cookie của các công ty khác mà chúng tôi có thể điều chỉnh quảng cáo bên ngoài Sản phẩm của Meta cho phù hợp, đo lường hiệu quả và tác dụng của các quảng cáo đó, cũng như hỗ trợ dịch vụ tiếp thị và phân tích. Một vài tính năng trên Sản phẩm của Meta hoạt động nhờ vào cookie của các công ty khác, chẳng hạn như một số tính năng bảo mật, thanh toán và bản đồ. Tìm hiểu thêm về các công ty sử dụng cookie trên Sản phẩm của Meta.
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more about the companies that use cookies on the Meta Products.
 
-Các công ty bên thứ ba cũng sử dụng cookie liên quan đến Sản phẩm của Meta trên trang web và ứng dụng riêng của mình. Để hiểu cách các công ty khác sử dụng cookie, vui lòng xem lại chính sách của họ.
-Bạn có thể kiểm soát Thông tin của mình bằng cách nào?
-Chúng tôi sử dụng cookie để cá nhân hóa và cải thiện nội dung cũng như dịch vụ, mang lại trải nghiệm an toàn hơn, hiển thị cho bạn những quảng cáo hữu ích và phù hợp cả trên lẫn ngoài Sản phẩm của Meta. Bạn có thể dùng các công cụ được mô tả bên dưới nhằm kiểm soát cách chúng tôi sử dụng dữ liệu để hiển thị cho bạn quảng cáo và nhiều nội dung khác.
-Nếu có tài khoản Facebook:
-Bạn có thể dùng tùy chọn quảng cáo để tìm hiểu lý do bạn nhìn thấy một quảng cáo cụ thể, đồng thời kiểm soát cách chúng tôi sử dụng thông tin thu thập được để hiển thị quảng cáo cho bạn.
-Để hiển thị quảng cáo phù hợp hơn cho bạn, chúng tôi sử dụng dữ liệu mà những nhà quảng cáo và đối tác khác cung cấp về hoạt động của bạn bên ngoài Sản phẩm của các công ty thuộc Meta, bao gồm các trang web và ứng dụng. Bạn có thể truy cập vào phần cài đặt quảng cáo nhằm kiểm soát liệu chúng tôi có sử dụng dữ liệu này để hiển thị quảng cáo cho bạn hay không.
-Thông qua Meta Audience Network, nhà quảng cáo có thể hiển thị quảng cáo cho bạn trong các ứng dụng và trang web bên ngoài Sản phẩm của các công ty thuộc Meta. Một trong những cách Audience Network hiển thị quảng cáo phù hợp là sử dụng tùy chọn quảng cáo của bạn để xác định quảng cáo bạn có thể muốn thấy. Bạn có thể kiểm soát tùy chọn này trong phần cài đặt quảng cáo.
-Bạn có thể xem lại Hoạt động bên ngoài Facebook của mình. Đây là thông tin tóm tắt hoạt động mà các doanh nghiệp và tổ chức chia sẻ với chúng tôi về những tương tác bạn thực hiện với họ, chẳng hạn như truy cập vào ứng dụng/trang web của họ. Họ dùng các công cụ kinh doanh của chúng tôi (chẳng hạn như Meta pixel) để chia sẻ thông tin này với chúng tôi. Nhờ đó, chúng tôi có thể mang lại cho bạn trải nghiệm phù hợp hơn trên Sản phẩm của Meta. Tìm hiểu thêm về hoạt động bên ngoài Facebook, cách chúng tôi sử dụng thông tin về hoạt động đó và cách bạn có thể quản lý thông tin.
-Mọi người:
-Bạn có thể chọn không xem quảng cáo trực tuyến dựa trên sở thích từ Meta và các công ty tham gia khác thông qua Liên minh quảng cáo kỹ thuật số tại Hoa Kỳ, Liên minh quảng cáo kỹ thuật số của Canada tại Canada hoặc Liên minh quảng cáo kỹ thuật số tương tác châu Âu tại châu Âu hay thông qua phần cài đặt (nếu có) của thiết bị di động chạy Android, iOS 13 hoặc phiên bản trước của iOS. Lưu ý rằng các công cụ và trình chặn quảng cáo hạn chế việc chúng tôi sử dụng cookie có thể cản trở các tùy chọn kiểm soát này.
-Thông tin thêm về quảng cáo trực tuyến:
-Những công ty quảng cáo hợp tác với chúng tôi thường sử dụng cookie và các công nghệ tương tự trong dịch vụ của họ. Để tìm hiểu thêm về cách nhà quảng cáo thường sử dụng cookie và những lựa chọn mà họ cung cấp, bạn có thể xem lại các thông tin và nguồn lực sau:
+Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
+How can you control your Information?
+We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Meta Products. You can control how we use data to show you ads and more by using the tools described below.
+If you have a Facebook account:
+You can use your ad preferences to learn why you’re seeing a particular ad and control how we use information that we collect to show you ads.
+To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your ad settings.
+The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the Meta Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your ad settings.
+You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our business tools, such as Meta Pixel, to share this information with us. This helps us do things like give you a more personalised experience on Meta Products. Learn more about off-Facebook activity, how we use it and how you can manage it.
+Everyone:
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the Digital Advertising Alliance in the US, the Digital Advertising Alliance of Canada in Canada or the European Interactive Digital Advertising Alliance in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+More information about online advertising:
+The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
-Liên minh quảng cáo kỹ thuật số
-Liên minh quảng cáo kỹ thuật số của Canada
-Liên minh quảng cáo kỹ thuật số tương tác châu Âu
-Các tùy chọn kiểm soát cookie trên trình duyệt:
-Ngoài ra, trình duyệt hoặc thiết bị của bạn có thể cung cấp các tùy chọn cài đặt để bạn chọn có đặt cookie trên trình duyệt hay không và xóa các cookie đó. Mỗi trình duyệt sẽ đưa ra các biện pháp kiểm soát khác nhau. Nhà sản xuất có thể thay đổi cả chế độ cài đặt mà họ cung cấp lẫn cách hoạt động của những chế độ đó bất cứ lúc nào. Kể từ ngày 23/06/2021, bạn có thể truy cập vào các liên kết bên dưới để tìm thêm thông tin về các biện pháp kiểm soát mà những trình duyệt phổ biến cung cấp. Một số phần trong Sản phẩm của Meta có thể không hoạt động bình thường nếu bạn đã vô hiệu hóa việc sử dụng cookie trên trình duyệt. Vui lòng lưu ý rằng các biện pháp kiểm soát này khác với các biện pháp mà chúng tôi cung cấp cho bạn.
+Digital Advertising Alliance
+Digital Advertising Alliance of Canada
+European Interactive Digital Advertising Alliance
+Browser cookie controls:
+In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
 
 Google Chrome
 Internet Explorer
@@ -91,20 +91,20 @@ Safari Mobile
 Opera
 
 
-Ngày sửa đổi gần nhất: 04/01/2022
-Tiếng Việt
-English (UK)
-中文(台灣)
-한국어
-日本語
-Français (France)
-ภาษาไทย
+Date of last revision: 4 January 2022
+English (US)
 Español
+Français (France)
+中文(简体)
+العربية
 Português (Brasil)
-Deutsch
 Italiano
-Đăng kýĐăng nhậpMessengerFacebook LiteWatchĐịa điểmTrò chơiMarketplaceFacebook PayOculusPortalInstagramBulletinĐịa phươngChiến dịch gây quỹDịch vụTrung tâm thông tin bỏ phiếuNhómGiới thiệuTạo quảng cáoTạo TrangNhà phát triểnTuyển dụngQuyền riêng tưCookieLựa chọn quảng cáo
-Điều khoảnTrợ giúp
-Cài đặt
-Nhật ký hoạt động
+한국어
+Deutsch
+हिन्दी
+日本語
+Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceFacebook PayOculusPortalInstagramBulletinLocalFundraisersServicesVoting Information CenterGroupsAboutCreate AdCreate PageDevelopersCareersPrivacyCookiesAd choices
+TermsHelp
+Settings
+Activity log
 Meta © 2022
