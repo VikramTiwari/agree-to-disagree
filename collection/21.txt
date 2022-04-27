@@ -108,12 +108,11 @@ Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India, 
 Linguistix Tank Inc.	Speech-to-Text	All	Voice Transcription	Canada	4312 Village Centre Court, Mississauga, Ontario, Canada, L4Z 1S2	Canada	807066576	N/A
 Productive Playhouse, Inc.	Speech-to-Text	All	Voice Transcription	India, Thailand and United States of America	Productive Playhouse, Inc., 25231 Paseo de Alicia, Suite 205, Laguna Hills, CA 92653	United States of America	C3185390	N/A
 PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	Shibadaimon 1F, 2-1-16.Shibadaimon,  Minato-ku, Tokyo, 105-0012, Japan	Japan	0118-01-025525	N/A
-SID Global Solutions, LLC	Apigee	All	Technical Support	India and United States of America	224 Valley Creek Blvd, Suite 220, Exton, PA 19341	United States of America	22-39129248 (Tax ID)	N/A
 Sigma Technologies SLU	Speech-to-Text	All	Voice Transcription	Spain	Avenida de Burgos, 114; First floor; 28050 - Madrid	Spain	B85405702 (Tax ID)	Sigma.AI LLC (formerly known as Sigma Technologies Global LLC)
 Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8th Ave, Vancouver, BC, V5Z 1E5	Canada	BC1085262	Magnitude Software
 Sutherland Global Services Bulgaria EOOD	All Google Cloud Platform Services	All	Technical Support	Bulgaria	82, Patriarch Evtimii Blvd. 82, fl.1, Sofia 164	Bulgaria	200182310	SGS Cayman, L.P.
 Sutherland Global Services Inc.	All Google Cloud Platform Services	All	Technical Support	Mexico	1160 Pittsford Victor Rd, Pittsford, New York 14534	United States of America	16-1287080 (Tax ID)	Sutherland Global Holdings Inc.
-Taos Mountain LLC, an IBM Company (formerly listed as Taos Mountain, LLC)	All Google Cloud Platform Services	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
+Taos Mountain LLC, an IBM Company (formerly listed as Taos Mountain, LLC)	Transfer Appliance	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
 Teleperformance Global Services Private Limited	AI Platform Data Labeling	All	Data Labeling	India	Teleperformance Towers, Plot CST No. 1406 - A / 28, Mindspace, Goregaon (West), Mumbai – 400104, Maharashtra, India.	India	U72900MH2001PTC232120	Dutch Contact Centers (DCC) B.V.
 TELUS International AI Inc. (formerly listed as Lionbridge Global Sourcing Solutions, Inc.	Speech-to-Text	All	Voice Transcription	Finland and India	2251 South Decatur Boulevard, Las Vegas, NV 89102	United States of America	26-3123158(Tax ID)	TELUS International AI Acquisition Inc.
 Telus International (CDA) Inc.	All Google Cloud Platform Services	All	Technical Support	Canada	7th Floor, 510 West Georgia Street, Vancouver, BC V6B 0M3	Canada	BC1059858	TELUS Communications Inc.
@@ -142,6 +141,8 @@ Appen Services Philippines	Speech-to-Text	All	Voice Transcription	Philippines	BP
 More
 
 Canonical Group Limited Affiliates
+
+
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Canonical Holdings Limited	Anthos	All	Technical Support	Isle of Man	12-14 Finch Road, Douglas, IM1 2PT, Isle of Man	Isle of Man	014840V	Canonical Group Limited
 Canonical Limited	Anthos	All	Technical Support	Isle of Man	12-14 Finch Road, Douglas, IM1 2PT, Isle of Man	Isle of Man	014839V	Canonical Holdings Limited
@@ -151,7 +152,10 @@ Canonical USA Inc.	Anthos	All	Technical Support	United States of America	9 E. Lo
 Canonical Group Limited Taiwan	Anthos	All	Technical Support	Taiwan	Room D, 46F, No. 7, Xin Yi Rd., Sec.5, Taipei 101, 11049 Taiwan	Taiwan	24798961	Canonical Group Limited
 Canonical Japan KK	Anthos	All	Technical Support	Japan	c/o Mazars Japan K.K., ATT New Tower 11F, 2-11-7, Akasaka, Minato-ku, Tokyo, Japan	Japan	2010401125558	Canonical Group Limited
 Canonical Canada Ltd	Anthos	All	Technical Support	Canada	1000 De la Gauchetière Street West, Suite 2500, Montreal, Quebec H3B 0A2	Canada	1166351081	Canonical Group Limited
-Canonical Brasil Serviços de Software Ltda.	Anthos	All	Technical Support	Brazil	Avenida Marquês de São Vicente, 230, Conjunto 1218, sala 05, Barra Funda, Zip Code 01139-000 São Paulo	Brazil	CNPJ: 39.993.703/0001-01	Canonical Group Limited
+Canonical Brasil Serviços de Software Ltda.	Anthos	All	Technical Support	Brazil	Avenida Marquês de São Vicente, 230, Conjunto 1218, sala 05, Barra Funda, Zip Code 01139-000 São Paulo	Brazil	CNPJ: 39.993.703/0001-01	
+
+Canonical Group Limited
+
 More
 
 CData Software Inc. Affiliate
@@ -231,7 +235,10 @@ U72900KA2020PTC142412
 CData Software, Inc. 
 
 More
+
 Cognizant Worldwide Limited Affiliates
+
+
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 Cognizant Technology Solutions Argentina S.R.L.	All Google Cloud Platform Services	All	Technical Support	Argentina	Tucumán 3720, C1189 AAV, Buenos Aires, Argentina	Argentina	1780740	Cognizant Technology Solutions Corporation
 Cognizant Technology Solutions India Private Limited	
@@ -989,5 +996,5 @@ Multi-Cloud Service Third-Party Providers
 
 For customers using Google-Managed Multi-Cloud Services, to provide such Google-Managed Multi-Cloud Services, Google and its affiliates will engage the Multi-Cloud Service Third-Party Providers listed at https://cloud.google.com/terms/mcs-providers.
 
-PREVIOUS VERSIONS (Last modified March 31, 2022)
-March 24, 2022  January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified April 26, 2022)
+March 31, 2022  March 24, 2022  January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
