@@ -1,7 +1,7 @@
 SKIP TO MAIN CONTENT
 Slack Subprocessors
 
-Effective: October 1, 2021
+Effective: April 29, 2022
 
 To support delivery of our Services, Slack Technologies, LLC (or one of its Affiliates listed below), may engage and use data processors with access to certain Customer Data (each, a "Subprocessor"). This page provides important information about the identity, location and role of each Subprocessor. Terms used on this page but not defined have the meaning set forth in the Customer Terms of Service (or if applicable, the superseding written agreement between Customer and Slack or a Slack affiliate(s)) (the "Agreement").
 
