@@ -109,7 +109,7 @@ Linguistix Tank Inc.	Speech-to-Text	All	Voice Transcription	Canada	4312 Village 
 Productive Playhouse, Inc.	Speech-to-Text	All	Voice Transcription	India, Thailand and United States of America	Productive Playhouse, Inc., 25231 Paseo de Alicia, Suite 205, Laguna Hills, CA 92653	United States of America	C3185390	N/A
 PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	Shibadaimon 1F, 2-1-16.Shibadaimon,  Minato-ku, Tokyo, 105-0012, Japan	Japan	0118-01-025525	N/A
 Sigma Technologies SLU	Speech-to-Text	All	Voice Transcription	Spain	Avenida de Burgos, 114; First floor; 28050 - Madrid	Spain	B85405702 (Tax ID)	Sigma.AI LLC (formerly known as Sigma Technologies Global LLC)
-Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8th Ave, Vancouver, BC, V5Z 1E5	Canada	BC1085262	Magnitude Software
+Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8th Ave, Vancouver, BC, V5Z 1E5	Canada	BC1085262	insightsoftware, LLC.
 Sutherland Global Services Bulgaria EOOD	All Google Cloud Platform Services	All	Technical Support	Bulgaria	82, Patriarch Evtimii Blvd. 82, fl.1, Sofia 164	Bulgaria	200182310	SGS Cayman, L.P.
 Sutherland Global Services Inc.	All Google Cloud Platform Services	All	Technical Support	Mexico	1160 Pittsford Victor Rd, Pittsford, New York 14534	United States of America	16-1287080 (Tax ID)	Sutherland Global Holdings Inc.
 Taos Mountain LLC, an IBM Company (formerly listed as Taos Mountain, LLC)	Transfer Appliance	All	Technical Support	United States of America	121 Daggett Dr., San Jose, CA, 95134	United States of America	77-0441371 (Tax ID)	IBM Corp.
@@ -117,7 +117,31 @@ Teleperformance Global Services Private Limited	AI Platform Data Labeling	All	Da
 TELUS International AI Inc. (formerly listed as Lionbridge Global Sourcing Solutions, Inc.	Speech-to-Text	All	Voice Transcription	Finland and India	2251 South Decatur Boulevard, Las Vegas, NV 89102	United States of America	26-3123158(Tax ID)	TELUS International AI Acquisition Inc.
 Telus International (CDA) Inc.	All Google Cloud Platform Services	All	Technical Support	Canada	7th Floor, 510 West Georgia Street, Vancouver, BC V6B 0M3	Canada	BC1059858	TELUS Communications Inc.
 TELUS International Ireland (formerly listed as VoxPro Limited)	All Google Cloud Platform Services	All	Technical Support	Ireland	Voxpro House, Unit 6, Riverview Business Park, Blackrock, Cork	Ireland	390162	TELUS International Ireland Outsourcing Services Limited
-Transactel International Services Limited	All Google Cloud Platform Services	All	Technical Support	El Salvador, Guatemala and the Philippines	171, Old Bakery Street, Valletta, Malta	Malta	C 96117	TELUS International Ireland Outsourcing Services Limited
+
+
+TELUS International Services Limited
+
+	
+
+All Google Cloud Platform Services
+
+	All	
+
+Technical Support
+
+	
+
+El Salvador, Guatemala and the Philippines
+
+	
+
+Voxpro House, Point Village, East Wall Road, Dublin 1, Ireland
+
+	Ireland	669282	
+
+TELUS International (Cda) Inc.
+
+
 Webhelp Holding Germany GmbH	All Google Cloud Platform Services	All	Technical Support	Israel, Japan, Romania, Spain, Peru and United States of America	Tullnaustrasse 20, 90402, Nuremberg	Germany	HRB 37006	Webhelp SAS
 Webhelp Malaysia Sdn. Bhd (formerly listed as Sellbytel Services Malaysia Sdn. Bhd.) 	
 
@@ -317,11 +341,11 @@ Lb Ai Finland Oy	Speech-to-Text	All	Voice Transcription	Finland	Visiokatu 1 3372
 Xavient Infotech Private Limited	Speech-to-Text	All	Voice Transcription	India	514 DLF Towers B Jasola New Delhi South Delhi – Delhi 110025, India	India	U72300DL2010PTC197821	TELUS International AI Inc.
 More
 
-Transactel International Services Limited Affiliates
+TELUS International Services Limited
 Entity name	Relevant Google Cloud Platform Service(s)	Applicable Cloud Region(s)	Activity	Country where processing is performed	Registered address	Country of registration	Company number	Parent company
 TELUS International Philippines, Inc.	All Google Cloud Platform Services	All	Technical Support	Philippines	31. Floor Discovery Centre, 25 ADB Ave. Ortigas Center, Pasig City, Philippines	Philippines	A200105382	Ambergris Solutions, Inc.
-Transactel El Salvador, S.A. de C.V.	All Google Cloud Platform Services	All	Technical Support	El Salvador	Calle Chiltiupan y 17 Avenida Norte; Torre Transactel; Plaza Merliot; La Libertad; Santa Tecla; El Salvador	El Salvador	0614-310506-103-7 (Tax ID)	Transactel International Services Limited
-Transactel, Sociedad Anonima	All Google Cloud Platform Services	All	Technical Support	Guatemala	18 calle 25-86 zona 10 Edificio Torre Pradera nivel 2. Guatemala, Guatemala	Guatemala	4017225-2 (Tax ID)	Transactel International Services Limited
+Transactel El Salvador, S.A. de C.V.	All Google Cloud Platform Services	All	Technical Support	El Salvador	Calle Chiltiupan y 17 Avenida Norte; Torre Transactel; Plaza Merliot; La Libertad; Santa Tecla; El Salvador	El Salvador	0614-310506-103-7 (Tax ID)	TELUS International Services Limited
+Transactel, Sociedad Anonima	All Google Cloud Platform Services	All	Technical Support	Guatemala	18 calle 25-86 zona 10 Edificio Torre Pradera nivel 2. Guatemala, Guatemala	Guatemala	4017225-2 (Tax ID)	TELUS International Services Limited
 More
 
 Webhelp Holding Germany GmbH Affiliate
@@ -992,5 +1016,5 @@ Multi-Cloud Service Third-Party Providers
 
 For customers using Google-Managed Multi-Cloud Services, to provide such Google-Managed Multi-Cloud Services, Google and its affiliates will engage the Multi-Cloud Service Third-Party Providers listed at https://cloud.google.com/terms/mcs-providers.
 
-PREVIOUS VERSIONS (Last modified May 5, 2022)
-April 26, 2022  March 31, 2022  March 24, 2022  January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified June 13, 2022)
+May 5, 2022  April 26, 2022  March 31, 2022  March 24, 2022  January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
