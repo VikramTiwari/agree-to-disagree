@@ -1,6 +1,3 @@
-search
-Sign In
-Register
 menu
 Skip to
 content
@@ -37,6 +34,9 @@ auto_awesome_motion
 
 View Active Events
 
+search
+Sign In
+Register
 Privacy Policy
 
 Em português

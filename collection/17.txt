@@ -1,6 +1,3 @@
-search
-Sign In
-Register
 menu
 Skip to
 content
@@ -37,6 +34,9 @@ auto_awesome_motion
 
 View Active Events
 
+search
+Sign In
+Register
 Terms
 
 PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS. IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.
