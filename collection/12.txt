@@ -7,7 +7,7 @@ GitHub Terms of Service
 GitHub Corporate Terms of Service
 GitHub Terms for Additional Products and Features
 GitHub Community Guidelines
-GitHub Community Forum Code of Conduct
+GitHub Community Code of Conduct
 GitHub Sponsors Additional Terms
 GitHub Registered Developer Agreement
 GitHub Marketplace Terms of Service
@@ -24,7 +24,6 @@ Security Policies
 GitHub Company Policies
 Site policy/GitHub Terms/GitHub Terms of Service
 Free, Pro, & Team
-English
 Search GitHub Docs
 GitHub Terms of Service
 In this article
