@@ -61,7 +61,7 @@ In some cases we seek diagnostic reports and other troubleshooting, bug, and cra
 
 Diagnostic Data may contain sensitive information about your devices and operating environment as well as personally identifying information. Although there may be occasions when we ask for Diagnostic Data to assist you with a problem, you are never obligated to provide it.
 
-Diagnostic data never includes decrypted Secure Data. We will never ask for your Master Password or Secret Key.
+Diagnostic data never includes decrypted Secure Data. We will never ask for your Account Password or Secret Key.
 
 Keeping Your Information Safe
 
@@ -117,16 +117,16 @@ We may use your contact information, that is, the contact email address provided
 
 Your Responsibilities for Protecting Your Data
 
-When you create a 1Password account you will receive a Secret Key and will be prompted to create a Master Password. Your Secret Key is generated on your computer and your Master Password is something you create yourself. For your protection, you should create a strong and unique Master Password to ensure that it is not easily guessed.
+When you create a 1Password account you will receive a Secret Key and will be prompted to create a Account Password. Your Secret Key is generated on your computer and your Account Password is something you create yourself. For your protection, you should create a strong and unique Account Password to ensure that it is not easily guessed.
 
-It is extremely important that you understand that anyone with both your Secret Key and Master Password can access your Secure Data. It is equally important that you keep a copy in a safe place for your own reference, because future access to your Secure Data depends on having access to both your Secret Key and your Master Password. We will never ask you for your Master Password or your full Secret Key, and you should never send it to us or anyone.
+It is extremely important that you understand that anyone with both your Secret Key and Account Password can access your Secure Data. It is equally important that you keep a copy in a safe place for your own reference, because future access to your Secure Data depends on having access to both your Secret Key and your Account Password. We will never ask you for your Account Password or your full Secret Key, and you should never send it to us or anyone.
 
 Due to the nature of our design and the sensitivity of the information you entrust to us (even in encrypted form), it may not be possible for us to help you with certain customer service requests unless you are listed as an account owner and are communicating from your verified email address. In the event that you change your email address, it is very important that you update your email on your 1Password account(s) or you may eventually lose access.
 
 Data Protection Principles that We Practice
 (i) Data Portability
 
-We want happy customers, not trapped ones. We will not lock you out of your own data. However, we are unable to decrypt your Secure Data; you will need your Master Password and Secret Key to decrypt it.
+We want happy customers, not trapped ones. We will not lock you out of your own data. However, we are unable to decrypt your Secure Data; you will need your Account Password and Secret Key to decrypt it.
 
 You may export your 1Password data at any time you wish during the life of your account. If you discontinue payment, your account will enter a frozen (read-only) state for a period not less than six months during which you may still retrieve and export your data.
 
@@ -152,7 +152,7 @@ We do set and use cookies (small text files placed on your device) on our own do
 
 You may disable cookies in your browser and continue to use our services without impact. We do not use third-party trackers in our web application (my.1password.com), or our client applications for macOS, Windows, Linux, Android or iOS.
 
-Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Master Password, and Secret Key) on subsequent sign-ins. For more information on our use of cookies, please visit our Cookie Policy page here.
+Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Account Password, and Secret Key) on subsequent sign-ins. For more information on our use of cookies, please visit our Cookie Policy page here.
 
 Consent for Underage Enrollment
 
@@ -210,7 +210,7 @@ AgileBits, we, our, Service Provider
 AgileBits Inc., a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. Owners and operators of 1Password. As Data Processors, we include AgileBits’ employees and subcontractors appointed by AgileBits.
 Data Processor
 Data Processor as defined by the GDPR. We and the subprocessors (hosting services, payment processors) we appoint are the Data Processors.
-Master Password
+Account Password
 A user secret that, along with the user’s Secret Key, is necessary to decrypt Secure Data.
 AgileBits staff, staff
 Our Directors, employees, and subcontractors
@@ -225,13 +225,13 @@ Business and Family accounts, which allow for multiple members, will have Owners
 Personal Data
 As defined under the Canadian privacy laws and the GDPR.
 Secret Key
-A user secret typically stored on the user’s device that is necessary, along with the user’s Master Password to decrypt Secure Data.
+A user secret typically stored on the user’s device that is necessary, along with the user’s Account Password to decrypt Secure Data.
 Subprocessor
 Anyone other than us who we have appointed to process customer data. Subprocessors can see no more data than we can see. Examples include our data hosting providers and payment processors.
 Supervisory Authority
 A local regulator under the GDPR which has the job of seeing that we protect your data properly.
 Secure Data
-Data encrypted with keys derived from the user’s Master Password and Secret Key. This data cannot be decrypted by AgileBits.
+Data encrypted with keys derived from the user’s Account Password and Secret Key. This data cannot be decrypted by AgileBits.
 Service Data
 Data about a user account, which is available to AgileBits.
 You, Data Subject
