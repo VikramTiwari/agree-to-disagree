@@ -210,17 +210,12 @@ Norsk
 Polski 
 Magyar 
 Română 
-Čeština 
-Ελληνικά 
 Українська 
-मराठी 
-தமிழ் 
 Български 
 Català 
 Hrvatski 
 Српски 
 Slovenčina 
-ಕನ್ನಡ 
 ಪಾಷ್ಟೋ 
 Dari 
 Oromo 
