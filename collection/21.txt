@@ -105,10 +105,10 @@ HCL Technologies Limited
 
 
 Infosys Limited	All Google Cloud Platform Services	All	Technical Support	India, Japan, Mexico and United States of America	2400 N Glenville Dr Suite C150 Richardson TX 75082 United States	United States of America	58-1760235 (Tax ID)	Infosys Limited
-Linguistix Tank Inc.	Speech-to-Text	All	Voice Transcription	Canada	4312 Village Centre Court, Mississauga, Ontario, Canada, L4Z 1S2	Canada	807066576	N/A
+LXT AI Inc.	Speech-to-Text	All	Voice Transcription	Canada	4312 Village Centre Court, Mississauga, Ontario, Canada, L4Z 1S2	Canada	892607-7	LXT AI GLOBAL
 Productive Playhouse, Inc.	Speech-to-Text	All	Voice Transcription	India, Thailand and United States of America	Productive Playhouse, Inc., 25231 Paseo de Alicia, Suite 205, Laguna Hills, CA 92653	United States of America	C3185390	N/A
 PVP Inc	All Google Cloud Platform Services	All	Technical Support	Japan	Shibadaimon 1F, 2-1-16.Shibadaimon,  Minato-ku, Tokyo, 105-0012, Japan	Japan	0118-01-025525	N/A
-Sigma Technologies SLU	Speech-to-Text	All	Voice Transcription	Spain	Avenida de Burgos, 114; First floor; 28050 - Madrid	Spain	B85405702 (Tax ID)	Sigma.AI LLC (formerly known as Sigma Technologies Global LLC)
+Sigma.AI SLU	Speech-to-Text	All	Voice Transcription	Spain	Avenida de Burgos, 114; First floor; 28050 - Madrid	Spain	B85405702 (Tax ID)	Sigma.AI LLC (formerly known as Sigma Technologies Global LLC)
 Simba Technologies Incorporated	BigQuery	All	Technical Support	Canada	938 West 8th Ave, Vancouver, BC, V5Z 1E5	Canada	BC1085262	insightsoftware, LLC.
 Sutherland Global Services Bulgaria EOOD	All Google Cloud Platform Services	All	Technical Support	Bulgaria	82, Patriarch Evtimii Blvd. 82, fl.1, Sofia 164	Bulgaria	200182310	SGS Cayman, L.P.
 Sutherland Global Services Inc.	All Google Cloud Platform Services	All	Technical Support	Mexico	1160 Pittsford Victor Rd, Pittsford, New York 14534	United States of America	16-1287080 (Tax ID)	Sutherland Global Holdings Inc.
@@ -140,6 +140,11 @@ Voxpro House, Point Village, East Wall Road, Dublin 1, Ireland
 	Ireland	669282	
 
 TELUS International (Cda) Inc.
+
+
+UJET, Inc.	CCAI Platform	All	Technical Support	United States of America 	201 3rd Street, Suite 950 San Francisco, CA 94103	United States of America	5783007	
+
+N/A
 
 
 Webhelp Holding Germany GmbH	All Google Cloud Platform Services	All	Technical Support	Israel, Japan, Romania, Spain, Peru and United States of America	Tullnaustrasse 20, 90402, Nuremberg	Germany	HRB 37006	Webhelp SAS
@@ -1031,5 +1036,5 @@ Multi-Cloud Service Third-Party Providers
 
 For customers using Google-Managed Multi-Cloud Services, to provide such Google-Managed Multi-Cloud Services, Google and its affiliates will engage the Multi-Cloud Service Third-Party Providers listed at https://cloud.google.com/terms/mcs-providers.
 
-PREVIOUS VERSIONS (Last modified August 4, 2022)
-June 13, 2022  May 5, 2022  April 26, 2022  March 31, 2022  March 24, 2022  January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
+PREVIOUS VERSIONS (Last modified August 31, 2022)
+August 4, 2022  June 13, 2022  May 5, 2022  April 26, 2022  March 31, 2022  March 24, 2022  January 20, 2022  December 9, 2021  November 9, 2021  October 8, 2021  September 21, 2021  September 2, 2021  August 12, 2021  July 8, 2021  June 10, 2021  May 11, 2021  May 4, 2021  April 15, 2021  March 25, 2021  February 11, 2021  February 4, 2021  December 10, 2020  December 3, 2020  November 12, 2020  October 26, 2020  October 1, 2020  September 14, 2020  April 27, 2020  February 27, 2020  January 30, 2020  January 6, 2020  December 9, 2019  November 20, 2019  September 16, 2019  March 7, 2019  February 5, 2019  December 6, 2018  September 3, 2018  August 2, 2018  May 24, 2018  May 15, 2018  March 29, 2018  December 14, 2017  November 23, 2017  November 8, 2017  September 13, 2017  June 20, 2017 
