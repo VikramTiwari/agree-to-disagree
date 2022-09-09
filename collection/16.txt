@@ -1,7 +1,7 @@
 SKIP TO MAIN CONTENT
 Slack Subprocessors
 
-Effective: April 29, 2022
+Effective: September 8, 2022
 
 To support delivery of our Services, Slack Technologies, LLC (or one of its Affiliates listed below), may engage and use data processors with access to certain Customer Data (each, a "Subprocessor"). This page provides important information about the identity, location and role of each Subprocessor. Terms used on this page but not defined have the meaning set forth in the Customer Terms of Service (or if applicable, the superseding written agreement between Customer and Slack or a Slack affiliate(s)) (the "Agreement").
 
@@ -20,9 +20,10 @@ Australia
 Canada
 France
 Germany
+India
 Japan
 United Kingdom
-	Customers may select a data region, but as described in this help article, certain Customer Data may be stored outside this data region. Customer Data from the Germany region is backed up in France, and vice versa.
+	Customers may select a data region, but as described in this Help Center article, certain Customer Data may be stored outside this data region. Customer Data from the Germany region is backed up in France, and vice versa.
 Amazon Web Services, Inc.	Third-party hosting provider Third-party hosting provider for Availability zones/Edge servers	
 United States
 Australia
