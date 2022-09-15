@@ -45,7 +45,7 @@ Our website
 
 This cookie policy only relates to your use of our websites, apps and services listed below:
 
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com.
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com.
 
 Throughout our websites we may link to other websites owned and operated by certain trusted third parties to service advertisements or provide analytical services. These other third party websites may also use cookies or similar technologies in accordance with their own separate policies. For privacy information relating to these other third party websites, please consult their policies as appropriate.
 
@@ -72,7 +72,7 @@ Strictly Necessary
 These cookies are necessary for our website to function properly and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms or where they’re essential to provide you with a service you have requested. You cannot opt-out of these cookies. You can set your browser to block or alert you about these cookies, but if you do, some parts of the site will not then work. These cookies do not store any personally identifiable information.
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com	acct, csouser, drafts, fkey, flash-message-json, have_a_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, OptanonConsent, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	acct, csouser, drafts, fkey, flash-message-json, have_a_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, OptanonConsent, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr	1st Party
 stackoverflow.email	iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId	1st Party
 stackexchange.com	mc, rawr	1st Party
 imgur.com	__cfduid	3rd Party
@@ -83,7 +83,7 @@ intercom.com	gtm_id	3rd Party
 Additionally, some strictly necessary cookies are dynamically generated based on unique identifiers. These cookies are:
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com	{site}usr, {site}user, AuthMethodBanner-Dismissed-{id}, notice-{name}, p{postId}, rk-{postId}	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	{site}usr, {site}user, AuthMethodBanner-Dismissed-{id}, notice-{name}, p{postId}, rk-{postId}	1st Party
 
 Optional cookies
 
@@ -94,7 +94,7 @@ Performance Cookies
 These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site, which helps us optimize your experience. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not be able to use your data in this way.
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com	__qca, _ga, _gat, _gat_xxxxxxxxxxxxxxxxxxxxxxxxxx, _gid, _ym_d, _ym_isad, _ym_uid, referral	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	__qca, _ga, _gat, _gat_xxxxxxxxxxxxxxxxxxxxxxxxxx, _gid, _ym_d, _ym_isad, _ym_uid, referral	1st Party
 mc.yandex.ru	sync_cookie_csrf, yabs-sid	3rd Party
 mc.yandex.com	sync_cookie_csrf, sync_cookie_ok	3rd Party
 quantserve.com	mc	3rd Party
@@ -105,7 +105,7 @@ Functional Cookies
 These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com	mfnes	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	mfnes	1st Party
 vimeo.com	vuid	3rd Party
 github.com	_gh_sess, _octo, logged_in	3rd Party
 
@@ -114,7 +114,7 @@ Targeting Cookies
 These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com	__gads, _dlt, _gat_legacyTracker, GoogleAdServingTest, urr	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	__gads, _dlt, _gat_legacyTracker, GoogleAdServingTest, urr	1st Party
 youtube.com	GPS	3rd Party
 linkedin.com	bcookie, lang, li_gc, lidc, lissc, UserMatchHistory	3rd Party
 twitter.com	guest_id, guest_id_ads, guest_id_marketing, personalization_id	3rd Party
