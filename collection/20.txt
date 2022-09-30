@@ -408,5 +408,6 @@ Personnel are required to execute a confidentiality agreement and must acknowled
 
 Before onboarding Subprocessors, Google conducts an audit of the security and privacy practices of Subprocessors to ensure Subprocessors provide a level of security and privacy appropriate to their access to data and the scope of the services they are engaged to provide. Once Google has assessed the risks presented by the Subprocessor, then subject to the requirements described in Section 11.3 (Requirements for Subprocessor Engagement) of this Addendum, the Subprocessor is required to enter into appropriate security, confidentiality and privacy contract terms.
 
-PREVIOUS VERSIONS (Last modified September 20, 2022)
-June 30, 2022 
+Previous versions of Data Processing and Security Terms:
+
+June 30, 2022  September 24, 2021  August 19, 2020
