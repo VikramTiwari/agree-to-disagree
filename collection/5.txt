@@ -1,83 +1,83 @@
 Facebook
-Email atau telepon	Kata Sandi
+Email or phone	Password
 		
 	
-Lupa akun?
-Daftar
-Perusahaan Facebook kini bernama Meta. Kami telah memperbarui Ketentuan Layanan, Kebijakan Data, dan Kebijakan Cookie kami untuk menunjukkan nama baru pada 4 Januari 2022. Meskipun nama perusahaan berubah, kami tetap menawarkan produk yang sama, termasuk aplikasi Facebook dari Meta. Kebijakan Data dan Ketentuan Layanan kami tetap berlaku, dan perubahan nama ini tidak memengaruhi bagaimana kami menggunakan atau membagikan data. Pelajari selengkapnya tentang Meta dan visi kami untuk metaverse.
+Forgot account?
+Sign Up
+The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
 
 
 
-Cookie &amp; teknologi penyimpanan lainnya
-Cookie adalah bagian kecil teks yang digunakan untuk menyimpan informasi di browser web. Cookie digunakan untuk menyimpan serta menerima pengidentifikasi dan informasi lain di komputer, ponsel, dan perangkat lainnya. Teknologi lainnya, termasuk data yang kami simpan di browser web atau perangkat Anda, pengidentifikasi terkait dengan perangkat Anda, dan perangkat lunak lainnya, digunakan untuk tujuan serupa. Dalam kebijakan ini, kami menyebut semua teknologi ini sebagai “cookie”.
+Cookies & other storage technologies
+Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-Kami menggunakan cookie jika Anda memiliki akun Facebook, menggunakan Produk Meta, termasuk situs web dan aplikasi kami, atau membuka situs web dan aplikasi lain yang menggunakan Produk Meta (termasuk tombol Suka). Dengan cookie, Meta dapat menawarkan Produk Meta kepada Anda dan memahami informasi tentang Anda yang kami terima, termasuk informasi tentang penggunaan situs web dan aplikasi oleh Anda, baik apakah Anda terdaftar atau login ke situs web maupun aplikasi tersebut atau tidak.
+We use cookies if you have a Facebook account, use the Meta Products, including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-Kebijakan ini menjelaskan bagaimana kami menggunakan cookie dan pilihan-pilihan yang Anda miliki. Kecuali jika dijelaskan di dalam kebijakan ini, Kebijakan Data akan berlaku untuk pemrosesan data yang kami kumpulkan melalui cookie.
-Mengapa kami menggunakan cookie?
+This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the Data Policy will apply to our processing of the data that we collect via cookies.
+Why do we use cookies?
 
-Cookie membantu kami menyediakan, melindungi, dan menyempurnakan Produk Meta, seperti mempersonalisasi konten, menyesuaikan dan mengukur iklan, serta memberikan pengalaman yang lebih aman. Cookie yang kami gunakan termasuk cookie sesi, yang dihapus saat Anda menutup browser, dan cookie persisten, yang akan tetap ada di browser Anda hingga kedaluwarsa atau Anda menghapusnya. Meskipun cookie yang kami gunakan dapat berubah dari waktu ke waktu ketika kami melakukan penyempurnaan dan pembaruan Produk Meta, kami menggunakan cookie untuk tujuan berikut:
-Autentikasi
-Kami menggunakan cookie untuk memverifikasi akun dan menentukan kapan Anda login, sehingga kami dapat memudahkan Anda mengakses Produk Meta serta menunjukkan kepada Anda pengalaman dan fitur yang sesuai.
-Contoh: Kami menggunakan cookie agar Anda tetap login ketika menavigasi antar Halaman Facebook. Cookie juga membantu kami mengingat browser Anda sehingga Anda tidak harus terus login ke Facebook dan agar Anda dapat lebih mudah login ke Facebook melalui aplikasi dan situs web pihak ketiga. Misalnya, kami menggunakan cookie "c_user" dan "xs", termasuk untuk tujuan ini, yang memiliki masa aktif 365 hari.
-Keamanan, situs, dan integritas produk
-Kami menggunakan cookie untuk membantu kami menjaga agar akun, data Anda, serta Produk Meta tetap aman dan terlindungi.
-Contoh: Cookie dapat membantu kami mengidentifikasi dan melakukan tindakan keamanan tambahan saat seseorang mencoba mengakses akun Facebook tanpa otorisasi, misalnya, dengan cepat menebak kata sandi yang berbeda. Kami juga menggunakan cookie untuk menyimpan informasi yang membantu kami memulihkan akun Anda jika Anda lupa kata sandi atau mengharuskan autentikasi tambahan jika Anda memberi tahu kami bahwa akun Anda sudah diretas. Ini termasuk, misalnya, cookie "sb" dan "dbln" kami, yang membantu kami mengidentifikasi browser Anda dengan aman.
-Kami juga menggunakan cookie untuk memerangi aktivitas yang melanggar kebijakan kami atau yang menurunkan kemampuan kami untuk menyediakan Produk Meta.
-Contoh: Cookie membantu kami melawan serangan spam dan phishing dengan membantu kami mengidentifikasi komputer yang digunakan untuk menciptakan banyak akun Facebook palsu. Kami juga menggunakan cookie untuk mendeteksi komputer yang terinfeksi malware dan untuk mengambil langkah-langkah pencegahan agar tidak menyebabkan kerusakan lebih lanjut. Cookie "csrf" kami, misalnya, membantu kami mencegah serangan pemalsuan permintaan lintas situs. Cookie juga membantu kami mencegah orang-orang di bawah umur agar tidak mendaftar akun Facebook.
-Iklan, rekomendasi, insight, dan pengukuran
-Kami menggunakan cookie untuk membantu kami menampilkan iklan dan membuat rekomendasi untuk bisnis dan organisasi lainnya kepada orang-orang yang mungkin tertarik pada produk, layanan, atau gerakan yang dipromosikan.
-Contoh: Dengan cookie, kami dapat membantu penayangan iklan kepada orang-orang yang sebelumnya pernah membuka situs web suatu bisnis, membeli produknya, atau menggunakan aplikasinya, serta merekomendasikan produk dan layanan berdasarkan aktivitas tersebut. Dengan cookie, kami dapat membatasi berapa kali Anda melihat iklan sehingga Anda tidak melihat iklan yang sama secara berulang-ulang. Misalnya, cookie "fr" digunakan untuk menayangkan, mengukur, dan meningkatkan relevansi iklan, dengan masa aktif 90 hari.
-Kami juga menggunakan cookie untuk membantu mengukur kinerja kampanye iklan untuk bisnis yang menggunakan Produk Meta.
-Contoh: Kami menggunakan cookie untuk menghitung berapa kali iklan ditampilkan dan menghitung biaya iklan tersebut. Kami juga menggunakan cookie untuk mengukur seberapa sering orang melakukan hal-hal seperti melakukan pembelian setelah impresi iklan. Misalnya, cookie "_fbp" mengidentifikasi browser untuk tujuan menyediakan layanan analitik iklan dan situs serta memiliki masa aktif 90 hari.
-Cookie membantu kami menyajikan dan mengukur iklan di berbagai browser dan perangkat berbeda yang digunakan oleh orang yang sama.
-Contoh: Kami dapat menggunakan cookie agar Anda tidak melihat iklan yang sama berkali-kali di berbagai perangkat yang Anda gunakan.
-Dengan cookie, kami juga dapat memberikan insight mengenai orang-orang yang menggunakan Produk Meta, serta orang-orang yang berinteraksi dengan iklan, situs web, dan aplikasi dari pengiklan kami dan bisnis yang menggunakan Produk Meta.
-Contoh: Kami menggunakan cookie untuk membantu bisnis memahami jenis orang yang menyukai Halaman Facebook mereka atau menggunakan aplikasinya sehingga bisnis bisa memberikan konten yang lebih relevan dan mengembangkan fitur yang kemungkinan besar akan diminati pelanggannya.
-Kami juga menggunakan cookie, seperti cookie "oo", yang memiliki masa aktif lima tahun, untuk membantu Anda berhenti melihat iklan dari Meta berdasarkan kegiatan Anda di situs web pihak ketiga. Pelajari selengkapnya tentang informasi yang kami terima, bagaimana kami memutuskan iklan mana yang ditampilkan kepada Anda di dalam dan di luar Produk Meta, serta kontrol yang tersedia untuk Anda.
-Fitur dan layanan situs
-Kami menggunakan cookie untuk mengaktifkan fungsi yang membantu kami menyediakan Produk Meta.
-Contoh: Cookie membantu kami menyimpan preferensi, mengetahui saat Anda sudah melihat atau berinteraksi dengan konten Produk Meta, serta menyediakan konten dan pengalaman yang disesuaikan untuk Anda. Misalnya, cookie memudahkan kami memberikan saran kepada Anda dan orang lain, serta menyesuaikan konten situs pihak ketiga yang mengintegrasikan plugin sosial kami. Jika Anda adalah administrator Halaman Facebook, cookie memudahkan Anda untuk beralih antara postingan dari akun Facebook pribadi dan Halaman Facebook. Kami menggunakan cookie seperti cookie "presence" berbasis sesi untuk mendukung penggunaan jendela obrolan Messenger oleh Anda.
-Kami juga menggunakan cookie untuk membantu menyediakan konten yang relevan dengan bahasa yang Anda gunakan.
-Contoh: Kami menyimpan informasi dalam cookie yang ditempatkan di browser atau perangkat Anda, sehingga Anda akan melihat situs tersebut dalam bahasa yang Anda pilih.
-Kinerja
-Kami menggunakan cookie untuk menyediakan pengalaman terbaik kepada Anda.
-Contoh: Cookie membantu kami mengatur traffic antar server dan memahami seberapa cepat Produk Meta dimuat untuk orang yang berbeda. Cookie juga membantu kami mencatat rasio dan dimensi layar dan jendela Anda serta mengetahui apakah Anda sudah mengaktifkan mode kontras tinggi, sehingga kami dapat merender situs dan aplikasi kami dengan benar. Misalnya, kami menetapkan cookie "dpr" dan "wd", yang memiliki masa aktif 7 hari, untuk tujuan memberikan pengalaman optimal untuk layar perangkat Anda.
-Analitik dan riset
-Kami menggunakan cookie untuk lebih memahami bagaimana orang menggunakan Produk Meta sehingga kami dapat menyempurnakannya.
-Contoh: Cookie dapat membantu kami memahami bagaimana orang menggunakan layanan Facebook, menganalisis bagian Produk mana yang dianggap paling bermanfaat dan menarik bagi orang, serta mengidentifikasi fitur yang dapat ditingkatkan.
-Situs web dan aplikasi pihak ketiga
-Partner bisnis kami juga dapat memilih untuk membagikan informasi kepada Meta dari cookie yang diatur pada domain situs webnya sendiri, baik apakah Anda memiliki akun Facebook atau sudah login. Secara spesifik, cookie named _fbc atau _fbp dapat diatur pada domain partner bisnis yang situsnya Anda kunjungi. Tidak seperti cookie yang diatur di domain Meta sendiri, cookie ini tidak dapat diakses oleh Meta saat Anda berada di situs selain tempatnya diatur termasuk ketika Anda berada di salah satu domain kami. Cookie ini memiliki tujuan yang sama seperti cookie yang diatur di domain Meta sendiri, yang ditujukan untuk mempersonalisasi konten (termasuk iklan), mengukur iklan, memberikan analitik, serta menyediakan pengalaman yang lebih aman, sebagaimana diatur dalam Kebijakan Cookie ini.
-Di mana kami menggunakan cookie?
-Kami dapat menempatkan cookie di komputer atau perangkat Anda, dan menerima informasi yang disimpan di cookie, saat Anda menggunakan atau mengunjungi:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Authentication
+We use cookies to verify your account and determine when you’re logged in so that we can make it easier for you to access the Meta Products and show you the appropriate experience and features.
+For example: We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c_user" and "xs" cookies, including for this purpose, which have a lifespan of 365 days.
+Security, site and product integrity
+We use cookies to help us keep your account, data and the Meta Products safe and secure.
+For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely, as well as “datr." "Datr" is a unique identifier for your browser that, amongst other things, helps us protect you from fraud. For example, it helps us identify trusted browsers where you have logged in before. “Datr” has a lifespan of two years.
+We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
+For example: Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. The “datr” cookie also helps us to identify the browsers used by malicious actors and to prevent cyber-security attacks, such as a denial of service attack that could prevent you from accessing the Meta Products. Cookies also help us prevent underage people from registering for Facebook accounts.
+Advertising, recommendations, insights and measurement
+We use cookies to help us show ads and to make recommendations for businesses and other organisations to people who may be interested in the products, services or causes they promote.
+For example: Cookies allow us to help deliver ads to people who have previously visited a business’s website, purchased its products or used its apps and to recommend products and services based on that activity. Cookies also allow us to limit the number of times that you see an ad so you don’t see the same ad over and over again. For example, the "fr" cookie is used to deliver, measure and improve the relevancy of ads, with a lifespan of 90 days.
+We also use cookies to help measure the performance of ad campaigns for businesses that use the Meta Products.
+For example: We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. For example, the "_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days.
+Cookies help us serve and measure ads across different browsers and devices used by the same person.
+For example: We can use cookies to prevent you from seeing the same ad over and over again across the different devices that you use.
+Cookies also allow us to provide insights about the people who use the Meta Products, as well as the people who interact with the ads, websites and apps of our advertisers and the businesses that use the Meta Products.
+For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
+We also use cookies, such as our "oo" cookie, which has a lifespan of five years, to help you opt out of seeing ads from Meta based on your activity on third-party websites. Learn more about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+Site features and services
+We use cookies to enable the functionality that helps us provide the Meta Products.
+For example: Cookies help us store preferences, know when you’ve seen or interacted with Meta Products’ content and provide you with customised content and experiences. For instance, cookies allow us to make suggestions to you and others, and to customise content on third-party sites that integrate our social plugins. If you are a Facebook Page administrator, cookies allow you to switch between posting from your personal Facebook account and the Facebook Page. We use cookies such as the session-based "presence" cookie to support your use of Messenger chat windows.
+We also use cookies to help provide you with content relevant to your locale.
+For example: We store information in a cookie that is placed on your browser or device so that you will see the site in your preferred language.
+Performance
+We use cookies to provide you with the best experience possible.
+For example: Cookies help us route traffic between servers and understand how quickly Meta Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you’ve enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, for purposes including to deliver an optimal experience for your device’s screen.
+Analytics and research
+We use cookies to better understand how people use the Meta Products so that we can improve them.
+For example: Cookies can help us understand how people use the Facebook service, analyse which parts of our Products people find most useful and engaging, and identify features that could be improved.
+Third-party websites and apps
+Our business partners may also choose to share information with Meta from cookies set in their own websites' domains, whether or not you have a Facebook account or are logged in. Specifically, cookies named _fbc or _fbp may be set on the domain of the business partner whose site you're visiting. Unlike cookies that are set on Meta's own domains, these cookies aren’t accessible by Meta when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Meta's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
+Where do we use cookies?
+We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
 
 
-Produk Meta;
-Produk yang disediakan oleh anggota Perusahaan-Perusahaan Meta; dan
-Situs web dan aplikasi yang disediakan oleh perusahaan lain yang menggunakan Produk Meta, termasuk perusahaan yang menyertakan teknologi Meta di situs web dan aplikasi mereka. Meta menggunakan cookie dan menerima informasi ketika Anda membuka situs dan aplikasi tersebut, termasuk informasi perangkat serta informasi mengenai aktivitas Anda, tanpa tindakan lebih lanjut dari Anda. Hal ini terjadi baik apakah Anda memiliki akun Facebook atau tidak, dan apakah Anda login atau tidak.
-Apakah Perusahaan lain menggunakan cookie terkait Produk Meta?
-Ya, perusahaan lain menggunakan cookie di Produk Meta untuk menyediakan layanan iklan, pengukuran, marketing, dan analitik kepada kami, serta untuk menyediakan fitur tertentu dan meningkatkan layanan kami untuk Anda.
+The Meta Products;
+Products provided by other members of the Meta Companies; and
+Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+Do other Companies use cookies in connection with the Meta Products?
+Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
 
-Misalnya, cookie perusahaan lain membantu menyesuaikan iklan di luar Produk Meta, mengukur kinerja dan efektivitasnya, serta mendukung marketing dan analitik. Fitur tertentu di Produk Meta menggunakan cookie dari perusahaan lain agar berfungsi, misalnya, peta, pembayaran, dan fitur keamanan tertentu. Pelajari selengkapnya tentang perusahaan yang menggunakan cookie di Produk Meta.
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more about the companies that use cookies on the Meta Products.
 
-Perusahaan pihak ketiga juga menggunakan cookie di situs dan aplikasinya sendiri yang terkait dengan Produk Meta. Untuk memahami bagaimana perusahaan lain menggunakan cookie, harap tinjau kebijakan perusahaan tersebut.
-Bagaimana cara mengontrol Informasi Anda?
-Kami menggunakan cookie untuk membantu mempersonalisasi serta menyempurnakan konten dan layanan, memberikan pengalaman yang lebih aman, serta untuk menampilkan iklan yang bermanfaat dan relevan di dalam dan di luar Produk Meta. Anda bisa mengontrol bagaimana kami menggunakan data untuk menampilkan iklan kepada Anda dan lainnya menggunakan fitur yang dijelaskan di bawah ini.
-Jika Anda memiliki akun Facebook:
-Anda dapat menggunakan preferensi iklan Anda untuk mempelajari mengapa Anda melihat iklan tertentu dan mengontrol bagaimana kami menggunakan informasi yang kami kumpulkan untuk menampilkan iklan kepada Anda.
-Untuk menampilkan iklan yang lebih baik kepada Anda, kami menggunakan data yang diberikan oleh pengiklan dan partner lainnya kepada kami mengenai aktivitas Anda di luar Produk Perusahaan Meta, termasuk situs web dan aplikasi. Anda dapat mengontrol bagaimana kami menggunakan data ini untuk menampilkan iklan di pengaturan iklan.
-Pengiklan dapat menggunakan Meta Audience Network untuk menampilkan iklan di aplikasi dan situs web di luar Produk Perusahaan Meta. Salah satu cara yang digunakan Audience Network untuk menampilkan iklan yang relevan adalah dengan menggunakan preferensi iklan Anda untuk menentukan iklan mana yang mungkin akan Anda minati. Anda dapat mengontrol ini di pengaturan iklan.
-Anda dapat meninjau aktivitas di Luar Facebook, yang merupakan ringkasan aktivitas yang dibagikan bisnis dan organisasi kepada kami tentang interaksi Anda dengan mereka, seperti membuka aplikasi atau situs webnya. Mereka menggunakan fitur bisnis kami, seperti Meta Pixel, untuk membagikan informasi ini kepada kami. Ini membantu kami melakukan hal-hal seperti memberi Anda pengalaman yang lebih dipersonalisasi di Produk Meta. Pelajari selengkapnya tentang aktivitas di luar Facebook, bagaimana kami menggunakannya, dan bagaimana Anda bisa mengelolanya.
-Semua orang:
-Anda dapat menolak melihat iklan berbasis minat online dari Meta dan perusahaan-perusahaan yang berpartisipasi lainnya melalui Digital Advertising Alliance di Amerika Serikat, Digital Advertising Alliance of Canada di Kanada, atau European Interactive Digital Advertising Alliance di Eropa atau melalui pengaturan perangkat seluler Anda, jika tersedia, menggunakan Android, iOS 13 atau iOS versi sebelumnya. Harap diperhatikan bahwa pemblokir iklan dan fitur yang membatasi penggunaan cookie kami dapat mengganggu kontrol tersebut.
-Informasi selengkapnya tentang iklan online:
-Perusahaan periklanan yang bekerja sama dengan kami biasanya menggunakan cookie dan teknologi serupa sebagai bagian dari layanannya. Untuk mempelajari selengkapnya tentang penggunaan cookie oleh pengiklan dan pilihan yang ditawarkan, Anda dapat melihat sumber informasi berikut ini:
+Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
+How can you control your Information?
+We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Meta Products. You can control how we use data to show you ads and more by using the tools described below.
+If you have a Facebook account:
+You can use your ad preferences to learn why you’re seeing a particular ad and control how we use information that we collect to show you ads.
+To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your ad settings.
+The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the Meta Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your ad settings.
+You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our business tools, such as Meta Pixel, to share this information with us. This helps us do things like give you a more personalised experience on Meta Products. Learn more about off-Facebook activity, how we use it and how you can manage it.
+Everyone:
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the Digital Advertising Alliance in the US, the Digital Advertising Alliance of Canada in Canada or the European Interactive Digital Advertising Alliance in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+More information about online advertising:
+The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
 Digital Advertising Alliance
 Digital Advertising Alliance of Canada
 European Interactive Digital Advertising Alliance
-Kontrol cookie browser:
-Selain itu, browser atau perangkat Anda mungkin menawarkan pengaturan yang memungkinkan Anda untuk memilih apakah Anda ingin mengatur cookie browser atau akan menghapusnya. Kontrol ini bervariasi berdasarkan browser, dan produsen dapat mengubah pengaturan yang disediakan dan cara kerjanya kapan pun. Mulai 23 Juni 2021, Anda dapat menemukan informasi tambahan tentang kontrol yang ditawarkan oleh browser populer pada tautan di bawah. Bagian Produk Meta tertentu mungkin tidak berfungsi dengan benar jika Anda menonaktifkan penggunaan cookie browser. Harap perhatikan bahwa kontrol ini berbeda dari kontrol yang kami tawarkan kepada Anda.
+Browser cookie controls:
+In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
 
 Google Chrome
 Internet Explorer
@@ -87,20 +87,20 @@ Safari Mobile
 Opera
 
 
-Tanggal revisi terakhir: 4 Januari 2022
-Bahasa Indonesia
-English (UK)
-Basa Jawa
-Bahasa Melayu
-日本語
-العربية
-Français (France)
+Date of last revision: 5 October 2022
+English (US)
 Español
-한국어
+Français (France)
+中文(简体)
+العربية
 Português (Brasil)
+Italiano
+한국어
 Deutsch
-DaftarMasukMessengerFacebook LiteWatchTempatGameMarketplaceMeta PayOculusPortalInstagramBulletinLokalPenggalangan DanaLayananPusat Informasi PemiluGrupTentangBuat IklanBuat HalamanDeveloperKarierPrivasiCookiePilihan Iklan
-KetentuanBantuanPengunggahan Kontak & Non-Pengguna
-Pengaturan
-Log aktivitas
+हिन्दी
+日本語
+Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceMeta PayOculusPortalInstagramBulletinLocalFundraisersServicesVoting Information CenterGroupsAboutCreate AdCreate PageDevelopersCareersPrivacyCookiesAd choices
+TermsHelpContact Uploading & Non-Users
+Settings
+Activity log
 Meta © 2022
