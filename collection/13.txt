@@ -7,7 +7,6 @@ Acceptable Use Policies
 Privacy Policies
 GitHub Privacy Statement
 Global Privacy Practices
-GitHub Data Protection Agreement
 GitHub Subprocessors and Cookies
 GitHub Codespaces Privacy Statement
 GitHub Candidate Privacy Policy
