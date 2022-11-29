@@ -381,6 +381,3 @@ General Privacy: privacy@kaggle.com
 Data Protection Office: data-protection-office@kaggle.com
 Security: security@kaggle.com
 Abuse: abuse@kaggle.com
-We use cookies on Kaggle to deliver our services, analyze web traffic, and improve your experience on the site. By using Kaggle, you agree to our use of cookies.
-Got it
-Learn more

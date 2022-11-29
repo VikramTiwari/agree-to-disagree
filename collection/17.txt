@@ -231,7 +231,3 @@ If you do not comply with these Terms, and we don’t take action right away, th
 If it turns out that a particular term is not enforceable, this will not affect any other part of the Terms.
 
 The laws of California, USA, excluding California’s conflict of laws rules, will apply to any disputes arising out of or relating to these Terms or the Services. All claims arising out of or relating to these Terms or the Services will be litigated exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Kaggle consent to personal jurisdiction in those courts.
-
-We use cookies on Kaggle to deliver our services, analyze web traffic, and improve your experience on the site. By using Kaggle, you agree to our use of cookies.
-Got it
-Learn more
