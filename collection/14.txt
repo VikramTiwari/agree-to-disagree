@@ -1,7 +1,7 @@
 SKIP TO MAIN CONTENT
 Privacy Policy
 
-Effective: September 1, 2022
+Effective: December 6, 2022
 
 This Privacy Policy describes how Slack collects, uses, and discloses information associated with an identified or identifiable individual (referred to in this Privacy Policy as “Personal Data”) and what choices you have around this activity. If you have any questions, please don’t hesitate to contact us.
 
@@ -110,7 +110,7 @@ For billing, account management and other administrative matters.
 Slack may need to contact you for invoicing, account management, and similar reasons and we use account data to administer accounts and keep track of billing and payments.
 It is in our interest to facilitate the effective provision and administration of the Websites and Services.
 
-We use Workspace and account information for the following legitimate interest:
+We use Workspace and account information, Usage Information, Cookie information, Third-Party Services Information, Third-Party data, and Additional information provided to Slack for the following legitimate interests:
 
 To send marketing emails and other communications.
 We sometimes send emails about new product features, promotional communications or other news about Slack. These are marketing messages so you can control whether you receive them. If you have additional questions about a message you have received from Slack please get in touch through the contact mechanisms described below.
