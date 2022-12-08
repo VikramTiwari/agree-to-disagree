@@ -10,6 +10,7 @@ Global Privacy Practices
 GitHub Subprocessors and Cookies
 GitHub Codespaces Privacy Statement
 GitHub Candidate Privacy Policy
+GitHub Copilot for Business Privacy Statement
 Other Site Policies
 Content Removal Policies
 Security Policies
