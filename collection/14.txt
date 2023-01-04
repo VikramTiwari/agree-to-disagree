@@ -1,7 +1,7 @@
 SKIP TO MAIN CONTENT
 Privacy Policy
 
-Effective: December 6, 2022
+Effective: January 5, 2023
 
 This Privacy Policy describes how Slack collects, uses, and discloses information associated with an identified or identifiable individual (referred to in this Privacy Policy as “Personal Data”) and what choices you have around this activity. If you have any questions, please don’t hesitate to contact us.
 
@@ -184,21 +184,23 @@ To the extent that Slack’s processing of your Personal Data is subject to the 
 
 Your California Privacy Rights
 
-This section provides additional details about the personal information we collect about California consumers and the rights afforded to them under the California Consumer Privacy Act or “CCPA.”
+This section provides additional details about the personal information we collect about California consumers and the rights afforded to them under the California Consumer Privacy Act or “CCPA,” as amended by the California Privacy Rights Act or “CPRA”.
 
-In addition to the information provided above in the ‘Information We Collect And Receive’ section, we collect the following categories of personal information from you, your employer, data analytics providers, data brokers, and Third-Party Services:
+California law requires that we detail the categories of personal information that we collect and disclose for certain “business purposes,” such as to service providers that assist us with securing our services or marketing our products, and to such other entities as described in earlier sections of Privacy Policy. In addition to the information provided above in the ‘Information We Collect And Receive’ section, we collect the following categories of personal information from you, your employer, data analytics providers, data brokers, and Third-Party Services for our business purposes:
 
 Identifiers/contact information;
 Commercial information;
 Internet or electronic network activity information;
 Financial information;
 Geolocation information;
-Professional or employment-related information; and
+Professional or employment-related information;
+Audio and visual data;
+In limited circumstances where allowed by law, information that may be protected under California or United States law; and
 Inferences drawn from any of the above categories.
 
-We collect this information for the business and commercial purposes described in the ‘How We Process your Information and our Legal Bases for Doing So’ section above. We share this information as described in the ‘How We Share and Disclose Information’ section above. Slack does not sell (as such term is defined in the CCPA or otherwise) the personal information we collect (and will not sell it without providing a right to opt out). Please note that we do use third-party cookies for our advertising purposes as further described in our Cookie Policy.
+We collect this information for the business and commercial purposes described in the ‘How We Process your Information and our Legal Bases for Doing So’ section above. We share this information as described in the ‘How We Share and Disclose Information’ section above. Slack does not sell (as such term is defined in the CCPA or otherwise) the personal information we collect (and will not sell it without providing a right to opt out). We may also share personal information (in the form of identifiers and internet activity information) with third party advertisers for purposes of targeting advertisements on non-Slack websites, applications, and services. In addition, we may allow third parties to collect personal information from our sites or services if those third parties are authorized service providers who have agreed to our contractual limitations as to their retention, use, and disclosure of such personal information, or if you use our sites or services to interact with third parties or direct us to disclose your personal information to third parties.
 
-Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect (including how we use, disclose, or may sell this information), to delete their personal information, to opt out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
+Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect (including how we use, disclose, or may sell this information), to delete their personal information, to opt out of any “sales”, to know and opt out of sharing of personal information for delivering advertisements on non-Slack websites, and to not be discriminated against for exercising these rights.
 
 California consumers may make a request pursuant to their rights under the CCPA by contacting us at privacy@slack.com or by filling out this form. We will verify your request using the information associated with your account, including email address. Government identification may be required. Consumers can also designate an authorized agent to exercise these rights on their behalf. Authorized agents must submit proof of authorization.
 
