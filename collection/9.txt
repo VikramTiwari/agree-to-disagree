@@ -211,7 +211,7 @@ This Subscription Agreement is entered into by and between AgileBits, Inc. dba 1
 
 4.3 License to Feedback. 1Password shall have a royalty-free, worldwide, transferable, sublicensable, irrevocable, perpetual license to use or incorporate into the Services any suggestions, enhancement requests, recommendations or other feedback provided by Customer, including Users, relating to the operation of the Service.
 
-4.4. **Operational Emails. **1Password may send operational emails including but not limited to: billing emails, account activity emails, and service updates. These are required to provide the Services.
+4.4 Operational Emails. 1Password may send operational emails including but not limited to: billing emails, account activity emails, and service updates. These are required to provide the Services.
 
 4.5 Customer Data. As between the Parties, Customer owns all right, title and interest in and to all Customer Data; provided that 1Password will have the right to use the Customer Data to perform its obligations under this Agreement. Customer is responsible for any (i) Customer Data submitted or contributed to the Services by Customer, Users or Partners, and (ii) Customer's, Partners' and Users' use of such content, including without limitation its legality, reliability, accuracy, and appropriateness. Notwithstanding the above, 1Password shall remain responsible for maintaining the confidentiality and security of Customer Data as per the applicable laws and regulations, and in accordance with 1Password’s privacy policy, the Data Processing Agreement (available at: https://1Password.com/legal) and this Agreement.
 
