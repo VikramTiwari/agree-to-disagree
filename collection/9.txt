@@ -8,7 +8,7 @@ Service Agreement for 1Password users and customers
 Last updated: September 23, 2021
 Terms of Use for 1Password Individual Users
 
-These Terms of Use (“Terms” “Terms of Use” “Agreement” or “Service Agreement”) govern your relationship with the 1Password Service (the “Service”) operated by AgileBits, Inc. (“us” “we” or “our”). It is important that you read this carefully because you will be legally bound to these terms.
+These Terms of Use (“Terms” “Terms of Use” “Agreement” or “Service Agreement”) govern your relationship with the 1Password Service (the “Service”) operated by AgileBits Inc. (“us” “we” or “our”). It is important that you read this carefully because you will be legally bound to these terms.
 
 Your access to and use of the Service is based on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, free trial users, and others who access or use the Service.
 
@@ -22,31 +22,31 @@ Subscriptions
 
 Some parts of the Service are billed on a subscription basis (“Subscription(s)"). You will be billed in advance on a recurring and periodic basis (“Billing Cycle”). Billing cycles are set on a regular basis, typically monthly or yearly.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the same conditions unless you cancel it or AgileBits, Inc. cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting AgileBits, Inc. customer support team.
+At the end of each Billing Cycle, your Subscription will automatically renew under the same conditions unless you cancel it or AgileBits Inc. cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting AgileBits Inc. customer support team.
 
-A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide AgileBits, Inc. or its third-party payment processor, with accurate and complete billing information including full name, address, state, zip code, and valid payment method information. By submitting such payment information, you automatically authorize AgileBits, Inc. to charge all Subscription fees incurred through your account to any such payment instruments. All amounts paid are non-refundable. You further agree to be responsible for all taxes associated with the Service, along with any transaction fees and currency conversions added by your financial institution and intermediaries. All amounts are in US Dollars.
+A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide AgileBits Inc. or its third-party payment processor, with accurate and complete billing information including full name, address, state, zip code, and valid payment method information. By submitting such payment information, you automatically authorize AgileBits Inc. to charge all Subscription fees incurred through your account to any such payment instruments. All amounts paid are non-refundable. You further agree to be responsible for all taxes associated with the Service, along with any transaction fees and currency conversions added by your financial institution and intermediaries. All amounts are in US Dollars.
 
 Free Trial
 
-AgileBits, Inc. may, at its sole discretion, offer a Subscription with a free trial for a limited period of time (“Free Trial”).
+AgileBits Inc. may, at its sole discretion, offer a Subscription with a free trial for a limited period of time (“Free Trial”).
 
 You may be required to enter your billing information in order to sign up for the Free Trial.
 
-If you do enter your billing information when signing up for the Free Trial, you will not be charged by AgileBits, Inc. until the Free Trial has expired. On the last day of the Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
+If you do enter your billing information when signing up for the Free Trial, you will not be charged by AgileBits Inc. until the Free Trial has expired. On the last day of the Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
 
-At any time and without notice, AgileBits, Inc. reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free Trial offer.
+At any time and without notice, AgileBits Inc. reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free Trial offer.
 
 Fee Changes
 
-AgileBits, Inc., in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+AgileBits Inc., in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
-AgileBits, Inc. will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
+AgileBits Inc. will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
 Refunds
 
-While all amounts paid are non-refundable, certain refund requests for Subscriptions may be considered by AgileBits, Inc. on a case-by-case basis and granted at the sole discretion of AgileBits, Inc..
+While all amounts paid are non-refundable, certain refund requests for Subscriptions may be considered by AgileBits Inc. on a case-by-case basis and granted at the sole discretion of AgileBits Inc..
 
 Accounts
 
@@ -60,17 +60,17 @@ You may not use as a username the name of another person or entity or that is no
 
 Intellectual Property
 
-The Service and all contents, including but not limited to text, images, graphics or code are the property of AgileBits, Inc. and are protected by copyright, trademarks, database and other intellectual property rights. You may display and copy, download or print portions of the material from the different areas of the Service only for your own non-commercial use. Any other use is strictly prohibited and may violate copyright, trademark and other laws. These Terms do not grant you a license to use any trademark of AgileBits, Inc. or its affiliates. You further agree not to use, change or delete any proprietary notices from materials downloaded from the Service.
+The Service and all contents, including but not limited to text, images, graphics or code are the property of AgileBits Inc. and are protected by copyright, trademarks, database and other intellectual property rights. You may display and copy, download or print portions of the material from the different areas of the Service only for your own non-commercial use. Any other use is strictly prohibited and may violate copyright, trademark and other laws. These Terms do not grant you a license to use any trademark of AgileBits Inc. or its affiliates. You further agree not to use, change or delete any proprietary notices from materials downloaded from the Service.
 
 User-Generated Content
 
-“Your Data” means any data and content which you upload, store, retrieve, or otherwise make available through the Service. You retain all of the rights to Your Data. You agree to grant AgileBits, Inc. a license to store, retrieve, backup, restore, and otherwise copy Your Data so that we may provide you with the Service.
+“Your Data” means any data and content which you upload, store, retrieve, or otherwise make available through the Service. You retain all of the rights to Your Data. You agree to grant AgileBits Inc. a license to store, retrieve, backup, restore, and otherwise copy Your Data so that we may provide you with the Service.
 
 Links To Other Websites
 
-The Service may contain links to third-party web sites or services that are not owned or controlled by AgileBits, Inc.
+The Service may contain links to third-party web sites or services that are not owned or controlled by AgileBits Inc.
 
-AgileBits, Inc. has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that AgileBits, Inc. shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such websites or services.
+AgileBits Inc. has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that AgileBits Inc. shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such websites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
 
@@ -92,17 +92,17 @@ All provisions of the Terms shall survive termination, including without limitat
 
 Limitation Of Liability
 
-AgileBits, Inc., its directors, employees, partners, agents, suppliers, or affiliates, shall not be liable for (A) any loss or damage, indirect, incidental, special, consequential or punitive damages, including without limitation, economic loss, loss or damage to electronic media or data, goodwill, or other intangible losses, or (B) for any amount in the aggregate in excess of the fees actually paid by you in the six (6) months preceding the event giving rise to your claim, resulting from (i) your access to or use of the Service; (ii) your inability to access or use the Service; (iii) any conduct or content of any third-party on or related to the Service; (iv) any content obtained from or through the Service; and (v) the unauthorized access to, use of or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other claim in law, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+AgileBits Inc., its directors, employees, partners, agents, suppliers, or affiliates, shall not be liable for (A) any loss or damage, indirect, incidental, special, consequential or punitive damages, including without limitation, economic loss, loss or damage to electronic media or data, goodwill, or other intangible losses, or (B) for any amount in the aggregate in excess of the fees actually paid by you in the six (6) months preceding the event giving rise to your claim, resulting from (i) your access to or use of the Service; (ii) your inability to access or use the Service; (iii) any conduct or content of any third-party on or related to the Service; (iv) any content obtained from or through the Service; and (v) the unauthorized access to, use of or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other claim in law, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
 
 Disclaimer And Non-Waiver of Rights
 
-AgileBits, Inc. makes no guarantees, representations or warranties of any kind as regards the website and associated technology. Any purportedly applicable warranties, terms and conditions are excluded, to the fullest extent permitted by law. Your use of the Service is at your sole risk.
+AgileBits Inc. makes no guarantees, representations or warranties of any kind as regards the website and associated technology. Any purportedly applicable warranties, terms and conditions are excluded, to the fullest extent permitted by law. Your use of the Service is at your sole risk.
 
 The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance, except as provided for under the laws of any province in Canada. In such cases, the provincial law shall apply to the extent necessary.
 
-AgileBits, Inc. its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+AgileBits Inc. its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
-If you breach any of these Terms and AgileBits, Inc. chooses not to immediately act, or chooses not to act at all, AgileBits, Inc. will still be entitled to all rights and remedies at any later date, or in any other situation, where you breach these Terms. AgileBits, Inc. does not waive any of its rights. AgileBits, Inc. shall not be responsible for any purported breach of these Terms caused by circumstances beyond its control. A person who is not a party to these Terms shall have no rights of enforcement.
+If you breach any of these Terms and AgileBits Inc. chooses not to immediately act, or chooses not to act at all, AgileBits Inc. will still be entitled to all rights and remedies at any later date, or in any other situation, where you breach these Terms. AgileBits Inc. does not waive any of its rights. AgileBits Inc. shall not be responsible for any purported breach of these Terms caused by circumstances beyond its control. A person who is not a party to these Terms shall have no rights of enforcement.
 
 You may not assign, sub-license or otherwise transfer any of your rights under these Terms.
 
@@ -147,7 +147,7 @@ Subscription Terms for Business Customers
 
 PLEASE READ THIS SUBSCRIPTION AGREEMENT CAREFULLY AS IT, TOGETHER WITH THE 1PASSWORD ORDER FORM IN WHICH IT IS REFERENCED, CONSTITUTES A LEGALLY BINDING AGREEMENT AND GOVERNS YOUR USE OF THE SERVICES. BY ACCESSING OR USING THE SERVICES, YOU ARE INDICATING THAT YOU AGREE TO THIS SUBSCRIPTION AGREEMENT. IF YOU DO NOT AGREE WITH THIS SUBSCRIPTION AGREEMENT, YOU MUST NOT ACCESS OR USE THE SERVICES.
 
-This Subscription Agreement is entered into by and between AgileBits, Inc. dba 1Password (1Password) and the customer, identified on the Order Form, that is purchasing a subscription to the Service (Customer), and is effective as of the latter to occur of the Effective Date set forth in the Order Form or the date of the signature on the Order Form.
+This Subscription Agreement is entered into by and between AgileBits Inc. dba 1Password (1Password) and the customer, identified on the Order Form, that is purchasing a subscription to the Service (Customer), and is effective as of the latter to occur of the Effective Date set forth in the Order Form or the date of the signature on the Order Form.
 
 1Password and Customer are collectively referred to as the Parties and individually as a Party. If you are entering into this Subscription Agreement on behalf of a company or legal entity, you represent that you have the authority to bind such entity to these terms and conditions. This Subscription Agreement permits Customer to access and use Services pursuant to the terms and conditions contained herein.
 

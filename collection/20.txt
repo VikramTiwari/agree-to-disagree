@@ -26,7 +26,7 @@ Adequate Country means:
 in each case, other than on the basis of an optional data protection framework.
 
 Alternative Transfer Solution means a solution, other than SCCs, that enables the lawful transfer of personal data to a third country in accordance with European Data Protection Law, for example a data protection framework recognized as ensuring that participating entities provide adequate protection.
-Audited Services means the then-current Services indicated as being in-scope for the relevant certification or report at https://cloud.google.com/security/compliance/services-in-scope. Google may not remove a Cloud Service from this URL unless that Cloud Service has been discontinued in accordance with the applicable Agreement.
+Audited Services means the then-current Services indicated as being in-scope for the relevant certification or report at https://cloud.google.com/security/compliance/services-in-scope. Google may not remove any Services from this URL unless those Services have been discontinued in accordance with the applicable Agreement.
 Cloud Identity means the Cloud Identity Services described at https://cloud.google.com/terms/identity/user-features, when purchased under a standalone Agreement.
 Customer Data has the meaning given in the applicable Agreement or, if no such meaning is given, means:
 

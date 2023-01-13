@@ -7,7 +7,7 @@ Much more than just a policy – 1Password is Private by Design
 
 Last updated: December 7, 2021
 
-This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits, Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password Applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
+This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password Applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
 
 If you have questions or complaints regarding this Privacy Policy or Our practices, please contact Us via email at dpo@1password.com.
 

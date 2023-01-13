@@ -5,7 +5,7 @@ AgileBits Cookie Policy
 
 Everything you need to know about the cookies used on our website
 
-This Cookie Policy applies for the websites of AgileBits, Inc. (“1Password”) referred to in this Policy. The websites include https://1Password.com, https://1Password.ca and https://1Password.eu (together “Websites”).
+This Cookie Policy applies for the websites of AgileBits Inc. (“1Password”) referred to in this Policy. The websites include https://1Password.com, https://1Password.ca and https://1Password.eu (together “Websites”).
 
 European Union (“EU”) legislation requires all website operators to inform website visitors about their usage of cookies and similar technologies, for example, pixels, (hereinafter “cookies”) and to collect the user’s consent to such cookie usage.   
 
