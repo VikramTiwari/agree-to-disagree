@@ -1,3 +1,5 @@
+Planned maintenance impacting Stack Overflow & Stack Exchange Network sites and Chat is scheduled for Friday, January 13, 2023, from 23:00- Saturday, January 14, 02:00 UTC (Friday, January 13, from 6:00 pm - 9:00 pm ET). Sites will be in READ-ONLY mode during this time
+This site is currently in read-only mode. We’ll return with full functionality soon. Follow @StackStatus, visit our status page or search our recent meta posts on the topic for more info.
 Public Network Terms of Service
 Stack Overflow for Teams Terms of Service
 Free
