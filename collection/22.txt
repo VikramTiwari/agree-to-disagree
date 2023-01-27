@@ -34,9 +34,11 @@ English - Pakistan
 English - Singapore
 English - United States
 Español - Latinoamérica
+Español - Estados Unidos
 Español - España
 Filipino - Pilipinas
 Français - France
+Français - Canada
 Hrvatski - Hrvatska
 Indonesia - Indonesia
 Italiano - Italia
