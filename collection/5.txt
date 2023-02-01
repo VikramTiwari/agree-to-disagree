@@ -1,83 +1,83 @@
-فيسبوك
-البريد الإلكتروني أو الهاتف	كلمة السر
+Facebook
+Email or phone	Password
 		
 	
-هل نسيت الحساب؟
-تسجيل
-غيّرت شركة فيسبوك اسمها إلى Meta. لقد قمنا بتحديث شروط الاستخدام وسياسة البيانات وسياسة ملفات تعريف الارتباط التي نتبعها حتى تعكس الاسم الجديد في 4 يناير 2022. على الرغم من تغيير اسم شركتنا، نواصل تقديم نفس المنتجات، بما في ذلك تطبيق فيسبوك من Meta. وتظل سياسة البيانات وشروط الخدمة التي نستخدمها سارية المفعول، ولا يؤثر تغيير الاسم هذا في كيفية استخدامنا للبيانات أو مشاركتها. تعرف على المزيد عن Metaورؤيتنا لعالم الميتافيرس.
+Forgot account?
+Sign Up
+The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
 
 
 
-ملفات تعريف الارتباط وتقنيات التخزين الأخرى
-ملفات تعريف الارتباط عبارة عن أجزاء نصية صغيرة يتم استخدامها لتخزين المعلومات على متصفحات الويب. يتم استخدام ملفات تعريف الارتباط لتخزين المعرفات والمعلومات الأخرى واستلامها على أجهزة الكمبيوتر والهواتف المحمولة والأجهزة الأخرى. ويتم استخدام تقنيات أخرى، بما في ذلك البيانات التي نقوم بتخزينها على متصفح الويب أو الجهاز لديّك والمعرفات المرتبطة بجهازك وغير ذلك من البرامج، لأغراض مماثلة. في هذه السياسة، نشير إلى كل هذه التقنيات باسم "ملفات تعريف الارتباط".
+Cookies & other storage technologies
+Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-نستخدم ملفات تعريف الارتباط إذا كان لديك حساب على فيسبوك أو كنت تستخدم منتجات Meta، بما في ذلك موقعنا على الويب وتطبيقاتنا، أو عند زيارة مواقع الويب والتطبيقات الأخرى التي تستخدم منتجات Meta (بما في ذلك الزر "أعجبني"). تتيح ملفات تعريف الارتباط لشركة Meta إمكانية توفير منتجات Meta لك والتعرف على المعلومات التي نتلقاها عنك، بما في ذلك المعلومات ذات الصلة باستخدامك لمواقع الويب والتطبيقات الأخرى، بصرف النظر عما إذا كنت قد قمت بالتسجيل أو تسجيل الدخول أم لا.⁩
+We use cookies if you have a Facebook account, use the Meta Products, including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-توضّح هذه السياسة كيفية استخدامنا لملفات تعريف الارتباط والخيارات المتاحة لك. ما لم تنص هذه السياسة على خلاف ذلك، سيتم تطبيق سياسة البيانات على طريقة معالجتنا للبيانات التي نجمعها عبر ملفات تعريف الارتباط.
-لماذا نستخدم ملفات تعريف الارتباط؟
+This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the Data Policy will apply to our processing of the data that we collect via cookies.
+Why do we use cookies?
 
-تساعدنا ملفات تعريف الارتباط على توفير منتجات Meta وحمايتها وتحسينها، على سبيل المثال، عن طريق إضفاء طابع شخصي على المحتوى وتخصيص الإعلانات وقياسها وتقديم تجربة أكثر أمانًا. تتضمن ملفات تعريف الارتباط التي نستخدمها ملفات تعريف ارتباط الجلسات، والتي يتم حذفها عند إغلاق المتصفح، وملفات تعريف الارتباط الدائمة، والتي تبقى على المتصفح حتى تنتهي صلاحيتها أو يتم حذفها. ونظرًا لاحتمالية تغير أسماء ملفات تعريف الارتباط التي نستخدمها من حين لآخر أثناء تحسين منتجات Meta التي نقدمها وتحديثها، نستخدم ملفات تعريف الارتباط للأغراض التالية:
-المصادقة
-نستخدم ملفات تعريف الارتباط للتحقق من حسابك وتحديد وقت تسجيل دخولك، و ذلك حتى نتمكن من جعل عملية وصولك إلى منتجات Meta أكثر سهولة بالإضافة إلى منحك الميزات وتجربة الاستخدام المناسبة.
-على سبيل المثال: نستخدم ملفات تعريف الارتباط حتى لا تضطر إلى تسجيل الدخول مرة أخرى في كل مرة تتنقل فيها بين صفحات فيسبوك. تساعدنا ملفات تعريف الارتباط أيضًا على تذكّر متصفحك وبالتالي لا تحتاج لإعادة تسجيل الدخول إلى فيسبوك ومن ثم يمكنك تسجيل الدخول إلى فيسبوك بسهولة أكبر عبر مواقع الويب والتطبيقات الخارجية. على سبيل المثال، نستخدم ملفات تعريف الارتباط "c_user" و"xs" لهذا الغرض وتستمر دورة حياتها لمدة تبلغ 365 يومًا.
-الأمان والموقع وسلامة المنتجات
-نستخدم ملفات تعريف الارتباط للمساعدة في الحفاظ على أمان الحساب والبيانات ومنتجات Meta وسلامتها.
-على سبيل المثال: يمكن أن تساعدنا ملفات تعريف الارتباط على تحديد إجراءات أمان إضافية وفرضها عند محاولة أحد الأشخاص الوصول إلى حسابك على فيسبوك بدون تصريح، على سبيل المثال، من خلال تخمين كلمات سر مختلفة بسرعة. كما نقوم أيضًا باستخدام ملفات تعريف الارتباط لتخزين المعلومات التي تتيح لنا إمكانية استرداد حسابك في حالة نسيانك لكلمة السر أو لطلب مصادقة إضافية إذا أبلغتنا عن تعرض حسابك للاختراق. يتضمن ذلك، على سبيل المثال، ملفات تعريف الارتباط "sb" و"dbln"، والتي تتيح لنا تحديد متصفحك بأمان بالإضافة إلى ملف تعريف الارتباط "datr". ملف تعريف الارتباط "Datr" عبارة عن معرف فريد لمتصفحك يساعدنا، من بين أمور أخرى، على حمايتك من الاحتيال. على سبيل المثال، يساعدنا على تحديد المتصفحات الموثوقة التي قمت بتسجيل الدخول منها قبل ذلك. تستمر دورة حياة "Datr" لمدة تبلغ عامين.
-نستخدم أيضًا ملفات تعريف الارتباط لمواجهة الأنشطة التي تمثل انتهاكًا لسياساتنا أو التي تحد من قدرتنا على تقديم منتجات Meta بكفاءة.
-على سبيل المثال: تساعد ملفات تعريف الارتباط على مواجهة عمليات الهجوم عبر المحتويات غير المهمة أو الاحتيالية وذلك من خلال تمكيننا من تحديد أجهزة الكمبيوتر المستخدمة لإنشاء أعداد كبيرة من حسابات فيسبوك الزائفة. ونستخدم ملفات تعريف الارتباط أيضًا لاكتشاف أجهزة الكمبيوتر المُصابة ببرامج ضارة واتخاذ الخطوات اللازمة لمنعها من التسبب في المزيد من الضرر. يساعدنا ملف تعريف الارتباط "csrf" على منع هجمات تزوير طلب عبر المواقع. يساعدنا ملف تعريف الارتباط "datr" أيضًا على تحديد المتصفحات التي يستخدمها المحتالون ومنع هجمات الأمن السيبراني، مثل هجوم حجب الخدمة الذي قد يمنعك من الوصول إلى منتجات Meta. تساعدنا ملفات تعريف الارتباط أيضًا على منع الأشخاص دون السن القانونية من التسجيل للحصول على حسابات فيسبوك.
-الإعلان والتوصيات والرؤى والقياس
-نستخدم ملفات تعريف الارتباط لتساعدنا على عرض إعلانات الأنشطة التجارية وغيرها من المؤسسات وعرض توصيات خاصة بها أمام الأشخاص الذين يُحتمل اهتمامهم بالمنتجات أو الخدمات أو القضايا التي يروجون لها.
-على سبيل المثال: تتيح لنا ملفات تعريف الارتباط إمكانية المساعدة في عرض الإعلانات أمام الأشخاص الذين سبقت لهم زيارة موقع ويب لأحد الأنشطة التجارية أو شراء منتجاتها أو استخدام تطبيقاتها ولعرض توصيات بخصوص المنتجات والخدمات استنادًا إلى هذا النشاط. تساعدنا ملفات تعريف الارتباط أيضًا على وضع حد لعدد مرات رؤيتك للإعلان حتى لا تتعرض لرؤية الإعلان ذاته عدة مرات. على سبيل المثال، يتم استخدام ملف تعريف الارتباط "fr" لعرض وقياس وتحسين ملاءمة الإعلانات، وتستمر دورة حياته لمدة تبلغ 90 يومًا.
-ونستخدم ملفات تعريف الارتباط أيضًا للمساعدة في قياس كفاءة أداء الحملات الإعلانية للأنشطة التجارية التي تستخدم منتجات Meta.
-على سبيل المثال: نستخدم ملفات تعريف الارتباط لحساب عدد مرات ظهور الإعلان وحساب تكلفة تلك الإعلانات. نستخدم أيضًا ملفات تعريف الارتباط لقياس تكرار قيام الأشخاص بأمور، مثل تنفيذ عملية شراء بعد ظهور الإعلان لهم. على سبيل المثال، يحدد ملف تعريف الارتباط "‎_fbp" المتصفحات لأغراض تقديم خدمات تحليلات الموقع والإعلانات وتستمر دورة حياته لمدة تبلغ 90 يومًا.
-تساعدنا ملفات تعريف الارتباط على عرض الإعلانات وقياسها عبر المتصفحات والأجهزة المختلفة الأخرى التي يستخدمها الشخص نفسه.
-على سبيل المثال: يمكننا استخدام ملفات تعريف الارتباط لحمايتك من مشاهدة الإعلان ذاته مرات متكررة عبر الأجهزة المختلفة التي تستخدمها.
-تتيح لنا ملفات تعريف الارتباط أيضًا إمكانية تقديم الرؤى حول الأشخاص الذين يستخدمون منتجات Meta بالإضافة إلى الأشخاص الذين يتفاعلون مع الإعلانات ومواقع الويب والتطبيقات التي تخص المعلنين والأنشطة التجارية التي تستخدم منتجات Meta.
-على سبيل المثال: نستخدم ملفات تعريف الارتباط لمساعدة الأنشطة التجارية في فهم أنماط الأشخاص المعجبين بصفحتها على فيسبوك أو الذين يستخدمون تطبيقاتها حتى تتمكن تلك الأنشطة التجارية من تقديم محتويات أكثر ارتباطًا باهتمامات عملائها وتطوير الميزات التي قد تقع داخل دائرة اهتمامات عملائها بشكل أكبر.
-ونستخدم أيضًا ملفات تعريف ارتباط، مثل ملف "oo"، والذي تستمر دورة حياته لمدة خمس سنوات، لمساعدتك على تجنب رؤية الإعلانات من Meta استنادًا إلى نشاطك على مواقع الويب الخارجية. تعرَّف على المزيد عن المعلومات التي نتلقاها، وكيفية اختيار الإعلانات التي نعرضها لك داخل منتجات Meta وخارجها وأدوات التحكم المتاحة لك.
-ميزات وخدمات الموقع
-نستخدم ملفات تعريف الارتباط لتمكين الوظيفة التي تساعدنا على تقديم منتجات Meta.
-على سبيل المثال: تساعدنا ملفات تعريف الارتباط على تخزين التفضيلات ومعرفة وقت رؤيتك لمحتويات منتجات Meta أو تفاعلك معها، وتزويدك بمحتويات وخبرات تتناسب مع متطلباتك الشخصية. على سبيل المثال، تتيح لنا ملفات تعريف الارتباط إمكانية تقديم الاقتراحات إليك وإلى الآخرين وتخصيص المحتوى على مواقع الجهات الخارجية التي تقوم بدمج المكونات الإضافية للتواصل الاجتماعي الخاصة بنا. إذا كنت تعمل كمسؤول لإحدى صفحات فيسبوك، تساعدك ملفات تعريف الارتباط على التبديل بين النشر باستخدام حسابك الشخصي على فيسبوك والنشر باسم صفحة فيسبوك. نستخدم ملفات تعريف الارتباط مثل ملف "presence" الذي يستند إلى الجلسة لدعم استخدامك لنافذة دردشة Messenger.
-كما نستخدم ملفات تعريف الارتباط أيضًا للمساعدة في تزويدك بالمحتوى الذي يتناسب مع لغتك وإعداداتك المحلية.
-على سبيل المثال: نقوم بتخزين معلومات في ملف تعريف ارتباط موجود على المتصفح أو الجهاز الخاص بك وذلك لتتمكن من رؤية الموقع باللغة التي تفضلها.
-الأداء
-نستخدم ملفات تعريف الارتباط لتوفير أفضل تجربة استخدام ممكنة.
-على سبيل المثال: تساعدنا ملفات تعريف الارتباط على توجيه حركة الزيارات بين خوادمنا والوقوف على سرعة تحميل منتجات Meta لدى مختلف الأشخاص. تساعدنا ملفات تعريف الارتباط أيضًا في تسجيل نسبة العرض إلى الارتفاع وأبعاد الشاشة والنوافذ ومعرفة ما إذا كنت قد قمت بتمكين وضع عالي التباين حتى نتمكن تبعًا لذلك من عرض مواقعنا وتطبيقاتنا بشكل صحيح. على سبيل المثال، نقوم بتعيين ملفات تعريف الارتباط "dpr" و"wd"، والتي تستمر دورة حياة كل منهما لمدة 7 أيام، لأغراض تتضمن تقديم أفضل تجربة لشاشة جهازك.
-التحليلات والبحث
-نستخدم ملفات تعريف الارتباط من أجل فهم طبيعة استخدام الأشخاص لمنتجات Meta حتى نتمكن من تحسينها لهم.
-على سبيل المثال: يمكن أن تساعدنا ملفات تعريف الارتباط على فهم كيفية استخدام الأشخاص لخدمات فيسبوك وتحليل أجزاء منتجاتنا التي يرى الأشخاص أنها أكثر فائدة وجاذبية لهم بالإضافة إلى الوقوف على الميزات التي يمكن تحسينها.
-مواقع الويب والتطبيقات الخارجية
-قد يختار شركاء الأعمال التابعين لنا أيضًا مشاركة المعلومات مع Meta من ملفات تعريف الارتباط التي تم تعيينها في نطاقات مواقع الويب الخاصة بهم، سواء كان لديك حساب على فيسبوك أم لا أو سجلت دخولك أم لا. وعلى وجه التحديد ، قد يتم تعيين ملفات تعريف الارتباط التي تحمل اسم ‎_fbc أو ‎_fbp على نطاق شريك الأعمال الذي تزور موقعه. وعلى عكس ملفات تعريف الارتباط التي يتم تعيينها على النطاقات الخاصة بشركة Meta، لا يمكن الوصول إلى ملفات تعريف الارتباط هذه بواسطة Meta عندما تزور موقعًا آخر غير الموقع الذي تم تعيين ملفات تعريف الارتباط عليه، بما في ذلك عندما تكون على أحد نطاقاتنا. وتخدم نفس أغراض ملفات تعريف الارتباط التي يتم تعيينها في النطاق الخاص بشركة Meta، والتي تهدف إلى إضفاء طابع شخصي على المحتوى (بما في ذلك الإعلانات)، وقياس أدائها، وتقديم التحليلات، وتجربة أكثر أمانًا، كما هو موضح في سياسة ملفات تعريف الارتباط هذه.
-أين نستخدم ملفات تعريف الارتباط؟
-يجوز لنا وضع ملفات تعريف الارتباط على جهاز الكمبيوتر أو أي جهاز آخر تستخدمه واستلام المعلومات التي يتم تخزينها داخل تلك الملفات، وذلك عند استخدام أو زيارة:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Authentication
+We use cookies to verify your account and determine when you’re logged in so that we can make it easier for you to access the Meta Products and show you the appropriate experience and features.
+For example: We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c_user" and "xs" cookies, including for this purpose, which have a lifespan of 365 days.
+Security, site and product integrity
+We use cookies to help us keep your account, data and the Meta Products safe and secure.
+For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely, as well as “datr." "Datr" is a unique identifier for your browser that, amongst other things, helps us protect you from fraud. For example, it helps us identify trusted browsers where you have logged in before. “Datr” has a lifespan of two years.
+We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
+For example: Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. The “datr” cookie also helps us to identify the browsers used by malicious actors and to prevent cyber-security attacks, such as a denial of service attack that could prevent you from accessing the Meta Products. Cookies also help us prevent underage people from registering for Facebook accounts.
+Advertising, recommendations, insights and measurement
+We use cookies to help us show ads and to make recommendations for businesses and other organisations to people who may be interested in the products, services or causes they promote.
+For example: Cookies allow us to help deliver ads to people who have previously visited a business’s website, purchased its products or used its apps and to recommend products and services based on that activity. Cookies also allow us to limit the number of times that you see an ad so you don’t see the same ad over and over again. For example, the "fr" cookie is used to deliver, measure and improve the relevancy of ads, with a lifespan of 90 days.
+We also use cookies to help measure the performance of ad campaigns for businesses that use the Meta Products.
+For example: We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. For example, the "_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days.
+Cookies help us serve and measure ads across different browsers and devices used by the same person.
+For example: We can use cookies to prevent you from seeing the same ad over and over again across the different devices that you use.
+Cookies also allow us to provide insights about the people who use the Meta Products, as well as the people who interact with the ads, websites and apps of our advertisers and the businesses that use the Meta Products.
+For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
+We also use cookies, such as our "oo" cookie, which has a lifespan of five years, to help you opt out of seeing ads from Meta based on your activity on third-party websites. Learn more about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+Site features and services
+We use cookies to enable the functionality that helps us provide the Meta Products.
+For example: Cookies help us store preferences, know when you’ve seen or interacted with Meta Products’ content and provide you with customised content and experiences. For instance, cookies allow us to make suggestions to you and others, and to customise content on third-party sites that integrate our social plugins. If you are a Facebook Page administrator, cookies allow you to switch between posting from your personal Facebook account and the Facebook Page. We use cookies such as the session-based "presence" cookie to support your use of Messenger chat windows.
+We also use cookies to help provide you with content relevant to your locale.
+For example: We store information in a cookie that is placed on your browser or device so that you will see the site in your preferred language.
+Performance
+We use cookies to provide you with the best experience possible.
+For example: Cookies help us route traffic between servers and understand how quickly Meta Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you’ve enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, for purposes including to deliver an optimal experience for your device’s screen.
+Analytics and research
+We use cookies to better understand how people use the Meta Products so that we can improve them.
+For example: Cookies can help us understand how people use the Facebook service, analyse which parts of our Products people find most useful and engaging, and identify features that could be improved.
+Third-party websites and apps
+Our business partners may also choose to share information with Meta from cookies set in their own websites' domains, whether or not you have a Facebook account or are logged in. Specifically, cookies named _fbc or _fbp may be set on the domain of the business partner whose site you're visiting. Unlike cookies that are set on Meta's own domains, these cookies aren’t accessible by Meta when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Meta's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
+Where do we use cookies?
+We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
 
 
-منتجات Meta
-المنتجات التي توفرها الشركات الأخرى الأعضاء في مجموعة شركات Meta؛ وأيضًا
-مواقع الويب والتطبيقات التي توفرها الشركات الأخرى التي تستخدم منتجات Meta، بما في ذلك الشركات التي تقوم بدمج تقنيات Meta في مواقعها على الويب وتطبيقاتها. تستخدم Meta ملفات تعريف الارتباط وتتلقى المعلومات عند زيارتك لمواقع الويب والتطبيقات هذه، بما في ذلك معلومات الجهاز والمعلومات ذات الصلة بنشاطك، دون مطالبتك باتخاذ أي إجراء. ويتم ذلك كله بصرف النظر عما إذا كان لديك حساب على فيسبوك أم لا، أو كنت قد قمت بتسجيل الدخول إلى فيسبوك أم لا.
-هل تستخدم الشركات الأخرى ملفات تعريف الارتباط فيما يتعلق بمنتجات Meta؟
-نعم، تستخدم الشركات الأخرى ملفات تعريف الارتباط على منتجات Meta لتقديم خدمات الإعلانات والقياس والتسويق والتحليلات إلينا، ولتوفير ميزات معينة وتحسين خدماتنا من أجلك.
+The Meta Products;
+Products provided by other members of the Meta Companies; and
+Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+Do other Companies use cookies in connection with the Meta Products?
+Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
 
-على سبيل المثال، تساعد ملفات تعريف الارتباط الخاصة بالشركات الأخرى على تخصيص الإعلانات خارج منتجات Meta، وقياس مدى أدائها وفعّاليتها ودعم التسويق والتحليلات. تستخدم بعض الميزات في منتجات Meta ملفات تعريف الارتباط من شركات أخرى لتشغيل، على سبيل المثال، بعض ميزات الخرائط والدفع والأمان. تعرف على المزيد عن الشركات التي تستخدم ملفات تعريف الارتباط على منتجات Meta.
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more about the companies that use cookies on the Meta Products.
 
-تستخدم الشركات الخارجية أيضًا ملفات تعريف الارتباط في مواقعها على الويب وتطبيقاتها فيما يتعلق بمنتجات Meta. لفهم كيفية استخدام الشركات الأخرى لملفات تعريف الارتباط، يرجى مراجعة سياسات الخصوصية لكل منها.
-كيف يمكنك التحكم في معلوماتك؟
-نستخدم ملفات تعريف الارتباط لإضفاء طابع شخصي على المحتوى والخدمات وتحسينها، وتقديم تجربة أكثر أمنًا وعرض إعلانات مفيدة وملائمة لك داخل منتجات Meta وخارجها. يمكنك التحكم في طريقة استخدامنا للبيانات لعرض الإعلانات عليك وغير ذلك الكثير باستخدام الأدوات الموضّحة أدناه.
-إذا كان لديك حساب على فيسبوك:
-يمكنك استخدام تفضيلات الإعلانات لتتعرف على أسباب مشاهدتك لإعلانات بعينها والتحكم في كيفية استخدامنا للمعلومات التي نجمعها لعرض الإعلانات أمامك.
-لضمان عرض إعلانات أفضل لك، نستخدم البيانات التي يقدمها المعلنون والشركاء الآخرون عن نشاطك خارج منتجات شركة Meta، بما في ذلك مواقع الويب والتطبيقات. ويمكنك التحكم فيما إذا كان يمكننا استخدام هذه البيانات لعرض الإعلانات لك أم لا من خلال إعدادات الإعلانات.
-وتعتبر Meta Audience Network إحدى الطرق التي يلجأ إليها المعلنون لعرض الإعلانات عليك في التطبيقات ومواقع الويب خارج منتجات شركة Meta. ومن الطرق التي تنجح Audience Network من خلالها في تقديم الإعلانات المناسبة ذات الصلة هي استخدام تفضيلات الإعلانات لتحديد الإعلانات التي قد تكون مهتمًا برؤيتها. ويمكنك التحكم في ذلك من خلال إعدادات الإعلانات.
-يمكنك مراجعة نشاطك خارج فيسبوك، وهو ملخص للنشاط الذي تشاركه الأنشطة التجارية والمؤسسات معنا حول تفاعلاتك معها، مثل زيارة تطبيقاتها أو مواقعها على الويب. تستخدم تلك الجهات أدوات الأعمال التي نوفرها، مثل "بيكسل Meta"، لمشاركة هذه المعلومات معنا. ويساعدنا ذلك على القيام بأمور مثل منحك تجربة ذات طابع شخصي أكثر على منتجات Meta. تعرّف على المزيد عن النشاط خارج فيسبوك، وطريقة استخدامنا له، وكيف يمكنك إدارة هذا النشاط.
-الجميع:
-يمكنك إلغاء مشاهدة إعلانات الإنترنت التي تستند إلى الاهتمامات من Meta والشركات المشاركة الأخرى من خلال تحالف الإعلانات الرقمية في الولايات المتحدة الأمريكية أو تحالف الإعلانات الرقمية في كندا أو تحالف الإعلانات الرقمية التفاعلية في أوروبا أو باستخدام إعدادات الجهاز المحمول، إن أمكن، باستخدام Android أو iOS 13 أو إصدار مبكر من نظام iOS. يرجى العلم أن أدوات وبرامج حظر الإعلانات التي تقيد استخدام ملف تعريف الارتباط الخاص بنا قد تتداخل مع عناصر التحكم هذه.
-للتعرف على المزيد من المعلومات عن الإعلان على الإنترنت:
-تقوم شركات الإعلان التي نعمل معها بوجه عام باستخدام ملفات تعريف الارتباط والتقنيات المشابهة كجزء من خدماتها. للتعرف على المزيد عن كيفية استخدام المعلنين لملفات تعريف الارتباط والخيارات التي يقدمونها بشكل عام، يمكنك مراجعة الموارد التالية:
+Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
+How can you control your Information?
+We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Meta Products. You can control how we use data to show you ads and more by using the tools described below.
+If you have a Facebook account:
+You can use your ad preferences to learn why you’re seeing a particular ad and control how we use information that we collect to show you ads.
+To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your ad settings.
+The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the Meta Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your ad settings.
+You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our business tools, such as Meta Pixel, to share this information with us. This helps us do things like give you a more personalised experience on Meta Products. Learn more about off-Facebook activity, how we use it and how you can manage it.
+Everyone:
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the Digital Advertising Alliance in the US, the Digital Advertising Alliance of Canada in Canada or the European Interactive Digital Advertising Alliance in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+More information about online advertising:
+The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
-تحالف الإعلانات الرقمية
-تحالف الإعلانات الرقمية في كندا
-تحالف الإعلانات الرقمية التفاعلية في أوروبا
-عناصر التحكم في ملفات تعريف الارتباط للمتصفح:
-بالإضافة إلى ذلك، قد يوفر المتصفح أو الجهاز مجموعة من الإعدادات التي يمكنك من خلالها اختيار تعيين ملفات تعريف الارتباط للمتصفح أو حذفها. تتنوع عناصر التحكم حسب المتصفح، وقد تقوم الجهات المصنّعة بتغيير الإعدادات التي يوفرونها وكيفية عمل تلك الإعدادات في أي وقت. اعتبارًا من 23 يونيو 2021، يمكنك العثور على معلومات إضافية عن عناصر التحكم التي توفرها المتصفحات الشهيرة في الروابط أدناه. قد لا تعمل بعض أجزاء منتجات Meta بشكل صحيح في حالة تعطيل استخدام ملفات تعريف الارتباط بالمتصفح. يرجى العلم بأن عناصر التحكم تلك تختلف عن عناصر التحكم التي نوفرها لك.
+Digital Advertising Alliance
+Digital Advertising Alliance of Canada
+European Interactive Digital Advertising Alliance
+Browser cookie controls:
+In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
 
 Google Chrome
 Internet Explorer
@@ -87,20 +87,20 @@ Safari Mobile
 Opera
 
 
-تاريخ آخر مراجعة: 5 أكتوبر 2022
-العربية
+Date of last revision: 5 October 2022
 English (US)
+فارسی
+العربية
+Türkçe
+Deutsch
 Français (France)
-Bahasa Indonesia
-Русский
+Polski
+Svenska
+Azərbaycan dili
 Español
 Português (Brasil)
-বাংলা
-中文(简体)
-Deutsch
-Italiano
-إنشاء حساب في فيسبوكتسجيل الدخولMessengerFacebook LiteWatchالأماكنالألعابMarketplaceMeta PayOculusPortalInstagramBulletinحملات جمع التبرعاتالخدماتمركز معلومات التصويتسياسة الخصوصيةمركز الخصوصيةالمجموعاتحولإنشاء إعلانإنشاء صفحةالمطوّرونالوظائفملفات تعريف الارتباطاختيارات الإعلانات
-الشروطمساعدةتحميل جهات الاتصال والإشعار غير المتعلق بالمستخدمين
-الإعدادات
-سجل النشاطات
+Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceMeta PayOculusPortalInstagramBulletinFundraisersServicesVoting Information CenterPrivacy PolicyPrivacy CenterGroupsAboutCreate AdCreate PageDevelopersCareersCookiesAd choices
+TermsHelpContact Uploading & Non-Users
+Settings
+Activity log
 Meta © 2023
