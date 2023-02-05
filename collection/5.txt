@@ -1,106 +1,106 @@
 Facebook
-電子郵件地址或手機號碼	密碼
+Email or phone	Password
 		
 	
-忘記帳號？
-註冊
-Facebook 旗下企業即日起更名為 Meta。我們已於 2022 年 1 月 4 日更新《使用條款》、《資料政策》和《Cookie 政策》，以反映我們的新名稱。雖然我們變更了公司名稱，但是我們提供的產品沒有改變，包括 Meta 旗下的 Facebook 應用程式。我們《資料政策》和《服務條款》的效力依舊，此次名稱變更不會影響我們使用或分享資料的方式。深入瞭解 Meta和我們對元宇宙的願景。
+Forgot account?
+Sign Up
+The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
 
 
 
-Cookie 與其他儲存技術
-Cookie 是一種小型的文字檔案，可用於儲存網頁瀏覽器上的資訊，也可用來儲存和接收電腦、手機及其他裝置上的識別資料和其他資訊。其他技術，包括我們儲存在您網頁瀏覽器或裝置上的資料、和您裝置相關聯的識別碼以及其他軟體，也是用於類似的用途。這些技術在本政策中統稱為「Cookie」。
+Cookies & other storage technologies
+Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-我們使用 Cookie 蒐集資料的對象包括擁有 Facebook 帳號的用戶、使用 Meta 產品（包括我們的網站和應用程式）的用戶，或是瀏覽其他使用 Meta 產品（包括「讚」按鈕）的網站及應用程式的訪客。Cookie 讓 Meta 可以向您提供 Meta 產品，並解讀我們所收到有關您的資料，包括您使用其他網站和應用程式的情形，無論您是否註冊或登入 Facebook 皆然。
+We use cookies if you have a Facebook account, use the Meta Products, including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-本政策旨在說明我們如何使用 Cookie 以及您有哪些選擇。除本政策另有規定者外，我們透過 Cookie 蒐集到的資料，都將遵照《資料政策》進行處理。
-我們為什麼使用 Cookie？
+This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the Data Policy will apply to our processing of the data that we collect via cookies.
+Why do we use cookies?
 
-Cookie 能協助我們提供、保護及改善 Meta 產品，例如：提供個人化內容、打造更切合用戶需求的廣告和衡量廣告成效，以及提供更安全的使用體驗。我們使用的 Cookie 包含階段性 Cookie 及永久性 Cookie；前者會在您關閉瀏覽器後刪除，後者則會保留在瀏覽器中，直到過期或您將其刪除。雖然我們使用的 Cookie 會隨著 Meta 產品的改善和更新而時有變更，但我們一般將 Cookie 用於以下用途：
-驗證
-我們使用 Cookie 進行帳號驗證及確認您登入的時間，以方便您使用 Meta 產品，並向您顯示適合的體驗和功能。
-例如：我們使用 Cookie 讓您在瀏覽不同 Facebook 粉絲專頁時保持登入狀態。Cookie 也能協助我們記住您的瀏覽器，讓您省去每次瀏覽 Facebook 時都要登入的麻煩，也方便您透過第三方應用程式和網站登入 Facebook。例如「c_user」和「xs」Cookie 就是用於前述目的，其使用期限為 365 天。
-安全性、網站及產品信譽
-我們使用 Cookie 來幫助保護用戶帳號、資料及 Meta 產品的安全。
-例如：如果有人意圖在未獲授權的情況下存取 Facebook 帳號（例如在短時間內輸入不同密碼，試圖登入帳號），Cookie 可以協助我們識別這類行為並實施額外安全措施。我們也會使用 Cookie 儲存資訊，以便在您忘記密碼時協助您恢復帳號，或在您告訴我們您的帳號遭到盜用時，要求以更多的方式驗證身分。舉例來說，我們的「sb」、「dbln」和「datr」等Cookie，可讓我們穩當地識別您的瀏覽器。「datr」是適用您瀏覽器的獨特識別碼，可協助我們保護您免遭詐騙等。舉例來說，「datr」能協助我們識別您曾登入過的可信任瀏覽器。「datr」的使用期限為兩年。
-我們也會使用 Cookie 來對抗違反我們政策或以任何方式影響我們提供 Meta 產品的活動。
-例如：Cookie 能協助我們識別出建立大量不實 Facebook 帳號的電腦，藉此打擊垃圾訊息和釣魚攻擊。我們也使用 Cookie 偵測遭到惡意軟體入侵的電腦，並採取相應的防護措施，阻止惡意軟體造成更多傷害。舉例來說，我們的「csrf」Cookie 可協助我們預防跨網站偽造要求的攻擊。「datr」Cookie 也可協助我們識別惡意有心人士所使用的瀏覽器，並且預防網路安全攻擊（例如拒絕可能會導致您無法存取 Meta 產品的服務攻擊）。Cookie 也能協助我們防止未成年者註冊 Facebook 帳號。
-刊登廣告、推薦內容、分析資料和衡量廣告成效
-Cookie 可協助我們為商家和其他組織向用戶顯示廣告，以及推薦他們可能感興趣的商品、服務或理念。
-例如：Cookie 讓我們能向曾瀏覽商家網站、購買商品或使用其應用程式的用戶投遞廣告，並根據上述動態推薦商品和服務。Cookie 也讓我們能限制用戶看到廣告的次數，避免用戶一再看到同一則廣告。舉例來說，「fr」Cookie 用於提供、衡量和改善廣告的相關性，其使用期限為 90 天。
-我們也會透過 Cookie 協助使用 Meta 產品的商家衡量廣告行銷活動的成效。
-例如：我們使用 Cookie 計算廣告的顯示次數以及廣告成本。我們也會使用 Cookie 衡量用戶採取某些行動的頻率，例如在看過廣告後進行購買。舉例來說，「_fbp」Cookie 可識別瀏覽器，以提供廣告和網站分析服務，使用期限為 90 天。
-Cookie 能協助我們在不同的瀏覽器和裝置上向同一位用戶顯示廣告，以及衡量廣告成效。
-例如：我們使用 Cookie 避免用戶在不同裝置上一再看到同一則廣告。
-Cookie 也能讓我們針對使用 Meta 產品的用戶，以及和使用 Meta 產品的廣告商及商家的廣告、網站及應用程式互動的用戶，提供深入的分析資料。
-例如：我們使用 Cookie 協助商家瞭解對他們 Facebook 粉絲專頁按讚或使用他們應用程式的用戶族群，讓商家能為目標客群提供更切身相關的內容，並開發顧客可能感興趣的功能。
-我們也會使用 Cookie（例如使用期限為五年的「oo」Cookie），協助您選擇不要看到根據您在第三方網站動態而投遞的 Meta 廣告。深入瞭解我們接收的資訊、我們如何決定在 Meta 產品和其他網路空間向您顯示哪些廣告，以及您可使用的控制選項。
-網站功能與服務
-我們使用 Cookie 來啟用可協助我們提供 Meta 產品的相關功能。
-例如：Cookie 可協助我們儲存偏好設定、瞭解您何時看過 Meta 產品的內容或與其互動，以及提供個人化的內容和體驗。舉例來說，Cookie 讓我們能向您和其他用戶提供建議，以及在已整合我們社交外掛程式的第三方網站上提供個人化內容。如果您是 Facebook 粉絲專頁管理員，Cookie 可讓您切換使用個人 Facebook 帳號或以 Facebook 粉絲專頁的身分發文。我們亦使用 Cookie（例如以連線階段為基礎的「presence」Cookie）來支援您使用 Messenger 聊天視窗。
-我們也使用 Cookie 來提供和您所在地點有關的內容。
-例如：我們會在您的瀏覽器或裝置的 Cookie 內儲存資訊，讓您能以偏好的語言瀏覽網站。
-成效
-我們透過 Cookie 為您提供最佳體驗。
-例如：Cookie 可協助我們分配伺服器間的流量，並且瞭解不同用戶載入 Meta 產品時的速度。Cookie 也能協助我們記錄您螢幕和視窗的比例及尺寸，以及瞭解您是否啟用高對比模式，以便我們能正確顯示網站和應用程式。舉例來說，我們設定「dpr」和「wd」Cookie（使用期限各為 7 天）以便為您的裝置螢幕帶來最佳體驗。
-分析與研究
-我們使用 Cookie 來深入瞭解 Meta 產品的使用情形，以便我們提升服務品質。
-例如：Cookie 可協助我們瞭解 Facebook 服務的使用情形、分析用戶覺得我們產品最實用和最吸引人的部分，以及找出有待加強的功能。
-第三方網站與應用程式
-無論您是否擁有 Facebook 帳號或登入與否，我們的企業合作夥伴也可能會透過其網站網域設定的 Cookie 與 Meta 分享資訊。具體來說，「_fbc」或「_fbp」Cookie 可能會設置在您所瀏覽的企業合作夥伴網站的網域中。這類 Cookie 與設置在 Meta 自家網域的 Cookie 不同，如果您前往 Cookie 所在位置以外的其他網站（包括在我們的網域），Meta 便無法存取這類 Cookie。它們的功能和設置在 Meta 網域的 Cookie 目的相同，都是為了提供個人化的內容（包括廣告）、衡量廣告成效、產生分析數據、提供更安全的體驗，如本《Cookie 政策》所述。
-我們在哪些地方使用 Cookie？
-我們會在您的電腦或裝置中放置 Cookie，並在您使用或瀏覽下列服務時接收儲存在 Cookie 中的資訊：
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Authentication
+We use cookies to verify your account and determine when you’re logged in so that we can make it easier for you to access the Meta Products and show you the appropriate experience and features.
+For example: We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c_user" and "xs" cookies, including for this purpose, which have a lifespan of 365 days.
+Security, site and product integrity
+We use cookies to help us keep your account, data and the Meta Products safe and secure.
+For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely, as well as “datr." "Datr" is a unique identifier for your browser that, amongst other things, helps us protect you from fraud. For example, it helps us identify trusted browsers where you have logged in before. “Datr” has a lifespan of two years.
+We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
+For example: Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. The “datr” cookie also helps us to identify the browsers used by malicious actors and to prevent cyber-security attacks, such as a denial of service attack that could prevent you from accessing the Meta Products. Cookies also help us prevent underage people from registering for Facebook accounts.
+Advertising, recommendations, insights and measurement
+We use cookies to help us show ads and to make recommendations for businesses and other organisations to people who may be interested in the products, services or causes they promote.
+For example: Cookies allow us to help deliver ads to people who have previously visited a business’s website, purchased its products or used its apps and to recommend products and services based on that activity. Cookies also allow us to limit the number of times that you see an ad so you don’t see the same ad over and over again. For example, the "fr" cookie is used to deliver, measure and improve the relevancy of ads, with a lifespan of 90 days.
+We also use cookies to help measure the performance of ad campaigns for businesses that use the Meta Products.
+For example: We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. For example, the "_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days.
+Cookies help us serve and measure ads across different browsers and devices used by the same person.
+For example: We can use cookies to prevent you from seeing the same ad over and over again across the different devices that you use.
+Cookies also allow us to provide insights about the people who use the Meta Products, as well as the people who interact with the ads, websites and apps of our advertisers and the businesses that use the Meta Products.
+For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
+We also use cookies, such as our "oo" cookie, which has a lifespan of five years, to help you opt out of seeing ads from Meta based on your activity on third-party websites. Learn more about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+Site features and services
+We use cookies to enable the functionality that helps us provide the Meta Products.
+For example: Cookies help us store preferences, know when you’ve seen or interacted with Meta Products’ content and provide you with customised content and experiences. For instance, cookies allow us to make suggestions to you and others, and to customise content on third-party sites that integrate our social plugins. If you are a Facebook Page administrator, cookies allow you to switch between posting from your personal Facebook account and the Facebook Page. We use cookies such as the session-based "presence" cookie to support your use of Messenger chat windows.
+We also use cookies to help provide you with content relevant to your locale.
+For example: We store information in a cookie that is placed on your browser or device so that you will see the site in your preferred language.
+Performance
+We use cookies to provide you with the best experience possible.
+For example: Cookies help us route traffic between servers and understand how quickly Meta Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you’ve enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, for purposes including to deliver an optimal experience for your device’s screen.
+Analytics and research
+We use cookies to better understand how people use the Meta Products so that we can improve them.
+For example: Cookies can help us understand how people use the Facebook service, analyse which parts of our Products people find most useful and engaging, and identify features that could be improved.
+Third-party websites and apps
+Our business partners may also choose to share information with Meta from cookies set in their own websites' domains, whether or not you have a Facebook account or are logged in. Specifically, cookies named _fbc or _fbp may be set on the domain of the business partner whose site you're visiting. Unlike cookies that are set on Meta's own domains, these cookies aren’t accessible by Meta when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Meta's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
+Where do we use cookies?
+We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
 
 
-Meta 產品。
-由其他 Meta 旗下企業的成員所提供的產品。
-由使用 Meta 產品的其他公司（包括在自家網站及應用程式整合 Meta 技術的公司）所提供的網站和應用程式。當您瀏覽那些網站和應用程式，您無須採取任何進一步的動作，Meta 便可使用 Cookie 接收包括裝置資訊和您的動態在內的相關資訊，無論您是否擁有或登入 Facebook 帳號皆然。
-其他公司是否會使用和 Meta 產品有關的 Cookie？
-是，為了向我們提供廣告、成效衡量、行銷和分析服務，以及為您提供特定功能和改善我們的服務，其他公司亦會在 Meta 產品上使用 Cookie。
+The Meta Products;
+Products provided by other members of the Meta Companies; and
+Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+Do other Companies use cookies in connection with the Meta Products?
+Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
 
-例如，其他公司的 Cookie 可協助在 Meta 產品以外的網路空間刊登量身打造的廣告、衡量自家廣告成效和效果，並針對行銷和分析提供支援。Meta 產品的特定功能也會使用其他公司的 Cookie 來運作，例如特定地圖、付款和帳號安全功能。 深入瞭解 在 Meta 產品上使用 Cookie 的公司。
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more about the companies that use cookies on the Meta Products.
 
-第三方公司也會在和 Meta 產品有關的自有網站及應用程式使用 Cookie，如欲瞭解其他公司如何使用 Cookie，請參閱其各自的政策。
-您可以如何控制自己的資訊？
-我們使用 Cookie 來打造和改善貼近個人需求的內容和服務、提供更安全的使用體驗，以及在 Meta 產品和其他網路空間向您顯示實用且切身相關的廣告。您可以透過下列工具，控制我們如何使用資料向您顯示廣告和其他內容。
-如果您擁有 Facebook 帳號：
-您可以透過廣告偏好瞭解自己為什麼會看到某則廣告，以及控制我們如何使用蒐集到的資訊來向您顯示廣告。
-為了向您顯示更優質的廣告，我們會使用廣告商和其他合作夥伴所提供，關於您在 Meta 旗下企業產品以外網路空間（包括網站和應用程式）的動態資料。您可以在廣告設定控制我們可否使用此類資料來顯示廣告。
-Meta Audience Network 提供管道，讓廣告商可在 Meta 旗下企業產品以外的應用程式及網站向您顯示廣告。為了顯示符合您需求的廣告，Audience Network 採取的其中一種作法，就是參考您的廣告偏好來決定您可能會想看到的廣告。您可以前往廣告設定控制廣告偏好。
-您可以查看您的「Facebook 站外動態」，其中包括商家和組織與我們分享您和他們互動（例如瀏覽他們的應用程式或網站）的彙整資訊。商家和組織會透過我們的商業工具（例如 Meta 像素）與我們分享這些資訊，讓我們能為您提供更貼近個人需求的 Meta 產品體驗等多項服務。深入瞭解 Facebook 站外動態、我們如何使用這些資訊，以及您可如何管理這些資訊。
-所有人：
-您可以透過美國的數位廣告聯盟（Digital Advertising Alliance）、加拿大的加拿大數位廣告聯盟（Digital Advertising Alliance of Canada）或歐洲的歐洲互動式數位廣告聯盟（European Interactive Digital Advertising Alliance），或透過使用 Android、iOS 13（或以下版本）的行動裝置設定（如適用），選擇不要看到 Meta 和其他合作公司針對興趣所投遞的網路廣告。請注意，若使用廣告封鎖程式或其他限制我們使用 Cookie 的工具，可能會影響前述控制項。
-和網路廣告有關的其他資訊：
-我們合作的廣告公司普遍會在其服務中使用 Cookie 和類似技術。若要深入瞭解廣告商通常如何使用 Cookie，以及他們提供的選擇，請參閱以下資源：
+Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
+How can you control your Information?
+We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Meta Products. You can control how we use data to show you ads and more by using the tools described below.
+If you have a Facebook account:
+You can use your ad preferences to learn why you’re seeing a particular ad and control how we use information that we collect to show you ads.
+To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your ad settings.
+The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the Meta Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your ad settings.
+You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our business tools, such as Meta Pixel, to share this information with us. This helps us do things like give you a more personalised experience on Meta Products. Learn more about off-Facebook activity, how we use it and how you can manage it.
+Everyone:
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the Digital Advertising Alliance in the US, the Digital Advertising Alliance of Canada in Canada or the European Interactive Digital Advertising Alliance in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+More information about online advertising:
+The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
-數位廣告聯盟（Digital Advertising Alliance）
-加拿大數位廣告聯盟（Digital Advertising Alliance of Canada）
-歐洲互動式數位廣告聯盟（European Interactive Digital Advertising Alliance）
-瀏覽器 Cookie 控制項：
-此外，您可能得透過瀏覽器或裝置的設定選擇是否設定及刪除瀏覽器的 Cookie。這些控制項因瀏覽器而不同，且製造商可隨時變更他們提供的設定和運作方式。截至 2021 年 6 月 23 日，您可在以下連結找到關於熱門瀏覽器控制項的更多資訊。停用瀏覽器 Cookie 可能會導致 Meta 產品的某些部分無法正常運作。請注意，這些控制項和我們提供的控制項有所不同。
+Digital Advertising Alliance
+Digital Advertising Alliance of Canada
+European Interactive Digital Advertising Alliance
+Browser cookie controls:
+In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
 
 Google Chrome
 Internet Explorer
 Firefox
 Safari
-行動版 Safari
+Safari Mobile
 Opera
 
 
-最後修改日期：2022 年 10 月 5 日
-中文(台灣)
+Date of last revision: 5 October 2022
 English (US)
-Tiếng Việt
-Bahasa Indonesia
-ภาษาไทย
-日本語
 Español
-Português (Brasil)
 Français (France)
-Deutsch
+中文(简体)
+العربية
+Português (Brasil)
 Italiano
-註冊登入MessengerFacebook LiteWatch地標遊戲MarketplaceMeta PayOculusPortalInstagramBulletin募款活動服務投票資訊中心《隱私政策》隱私中心社團關於刊登廣告建立粉絲專頁開發人員工作機會CookieAd Choices
-使用條款使用說明聯絡人上傳和非用戶
-設定
-活動紀錄
+한국어
+Deutsch
+हिन्दी
+日本語
+Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceMeta PayOculusPortalInstagramBulletinFundraisersServicesVoting Information CenterPrivacy PolicyPrivacy CenterGroupsAboutCreate AdCreate PageDevelopersCareersCookiesAd choices
+TermsHelpContact Uploading & Non-Users
+Settings
+Activity log
 Meta © 2023

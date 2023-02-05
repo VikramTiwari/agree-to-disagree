@@ -1,160 +1,160 @@
-Facebook 旗下企業即日起更名為 Meta。我們已於 2022 年 1 月 4 日更新《使用條款》、《資料政策》和《Cookie 政策》，以反映我們的新名稱。雖然我們變更了公司名稱，但是我們提供的產品沒有改變，包括 Meta 旗下的 Facebook 應用程式。我們《資料政策》和《服務條款》的效力依舊，此次名稱變更不會影響我們使用或分享資料的方式。深入瞭解 Meta和我們對元宇宙的願景。
-資料政策
-本政策說明我們為支援 Facebook、Instagram、Messenger 及其他 Meta Platforms, Inc. 所提供之產品與功能（下稱「Meta 產品或「產品」）所處理的資料。您可以在 Facebook 設定及 Instagram 設定找到其他工具和資訊。
-I.我們蒐集哪些資訊？
-我們必須處理關於您的資訊，以提供 Meta 產品。我們蒐集的資訊類型取決於您使用產品的方式。您可以前往 Facebook 設定及 Instagram 設定，瞭解如何取得及刪除我們蒐集的資訊。
-您和他人的產品使用方式以及提供的資訊
-您提供的資訊和內容。我們會蒐集您使用我們產品時所提供的內容、與他人的交流和其他資訊，其中包含註冊帳號、建立或分享內容，還有發送訊息或與其他用戶交流。這包括您所提供的內容或其相關資訊（例如中繼資料），例如相片的拍攝地點或檔案的建立日期；也包括您透過我們的功能（例如相機）所看到的內容，以便我們為您提供變臉特效和濾鏡建議，或是相機格式的使用祕訣。我們的系統會自動處理您提供的內容，以及您與他人交流的資訊，並基於下述目的分析背景資訊和其中的內容。深入瞭解如何設定誰能看見您分享的內容。
-特別保護資料：您可以選擇在 Facebook 個人檔案欄位或「生活要事」提供宗教信仰、政治傾向、戀愛性向或個人健康狀況等資訊。依據您所在國家／地區的法律規定，這些和其他資訊（例如種族或族裔、哲學信仰或工會會員資格）得受到特別保護。
-人脈網絡和關係鏈。我們會針對與您有關聯的用戶、帳號、主題標籤、Facebook 社團和粉絲專頁蒐集相關資訊，以及您和他們在我們產品上的互動情形，例如您最常交流的用戶或您所屬的社團。我們也會蒐集您從裝置上傳、同步或匯入的聯絡資料（例如通訊錄、通話紀錄或簡訊紀錄），用以進行各項工作（像是協助您和其他用戶找到可能認識的朋友），以及遂行下述其他目的。
-使用情形。我們會蒐集您使用我們產品的相關資訊，包括您查看或進行互動的內容類型、使用的功能、採取的動作、互動的人物或帳號，以及活動的時段、頻率和持續時間。舉例而言，我們會記錄您何時使用我們的產品、上次使用產品的時間，以及您在我們產品上看了哪些貼文、影片和其他內容。另外，我們也會蒐集您使用我們各項功能（例如相機）的相關資訊。
-在我們產品上進行的交易相關資訊。如果您使用我們的產品從事購買行為或其他金融交易（像是在遊戲中購物，或者捐款），我們會蒐集該筆購買或交易的相關資訊，包括信用卡或簽帳金融卡號碼及其他卡片資訊等付款資訊、其他帳號及驗證資訊，以及帳單、運送和詳細聯絡資料等。
-其他用戶的行為和他們所提供與您相關的資訊。我們也會收受和分析其他用戶使用我們產品時所提供的內容、與他人的交流和資訊，其中包含與您相關的資訊，例如他人分享您的相片或在上面留言、發送訊息給您，或是上傳、同步或匯入您的聯絡資料。
+The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
+Data Policy
+This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Meta Platforms, Inc. (Meta Products or Products). You can find additional tools and information in the Facebook Settings and Instagram Settings.
+I. What kinds of information do we collect?
+To provide the Meta Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the Facebook Settings and Instagram Settings.
+Things you and others do and provide.
+Information and content you provide. We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our camera, so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats. Our systems automatically process content and communications you and others provide to analyze context and what's in them for the purposes described below. Learn more about how you can control who can see the things you share.
+Data with special protections: You can choose to provide information in your Facebook profile fields or Life Events about your religious views, political views, who you are "interested in," or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country.
+Networks and connections. We collect information about the people, accounts, hashtags and Facebook groups, and Pages you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups you are part of. We also collect contact information if you choose to upload, sync or import it from a device (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below.
+Your usage. We collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features like our camera.
+Information about transactions made on our Products. If you use our Products for purchases or other financial transactions (such as when you make a purchase in a game or make a donation), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping and contact details.
+Things others do and information they provide about you. We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
 
 
-裝置資訊
-我們會從您與我們產品整合的電腦、手機、連網電視及其他連網裝置蒐集資訊，也會蒐集與這些裝置相關的資訊，並將不同裝置的資訊彙集統整，詳情如下所述。舉例來說，我們會蒐集您在手機上使用產品的相關資訊，以便在您透過其他裝置（如筆記型電腦或平板電腦）使用產品時，提供更加個人化的內容（包括廣告）或功能；我們也會判斷您是否曾在手機上看到我們顯示的廣告後，使用其他裝置來採取相應動作。
-我們從這些裝置蒐集的資訊包括：
-裝置屬性：作業系統、硬體及軟體版本、電池電量、訊號強度、可用儲存空間、瀏覽器類型、應用程式及檔案名稱和類型，以及外掛程式等資訊。
-裝置操作：裝置上執行的操作和行為相關資訊，例如視窗是在前景或背景中執行，或是滑鼠的移動方式（此資訊可協助辨別真人和機器人程式）。
-識別資料：專屬識別碼、裝置編號及其他識別資料，例如您所使用的遊戲、應用程式或帳號的識別碼，以及家庭裝置編號（或是與該裝置或帳號連結的 Meta 旗下公司產品所提供的其他專屬識別碼）。
-裝置訊號：藍牙訊號，以及關於周邊 Wi-Fi 存取點、藍牙訊號發射器及基地台的資訊。
-來自裝置設定的資料：您透過開啟特定裝置設定允許我們接受的資訊，例如 GPS 定位資料、相機或相片的存取權限。
-網路和連線：行動電信業者或網路服務供應商的名稱、語言、時區、手機號碼、IP 位址、連網速度等資訊，有些情況還包括周邊裝置資訊或位於相同網路的裝置資訊；這些資訊能幫助我們完成更多任務，例如幫助您從手機串流影片到電視。
-Cookie 資料：從儲存在您裝置上的 Cookie 取得的資料，包括 Cookie 編號及設定。若要深入瞭解我們如何使用 Cookie，請參閱《Facebook Cookie 政策》和《Instagram Cookie 政策》。
+Device Information
+As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.
+Information we obtain from these devices includes:
+Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Meta Company Products associated with the same device or account).
+Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you stream a video from your phone to your TV.
+Cookie data: data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the Facebook Cookies Policy and Instagram Cookies Policy.
 
 
-合作夥伴提供的資訊。
-廣告商、應用程式開發商和發佈商可以透過他們所使用的 Meta 商業工具向我們傳送資訊，包括我們的社交外掛程式（例如「讚」按鈕）、Facebook 登入、API 和 SDK 或 Meta 像素。這些合作夥伴會提供您在我們產品以外的動態相關資訊，包括您的裝置資訊、瀏覽過的網站、購買的項目、看過的廣告，以及您使用他們服務的情形，無論您是否擁有帳號或登入我們的產品皆然。舉例而言，遊戲開發人員可以使用我們的 API，告訴我們您玩過哪些遊戲，或是商家也可以告訴我們您在其店內購買的品項。此外，透過有權利將您的資訊提供給我們的第三方資料供應商，我們也會收到您在線上和離線時採取的動作及購買項目的相關資訊。
-當您瀏覽或使用我們合作夥伴的服務，或透過他們合作的第三方瀏覽或使用服務，合作夥伴就會收到您的資料。我們要求每一位合作夥伴都必須擁有蒐集、使用及分享您資料的合法權利，才能將資料提供給我們。深入瞭解哪些類型的合作夥伴會向我們提供資料。
-若要深入瞭解我們如何結合運用 Cookie 和 Meta 商業工具，請參閱《Facebook Cookie 政策》和《Instagram Cookie 政策》。
-
-
-
-II.我們如何使用這些資訊？
-我們會依據您的選擇，透過下述方式使用所蒐集到的資訊，以提供及支援《Meta 服務條款》和《Instagram 使用條款》所列之 Meta 產品及相關服務。使用方式如下：
-提供、個人化及改善產品。
-我們會使用蒐集到的資料來提供產品，包括用於打造個人化的功能及內容（包括廣告、Facebook 動態消息、Instagram 動態消息和 Instagram 限時動態），以及在我們的產品和其他網路空間為您提供建議（例如您可能感興趣的社團或活動，或是您可能想追蹤的主題）。為了打造切合您需求的個人化產品，我們會根據下列資料，使用您的關係鏈、偏好設定、興趣及活動資料：您與其他用戶向我們提供的資料（包括您選擇提供的特別保護資料）；您與我們產品的互動及使用情形；您在我們產品和其他網路空間與之建立關聯或感興趣的人物、地標或事物。深入瞭解我們如何運用您的資料，為您提供個人化的 Facebook 和 Instagram 使用體驗，包括 Meta 產品中的各項功能、內容和推薦；您也可以進一步瞭解我們如何選擇對您顯示的廣告內容。
-各項 Meta 產品及裝置上的資訊：我們會在不同的 Meta 產品和裝置上連結您的活動資訊，讓您無論在何處使用任何 Meta 產品，都能享有一致的個人化體驗。例如，我們可能會根據您在 Instagram 追蹤或透過 Messenger 交流的用戶，建議您加入他們所屬的 Facebook 社團。我們亦能讓您的體驗更加順暢，例如，當您在其他產品註冊帳號時，自動填入您在 Meta 產品中的註冊資訊（例如電話號碼）。
-位置相關資訊：我們會使用您的目前位置、居住地點、喜歡造訪的地方、附近的商家和用戶等位置相關資訊，為您和其他用戶提供及改進我們的產品（包括廣告），並打造個人化的產品內容。位置相關資訊來源包括精確的裝置定位資訊（若您允許我們蒐集這類資訊）、IP 位址，以及您和其他用戶的 Meta 產品使用情形（例如打卡或您參加的活動）。
-產品研發：我們使用蒐集到的資訊來開發、測試和改進產品，包括進行問卷調查和研究，以及新產品及功能的測試與疑難排解。
-廣告和其他贊助內容：我們使用所蒐集之關於您的資料（包括興趣、動作和關係鏈），來選擇向您展示的個人化廣告、優惠和其他贊助內容。您可以前往 Facebook 設定和 Instagram 設定，深入瞭解我們如何選擇並提供個人化廣告，以及您對我們用於選擇廣告和其他贊助內容的資料有哪些控制權。
-
-
-提供成效衡量、數據分析和其他商業服務。
-我們使用所蒐集的資訊（包括您在 Facebook 產品以外的動態，例如瀏覽的網站和看過的廣告）來幫助廣告商和其他合作夥伴衡量其廣告和服務的成效與分佈情形，並瞭解使用服務的用戶類型，以及用戶與廣告商網站、應用程式和服務的互動情形。瞭解我們如何與合作夥伴分享資訊。
-
-
-促進網路安全、誠信及帳號安全。
-我們使用所蒐集的資訊來驗證帳號和動態，打擊有害行為，偵測並防止垃圾訊息和其他不良體驗，維護產品的誠信，以及促進 Meta 產品和其他網路空間的網路安全與帳號安全。例如，我們使用所蒐集的資料來調查可疑活動或違反我們條款或政策之情事，或偵測哪些對象需要協助。若要瞭解詳情，請瀏覽 Facebook 帳號安全使用說明和 Instagram 安全提示。
-
-
-與您交流。
-我們使用所蒐集的資訊向您發送行銷資訊，傳達我們的產品內容，並向您告知我們的相關政策和使用條款。當您與我們聯絡，我們也會在回覆時使用您的資訊。
-
-
-社會公益的研究與創新。
-我們使用所蒐集的資訊（包括與我們合作的研究夥伴提供的資訊），開展和支持一般社會福利、技術升級、公共利益、健康和福祉等方面之研究與創新。例如，我們分析了在發生災難時所蒐集的災民遷移模式資料，以協助救災工作。深入瞭解我們的研究計畫。
+Information from partners.
+Advertisers, app developers, and publishers can send us information through Meta Business Tools they use, including our social plug-ins (such as the Like button), Facebook Login, our APIs and SDKs, or the Meta pixel. These partners provide information about your activities off of our Products—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have an account or are logged into our Products. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.
+Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. Learn more about the types of partners we receive data from.
+To learn more about how we use cookies in connection with Meta Business Tools, review the Facebook Cookies Policy and Instagram Cookies Policy.
 
 
 
-III.我們如何分享這些資訊？
-我們透過以下方式分享您的資訊：
-在 Meta 產品上分享
-您與之分享及交流的對象和帳號
-使用我們的產品進行分享及交流時，您可選擇要分享內容的對象。例如，在 Facebook 上發佈貼文時，您可以選擇貼文的分享對象，像是社團、所有朋友、公開或自訂對象清單。同樣地，使用 Messenger 或 Instagram 來與用戶或企業交流時，這些用戶和企業可以查看您所發送的內容。您的人脈網絡也能看到您在我們產品中所採取的行動，包括您互動過的廣告和贊助內容。我們也允許其他帳號查看誰瀏覽了他們的 Facebook 或 Instagram 限時動態。
-公開資訊可以供任何人（包括未申請帳號者）在我們的產品或其他網路空間查看。公開資訊包括您的 Instagram 用戶名稱；所有公開分享的資訊；Facebook 公開個人檔案上的資訊；以及在 Facebook 粉絲專頁、公開 Instagram 帳號或 Facebook Marketplace 等其他公共論壇上分享的內容。您、其他 Facebook 和 Instagram 用戶和我們，皆可在其他 Meta 旗下公司產品、搜尋結果，或透過工具和 API，提供存取權限或傳送公開資訊給我們產品和其他網路空間中的任何人。公開資訊也能透過第三方服務查看、存取、轉貼或下載，例如透過搜尋引擎、API 和離線媒體（如電視），以及與我們產品整合的應用程式、網站和其他服務。
-深入瞭解哪些資料屬於公開資訊，以及如何控制您在 Facebook 和 Instagram 上的能見度。
-其他用戶分享或轉貼關於您的內容。
-您應慎選分享對象，因為能在我們的產品上看到您動態的用戶，可以選擇與我們產品或其他網路空間的用戶分享內容，包括您分享對象以外的用戶和企業商家。例如，當您分享貼文或發送訊息給某個朋友、帳號時，他們可以在我們的產品或其他網路空間，親自或透過 Horizon Worlds 等虛擬實境體驗，下載、截圖或轉貼分享內容給其他用戶。此外，您對別人的貼文留言或傳達心情時，任何能夠看到對方內容的用戶都可以看到您的留言或心情，而對方也可以在稍後變更分享對象。
-用戶亦可使用我們的產品來建立關於您的內容，並與他們選擇的對象分享。例如，用戶可以在限時動態分享有您在內的相片、在打卡貼文中提及或標註您，或在貼文或訊息中分享您的資訊。若他人在我們產品上所分享關於您的內容讓您覺得不舒服，您可以瞭解如何檢舉內容。
-您在我們產品的上線狀態或相關登入資訊。
-在您人際網絡中的用戶可以看到信號，瞭解您是否在我們的產品線上，包括您是否正在使用 Instagram、Messenger 或 Facebook，或是您最近一次使用我們產品的時間。
-與我們產品整合或使用我們產品的應用程式、網站和第三方整合功能。
-若您使用的第三方應用程式、網站或其他服務使用了我們的產品，或與我們的產品整合，則他們也能收到您的貼文或分享內容等資訊。例如，當您與 Facebook 朋友一起玩遊戲，或在其他網站上使用 Facebook 的「留言」或「分享」按鈕時，遊戲開發商或網站可以取得您在遊戲中的活動資料，或是收到您從網站分享到 Facebook 的留言或連結資訊。此外，當您下載或使用此類第三方服務時，他們可以存取您在 Facebook 上的公開個人檔案，以及您與他們分享的所有資訊。如果您選擇與所使用的應用程式和網站分享 Facebook 朋友名單，他們就會收到此等資訊，但無法從您這裡收到有關您 Facebook 朋友的其他任何資訊，或有關您 Instagram 粉絲的任何資訊（當然，您的朋友和粉絲有可能自行選擇分享這些資訊）。這些第三方服務所蒐集的資訊，均受其各自的條款及政策規範，而非本政策。
-提供原生版本 Facebook 和 Instagram 的裝置和作業系統（亦即我們未自行開發第一方應用程式者），將可存取您選擇與之分享的所有資訊，包括朋友與您分享的資訊，以便向您提供我們的核心功能。
-注意：我們正在逐步加強限制開發商的資料存取權限，以防止濫用情形發生。舉例來說，如果您已有 3 個月未使用開發商的應用程式，我們會移除該開發商取得您 Facebook 和 Instagram 資料的權限。此外，我們也將變更 Facebook 登入功能。在新版功能中，我們會減少未經審查的應用程式可要求的資料，只允許應用程式取得姓名、Instagram 用戶名稱和個人簡介、大頭貼照和電子郵件地址。若要取得其他任何資料，就必須獲得我們的批准。
-新所有人。
-如果我們全部或部分產品或產品資產的所有權或控制權有所變更，我們得將您的資料轉移給新所有人。
+II. How do we use this information?
+We use the information we have (subject to choices you make) as described below and to provide and support the Meta Products and related services described in the Meta Terms and Instagram Terms. Here's how:
+Provide, personalize and improve our Products.
+We use the information we have to deliver our Products, including to personalize features and content (including your ads, Facebook News Feed, Instagram Feed, and Instagram Stories) and make suggestions for you (such as groups or events you may be interested in or topics you may want to follow) on and off our Products. To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalize your Facebook and Instagram experience, including features, content and recommendations in Meta Products; you can also learn more about how we choose the ads that you see.
+Information across Meta Products and devices: We connect information about your activities on different Meta Products and devices to provide a more tailored and consistent experience on all Meta Products you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Meta Product when you sign up for an account on a different Product.
+Location-related information: We use location-related information-such as your current location, where you live, the places you like to go, and the businesses and people you're near-to provide, personalize and improve our Products, including ads, for you and others. Location-related information can be based on things like precise device location (if you've allowed us to collect it), IP addresses, and information from your and others' use of Meta Products (such as check-ins or events you attend).
+Product research and development: We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
+Ads and other sponsored content: We use the information we have about you-including information about your interests, actions and connections-to select and personalize ads, offers and other sponsored content that we show you. Learn more about how we select and personalize ads, and your choices over the data we use to select ads and other sponsored content for you in the Facebook Settings and Instagram Settings.
 
 
-與第三方合作夥伴分享
-我們合作的第三方夥伴可協助我們提供和改善產品，或是使用 Meta 商業工具拓展自家業務，讓我們的企業得以持續經營，並為全球用戶提供免費服務。我們不會也絕不可能向任何人出售您的任何資訊，且會嚴格限制合作夥伴如何使用和揭露我們所提供的資料。以下是我們與之分享資訊的第三方合作夥伴類型：
-使用我們分析服務的合作夥伴。
-我們提供彙整的統計和分析數據，協助用戶和企業商家瞭解用戶與他們的貼文、商品、Facebook 粉絲專頁、影片以及 Meta 產品和其他網路空間內容的互動情形。例如，Facebook 粉絲專頁管理員和 Instagram 商業檔案會收到相關資訊，說明瀏覽、傳達心情或在他們的貼文留言的用戶人數或帳號數量，並提供彙總人口統計資料和其他資訊，協助他們瞭解帳號或 Facebook 粉絲專頁的互動情形。
-廣告商。
-我們提供廣告商觀看其廣告的用戶類型及廣告執行成果報告，但在未得到您允許的情況下，我們不會分享足以識別您身分的資訊（例如姓名、電子郵件地址等可用於與您聯絡或確認您身分的資訊）。例如，我們為廣告商提供一般人口統計和興趣等資訊（例如一位年約 25 至 34 歲、住在馬德里、喜歡軟體工程的女性看過廣告），以協助他們更瞭解廣告受眾。我們還會確認是哪些廣告促使您購買或對廣告商採取動作。
-成效衡量合作夥伴。
-我們會與企業分享您的資訊，由他們彙整資料並向我們的合作夥伴提供數據分析和成效衡量報告。
-合作夥伴在我們的產品中提供商品和服務。
-當您在我們的產品中付費訂閱內容，或向賣家購買東西時，內容創作者或賣家能夠收到您的公開資訊和其他您與他們分享的資訊，以及為完成交易所需的資訊，包括運送和聯絡詳細資料。
-供應商和服務提供者。
-我們提供資訊和內容給支持我們業務的供應商和服務提供者，例如提供技術基礎設施服務、分析我們的產品使用方式、提供顧客服務、便利付款或進行問卷調查。
-研究人員及學者。
-我們還向研究夥伴和學者提供資訊和內容以進行研究，藉此促進學術水準及創新以支持我們的企業或使命，並在一般社會福利、技術升級、公共利益、健康和福祉等主題上提升能見度和加強創新。
-執法機關或法律要求。
-我們將於下述情況下，依執法機關或法律要求分享資訊。
-前往 Facebook 設定及 Instagram 設定，深入瞭解如何控制您或其他人與第三方合作夥伴所分享之關於您的資訊。
+Provide measurement, analytics, and other business services.
+We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners.
+
+
+Promote safety, integrity and security.
+We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Meta Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to detect when someone needs help. To learn more, visit the Facebook Security Help Center and Instagram Security Tips.
+
+
+Communicate with you.
+We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us.
+
+
+Research and innovate for social good.
+We use the information we have (including from research partners we collaborate with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, we analyze information we have about migration patterns during crises to aid relief efforts. Learn more about our research programs.
 
 
 
-IV.Meta 旗下公司如何合作？
-Facebook 和 Instagram 與其他 Meta 旗下公司（包括 WhatsApp 和 Oculus）共用基礎設施、系統和技術，為您使用的所有 Meta 旗下公司產品提供創新、相關、一致且安全的體驗。為達到上述目的，我們也會依據適用法律並遵照其各自的條款與政策，在 Meta 旗下公司處理有關您的資訊。舉例來說，掌握在 WhatsApp 傳送垃圾訊息的相關帳號資訊，可協助我們在 Facebook、Instagram 或 Messenger 對這些帳號採取適當的措施。我們也致力於瞭解用戶如何使用及與 Meta 旗下公司產品互動，例如瞭解各項 Meta 旗下公司產品的不重複用戶人數。
+III. How is this information shared?
+Your information is shared with others in the following ways:
+Sharing on Meta Products
+People and accounts you share and communicate with
+When you share and communicate using our Products, you choose the audience for what you share. For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories.
+Public information can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your public profile on Facebook; and content you share on a Facebook Page, public Instagram account or any other public forum, such as Facebook Marketplace. You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Meta Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products.
+Learn more about what information is public and how to control your visibility on Facebook and Instagram.
+Content others share or reshare about you
+You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as Horizon Worlds. Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later.
+People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to report the content.
+Information about your active status or presence on our Products.
+People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on Instagram, Messenger or Facebook, or when you last used our Products.
+Apps, websites, and third-party integrations on or using our Products.
+When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your public profile on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one.
+Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you.
+Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval.
+New owner.
+If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner.
+
+
+Sharing with Third-Party Partners
+We work with third-party partners who help us provide and improve our Products or who use Meta Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with:
+Partners who use our analytics services.
+We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Facebook Pages, videos and other content on and off the Meta Products. For example, Facebook Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their account or Facebook Page.
+Advertisers.
+We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which ads led you to make a purchase or take an action with an advertiser.
+Measurement partners.
+We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners.
+Partners offering goods and services in our Products.
+When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details.
+Vendors and service providers.
+We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys.
+Researchers and academics.
+We also provide information and content to research partners and academics to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
+Law enforcement or legal requests.
+We share information with law enforcement or in response to legal requests in the circumstances outlined below.
+Learn more about how you can control the information about you that you or others share with third-party partners in the Facebook Settings and Instagram Settings.
 
 
 
-V.如何管理或刪除關於我的資訊？
-我們提供您存取、修正、傳輸和清除您資料的功能。請前往 Facebook 設定和 Instagram 設定瞭解更多資訊。
-我們會持續保存資料，直到不再需要提供我們的服務和 Meta 產品，或直到您的帳號刪除為止（以兩者中較早發生者為準）。上述決定會依個案狀況不同而有所不同，取決於資料的性質、蒐集和處理資料的原因，以及相關的法律或作業保存需要等。例如，透過 Facebook 搜尋某些內容時，您可以隨時在搜尋紀錄中存取和刪除該查詢項目，但這筆搜尋紀錄會在 6 個月後刪除。若您為了驗證帳號而提交政府核發的身分證件影本，除非另外聲明，否則我們將在審查後 30 天刪除該影本。深入瞭解我們如何刪除您已分享的內容，以及透過社交外掛程式取得的 Cookie 資料。
-若您刪除自己的帳號，我們也會刪除您所發佈的內容，例如您的相片和近況更新，且這些資訊刪除後將無法恢復。至於他人分享與您有關的資訊，則不屬於您的帳號所有，因此不會一併刪除。若您不想刪除帳號，只想暫時停止使用產品，可以選擇將帳號停用。若要刪除帳號，您可隨時前往 Facebook 設定和 Instagram 設定。
+IV. How do the Meta Companies work together?
+Facebook and Instagram share infrastructure, systems and technology with other Meta Companies (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all Meta Company Products you use. We also process information about you across the Meta Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Meta Company Products, such as understanding the number of unique users on different Meta Company Products.
 
 
 
-VI.我們如何回應法律要求或避免傷害？
-遇到以下情況，我們得存取、保留，以及與執法機關或其他方分享您的資訊：
-如果我們有充分的理由相信法律要求我們存取、保留和分享資訊，則會回應法律要求（例如搜索令、法庭命令或傳票）。當我們有充分的理由相信該司法管轄區之法律要求我們進行回應、回應會影響該司法管轄區的用戶，並且符合國際認可的標準，這些回應就可能包括美國司法管轄區以外的法律要求。
-當我們確信有採取下列行動之必要：偵查、防止和解決詐騙、未經授權使用產品、違反我們的條款或政策，或其他有害或非法活動；保護我們自身（包括我們的權利、資產或產品）、您或他人（包括為了執行調查或回應主管機關詢問）；或避免造成人身傷亡。舉例而言，如有關聯，我們會與第三方合作夥伴交流相關資訊，確認您的帳號是否真實可信，以防止用戶在我們的產品或其他網路空間從事詐騙、濫用或其他有害活動。
-若因法律規定或出於義務、政府調查，或關於涉嫌違反我們條款或政策的調查，或是為了避免造成傷害，對於我們所收到有關您的資訊（包括在我們產品上購物的相關金融交易資料），我們得延長取得和保留該等資訊的時間。我們也將保留因違反條款而遭停用之帳號資訊至少一年，以防止重複濫用或其他違反條款的行為。
+V. How can I manage or delete information about me?
+We provide you with the ability to access, rectify, port and erase your data. Learn more in your Facebook Settings and Instagram Settings.
+We store data until it is no longer necessary to provide our services and Meta Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after review, unless otherwise stated. Learn more about deletion of content you have shared and cookie data obtained through social plugins.
+When you delete your account, we delete things you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the Facebook Settings and Instagram Settings.
 
 
 
-VII.我們如何運作和傳輸資料來提供全球服務？
-我們遵循本政策在全球分享資訊，對內與 Meta 旗下公司，對外與我們的合作夥伴，以及與全球各地您會與其互動聯繫及分享資訊的對象分享。舉例而言，我們會基於本政策所述之目的，將您的資訊傳送或傳輸到美國或您居住地以外之其他國家／地區，或於該地加以儲存或處理。我們傳送這些資料，是為了向您提供 Meta 使用條款和 Instagram 使用條款所載明之服務和我們的產品，以及滿足全球營運之需要。我們會使用《標準合約條款》，依據歐盟執行委員會對特定國家／地區所作的適足性認定（如適用），並取得您的同意後才將這些資料傳送到美國和其他國家／地區。
+VI. How do we respond to legal requests or prevent harm?
+We access, preserve and share your information with regulators, law enforcement or others:
+In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
+Information we receive about you (including financial transaction data related to purchases made on our Products) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations.
 
 
 
-VIII.我們如何通知您本政策的相關變更？
-我們會在變更本政策前通知您，讓您在選擇繼續使用我們的產品前，有機會審閱修訂後的政策。
+VII. How do we operate and transfer data as part of our global services?
+We share information globally, both internally within the Meta Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the Meta Terms and Instagram Terms and to globally operate and provide our Products to you. We utilize standard contract clauses, rely on the European Commission's adequacy decisions about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries.
 
 
 
-IX.如有疑問，該如何與我們聯絡？
-您可以深入瞭解 Facebook 和 Instagram 的隱私設定。如果您對本政策有任何疑問，可透過以下方式與我們聯絡。
-您可以透過 網路 聯絡，或郵寄信件至以下地址：
+VIII. How will we notify you of changes to this policy?
+We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products.
+
+
+
+IX. How to contact us with questions
+You can learn more about how privacy works on Facebook and on Instagram. If you have questions about this policy, you can contact us as described below.
+You can contact us online or by mail at:
 
 Meta Platforms, Inc.
-ATTN:Privacy Operations
+ATTN: Privacy Operations
 1601 Willow Road
 Menlo Park, CA 94025
 
 
-加州居民隱私聲明
-如果您是加州居民，想進一步瞭解您的消費者隱私權，請參閱 加州隱私聲明。
+Privacy Notice for California Residents
+If you are a California resident, you can learn more about your consumer privacy rights by reviewing the California Privacy Notice.
 
-最後修訂日期：2022 年 1 月 4 日
+Date of Last Revision: January 4, 2022
 
-中文(台灣)English (US)Tiếng ViệtBahasa Indonesiaภาษาไทย日本語EspañolPortuguês (Brasil)Français (France)DeutschItaliano
-註冊登入MessengerFacebook LiteWatch地標遊戲MarketplaceMeta PayOculusPortalInstagramBulletin募款活動服務投票資訊中心《隱私政策》隱私中心社團
-隱私政策
+English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)Italiano한국어Deutschहिन्दी日本語
+Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceMeta PayOculusPortalInstagramBulletinFundraisersServicesVoting Information CenterPrivacy PolicyPrivacy CenterGroups
+Privacy
  
- · 服務條款
+ · Terms
  
- · 廣告
+ · Advertising
  
  · Ad Choices 
  
- · Cookie
+ · Cookies
  
- · 更多
+ · More
  
  · Meta © 2023
