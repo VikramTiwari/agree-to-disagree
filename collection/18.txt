@@ -62,7 +62,6 @@ Your provision of this personal data is required for you to enter into the Terms
 We also collect the content you create, upload, or receive from others when using our Services. This includes things like messages you write and receive, forum posts, notebooks, datasets, and competition submissions.
 
 Information We Collect as You Use Our Services
-
 Your apps, browsers & devices
 
 We collect information about the apps, browsers, and devices you use to access our Services or open one of our HTML emails by using different types of technology, including “clear gifs” or “web beacons.” This “automatically collected” information may include Internet Protocol address (also known as “IP address”) or other device address or ID, web browser or device type, the web pages or sites that you visit just before or just after the Services, the pages you view on the Services, and the dates and times that you visit the Services.
@@ -76,7 +75,6 @@ We collect information about your activity in our Services, which may include:
 Views and interactions with content and ads.
 People with whom you communicate or share content.
 Which datasets you view or download.
-
 Cookies and web beacons
 
 When you use the Services, we send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. For example, we use cookies to ensure proper navigation between pages on the Services. Kaggle may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Services.
@@ -130,7 +128,6 @@ We use information to help improve the safety and reliability of our Services. T
 We also analyze your content to help us detect abuse such as spam, malware, and illegal content. When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
 
 Managing and Deleting Your Information
-
 Managing, Reviewing, and Updating Your Information
 
 When you’re signed into your Kaggle account, you can always review and update information by visiting your account profile.
@@ -146,7 +143,6 @@ Please note that while your deletions are reflected promptly in active member da
 There are other ways to control the information Kaggle collects whether or not you’re signed in to a Kaggle account, including configuring your browser to indicate when Kaggle has set a cookie in your browser. You can also configure your browser to block all cookies from a specific domain or all domains. But remember that our Services rely on cookies to function properly.
 
 Data Retention
-
 Information Retained Until You Remove It
 
 As we describe above, you can delete your entire Kaggle account or selectively delete your discussion posts, uploaded datasets, and notebooks by using the available tools in our Services. In some cases, rather than provide a way to delete data, we store it for a predetermined period of time. For each type of data, we set retention timeframes based on the reason for its collection.
@@ -159,7 +155,6 @@ Security, fraud & abuse prevention
 Financial record-keeping
 Complying with legal or regulatory requirements
 Ensuring the continuity of our services
-
 Enabling Safe and Complete Deletion
 
 When you delete data in your Kaggle account, we immediately start the process of removing it from the product and our systems. First, we aim to immediately remove it from view. For example, if you delete a post you made, we will immediately remove that from the public-facing Kaggle website.
@@ -173,7 +168,6 @@ Our services also use encrypted backup storage as another layer of protection to
 As with any deletion process, things like routine maintenance, unexpected outages, bugs, or failures in our protocols may cause delays in the processes and timeframes defined in this article. We maintain systems designed to detect and remediate such issues.
 
 Sharing Your Information
-
 When You Share Your Information
 
 Many of our Services let you share information with other people, and you have control over how you share. Any information that you voluntarily choose to include in an area of the Services accessible to other Kaggle members or the public, such as a public profile page or in a forum posting, will be available to other Kaggle members who access that content or the public (as applicable). This also applies to information you choose to make available through features that connect to third party services, if applicable.
@@ -265,7 +259,6 @@ Protecting against harm to the rights, property or safety of Kaggle, our users, 
 Performing research that improves our Services for our users and benefits the public
 Fulfilling obligations to our partners like developers and rights holders
 Enforcing legal claims, including investigation of potential violations of our Terms of Use
-
 When we’re providing a service
 
 We process your data to provide a service you’ve asked for under a contract. For example, we process your information in connection with competitions you enter.
@@ -360,7 +353,6 @@ Protecting against harm to the rights, property or safety of Kaggle, our users, 
 Performing research that improves our services for our users and benefits the public
 Fulfilling obligations to our partners like developers and rights holders
 Enforcing legal obligations or claims, including investigation of potential violations of applicable Terms of Use
-
 Contact information
 
 If you have questions, you can contact Kaggle. You can also contact your data protection authority if you have concerns regarding your rights under Brazilian law.

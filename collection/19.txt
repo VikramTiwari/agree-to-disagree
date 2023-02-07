@@ -66,7 +66,9 @@ If Google makes a material change to the Cloud Data Processing Addendum in accor
 
 3.4 Documentation. Google may provide Documentation for Customer's use of the Services.
 
-3.5 Copyright. Google responds to notices of alleged copyright infringement and will terminate the Accounts of repeat infringers in appropriate circumstances as required to maintain safe harbor for online service providers under the U.S. Digital Millennium Copyright Act.
+3.5 Copyright. Google responds to notices of alleged copyright infringement and terminates the Accounts of repeat infringers in appropriate circumstances as required to maintain safe harbor for online service providers under the U.S. Digital Millennium Copyright Act.
+
+3.6 Third-Party Content Enforcement. If Customer’s primary use of the Services is to host third-party content or facilitate the sale of goods or services between third parties on its platform, Customer will take the following steps to enforce compliance with the AUP: (a) publish policies defining what content is prohibited on its platform (e.g., illegal content); (b) maintain a publicly accessible method (e.g., webform or email alias) to receive notices of violation of that policy (in addition to a monitored communications channel for Google); and (c) promptly review and address any such notices, and remove content where appropriate.
 
 4. Suspension.
 
@@ -78,7 +80,7 @@ If Google makes a material change to the Cloud Data Processing Addendum in accor
 
 5.1 Intellectual Property Rights. Except as expressly stated in this Agreement, this Agreement does not grant either party any rights, implied or otherwise, to the other's content or any of the other's intellectual property. As between the parties, Customer owns all Intellectual Property Rights in Customer Data and Customer Applications, and Google owns all Intellectual Property Rights in the Services and Software.
 
-5.2 Protection of Customer Data. Google will only access or use Customer Data to provide the Services and TSS to Customer or as otherwise instructed by Customer and will not use it for any other Google products, services, or advertising. Google has implemented and will maintain administrative, physical, and technical safeguards to protect Customer Data, as further described in the Cloud Data Processing Addendum.
+5.2 Protection of Customer Data. Google will only access, use, and otherwise process Customer Data in accordance with the Cloud Data Processing Addendum and will not access, use, or process Customer Data for any other purpose. Google has implemented and will maintain technical, organizational, and physical measures to protect Customer Data, as further described in the Cloud Data Processing Addendum.
 
 5.3 Customer Feedback. At its option, Customer may provide feedback or suggestions about the Services to Google ("Feedback"). If Customer provides Feedback, then Google and its Affiliates may use that Feedback without restriction and without obligation to Customer.
 
@@ -216,7 +218,7 @@ If Google makes a material change to the Cloud Data Processing Addendum in accor
 "End Users" means the individuals who are permitted by Customer to use the Services. For clarity, End Users may include employees of Customer Affiliates and other authorized third parties.
 "Export Control Laws" means all applicable export and re-export control laws and regulations, including (a) the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control, and (c) the International Traffic in Arms Regulations ("ITAR") maintained by the U.S. Department of State.
 "Fee Accrual Period" means a calendar month or another period specified by Google in the Admin Console.
-"Fees" means the applicable fees for each Service or Software plus any applicable Taxes. The Fees for each Service are stated at https://cloud.google.com/skus/ (incorporated into the Agreement by this reference).
+"Fees" means the applicable fees for each Service, Software, or TSS plus any applicable Taxes. The Fees for each Service are stated at https://cloud.google.com/skus/ (incorporated into the Agreement by this reference).
 "Google API" means any application programming interface provided by Google as part of the Services.
 "High Risk Activities" means activities where the use or failure of the Services would reasonably be expected to lead to death, personal injury, or environmental or property damage (such as the creation or operation of nuclear facilities, air traffic control, life support systems, or weaponry).
 "HIPAA" means the Health Insurance Portability and Accountability Act of 1996 as it may be amended from time to time, and any regulations issued under it.
@@ -389,5 +391,5 @@ A new Section 14.19 is added:
 
 14.19 U.S. Federal Agency Users. The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements.
 
-PREVIOUS VERSIONS (Last modified November 7, 2022)
-September 20, 2022  March 29, 2022  September 20, 2021  April 1, 2021  November 2, 2020  October 6, 2020  August 31, 2020  August 13, 2020  March 26, 2020  November 21, 2019  July 22, 2019  November 2, 2018  November 1, 2018  October 1, 2018  June 27, 2018  June 15, 2018  June 5, 2018  May 23, 2018  May 18, 2018  April 30, 2018  April 4, 2018  February 8, 2018  January 9, 2018  October 19, 2017 
+PREVIOUS VERSIONS (Last modified February 6, 2023)
+November 7, 2022  September 20, 2022  March 29, 2022  September 20, 2021  April 1, 2021  November 2, 2020  October 6, 2020  August 31, 2020  August 13, 2020  March 26, 2020  November 21, 2019  July 22, 2019  November 2, 2018  November 1, 2018  October 1, 2018  June 27, 2018  June 15, 2018  June 5, 2018  May 23, 2018  May 18, 2018  April 30, 2018  April 4, 2018  February 8, 2018  January 9, 2018  October 19, 2017 
