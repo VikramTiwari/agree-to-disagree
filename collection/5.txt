@@ -1,83 +1,83 @@
 Facebook
-E-posta veya telefon	Şifre
+Email or phone	Password
 		
 	
-Hesabını mı unuttun?
-Kaydol
-Facebook şirketinin adı artık Meta. Kullanım Koşullarımızı, Veri İlkemizi ve Çerezler İlkemizi, bu yeni adı yansıtacak şekilde 4 Ocak 2022 tarihinde güncelledik. Şirketimizin adı değişti ancak Meta'nın sizlere sağladığı Facebook uygulaması dahil olmak üzere aynı ürünleri sunmaya devam ediyoruz. Veri İlkemiz ve Hizmet Koşullarımız yürürlükte kalmaya devam ediyor ve bu ad değişikliği, verileri kullanma ve paylaşma biçimimizi etkilemiyor. Meta ve meta evren vizyonumuz hakkında daha fazla bilgi alın.
+Forgot account?
+Sign Up
+The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
 
 
 
-Çerezler ve diğer depolama teknolojileri
-Çerezler, internet tarayıcılarında bilgi depolamak için kullanılan küçük metin parçalarıdır. Çerezler bilgisayarlarda, telefonlarda ve diğer cihazlarda tanımlayıcıları ve diğer bilgileri toplamak ve tutmak için kullanılır. İnternet tarayıcınızda veya cihazınızda tuttuğumuz veriler, cihazınızla ilişkili tanımlayıcılar ve diğer yazılımlar gibi başka teknolojiler de benzer amaçlarla kullanılır. Bu ilkede, bu teknolojilerin tümü "çerez" olarak anılacaktır.
+Cookies & other storage technologies
+Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-Facebook hesabınız varsa, sitemiz ve uygulamalarımız dahil olmak üzere Meta Ürünlerini kullanırsanız veya Meta Ürünlerini kullanan diğer internet sitelerini ve uygulamaları (Beğen düğmesi dahil) ziyaret ederseniz çerezleri kullanırız. Çerezler, Meta'nın Meta Ürünlerini size sunmasını ve kayıtlı veya giriş yapmış olup olmamanızdan bağımsız olarak, diğer internet siteleri ve uygulamaları kullanımınız dahil olmak üzere sizin hakkında aldığı bilgileri anlamasını sağlar.
+We use cookies if you have a Facebook account, use the Meta Products, including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-Bu ilkede, çerezleri nasıl kullandığımız ve size sunulan seçenekler açıklanmaktadır. Bu ilkede aksi belirtilmedikçe, çerezler yoluyla topladığımız verileri Veri İlkesi uyarınca işleyeceğiz.
-Çerezleri neden kullanırız?
+This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the Data Policy will apply to our processing of the data that we collect via cookies.
+Why do we use cookies?
 
-Çerezler; içerikleri kişiselleştirme, reklamları özelleştirme, reklam sonuçlarını ölçme, daha güvenli bir deneyim sağlama gibi yollarla Meta Ürünlerini sunmamıza, korumamıza ve geliştirmemize yardımcı olur. Kullandığımız çerezlerden bazıları tarayıcınızı kapattığınızda silinen oturum çerezleri, bazıları ise süreleri dolana veya tarafınızca manuel olarak silinene kadar kalmaya devam eden kalıcı çerezlerdir. Meta Ürünlerinde yaptığımız geliştirme ve güncellemelere paralel olarak, kullandığımız çerezleri de zaman zaman değiştirebiliriz ancak her zaman aşağıdaki amaçlar için kullanırız:
-Kimlik Kontrolü
-Hesabınızı doğrulamak ve hesabınıza giriş yaptığınızı belirlemek için çerezleri kullanırız. Bu şekilde Meta Ürünlerine erişmenizi kolaylaştırabilir ve size uygun deneyim ve özellikleri sunabiliriz.
-Örneğin: Siz Facebook Sayfaları arasında gezinirken oturumunuzu açık tutmak için çerezleri kullanırız. Çerezler aynı zamanda tarayıcınızı hatırlamamıza yardımcı olur. Bu sayede sürekli Facebook'a giriş yapmak zorunda kalmaz ve üçüncü taraf uygulamalar ve internet siteleri üzerinden Facebook'a daha kolay giriş yapabilirsiniz. Örneğin, 365 gün boyunca çalışan "c_user" ve "xs" çerezlerini bu gibi amaçlarla kullanırız.
-Güvenlik, site ve ürün bütünlüğü
-Hesabınızı, verilerinizi ve Meta Ürünlerini güvende ve emniyette tutmak için çerezleri kullanırız.
-Örneğin: Birisi bir Facebook hesabına izinsiz bir şekilde, örneğin arka arkaya tahmini şifreler yazarak erişmeye çalıştığında, çerezler bunu belirlememize ve ek güvenlik önlemleri almamıza yardımcı olur. Ayrıca, şifrenizi unutmanız halinde hesabınızı geri almamıza ya da bize hesabınızın başkasının eline geçtiğini bildirmeniz durumunda ek kimlik doğrulaması istememize yardımcı olan bilgileri saklamak için çerezleri kullanırız. Buna, örneğin, tarayıcınızı güvenli bir şekilde tanımlamamızı sağlayan "sb" ve "dbln" çerezlerimiz ve ayrıca "datr" çerezi dahildir. "Datr", tarayıcınız için benzersiz bir tanımlayıcıdır ve diğer şeylerin yanı sıra sizi dolandırıcılıktan korumamıza yardımcı olur. Örneğin, daha önce giriş yaptığınız güvenilir tarayıcıları belirlememize yardımcı olur. "Datr" iki yıllık bir ömre sahiptir.
-Bunların yanında, ilkelerimizi ihlal eden veya başka bir şekilde Meta Ürünlerini sağlama olanağımızı olumsuz etkileyen faaliyetlerle mücadele etmek için de çerezleri kullanırız.
-Örneğin: Çerezler, büyük miktarlarda sahte Facebook hesabı oluşturan bilgisayarları tespit ederek, spam ve şifre tuzağı saldırılarıyla mücadele etmemize yardımcı olur. Ayrıca, zararlı yazılım bulaşmış bilgisayarları tespit ederek daha fazla zarara neden olmalarını engelleyecek adımları atmak için de çerezleri kullanırız. Örneğin, "csrf" çerezimiz çapraz site isteği sahtekarlığı yapma amaçlı saldırıları önlememize yardımcı olur. "Datr" çerezi ayrıca kötü niyetli aktörler tarafından kullanılan tarayıcıları tanımlamamıza ve Meta Ürünlerine erişmenizi engelleyebilecek hizmet reddi saldırısı gibi siber güvenlik saldırılarını önlememize yardımcı olur. Çerezler aynı zamanda, yaşı tutmayan kişilerin Facebook hesabı açmasını engellememize yardımcı olur.
-Reklamlar, tavsiyeler, istatistikler ve ölçüm
-İşletmelerin ve diğer kuruluşların sağladıkları ürünlerle, hizmetlerle ya da ilişkili oldukları amaçlarla ilgilenebilecek kişilere, bu işletme ve kuruluşların reklamlarını göstermek ve tavsiyelerde bulunmak için çerezleri kullanırız.
-Örneğin: Çerezler daha önce bir işletmenin internet sitesini ziyaret etmiş, ürünlerini satın almış ya da uygulamalarını kullanmış kişilere reklamlar yayınlamamızı ve bu harekete dayalı olarak ürün ve hizmet tavsiyelerinde bulunmamızı sağlar. Çerezlerle aynı zamanda bir reklamı görme sayınızı sınırlarız; böylece aynı reklamı tekrar tekrar görmezsiniz. Örneğin, "fr" çerezi reklamları yayınlamak, ölçmek ve reklamların alaka düzeyini artırmak için kullanılır ve 90 gün boyunca çalışır.
-Ayrıca, Meta Ürünlerini kullanan işletmelerin reklam kampanyalarının performansını ölçmek için çerezleri kullanırız.
-Örneğin: Bir reklamın kaç kez gösterildiğini saymak ve o reklamların ücretini hesaplamak için çerezleri kullanırız. Çerezleri, insanların bir reklam gösteriminin ardından alışveriş yapma gibi eylemleri ne sıklıkla gerçekleştirdiğini ölçmek için de kullanırız. Örneğin, "_fbp" çerezi, reklam ve site analizi hizmetleri sunmaya yönelik amaçlarla tarayıcıları tanımlar ve 90 gün boyunca çalışır.
-Çerezler, aynı kişinin kullandığı farklı tarayıcılar ve cihazlarda reklamlar gösterip bunların sonuçlarını ölçmemize yardımcı olur.
-Örneğin: Kullandığınız farklı cihazlarda aynı reklamı tekrar tekrar görmenizi önlemek için çerezleri kullanabiliriz.
-Çerezler aynı zamanda Meta Ürünlerini kullanan insanlar hakkında ve ayrıca reklamverenlerimizin ve Meta Ürünlerini kullanan işletmelerin reklamlarıyla, internet siteleriyle ve uygulamalarıyla etkileşimde bulunan insanlar hakkında istatistikler sunmamızı sağlar.
-Örneğin: İşletmelerin, Facebook Sayfalarını kimlerin beğendiğini ya da uygulamalarını kimlerin kullandığını anlamalarına yardımcı olmak için çerezleri kullanırız. Bu sayede işletmeler daha alakalı içerikler sağlayabilir ve müşterilerinin ilgisini çekebilecek özellikler geliştirebilir.
-Ayrıca, üçüncü taraf internet sitelerindeki hareketlerinizi temel alan Meta reklamlarını görmekten vazgeçmenize yardımcı olmak için beş yıl boyunca çalışan "oo" çerezimiz gibi çerezleri kullanırız. Topladığımız bilgiler, Meta Ürünleri içinde ve dışında size hangi reklamları göstereceğimizi nasıl belirlediğimiz ve size sunulan kontroller hakkında daha fazla bilgi alın.
-Site özellikleri ve hizmetleri
-Meta Ürünlerini sağlamamıza yardım eden işlevleri çalıştırabilmek için çerezleri kullanırız.
-Örneğin: Çerezler tercihleri kaydetmemize, Meta Ürünlerinin içeriklerini ne zaman gördüğünüzü veya onlarla ne zaman etkileşimde bulunduğunuzu anlamamıza ve size özelleştirilmiş içerikler ve deneyimler sunmamıza yardımcı olur. Örneğin, çerezler size ve diğer kullanıcılara önerilerde bulunmamızı ve sosyal eklentilerimizi entegre eden üçüncü taraf sitelerdeki içerikleri özelleştirmemizi sağlar. Bir Facebook Sayfasında yöneticiyseniz çerezler sayesinde kişisel Facebook hesabınızdan paylaşımda bulunma ile Facebook Sayfasından paylaşımda bulunma arasında geçiş yapabilirsiniz. Messenger sohbet pencerelerini kullanımınızı desteklemek için oturuma dayalı "presence" çerezi gibi çerezler kullanırız.
-Ayrıca, kullandığınız dille alakalı içerikler sağlayabilmek için yardımcı olması amacıyla çerezleri kullanırız.
-Örneğin: Tarayıcınıza veya cihazınıza yerleştirilen bir çerezde tuttuğumuz bilgiler sayesinde siteyi tercih ettiğiniz dilde görebilirsiniz.
-Performans
-Size mümkün olan en iyi deneyimi sunmak için çerezleri kullanırız.
-Örneğin: Çerezler, sunucular arasındaki trafiği yönlendirmemize ve Meta Ürünlerinin farklı kişiler için ne kadar hızlı yüklendiğini anlamamıza yardımcı olur. Çerezler ayrıca ekranınızın ve pencerelerinizin oran ve boyutlarını ve yüksek kontrast modunu açıp açmadığınızı kaydetmemize yardımcı olur. Böylece sitelerimizi ve uygulamalarımızı doğru şekilde gösterebiliriz. Örneğin, her biri 7 gün boyunca çalışan "dpr" ve "wd" çerezlerini bu amaç dahil olmak üzere cihazınızın ekranında en iyi deneyimi sunmak için ayarlarız.
-Analizler ve araştırma
-İnsanların Meta Ürünlerini nasıl kullandığını daha iyi anlayıp bu hizmetleri geliştirmek için çerezleri kullanırız.
-Örneğin: Çerezler insanların Facebook hizmetini nasıl kullandığını anlamamıza, kullanıcıların Ürünlerimizin hangi bölümlerini daha faydalı ve ilgi çekici bulduğunu analiz etmemize ve geliştirilebilecek özellikleri belirlememize yardımcı olabilir.
-Üçüncü taraf internet siteleri ve uygulamalar
-İşletme ortaklarımız ayrıca, kendi internet sitelerinin domainlerine yerleştirilmiş çerezlerden elde edilen bilgileri, bir Facebook hesabınız olup olmamasına veya giriş yapmış olup olmamanıza bakılmaksızın Meta ile paylaşmayı seçebilir. Özellikle _fbc veya _fbp şeklinde adlandırılan çerezler, internet sitesini ziyaret ettiğiniz işletme ortağının domainine yerleştirilebilir. Meta'nın kendi domainlerine yerleştirilmiş çerezlerin aksine, domainlerimizden birinde olduğunuz zamanlar dahil olmak üzere bu çerezlerin yerleştirildikleri siteden başka bir sitede olduğunuzda Meta bu çerezlere erişemez. Bu çerezler, Çerezler İlkesi'nde belirtildiği üzere, Meta'nın kendi domainine yerleştirilen çerezlerle aynı amaçlara hizmet eder: içerikleri (reklamlar dahil olmak üzere) kişiselleştirme, reklamları ölçme, analizler oluşturma ve daha güvenli bir deneyim sunma.
-Çerezleri nerelerde kullanıyoruz?
-Aşağıdakileri kullandığınızda ya da ziyaret ettiğinizde, bilgisayarınıza veya cihazınıza çerezler yerleştirebilir ve bu çerezlerde saklanan bilgileri alabiliriz:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Authentication
+We use cookies to verify your account and determine when you’re logged in so that we can make it easier for you to access the Meta Products and show you the appropriate experience and features.
+For example: We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c_user" and "xs" cookies, including for this purpose, which have a lifespan of 365 days.
+Security, site and product integrity
+We use cookies to help us keep your account, data and the Meta Products safe and secure.
+For example: Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely, as well as “datr." "Datr" is a unique identifier for your browser that, amongst other things, helps us protect you from fraud. For example, it helps us identify trusted browsers where you have logged in before. “Datr” has a lifespan of two years.
+We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
+For example: Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. The “datr” cookie also helps us to identify the browsers used by malicious actors and to prevent cyber-security attacks, such as a denial of service attack that could prevent you from accessing the Meta Products. Cookies also help us prevent underage people from registering for Facebook accounts.
+Advertising, recommendations, insights and measurement
+We use cookies to help us show ads and to make recommendations for businesses and other organisations to people who may be interested in the products, services or causes they promote.
+For example: Cookies allow us to help deliver ads to people who have previously visited a business’s website, purchased its products or used its apps and to recommend products and services based on that activity. Cookies also allow us to limit the number of times that you see an ad so you don’t see the same ad over and over again. For example, the "fr" cookie is used to deliver, measure and improve the relevancy of ads, with a lifespan of 90 days.
+We also use cookies to help measure the performance of ad campaigns for businesses that use the Meta Products.
+For example: We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. For example, the "_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days.
+Cookies help us serve and measure ads across different browsers and devices used by the same person.
+For example: We can use cookies to prevent you from seeing the same ad over and over again across the different devices that you use.
+Cookies also allow us to provide insights about the people who use the Meta Products, as well as the people who interact with the ads, websites and apps of our advertisers and the businesses that use the Meta Products.
+For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
+We also use cookies, such as our "oo" cookie, which has a lifespan of five years, to help you opt out of seeing ads from Meta based on your activity on third-party websites. Learn more about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+Site features and services
+We use cookies to enable the functionality that helps us provide the Meta Products.
+For example: Cookies help us store preferences, know when you’ve seen or interacted with Meta Products’ content and provide you with customised content and experiences. For instance, cookies allow us to make suggestions to you and others, and to customise content on third-party sites that integrate our social plugins. If you are a Facebook Page administrator, cookies allow you to switch between posting from your personal Facebook account and the Facebook Page. We use cookies such as the session-based "presence" cookie to support your use of Messenger chat windows.
+We also use cookies to help provide you with content relevant to your locale.
+For example: We store information in a cookie that is placed on your browser or device so that you will see the site in your preferred language.
+Performance
+We use cookies to provide you with the best experience possible.
+For example: Cookies help us route traffic between servers and understand how quickly Meta Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you’ve enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, for purposes including to deliver an optimal experience for your device’s screen.
+Analytics and research
+We use cookies to better understand how people use the Meta Products so that we can improve them.
+For example: Cookies can help us understand how people use the Facebook service, analyse which parts of our Products people find most useful and engaging, and identify features that could be improved.
+Third-party websites and apps
+Our business partners may also choose to share information with Meta from cookies set in their own websites' domains, whether or not you have a Facebook account or are logged in. Specifically, cookies named _fbc or _fbp may be set on the domain of the business partner whose site you're visiting. Unlike cookies that are set on Meta's own domains, these cookies aren’t accessible by Meta when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Meta's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
+Where do we use cookies?
+We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
 
 
-Meta Ürünleri;
-Meta Şirketlerinin diğer üyeleri tarafından sunulan ürünler ve
-İnternet sitelerinde ve uygulamalarında Meta teknolojilerini kullanan şirketler dahil olmak üzere Meta Ürünlerini kullanan diğer şirketlerin sağladığı internet siteleri ve uygulamalar. Meta, çerezleri kullanır ve bu siteleri veya uygulamaları ziyaret ettiğinizde, başka bir işlem yapmanız gerekmeden cihaz bilgileri ve hareketleriniz hakkındaki bilgiler dahil olmak üzere bilgiler alır. Bu bilgiler, Facebook hesabınızın olup olmamasından veya giriş yapmış olup olmamanızdan bağımsız olarak alınır.
-Başka Şirketler Meta Ürünleriyle bağlantılı olarak çerezleri kullanır mı?
-Evet, diğer şirketler reklam, ölçüm, pazarlama ve analiz hizmetleri sağlamak, size belirli özellikleri sunmak ve ayrıca hizmetlerimizi iyileştirmek için Meta Ürünlerinde çerezleri kullanır.
+The Meta Products;
+Products provided by other members of the Meta Companies; and
+Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+Do other Companies use cookies in connection with the Meta Products?
+Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
 
-Örneğin, diğer şirketlerin çerezleri Meta Ürünlerinin dışındaki reklamların özelleştirilmesine, performanslarını ve etki düzeyini ölçmeye ve ayrıca pazarlama ve analizleri desteklemeye yardımcı olur. Meta Ürünlerinde haritalar, ödeme ve güvenlik özellikleri gibi bazı özelliklerin çalışması için diğer şirketlerin çerezleri kullanılır. Meta Ürünlerinde çerez kullanan şirketler hakkında daha fazla bilgi alın.
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more about the companies that use cookies on the Meta Products.
 
-Üçüncü taraf şirketler de, kendi sitelerinde ve uygulamalarında Meta Ürünleriyle bağlantılı olarak çerezler kullanır. Diğer şirketlerin çerezleri nasıl kullandığını anlamak için lütfen bu tarafların kendi ilkelerini inceleyin.
-Bilgilerinizi nasıl kontrol edebilirsiniz?
-Çerezleri; içerikleri ve hizmetleri kişiselleştirmek ve iyileştirmek, daha güvenli bir deneyim sunmak ve size Meta Ürünlerinde ve başka yerlerde faydalı ve alakalı reklamlar göstermek için kullanırız. Aşağıda açıklanan araçları kullanarak, verileri size reklam göstermek için ve diğer amaçlarla nasıl kullandığımızı kontrol edebilirsiniz.
-Facebook hesabınız varsa:
-Reklam tercihlerinizi kullanarak belirli bir reklamı neden gördüğünüzü öğrenebilir ve size reklam göstermek için topladığımız bilgileri nasıl kullandığımızı kontrol edebilirsiniz.
-Size daha iyi reklamlar göstermek için, reklamverenlerimizin ve diğer ortaklarımızın, internet siteleri ve uygulamalar dahil olmak üzere Meta Şirketi Ürünlerinin dışındaki hareketleriniz hakkında bize sağladığı verileri kullanırız. Bu verileri size reklam göstermek için kullanıp kullanmayacağımızı reklam ayarlarınızdan kontrol edebilirsiniz.
-Meta Audience Network; reklamverenlerin size Meta Şirketi Ürünlerinin dışındaki uygulamalar ve internet sitelerinde reklam göstermesinin bir yoludur. Audience Network'ün size alakalı reklamlar gösterme yöntemlerinden biri, reklam tercihlerinizi kullanarak hangi reklamları görmek isteyebileceğinizi belirlemektir. Bunu reklam ayarlarınızdan kontrol edebilirsiniz.
-İşletme ve kuruluşların, onlarla uygulamalarını ve internet sitelerini ziyaret etme gibi etkileşimleriniz hakkında bize sağladığı bir hareket özeti olan Facebook'un dışındaki hareketlerinizi gözden geçirebilirsiniz. Bu işletme ve kuruluşlar, bu bilgileri bizimle paylaşmak için Meta Pikseli gibi işletme araçlarımızı kullanırlar. Bu, size Meta Ürünlerinde daha kişiselleştirilmiş bir deneyim sunmak gibi şeyler yapmamıza yardımcı olur. Facebook'un dışındaki hareketler hakkında ve bunları nasıl kullandığımız ve nasıl yönetebileceğiniz konularında daha fazla bilgi alın.
-Herkes:
-İnternet üzerinde Meta'dan ve katılan diğer şirketlerden ilgi alanına dayalı reklamlar görmekten, ABD'de Digital Advertising Alliance, Kanada'da Digital Advertising Alliance of Canada veya Avrupa'da European Interactive Digital Advertising Alliance üzerinden ya da Android, iOS 13 veya iOS'un daha eski bir sürümünü kullanan cep telefonunuzun ayarlarından vazgeçebilirsiniz. Çerezleri kullanmamızı kısıtlayan reklam engelleyicilerin ve araçların bu kontrolleri etkileyebileceğine lütfen dikkat edin.
-İnternet reklamcılığı hakkında daha geniş bilgi:
-Birlikte çalıştığımız reklam şirketleri genellikle hizmetlerinin bir parçası olarak çerezleri ve benzer teknolojileri kullanır. Reklamverenlerin çerezleri genellikle nasıl kullandığı ve sundukları seçenekler hakkında daha fazla bilgi için şu kaynakları gözden geçirebilirsiniz:
+Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
+How can you control your Information?
+We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Meta Products. You can control how we use data to show you ads and more by using the tools described below.
+If you have a Facebook account:
+You can use your ad preferences to learn why you’re seeing a particular ad and control how we use information that we collect to show you ads.
+To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your ad settings.
+The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the Meta Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your ad settings.
+You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our business tools, such as Meta Pixel, to share this information with us. This helps us do things like give you a more personalised experience on Meta Products. Learn more about off-Facebook activity, how we use it and how you can manage it.
+Everyone:
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the Digital Advertising Alliance in the US, the Digital Advertising Alliance of Canada in Canada or the European Interactive Digital Advertising Alliance in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+More information about online advertising:
+The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
 Digital Advertising Alliance
 Digital Advertising Alliance of Canada
 European Interactive Digital Advertising Alliance
-Tarayıcı çerez kontrolleri:
-Ayrıca tarayıcınız veya cihazınız, tarayıcı çerezlerinin yerleştirilip yerleştirilmeyeceğini seçmenizi ve çerezleri silmenizi sağlayacak bazı ayarlar sunabilir. Bu kontroller tarayıcıya göre değişiklik gösterir ve üreticiler, hem sundukları ayarları hem de bu ayarların çalışma şeklini istedikleri zaman değiştirebilir. 23 Haziran 2021 itibarıyla, yaygın olarak kullanılan tarayıcıların sunduğu kontrollerle ilgili daha fazla bilgiyi aşağıdaki bağlantılardan alabilirsiniz. Tarayıcı çerezlerinin kullanımını devre dışı bıraktıysanız Meta Ürünlerinin bazı kısımları doğru şekilde çalışmayabilir. Bu kontrollerin, size sunduğumuz kontrollerden farklı olduğunu lütfen unutmayın.
+Browser cookie controls:
+In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
 
 Google Chrome
 Internet Explorer
@@ -87,20 +87,20 @@ Safari Mobile
 Opera
 
 
-Son değiştirilme tarihi: 5 Ekim 2022
-Türkçe
-Kurdî (Kurmancî)
-العربية
-English (UK)
-Zaza
-Deutsch
-Русский
-Français (France)
-فارسی
+Date of last revision: 5 October 2022
+English (US)
 Español
+Français (France)
+中文(简体)
+العربية
 Português (Brasil)
-KaydolGiriş YapMessengerFacebook LiteWatchYerlerOyunlarMarketplaceMeta PayOculusPortalInstagramBulletinBağış KampanyalarıHizmetlerOy Kullanma Bilgi MerkeziGizlilik İlkesiGizlilik MerkeziGruplarHakkımızdaReklam OluşturSayfa OluşturGeliştiricilerKariyer OlanaklarıÇerezlerAd Choices
-KoşullarYardımKişi Yükleme ve Hesabı Olmayan Kişiler
-Ayarlar
-Hareketler dökümü
+Italiano
+한국어
+Deutsch
+हिन्दी
+日本語
+Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceMeta PayOculusPortalInstagramBulletinFundraisersServicesVoting Information CenterPrivacy PolicyPrivacy CenterGroupsAboutCreate AdCreate PageDevelopersCareersCookiesAd choices
+TermsHelpContact Uploading & Non-Users
+Settings
+Activity log
 Meta © 2023
