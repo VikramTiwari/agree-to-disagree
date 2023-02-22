@@ -109,7 +109,7 @@ Third-Party Data Processors
 
 Your Secure and Service data are held by third-party data processors, who provide us with hosting and other infrastructure services. The locations of these are described above. In many cases (but we cannot promise that this will always be the case) even Service data held by these entities is encrypted with keys held only by us.
 
-Data needed to process payments is collected by our payment processor, Stripe, Inc., which conforms to the U.S.-E.U. Privacy Shield Framework. See https://stripe.com/privacy-shield-policy
+Data needed to process payments is collected by our payment processor, Stripe, Inc., which conforms to the U.S.-E.U. Privacy Shield Framework. See https://stripe.com/in/legal/privacy-shield-policy
 
 Contacting You
 
