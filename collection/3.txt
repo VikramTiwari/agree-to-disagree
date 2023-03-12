@@ -1,161 +1,161 @@
-The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. Learn more about Meta and our vision for the metaverse.
+Facebook 公司现已更名为 Meta。我们于 2022 年 1 月 4 日更新了使用条款、数据使用政策和 Cookie 政策，以体现新的公司名称。尽管公司名称有变化，但我们将继续提供同样的产品，包括 Meta 旗下的 Facebook 应用。我们的数据使用政策和服务条款仍然有效，且公司名称的变更对我们如何使用或分享数据没有影响。详细了解 Meta 以及我们对元宇宙的愿景。
 
 
 
 
-Terms of Service
-Meta builds technologies and services that enable people to connect with each other, build communities, and grow businesses. These Terms govern your use of Facebook, Messenger, and the other products, features, apps, services, technologies, and software we offer (the Meta Products or Products), except where we expressly state that separate terms (and not these) apply. These Products are provided to you by Meta Platforms, Inc.
-We don’t charge you to use Facebook or the other products and services covered by these Terms, unless we state otherwise. Instead, businesses and organizations, and other persons pay us to show you ads for their products and services. By using our Products, you agree that we can show you ads that we think may be relevant to you and your interests. We use your personal data to help determine which personalized ads to show you.
-We don’t sell your personal data to advertisers, and we don’t share information that directly identifies you (such as your name, email address or other contact information) with advertisers unless you give us specific permission. Instead, advertisers can tell us things like the kind of audience they want to see their ads, and we show those ads to people who may be interested. We provide advertisers with reports about the performance of their ads that help them understand how people are interacting with their content. See Section 2 below to learn more about how personalized advertising under these terms works on the Meta Products.
-Our Privacy Policy explains how we collect and use your personal data to determine some of the ads you see and provide all of the other services described below. You can also go to your settings pages of the relevant Meta Product at any time to review the privacy choices you have about how we use your data.
-1. The services we provide
-Our mission is to give people the power to build community and bring the world closer together. To help advance this mission, we provide the Products and services described below to you:
-Provide a personalized experience for you: Your experience on Facebook is unlike anyone else's: from the posts, stories, events, ads, and other content you see in Facebook News Feed or our video platform to the Facebook Pages you follow and other features you might use, such as Facebook Marketplace, and search. For example, we data about the connections you make, the choices and settings you select, and what you share and do on and off our Products - to personalize your experience.
-Connect you with people and organizations you care about: We help you find and connect with people, groups, businesses, organizations, and others that matter to you across the Meta Products you use. We use data to make suggestions for you and others - for example, groups to join, events to attend, Facebook Pages to follow or send a message to, shows to watch, and people you may want to become friends with. Stronger ties make for better communities, and we believe our services are most useful when people are connected to people, groups, and organizations they care about.
-Empower you to express yourself and communicate about what matters to you: There are many ways to express yourself on Facebook to communicate with friends, family, and others about what matters to you - for example, sharing status updates, photos, videos, and stories across the Meta Products (consistent with your settings), sending messages or making voice or video calls to a friend or several people, creating events or groups, or adding content to your profile as well as showing you insights on how others engage with your content. We have also developed, and continue to explore, new ways for people to use technology, such as augmented reality and 360 video to create and share more expressive and engaging content on Meta Products.
-Help you discover content, products, and services that may interest you: We show you personalized ads, offers, and other sponsored or commercial content to help you discover content, products, and services that are offered by the many businesses and organizations that use Facebook and other Meta Products. Section 2 below explains this in more detail.
-Promote the safety, security, and integrity of our services, combat harmful conduct and keep our community of users safe: People will only build community on Meta Products if they feel safe and secure. We work hard to maintain the security (including the availability, authenticity, integrity, and confidentiality) of our Products and services. We employ dedicated teams around the world, work with external service providers, partners and other relevant entities and develop advanced technical systems to detect potential misuse of our Products, harmful conduct towards others, and situations where we may be able to help support or protect our community, including to respond to user reports of potentially violating content. If we learn of content or conduct like this, we may take appropriate action based on our assessment that may include - notifying you, offering help, removing content, removing or restricting access to certain features, disabling an account, or contacting law enforcement. We share data across Meta Companies when we detect misuse or harmful conduct by someone using one of our Products or to help keep Meta Products, users and the community safe. For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. Meta may access, preserve, use and share any information it collects about you where it has a good faith belief it is required or permitted by law to do so. For more information, please review our Privacy Policy.
+服务条款
+Meta 提供的技术和服务旨在帮助人们互动交流、建设社群和发展业务。本服务条款适用于您对 Facebook、Messenger 及我们提供的其他产品、功能、应用、服务、技术和软件（统称 Meta 产品或产品）的使用，但我们明确规定适用其他条款（非本条款）的情况除外。这些产品由 Meta Platforms, Inc. 提供。
+您使用 Facebook 或本条款所述的其他产品和服务均属免费，除非我们另有规定。但也有企业、组织和其他个人付费让我们向您展示广告，以推广其商品和服务。使用我们的产品，即表示您同意我们向您展示我们认为可能与您和您的兴趣相关的广告。我们会使用您的个人数据，帮助确定向您展示哪些个性化广告。
+我们不会将您的个人数据出售给广告主，也不会与广告主分享能直接识别您身份的信息，例如您的姓名、邮箱或其他联系方式，除非获得您的明确许可。但广告主可以向我们提供想定位的受众的特征信息，我们会根据这些信息将广告投放给可能有兴趣的用户。我们会为广告主提供广告表现报告，帮助他们了解受众与其内容的互动情况。请参阅下方的第 2 条，详细了解本篇条款所述的个性化广告在 Meta 产品中的运作方式。
+我们的隐私权政策说明了我们如何收集您的个人数据，如何利用这些数据来决定您所看到的部分广告及提供下文所述的其他所有服务。您还可以随时前往相关 Meta 产品的设置页面，查看您就我们如何使用这些数据而设置的隐私选项。
+1. 我们提供的服务
+我们的使命是赋予人们建设社群的力量，让世界联系更紧密。为了帮助推动这一使命，我们向您提供以下产品和服务：
+向您提供个性化体验：您在 Facebook 的体验是独一无二的：无论是您在 Facebook 动态消息或我们的视频平台看到的帖子、快拍、活动、广告和其他内容，还是您关注的 Facebook 公共主页及可能使用的其他功能（例如 Facebook Marketplace 和搜索功能），都可能与他人不同。例如我们会使用您的关系网络、您做出的选择和设置，以及您在我们的产品内外分享的内容和采取的操作等相关数据，为您提供个性化体验。
+让您与关注的人和组织建立联结：我们帮助您在自己使用的各种 Meta 产品中查找对自己重要的其他用户、小组、商家、组织和其他对象，并帮助您与他们建立联系。我们会利用获得的数据向您和他人提供建议，例如，可加入的小组、可参加的活动、可关注或向其发送消息的 Facebook 公共主页、可观看的节目，以及您可能想加为好友的用户。更紧密的人际关系会让社群变得更美好，我们相信，当人们与自己重视的用户、小组和组织建立了联系时，我们的服务将发挥最大的作用。
+助您表达自我，并就关心的事情与他人沟通：在 Facebook，您可以通过很多方式表达自我，并与好友、家人和他人就关心的事情沟通交流，例如，在各种 Meta 产品中分享状态更新、照片、视频和快拍（前提是遵循您的设置）、给单个好友或多个用户发消息或发起语音/视频通话、创建活动或小组，或向您的个人主页添加内容，以及查看他人与您内容互动情况的成效分析。我们已经开发并将继续探索新技术供您使用，如 AR（增强现实）和 360 度全景视频，用于在 Meta 产品中创建和分享更具表现力和更引人入胜的内容。
+帮助您发现自己可能感兴趣的内容、商品和服务：我们向您展示个性化广告、优惠，以及其他赞助内容或商业内容，帮助您发现使用 Facebook 和其他 Meta 产品的众多商家和组织提供的内容、商品和服务。详细说明请见下文第 2 条。
+加强用户安全、数据安全和服务诚信，打击有害行为，保护用户社群的安全： 用户只有在觉得安全有保障的情况下才愿意在 Meta 产品中构建社群。我们致力于维护我们产品和服务的安全（包括可用、真实、诚信和保密）。我们在全球聘用专业的团队、与外部服务提供商、合作伙伴以及其他相关实体合作，并开发先进技术系统，以检测我们产品中是否存在潜在的违规使用和危害他人的行为，辨别需要我们采取行动来支持或保护社群的情况，包括回复有关疑似违规内容的用户举报。如果我们发现这类内容或行为，可能会根据我们的评估采取相应的行动，其中可能包括发送通知、提供帮助、移除内容、移除或限制用户对特定功能的访问权限、禁用帐户或联系执法部门。当我们检测到使用我们某个产品的用户存在违规使用或有害行为，或为了帮助保护 Meta 产品、用户和社群的安全，我们会在 Meta 旗下公司共享相关数据。例如，我们会与提供金融产品和服务的 Meta 旗下公司分享信息，帮助他们加强帐户安全、信息安全和产品诚信并遵守适用法律。Meta 可能会访问、保留、使用和分享其收集的有关您的信息，但前提是 Meta 有充分理由认为这么做是法律要求或允许的。如需获取更多信息，请阅读我们的隐私权政策。
 
-In some cases, the Oversight Board may review our decisions, subject to its terms and bylaws. Learn more here.
-Use and develop advanced technologies to provide safe and functional services for everyone: We use and develop advanced technologies - such as artificial intelligence, machine learning systems, and augmented reality - so that people can use our Products safely regardless of physical ability or geographic location. For example, technology like this helps people who have visual impairments understand what or who is in photos or videos shared on Facebook or Instagram. We also build sophisticated network and communication technology to help more people connect to the internet in areas with limited access. And we develop automated systems to improve our ability to detect and remove abusive and dangerous activity that may harm our community and the integrity of our Products.
-Research ways to make our services better: We engage in research to develop, test, and improve our Products. This includes analyzing data we have about our users and understanding how people use our Products, for example by conducting surveys and testing and troubleshooting new features. Our Privacy Policy explains how we use data to support this research for the purposes of developing and improving our services.
-Provide consistent and seamless experiences across the Meta Company Products: Our Products help you find and connect with people, groups, businesses, organizations, and others that are important to you. We design our systems so that your experience is consistent and seamless across the different Meta Company Products that you use. For example, we use data about the people you engage with on Facebook to make it easier for you to connect with them on Instagram or Messenger, and we enable you to communicate with a business you follow on Facebook through Messenger.
-Ensuring access to our services: To operate our global services and enable you to connect with people around the world, we need to transfer, store and distribute content and data to our data centers, partners, service providers, vendors and systems around the world, including outside your country of residence. The use of this global infrastructure is necessary and essential to provide our services. This infrastructure may be owned, operated, or controlled by Meta Platforms, Inc., Meta Platforms Ireland Limited, or its affiliates.
-
-
-2. How our services are funded
-Instead of paying to use Facebook and the other products and services we offer, by using the Facebook Products covered by these Terms, you agree that we can show you ads that businesses and organizations pay us to promote on and off the Facebook Company Products. We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
-Protecting people's privacy is central to how we've designed our ad system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things like their business goal, and the kind of audience they want to see their ads (for example, people between the age of 18-35 who like cycling). We then show their ad to people who might be interested.
-We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Facebook. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Facebook ads work here.
-We collect and use your personal data in order to provide the services described above to you. You can learn about how we collect and use your data in our Data Policy. You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. Learn more.
+某些情形下，监督委员会可能根据其条款和细则审核我们的决定。点击此处详细了解。
+使用并开发先进技术，为所有人提供安全实用的服务： 我们使用并开发先进技术（如人工智能、机器学习系统和增强现实技术等），让人们能够打破身体条件或地理位置的约束安全地使用我们的产品。例如，这类技术可帮助有视力障碍的人了解 Facebook 或 Instagram 上分享的照片或视频中有哪些人和物。我们还打造成熟的网络和通信技术，帮助更多人在访问受限的地区连接互联网。而且，我们还开发自动化系统，以便能更好地检测并删除违规和危险活动，避免它们对我们的社群和我们产品的信誉造成危害。
+研究改善我们服务的方法：我们会参与到研究活动中，以开发、测试和改进我们的产品。这包括分析我们收集到的用户数据，并了解用户如何使用我们的产品，例如开展问卷调查，以及对新功能进行测试和故障排除。隐私权政策阐释了我们如何使用数据来支持为开发和改进我们的服务而开展的研究。
+在各种 Meta 旗下公司产品之间提供一致、无缝的体验：我们的产品可帮助您查找对自己重要的其他用户、小组、商家、组织和其他对象，并帮助您与他们建立联系。我们的系统经过精心设计，让您在使用各种 Meta 旗下公司产品时，能获得一致、无缝的体验。例如，我们使用您在 Facebook 与其他用户互动的数据，让您在 Instagram 或 Messenger 中与对方更轻松地建立联系，并让您能够通过 Messenger 与自己在 Facebook 关注的商家沟通。
+为用户提供我们的服务：为运营全球服务并助您与全球各地的人们沟通交流，我们需要通过全球各地（包括您居住的国家/地区境外）的数据中心、合作伙伴、服务提供商、供应商和系统传输、存储和分发内容和数据。为了提供服务，我们必须使用这一全球基础架构。该基础架构可能由 Meta Platforms, Inc.、Meta Platforms Ireland Limited 或其关联公司拥有、运营或控制。
 
 
-3. Your commitments to Facebook and our community
-We provide these services to you and others to help advance our mission. In exchange, we need you to make the following commitments:
-Who can use Facebook
-When people stand behind their opinions and actions, our community is safer and more accountable. For this reason, you must:
-Provide for your account the same name that you use in everyday life.
-Provide accurate information about yourself.
-Create only one account (your own) and use it for personal purposes.
-Not share your password, give access to your Facebook account to others, or transfer your account to anyone else (without our permission).
-We try to make Facebook broadly available to everyone, but you cannot use Facebook if:
-You are under 13 years old.
-You are a convicted sex offender.
-We've previously disabled your account for violations of our Terms or the Community Standards, or other terms and policies that apply to your use of Facebook. If we disable your account for a violation of our Terms, the Community Standards, or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
-You are prohibited from receiving our products, services, or software under applicable laws.
+2. 我们提供服务的资金来源
+您可以免费使用 Facebook 以及我们提供的其他产品和服务，但与此同时，也有商家和组织付费让我们在 Facebook 旗下产品内外投放广告，以宣传其商品或服务。您使用本篇条款所述的 Facebook 产品，即表示您同意我们向您展示这类广告。 我们会使用您的个人数据（例如您的活动和兴趣信息）向您展示相关度更高的广告。
+保护用户隐私是我们设计广告系统的核心所在。这意味着，我们无需向广告主透露您的身份信息，也能向您展示相关且有用的广告。 我们不会出售您的个人数据。 我们允许广告主提供业务目标，以及想要定位的目标受众的特征等信息，例如年龄在 18-35 岁喜欢骑行的用户。 之后，我们会将他们的广告投放给可能感兴趣的人群。
+此外，我们还会为广告主提供广告表现报告，帮助他们了解受众在 Facebook 平台内外与其内容互动的情况。 例如，我们向广告主提供一般性人口统计数据和兴趣信息（比如说观看他们广告的人群为年龄介于 25 岁到 34 岁之间、居住在马德里并且喜欢软件工程的女性），帮助他们更好地了解广告受众。 除非您授予明确许可，否则我们不会分享能直接识别您身份的信息，例如您的姓名或邮箱等能够用于联系您或识别您身份的信息。 点此详细了解 Facebook 广告的运作方式。
+我们出于为您提供上述服务的目的收集和使用您的个人信息。 若想了解我们如何收集和使用您的数据，请阅读我们的数据使用政策。 您可以掌控自己看到的广告和广告主类型，以及我们在确定向您投放哪些广告时所依据的信息类型。详细了解
 
 
-What you can share and do on Meta Products
-We want people to use Meta Products to express themselves and to share content that is important to them, but not at the expense of the safety and well-being of others or the integrity of our community. You therefore agree not to engage in the conduct described below (or to facilitate or support others in doing so):
-You may not use our Products to do or share anything:
-That violates these Terms, the Community Standards, or other terms and policies that apply to your use of our Products.
-That is unlawful, misleading, discriminatory or fraudulent (or assists someone else in using our Products in such a way).
-That you do not own or have the necessary rights to share.
-That infringes or violates someone else's rights, including their intellectual property rights (such as by infringing another’s copyright or trademark, or distributing or selling counterfeit or pirated goods), unless an exception or limitation applies under applicable law.
-You may not upload viruses or malicious code, use the services to send spam, or do anything else that could disable, overburden, interfere with, or impair the proper working, integrity, operation, or appearance of our services, systemes, or Products.
-You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data you do not have permission to access.
-You may not proxy, request, or collect Product usernames or passwords, or misappropriate access tokens.
-You may not sell, license, or purchase any data obtained from us or our services, except as provided in the Platform Terms.
-You may not misuse any reporting, flagging, dispute, or appeals channel, such as by making fraudulent, duplicative, or groundless reports or appeals.
-We can remove or restrict access to content that is in violation of these provisions. We can also suspend or disable your account for conduct that violates these provisions, as provided in Section 4.B.
-If we remove content that you have shared in violation of the Community Standards, we’ll let you know and explain any options you have to request another review, unless you seriously or repeatedly violate these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons. For information on account suspension or termination, see Section 4.B below.
-To help support our community, we encourage you to report content or conduct that you believe violates your rights (including intellectual property rights) or our terms and policies, if this feature exists in your jurisdiction.
-We also can remove or restrict access to content features, services, or information if we determine that doing so is reasonably necessary to avoid or mitigate misuse of our services or adverse legal or regulatory impacts to Meta.
+3.您对 Facebook 及我们社群的承诺
+我们向您和他人提供这些服务，以帮助推动我们的使命。作为交换，我们需要您做出以下承诺：
+谁可以使用 Facebook
+当用户以真实身份发表观点和开展活动时，Facebook 社群就会更加安全，用户也会对自己的行为更加负责。因此，我们要求每一位用户：
+为帐户使用日常生活中的姓名。
+提供本人的准确信息。
+只创建一个帐户（供本人使用），并且只能将其用于个人目的。
+不得将自己的帐户密码透露给他人，不得允许他人使用自己的 Facebook 帐户，也不能在未经我们允许的情况下把自己的帐户转让给他人。
+我们努力让每个人都可以使用 Facebook，但是在下列情形下，您不得使用 Facebook：
+您未满 13 周岁。
+您是已定罪的性犯罪者。
+由于您的帐户违反了我们的条款、社群守则，或您在使用 Facebook 时应遵守的其他条款和政策，我们之前已禁用您的帐户。如果您的帐户因违反我们的条款、社群守则或其他条款和政策而被禁用，您同意须获得我们的许可才能创建新帐户。是否为您提供创建新帐户的许可由我们全权决定，这并不意味着或暗示之前的惩处是错误或无故的。
+适用法律禁止您使用我们的产品、服务或软件。
 
 
-The permissions you give us
-We need certain permissions from you to provide our services:
-Permission to use content you create and share: Some content that you share or upload, such as photos or videos, may be protected by intellectual property laws.
-You retain ownership of the intellectual property rights (things like copyright or trademarks) in any such content that you create and share on Facebook and other Meta Company Products you use. Nothing in these Terms takes away the rights you have to your own content. You are free to share your content with anyone else, wherever you want.
-However, to provide our services we need you to give us some legal permissions (known as a "license") to use this content. This is solely for the purposes of providing and improving our Products and services as described in Section 1 above.
-Specifically, when you share, post, or upload content that is covered by intellectual property rights on or in connection with our Products, you grant us a non-exclusive, transferable, sub-licensable, royalty-free, and worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings). This means, for example, that if you share a photo on Facebook, you give us permission to store, copy, and share it with others (again, consistent with your settings) such as Meta Products or service providers that support those products and services. This license will end when your content is deleted from our systems.
-You can delete individual content you share, post, and upload at any time. In addition, all content posted to your personal account will be deleted if you delete your account. Learn more about how to delete your account. Account deletion does not automatically delete content that you post as an admin of a page or content that you create collectively with other users, such as photos in Shared Albums which may continue to be visible to other album members.
-It may take up to 90 days to delete content after we begin the account deletion process or receive a content deletion request. If you send content to trash, the deletion process will automatically begin in 30 days unless you chose to delete the content sooner. While the deletion process for such content is being undertaken, the content is no longer visible to other users. After the content is deleted, it may take us up to another 90 days to remove it from backups and disaster recovery systems.
-Content will not be deleted within 90 days of the account deletion or content deletion process beginning in the following situations:
-where your content has been used by others in accordance with this license and they have not deleted it (in which case this license will continue to apply until that content is deleted);
-where deletion within 90 days is not possible due to technical limitations of our systems, in which case, we will complete the deletion as soon as technically feasible; or
-where immediate deletion would restrict our ability to:
-investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our Products or systems);
-protect the safety, integrity, and security of our Products, systems, services, our employees, and users, and to defend ourselves;
-comply with legal obligations for the preservation of evidence, including data Meta Companies providing financial products and services preserve to comply with any record keeping obligations required by law; or
-comply with a request of a judicial or administrative authority, law enforcement or a government agency;
-in which case, the content will be retained for no longer than is necessary for the purposes for which it has been retained (the exact duration will vary on a case-by-case basis).
-In each of the above cases, this license will continue until the content has been fully deleted.
-Permission to use your name, profile picture, and information about your actions with ads and sponsored or commercial content: You give us permission to use your name and profile picture and information about actions you have taken on Facebook next to or in connection with ads, offers, and other sponsored or commercial content that we display across our Products, without any compensation to you. For example, we may show your friends that you are interested in an advertised event or have liked a Facebook Page created by a brand that has paid us to display its ads on Facebook. Ads and content like this can be seen only by people who have your permission to see the actions you've taken on Meta Products. You can learn more about your ad settings and preferences.
-Permission to update software you use or download: If you download or use our software, you give us permission to download and install updates to the software where available.
+您可在 Meta 产品中分享的内容和开展的活动
+我们希望用户能使用 Meta 产品表达自我，分享他们认为重要的内容，但不得以牺牲他人的安全和福祉或我们社群的信誉为代价。因此，您同意不进行下列活动（也不为他人进行下列活动提供便利和支持）：
+您不得使用我们的产品进行符合下列情况的活动或分享符合下列情况的内容：
+违反本条款、社群守则以及您在使用我们的产品时应遵守的其他条款和政策；
+违法、具误导性、歧视或欺诈（或者推动他人以这些方式使用我们的产品）。
+非您所有，或您无权分享。
+侵犯或妨害他人的知识产权等权利（例如侵犯他人的版权或商标权，或者经销或销售假冒或盗版商品），除非符合适用法律下的例外情形或限制规定。
+您不得上传病毒或恶意代码；不得使用我们的服务发送垃圾信息；也不得进行会带来下列后果的其他任何活动：使我们的服务、系统或产品停用、超负荷、受到干扰，或者影响其正常运行、诚信、运营或外观。
+未经我们事先允许，您不得使用自动化方式访问或收集我们产品的数据，也不得试图访问您无权访问的数据。
+您不得代理、请求或收集产品帐号或密码，也不得盗用访问口令。
+除非开放平台条款中有规定，否则您不得销售或购买从我们或我们的服务中获取的任何数据，也不得将这些数据的许可授予他人。
+您不得违规使用任何举报、标记、争议解决或申诉渠道，例如提出虚假、重复或毫无根据的举报或申诉。
+我们有权移除违反了这些规定的内容，或限制对此类内容的访问。我们还可根据第 4.B 条的规定，冻结或禁用违反这些规定的帐户。
+如果移除您分享的违反社群守则的内容，我们会通知您并说明申请复审的方案，但以下情况除外：您严重或屡次违反本篇条款；采取前述行动可能会让我们或其他方承担法律责任，可能伤害我们的用户社群，可能损害或影响我们提供的任何服务、系统或产品的诚信或运营；我们因技术限制而受限；或者法律禁止我们采取前述行动。如需了解帐户冻结或停用，请参阅下方第 4.B 条。
+为帮助支持我们的社群，我们鼓励您举报侵犯自己权利（包括知识产权）或违反我们的条款和政策的内容或行为（如果您所在司法管辖区可以使用举报功能）。
+如果我们认定采取以下行动对于避免或减轻服务的违规使用，或 Meta 在法律或监管方面受到的不利影响是合理且必要的，我们也可以移除您的内容、功能、服务或信息，或限制对它们的访问。
 
 
-Limits on using our intellectual property
-If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos, or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or trademarks (or any similar marks) as expressly permitted by our Brand Usage Guidelines or with our prior written permission. You must obtain our written permission (or permission under an open source license) to modify, translate, create derivative works of, decompile, or reverse engineer our products or their components, or otherwise attempt to extract source code from us, unless an exception or limitation applies under applicable law or your conduct relates to the Meta Bug Bounty Program.
+您授予我们的权限
+我们需要您授予我们特定权限才能向您提供服务：
+使用您所创建和分享内容的权限：您分享或上传的某些内容（例如照片或视频）可能受知识产权法的保护。
+对于您在 Facebook 及您使用的其他 Meta 旗下公司产品中创建和分享的任何这类内容，其知识产权（例如版权或商标权）归您所有。本条款的任何规定都不会剥夺您对自己内容拥有的权利。您可以按照自己的意愿在任何地方与其他任何人分享自己的内容。
+然而，为提供我们的服务，我们需要您授予使用这些内容的某些法律权限（称为“许可”）。这些权限将仅用于提供和改善我们的产品和服务，如上文第 1 条所述。
+具体而言，当您在我们的产品中或通过与我们的产品相关的方式分享、发布或上传受知识产权保护的内容时，您即向我们授予非独占、可转让、可分发次级许可、免版税的全球通用许可，允许我们根据您的隐私和应用设置托管、使用、分发、修改、运行、复制、公开执行、公开展示或翻译您的内容，以及创建这些内容的衍生作品。例如，这意味着，如果您在 Facebook 分享照片，则您将授权我们根据您的设置，存储、复制以及与其他方（例如 Meta 产品、为这些产品和服务提供支持的服务提供商）分享该等照片。该许可将在您的内容从我们的系统中删除时终止。
+您随时可以删除您分享、发布和上传的单条内容。此外，您删除个人帐户将会删除发布到帐户的所有内容。详细了解如何删除帐户。您删除帐户时，并不会自动删除您以公共主页管理员身份发布的内容，以及您与其他用户共同创建的内容，例如共享相册中的照片会继续对相册的其他成员可见。
+从我们开始帐户删除流程或收到内容删除申请到删除内容，最长可能需要 90 天。如果您将内容移至垃圾箱，删除流程将在 30 天后自动开始，除非您选择提前删除内容。在此期间，其他用户无法看到这些内容。内容被删除后，我们最长可能需要再花 90 天的时间才能从备份和灾难恢复系统中将其移除。
+出现以下情况时，内容将不会在帐户删除或内容删除程序开始后的 90 天内被删除：
+其他方根据这项许可使用您的内容，且他们还未删除该内容（在这种情况下，这项许可将继续适用，直至其他方删除该内容）；
+由于我们系统的技术限制，无法在 90 天内删除内容，在这种情况下，我们将在技术上可行的情况下尽快完成删除；或是
+立即删除内容会限制我们的如下能力：
+调查或确定违法活动或对我们条款和政策的违规行为（例如：确定或调查对我们产品或系统的违规使用行为）；
+保障我们的产品、系统、服务、员工和用户的安全、诚信，以及为自己辩护；
+履行保留证据的法律义务，证据包括提供金融产品和服务的 Meta 旗下公司为履行法律要求的任何记录保存义务，而保留的数据；或
+遵守司法或行政部门、执法部门或政府机构的要求；
+在这种情况下，根据内容保留目的会确定一个必要保留期限，相关内容的保留时长不会超过这个期限，确切的保留时长视具体情况而定。
+在上述每种情况下，该许可将持续有效，直到相关内容被完全删除。
+将您的姓名、头像以及与您的操作相关的信息用于广告、赞助或商业内容的权限：您授予我们下列权限：在我们的产品所展示广告、优惠信息和其他赞助或商业内容的旁边，或采用与这些内容相关的方式，使用您的姓名和头像以及有关您在 Facebook 所采取操作的信息，且我们无需向您支付任何报酬。例如，我们可向您的好友显示您对某个广告活动感兴趣，或者向其显示您赞了一个付费投放 Facebook 广告的品牌 Facebook 公共主页。只有经您授权可看到您在 Meta 产品中所采取操作的人，才可以看见此类广告和内容。您可以详细了解自己的广告设置和偏好选择。
+更新您所使用或下载的软件的权限：您下载或使用我们的软件，即表示向我们授予许可，允许我们在软件更新可用时为您下载和安装更新。
 
 
-4. Additional provisions
-Updating our Terms
-We work constantly to improve our services and develop new features to make our Products better for you and our community. As a result, we may need to update these Terms from time to time to accurately reflect our services and practices, to promote a safe and secure experience on our Products and services, and/or to comply with applicable law. Unless otherwise required by law, we will notify you before we make changes to these Terms and give you an opportunity to review them before they go into effect. Once any updated Terms are in effect, you will be bound by them if you continue to use our Products.
-We hope that you will continue using our Products, but if you do not agree to our updated Terms and no longer want to be a part of the Facebook community, you can delete your account at any time.
+使用我们知识产权内容的限制
+如果您使用我们拥有且在产品中提供的受知识产权保护的内容（例如，您向自己在 Facebook 创建或分享的内容中添加我们所提供的图片、设计、视频或声音），则我们保留对于此类内容（而非您的内容）的一切权利。您只能在品牌使用指南明确许可或事先经过我们书面许可的情况下使用我们的版权或商标（或类似标志）。您必须获得我们的书面许可（或相关开源许可协议的允许），才能修改、转译、反编译我们的产品或其组件，或对其进行逆向工程、创建相关的衍生作品，或以其他方式尝试提取我们的源代码，除非符合适用法律下的例外情形或限制规定，或您的行为与 Meta 漏洞悬赏计划相关。
 
 
-Account suspension or termination
-We want Facebook to be a place where people feel welcome and safe to express themselves and share their thoughts and ideas.
-If we determine, in our discretion, that you have clearly, seriously or repeatedly breached our Terms or Policies, including in particular the Community Standards, we may suspend or permanently disable your access to Meta Company Products, and we may permanently disable or delete your account. We may also disable or delete your account if you repeatedly infringe other people’s intellectual property rights or where we are required to do so for legal reasons.
-We may disable or delete your account if after registration your account is not confirmed, your account is unused and remains inactive for an extended period of time, or if we detect someone may have used it without your permission and we are unable to confirm your ownership of the account. Learn more about how we disable and delete accounts.
-Where we take such action we’ll let you know and explain any options you have to request a review, unless doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.
-You can learn more about what you can do if your account has been disabled and how to contact us if you think we have disabled your account by mistake.
-If you delete or we disable or delete your account, these Terms shall terminate as an agreement between you and us, but the following provisions will remain in place: 3, 4.2-4.5.
+4. 附加条款
+条款更新
+我们始终在改进服务和开发新功能，让我们的产品能够更好地为您和我们的社群服务。因此，我们可能需要不时更新本条款，以准确反映我们的服务和做法，提供安全可靠的产品和服务体验，和/或遵守适用法律。除法律另有要求外，我们在对本条款做出变更之前，将向您发出通知，以便您有机会在更改生效之前查阅条款。任何更新后的条款一旦生效，若您继续使用我们的产品，则将受此等更新后条款的约束。
+我们希望您能继续使用我们的产品，但是若您不接受我们更新后的条款，并且不愿意继续成为 Facebook 社群的一分子，您可以随时删除自己的帐户。
 
 
-Limits on liability
-We work hard to provide the best Products we can and to specify clear guidelines for everyone who uses them. Our Products, however, are provided "as is," and we make no guarantees that they always will be safe, secure, or error-free, or that they will function without disruptions, delays, or imperfections. To the extent permitted by law, we also DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. We do not control or direct what people and others do or say, and we are not responsible for their actions or conduct (whether online or offline) or any content they share (including offensive, inappropriate, obscene, unlawful, and other objectionable content).
-We cannot predict when issues might arise with our Products. Accordingly, our liability shall be limited to the fullest extent permitted by applicable law, and under no circumstance will we be liable to you for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms or the Meta Products (however caused and on any theory of liability, including negligence), even if we have been advised of the possibility of such damages. Our aggregate liability arising out of or relating to these Terms or the Meta Products will not exceed the greater of $100 or the amount you have paid us in the past twelve months.
+帐户冻结或停用
+我们希望 Facebook 是一个让用户感到包容、可安全表达观点和分享想法或意见的地方。
+如果我们酌情认定您明确、严重或者屡次违反了我们的条款或政策，尤其是社群守则，我们可能会暂时或永久禁止您使用 Meta 旗下公司产品，并且可能永久停用或删除您的帐户。如果您屡次侵犯他人的知识产权，或者法律有相关要求，我们也可以停用或删除您的帐户。
+如果您的帐户在注册后未进行验证，或长时间未使用和闲置，或者我们发现他人未经您许可而使用您的帐户，但我们无法确认帐户归您所有，那么我们会停用或删除您的帐户。详细了解我们如何停用和删除帐户。
+如果采取这样的措施，我们会通知您并说明申请复审的方案，但以下情况除外：这么做可能会让我们或其他方承担法律责任，可能伤害到 Facebook 用户，可能损害或干扰我们提供的任何服务、系统或产品的诚信或运营；我们因技术限制而受限；或者法律禁止我们这么做。
+用户可以详细了解在其帐户被禁用的情况下可采取的行动，以及如果用户认为我们禁用其帐户属于错误操作时如何与我们联系。
+若您删除帐户或我们禁用或删除您的帐户，本条款的效力应终止，不再作为您与我们之间的协议，但是下列规定仍然有效：3、4.2-4.5。
 
 
-Disputes
-We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, it's useful to know up front where it can be resolved and what laws will apply.
-You and Meta each agree that any claim, cause of action, or dispute between us that arises out of or relates to these Terms or your access or use of the Meta Products shall be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County. You also agree to submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any claim, cause of action, or dispute without regard to conflict of law provisions. Without prejudice to the foregoing, you agree that, in its sole discretion, Meta may bring any claim, cause of action, or dispute we have against you in any competent court in the country in which you reside that has jurisdiction over the claim.
+责任限制
+我们努力为用户打造最优质的产品，同时为每位用户提供清晰明确的守则。不过，我们仅按“现状”提供产品，不担保我们的产品始终安全、可靠、无差错，也不担保产品运行不会出现中断、延迟或缺陷。在法律允许的范围内，我们还拒绝承认一切明示或默示的保证，包括有关适销性、适用于特定用途、所有权和不侵权的默示保证。我们不控制或操纵用户和其他人的言行，也不对他们的行为（无论是线上还是线下行为）及分享的任何内容（包括冒犯性、不雅、淫秽、非法和其他不良内容）负责。
+我们无法预测我们的产品何时会出现问题。相应地，我们的责任应在适用法律允许的最大范围内受到限制；对于因本条款或 Meta 产品产生的或与之相关的任何利润损失、收入损失、信息或数据丢失或者后果性、特殊、间接、惩戒性、惩罚性或附带的损害赔偿，无论前述各项如何产生或以任何责任（包括过失责任）理论为依据，我们概不承担任何责任，即使我们已被告知可能发生此等损害。我们因本条款或 Meta 产品，或者与之相关的原因而需承担的责任总额，限于 $100 美元或您在之前十二个月中向我们支付的总金额，以两者中的较高金额为准。
 
 
-Other
-
-These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Meta Platforms, Inc. regarding your use of our Products. They supersede any prior agreements.
-Some of the Products we offer are also governed by supplemental terms. If you use any of those Products, supplemental terms will be made available and will become part of our agreement with you. For instance, if you access or use our Products for commercial or business purposes, such as buying ads, selling products, developing apps, managing a group or Page for your business, or using our measurement services, you must agree to our Commercial Terms. If you post or share content containing music, you must comply with our Music Guidelines. To the extent any supplemental terms conflict with these Terms, the supplemental terms shall govern to the extent of the conflict.
-If any portion of these Terms is found to be unenforceable, the unenforceable portion will be deemed amended to the minimum extent necessary to make it enforceable, and if it can’t be made enforceable, then it will be severed and the remaining portion will remain in full force and effect. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us.
-You will not transfer any of your rights or obligations under these Terms to anyone else without our consent.
-You may designate a person (called a legacy contact) to manage your account if it is memorialized. If you enable it in your settings, only your legacy contact or a person who you have identified in a valid will or similar legal document expressing clear consent to disclose your content to that person upon death or incapacity will be able to seek limited disclosure of information from your account after it is memorialized.
-These Terms do not confer any third-party beneficiary rights. All of our rights and obligations under these Terms are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
-We may need to change the username for your account in certain circumstances (for example, if someone else claims the username and it appears unrelated to the name you use in everyday life).
-We always appreciate your feedback and other suggestions about our products and services. But we may use feedback and other suggestions without any restriction or obligation to compensate you, and we are under no obligation to keep them confidential.
-We reserve all rights not expressly granted to you.
+争议
+我们努力提供清晰明确的规则，希望能减少或避免您与我们之间发生争议。然而，如果争议确实发生，预先知道在哪里解决争议及所适用的法律将对您有帮助。
+您和 Meta 均同意，双方之间因本条款或您访问或使用 Meta 产品而产生的或与之相关的任何索赔、诉讼或争议，仅应由美国加利福尼亚州北区地方法院或者位于圣马特奥县的州法院解决。您还同意，您就任何该等诉求提起的任何诉讼服从上述法院的属人管辖权，且加利福尼亚州的法律将适用于本条款和任何索赔、诉讼或争议，而不考虑冲突法原则。在不影响上述规定的情况下，您同意 Meta 可自行决定在您居住的国家/地区选择对该等诉求拥有司法管辖权的任何适格法院，解决向您提出的任何索赔、诉讼或争议。
 
 
+其他
 
-5. Other terms and policies that may apply to you
-Community Standards: These guidelines outline our standards regarding the content you post to Facebook and your activity on Facebook and other Meta Products.
-Commercial Terms: These terms apply if you also access or use our Products for any commercial or business purpose, including advertising, operating an app on our Platform, using our measurement services, managing a group or a Page for a business, or selling goods or services.
-Community Payment Terms: These terms apply to payments made on or through Meta Products.
-Commerce Policies: These guidelines outline the policies that apply when you offer products or services for sale on Facebook, Instagram, and WhatsApp.
-Music Guidelines: These guidelines outline the policies that apply if you post or share content containing music on any Meta Products.
-Advertising Policies: These policies apply to partners who advertise across the Meta Products and specify what types of ad content are allowed by partners who advertise across the Meta Products.
-Self-Serve Ad Terms: These terms apply when you use self-serve advertising interfaces to create, submit, or deliver advertising or other commercial or sponsored activity or content.
-Facebook Pages, Groups and Events Policy: These guidelines apply if you create or administer a Facebook Page, group, or event, or if you use Facebook to communicate or administer a promotion.
-Meta Platform Policy: These terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others to develop functionality, retrieve data from MetaProducts, or provide data to us.
-Developer Payment Terms: These terms apply to developers of applications that use Facebook Payments.
-Meta Brand Resources: These guidelines outline the policies that apply to use of Meta trademarks, logos, and screenshots.
-Recommendations Guidelines: The Facebook Recommendations Guidelines and Instagram Recommendations Guidelines outline our standards for recommending and not recommending content.
-Live Policies: These policies apply to all content broadcast to Facebook Live.
+本条款（原称“权责声明”）构成您与 Meta Platforms, Inc. 之间有关我们产品使用的完整协议。本条款取代任何之前的协议。
+我们提供的某些产品还受补充条款的管辖。若您使用任何此等产品，我们将提供补充条款。该等补充条款将作为我们与您所订协议的一部分。例如，若您因商业或业务目的使用我们的产品，如购买广告、销售商品、开发应用、为您所在公司管理小组或公共主页或者使用我们的成效衡量服务，您必须同意我们的商业条款。若您发布或分享含音乐的内容，您必须遵守我们的音乐使用准则。若任何补充条款与本条款相冲突，则就发生冲突的条款而言，以补充条款为准。
+若本条款的任何部分被认定为不可执行，则相应部分将可进行使其具有执行力所需的最低程度修改。如果相应规定不能修改为可执行条文，将会剥离出来，其余部分仍将完全有效。我们未执行本条款的任何部分不应被视为我们放弃相关权利。对本条款的任何修改或豁免必须以书面形式进行，并须由我们签署。
+未经我们同意，您不得向任何第三方转让本条款项下的任何权利或义务。
+您可以指定一位人员（称为“委托联系人”），在您的帐户被设为悼念帐户后管理此帐户。如果您在设置中添加了委托联系人，则只有您的委托联系人，或者您在有效遗嘱或类似法律文件中明确同意在您去世或失去行为能力之后可以知悉您内容的人，才能在您的帐户被设为悼念帐户之后要求向其披露一部分帐户内容。
+本条款不向任何第三方授予受益人权利。我们有权因兼并、收购、资产出售或执行法律或其他原因，自由转让我们在本篇条款项下的全部权利和义务。
+在某些情形下（例如，其他人主张帐号权利，且该帐号明显与您日常生活中使用的姓名无关），我们可能需要变更您帐户的帐号。
+对于您给我们的产品提供反馈和其他建议，我们一如既往非常感谢。但我们可以不受限制地使用此等反馈和建议，且并无向您支付报酬的义务，也没有义务对此等反馈和建议保密。
+未明确授予您的一切权利均由我们保留。
 
-Date of Last Revision: July 26, 2022
-English (US)فارسیالعربيةTürkçeDeutschFrançais (France)PolskiSvenskaAzərbaycan diliEspañolPortuguês (Brasil)
-Sign UpLog InMessengerFacebook LiteWatchPlacesGamesMarketplaceMeta PayOculusPortalInstagramBulletinFundraisersServicesVoting Information CenterPrivacy PolicyPrivacy CenterGroups
-Privacy
+
+
+5.可能对您适用的其他条款和政策
+社群守则：此守则规定了我们对您在 Facebook 发布的内容及您在 Facebook 和其他 Meta 产品中的行为所执行的限制标准。
+商业条款：该等条款适用于您出于商业目的登录或使用我们产品的行为，包括发布广告、在我们平台上运行应用、使用我们的成效衡量服务、管理商家小组或公共主页，或销售商品或服务。
+社群支付条款：这些条款适用于在 Meta 产品中或通过 Meta 产品进行的支付。
+商业交易政策：该等准则列明了在 Facebook、Instagram 和 WhatsApp 提供待售商品或服务所适用的政策。
+音乐使用准则：该准则列明了在任何 Meta 产品中发布或分享包含音乐的内容所适用的政策。
+广告发布政策：该政策适用于在各种 Meta 产品中发布广告的合作伙伴，规定了合作伙伴可以在 Meta 产品中发布的广告内容类型。
+自助广告发布条款：这些条款适用于使用自助广告界面创建、提交或投放广告，或者其他商业或赞助活动或内容。
+Facebook 公共主页、小组和活动政策：这些准则适用于您创建或管理 Facebook 公共主页、小组或活动，或使用 Facebook 对推广活动进行宣传和管理的行为。
+Meta 开放平台政策：为了让其他方能够开发功能、从 Meta 产品中检索数据或者能够给我们提供数据，我们专门提供了一系列 API、SDK、工具、插件、代码、技术、内容和服务，此等条款适用于使用该等 API、SDK、工具、插件、代码、技术、内容和服务的行为。
+开发者支付条款：此等条款适用于使用 Facebook 支付功能的应用开发者。
+Meta 品牌资源使用准则：该准则列明了使用 Meta 商标、徽标和截屏所适用的政策。
+推荐准则：Facebook 推荐准则和 Instagram 推荐准则列明了推荐和不推荐内容的标准。
+直播政策：该政策适用于通过 Facebook Live 直播的所有内容。
+
+最后修订日期：2022 年 7 月 26 日
+中文(简体)English (US)日本語한국어Français (France)Bahasa IndonesiaPolskiEspañolPortuguês (Brasil)DeutschItaliano
+注册登录MessengerFacebook LiteWatch地点游戏MarketplaceMeta PayOculusPortalInstagramBulletin筹款活动服务选民信息中心隐私权政策隐私中心小组
+隐私权政策
  
- · Terms
+ · 服务条款
  
- · Advertising
+ · 广告
  
  · Ad Choices 
  
- · Cookies
+ · Cookie
  
- · More
+ · 更多
  
  · Meta © 2023
