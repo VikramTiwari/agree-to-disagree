@@ -1,109 +1,109 @@
-Política de cookies
-Conoce la política
-¿Qué son las cookies y qué cubre esta política?
-¿Por qué utilizamos cookies?
-¿Dónde utilizamos las cookies?
-¿Otras empresas utilizan cookies en relación con los Productos de Meta?
-¿Cómo puedes controlar tu información?
-Otras políticas
-Condiciones del servicio
-Política de cookies
-¿Qué son las cookies y qué cubre esta política?
+Cookie 政策
+探索政策
+什么是 Cookie，本政策包含哪些内容？
+我们为什么使用 Cookie？
+我们在什么地方使用 Cookie？
+其他公司会将 Cookie 用于 Meta 产品吗？
+您如何控制自己的信息？
+其他政策
+服务条款
+Cookie 政策
+什么是 Cookie，本政策包含哪些内容？
 
-Vigente a partir del 5 de octubre de 2022
+生效日期：2022年10月5日
 
-Las cookies son pequeños fragmentos de texto que se utilizan para almacenar información en navegadores web. Se usan para almacenar y recibir identificadores y otros datos en computadoras, teléfonos y otros dispositivos. Otras tecnologías, incluidos datos que almacenamos en tu navegador web o dispositivo, identificadores asociados con tu dispositivo y otro software, se utilizan con fines similares. En esta política, nos referimos a todas estas tecnologías con el nombre de "cookies".
+Cookie 是用于在网页浏览器上存储信息的小段文本。Cookie 的用途是在电脑、手机和其他电子设备上存储和接收标识符及其他信息。其他技术（包括我们在您的网页浏览器或设备上存储的数据、与您的设备关联的标识符以及其他软件）也用于类似目的。本政策中，我们将所有这类技术统称为“Cookie”。
 
-Utilizamos cookies si tienes una cuenta de Facebook, utilizas los Productos de Meta, incluido nuestro sitio web y nuestras apps, o visitas otros sitios web y apps que usan los Productos de Meta (incluido el botón "Me gusta"). Las cookies permiten a Meta ofrecerte los Productos de Meta y comprender la información que recibimos sobre ti, incluidos datos sobre cómo usas otros sitios web y apps, independientemente de si te registraste o iniciaste sesión.
+我们会在以下情况下使用 Cookie：您有 Facebook 帐户，使用 Meta 产品（包括我们的网站和应用），或者访问其他使用 Meta 产品（包括“赞”按钮）的网站和应用。Cookie 的作用是使 Meta 能够向您提供 Meta 产品并了解我们收到的关于您的信息（包括您对其他网站和应用的使用情况），无论您是否注册或登录。
 
-En esta política, se explica cómo usamos las cookies y las opciones que tienes. Excepto que se especifique lo contrario en esta política, la Política de privacidad se aplicará al tratamiento de los datos que recopilamos mediante cookies.
+本政策将说明我们使用 Cookie 的方式以及您拥有的选择权。除非本政策中另有规定，我们的隐私权政策将适用于我们对通过 Cookie 收集到的数据的处理行为。
 
-¿Por qué utilizamos cookies?
+我们为什么使用 Cookie？
 
-Las cookies nos ayudan a proporcionar, proteger y mejorar los Productos de Meta, ya que nos permiten, por ejemplo, personalizar el contenido, adaptar los anuncios y medir su rendimiento, y ofrecer una experiencia más segura. Entre ellas se incluyen las cookies de sesión, que se eliminan cuando cierras el navegador, y las persistentes, que permanecen en el navegador hasta que caducan o las eliminas. Si bien las cookies pueden cambiar de vez en cuando a medida que mejoramos y actualizamos los Productos de Meta, las utilizamos con los fines que se detallan a continuación:
+Cookie 可帮助我们提供、保护和改善 Meta 产品，例如提供个性化内容，投放定制化广告、衡量广告成效，以及打造更安全的体验。我们使用的 Cookie 包括会话 Cookie（会在您关闭浏览器时自动删除）和永久性 Cookie（会一直存储在您的浏览器中，直到过期或您手动删除）。尽管我们使用的 Cookie 可能会随着 Meta 产品的升级改进而不时发生变化，但我们使用的 Cookie 始终会有下述用途：
 
-Autenticación
+身份验证
 
-Utilizamos cookies para verificar tu cuenta y determinar cuándo inicias sesión. De este modo, podemos ayudarte a acceder a los Productos de Meta con mayor facilidad y mostrarte la experiencia y las funciones correspondientes.
+我们使用 Cookie 来验证您的帐户以及确定您的登录时间，让您能更轻松地访问 Meta 产品，并为您提供符合您需求的体验和功能。
 
-Por ejemplo: utilizamos cookies para mantener tu sesión abierta mientras navegas entre páginas de Facebook. Las cookies también nos ayudan a recordar tu navegador, de tal modo que no tengas que iniciar sesión en Facebook constantemente y puedas hacerlo con facilidad mediante apps y sitios web de terceros. Por ejemplo, utilizamos las cookies "c_user" y "xs", que tienen una duración de 365 días, con este fin, entre otros.
-Seguridad e integridad de los sitios y productos
+例如：在您切换浏览不同的 Facebook 公共主页时，我们会使用 Cookie 保持您的登录状态。Cookie 还有助于我们记住您的浏览器，让您不必每次访问 Facebook 时都重新登录，而且还能让您通过第三方应用和网站更轻松地登录 Facebook。例如，“c_user”和“xs”这两个 Cookie 就用于此目的，它们的有效期为 365 天。
+维护安全性，确保网站与产品的可靠性
 
-Utilizamos cookies para proteger tu cuenta, tus datos y los Productos de Meta.
+我们使用 Cookie 来帮助保持您的帐户、数据和 Meta 产品的安全性和可靠性。
 
-Por ejemplo: las cookies pueden ayudarnos a determinar e imponer medidas adicionales de seguridad en caso de que alguien intente acceder a una cuenta de Facebook sin autorización, por ejemplo, adivinando rápidamente diferentes contraseñas. También utilizamos cookies para almacenar información que nos permita recuperar tu cuenta en caso de que olvides la contraseña o para solicitar información adicional de autenticación si nos indicas que la hackearon. Estas incluyen, por ejemplo, nuestras cookies "sb" y "dbln", que nos permiten identificar tu navegador de forma segura, así como "datr". "Datr" es un identificador único para tu navegador que, entre otras cuestiones, nos permite protegerte contra fraudes. Por ejemplo, nos ayuda a identificar navegadores de confianza donde ya iniciaste sesión antes. "Datr" tiene una duración de dos años.
+例如：当有人试图擅自访问 Facebook 帐户时（例如：快速猜测不同的密码），Cookie 可帮助我们识别这种行为并实施额外的安全措施。我们还使用 Cookie 来存储信息，以便能够在您忘记密码时恢复您的帐户，或者在您的帐户被盗用时，要求执行额外的身份验证。例如，“sb”和“dbln”这两个 Cookie 让我们可以安全地识别您的浏览器，另外“datr”也有这个功能。“datr”是您浏览器的唯一识别符，可帮助我们保护您远离欺诈等。例如，“datr”可帮助我们识别您以前登录过且可信赖的浏览器。“datr”的有效期为两年。
 
-También utilizamos cookies para combatir actividades que infringen nuestras políticas o afectan de otro modo nuestra capacidad de proporcionar los Productos de Meta.
+我们还会使用 Cookie 打击违反我们政策或以其他方式阻碍我们提供 Meta 产品的行为。
 
-Por ejemplo: las cookies nos ayudan a combatir el spam y los ataques de phishing al permitirnos identificar las computadoras que se usan para crear un gran número de cuentas de Facebook falsas. También utilizamos cookies para detectar las computadoras infectadas con malware y adoptar medidas que les impidan causar más daños. Nuestra cookie "csrf", por ejemplo, nos ayuda a prevenir ataques de falsificación de solicitudes entre sitios. La cookie "datr" también nos permite identificar los navegadores utilizados por personas con intenciones maliciosas y prevenir ataques de ciberseguridad, como un ataque en el que se te niega un servicio, lo que podría impedirte acceder a los Productos de Meta. Las cookies también nos ayudan a impedir que menores de edad se registren en Facebook.
-Publicidad, recomendaciones, estadísticas y medición
+例如：我们使用 Cookie 识别用于创建大量虚假 Facebook 帐户的电脑，帮助我们打击发送垃圾信息和钓鱼攻击的行为。我们还使用 Cookie 来检测被恶意软件入侵的电脑，并采取措施防止这些恶意软件造成更大的危害。例如，“csrf”这个 Cookie 可帮助我们防止跨站请求伪造攻击行为。“datr”Cookie 还可以帮助我们识别不良分子使用的浏览器以及预防网络安全攻击，例如阻断服务攻击，这类攻击会阻止您访问 Meta 产品。我们还使用 Cookie 防止未成年人注册 Facebook 帐户。
+广告、推荐、成效分析和衡量
 
-Utilizamos cookies para mostrar anuncios y hacer recomendaciones de negocios y otras organizaciones a personas que pueden estar interesadas en los productos, los servicios o las causas que promocionan.
+我们使用 Cookie 的目的还包括，帮助商家和其他组织向可能对他们所推广的商品、服务或事业感兴趣的用户展示广告和推荐内容。
 
-Por ejemplo: las cookies nos permiten entregar anuncios a personas que ya visitaron el sitio web de un negocio, compraron sus productos o usaron sus apps, así como recomendar productos y servicios en función de esa actividad. También nos permiten limitar el número de veces que ves un anuncio para que no veas el mismo una y otra vez. Por ejemplo, la cookie "fr" se usa para entregar anuncios, medirlos y mejorar su relevancia, y tiene una duración de 90 días.
+例如：我们可以使用 Cookie 帮助商家向之前访问过其网站、购买过其商品或使用过其应用的用户投放广告，并根据用户的这些动态推荐商品和服务。此外，我们还可以使用 Cookie 限制您看到广告的次数，让您不会反复看到同一条广告。例如，“fr”这个 Cookie 可用于投放广告、衡量广告成效以及改善广告的相关度，有效期为 90 天。
 
-También utilizamos cookies para medir el rendimiento de las campañas publicitarias de negocios que usan los Productos de Meta.
+对于使用 Meta 产品的商家，我们还会使用 Cookie 帮助他们衡量广告的表现。
 
-Por ejemplo: utilizamos cookies para llevar un recuento del número de veces que se muestra un anuncio y calcular su costo. También usamos cookies para medir la frecuencia con que las personas realizan acciones, como hacer una compra después de la impresión de un anuncio. Por ejemplo, la cookie "_fbp" identifica navegadores para proporcionar servicios de análisis de sitios y publicidad, y tiene una duración de 90 días.
+例如：我们会使用 Cookie 统计广告的展示次数和计算广告费用。我们还会使用 Cookie 追踪用户采取某项操作的频率，例如看到广告后购物的频率。例如，“_fbp”这个 Cookie 可识别浏览器，以便提供广告和网站分析服务，有效期为 90 天。
 
-Las cookies nos ayudan a mostrar y medir anuncios en diferentes navegadores y dispositivos utilizados por la misma persona.
+Cookie 让我们可以在同一位用户使用的不同浏览器和设备中投放广告，以及衡量广告成效。
 
-Por ejemplo: podemos utilizar cookies para impedir que veas el mismo anuncio una y otra vez en los diferentes dispositivos que usas.
+例如：Cookie 可以防止您在所使用的不同设备上反复看到同一条广告。
 
-Las cookies también nos permiten proporcionar estadísticas sobre las personas que usan los Productos de Meta, así como las personas que interactúan con los anuncios, los sitios web y las apps de nuestros anunciantes, y los negocios que usan los Productos de Meta.
+Cookie 还让我们可以提供有关以下用户的成效分析：使用 Meta 产品的用户，以及就我们的广告主和使用 Meta 产品的商家而言，与此等广告主和商家的广告、网站和应用互动的用户。
 
-Por ejemplo: utilizamos cookies para ayudar a los negocios a comprender los tipos de personas que indican que les gusta su página de Facebook o usan sus apps, de tal modo que puedan proporcionar contenido más relevante y desarrollar funciones con más probabilidades de resultar interesantes para sus clientes.
+例如：我们使用 Cookie 帮助商家了解为其 Facebook 公共主页点赞或使用其应用的用户，让商家能够提供相关度更高的内容，以及开发客户可能感兴趣的功能。
 
-También utilizamos cookies, como nuestra cookie "oo" con cinco años de duración, para ayudarte a indicar que no quieres ver anuncios de Meta en función de tu actividad en sitios web de terceros. Obtén más información sobre los datos que recibimos, cómo decidimos qué anuncios mostrarte tanto dentro como fuera de los Productos de Meta y los controles que tienes a tu disposición.
+我们还会使用 Cookie（例如“oo”这个 Cookie，有效期为 5 年）来帮助您阻止 Meta 根据您的第三方网站活动向您展示个性化广告。详细了解我们接收的信息、我们如何决定在 Meta 产品内外向您展示的广告，以及您可以使用的控制项。
 
-Funciones y servicios del sitio
+网站功能和服务
 
-Utilizamos cookies para habilitar las funciones que nos ayudan a proporcionar los Productos de Meta.
+我们会使用 Cookie 启用有助于我们提供 Meta 产品的功能。
 
-Por ejemplo: las cookies nos ayudan a almacenar preferencias, saber cuándo viste contenido de Productos de Meta o interactuaste con él, y proporcionarte contenido y experiencias personalizados. Por ejemplo, nos permiten realizar sugerencias a ti y a otras personas, y personalizar el contenido de sitios de terceros que usan nuestros plugins sociales. Si eres administrador de una página de Facebook, las cookies te permiten alternar entre publicar en nombre de tu cuenta personal de Facebook o de tu página de Facebook. Usamos cookies, como la cookie basada en sesiones "presence", para permitirte usar ventanas de chat de Messenger.
+例如：Cookie 可保存您的偏好，了解您何时查看了 Meta 产品中的内容或与这类内容互动，从而为您量身定制内容和体验。例如，我们可以使用 Cookie 为您和其他用户推荐内容，以及在使用我们社交插件的第三方网站上为您提供定制化内容。如果您是公共主页管理员，Cookie 还让您可以切换使用 Facebook 个人帐户和 Facebook 公共主页发帖。我们会使用“presence”等会话 Cookie 为您使用 Messenger 聊天窗口提供支持。
 
-También utilizamos cookies a fin de ofrecerte contenido relevante para tu configuración regional.
+我们还会使用 Cookie 来根据您的语言为您提供相关的内容。
 
-Por ejemplo: almacenamos información en una cookie instalada en tu navegador o dispositivo para que veas el sitio en tu idioma preferido.
-Rendimiento
+例如：我们会在置于您浏览器或设备中的 Cookie 内存储信息，以便您能以首选语言浏览网站。
+性能
 
-Usamos cookies para ofrecerte la mejor experiencia posible.
+我们使用 Cookie 来为您提供最出色的体验。
 
-Por ejemplo: las cookies nos ayudan a dirigir el tráfico entre los servidores y comprender con qué rapidez se cargan los Productos de Meta para distintas personas. También nos ayudan a registrar la relación de aspecto y las dimensiones de la pantalla y las ventanas, y saber si tienes activado el modo de contraste alto, para que podamos mostrar correctamente nuestros sitios y apps. Por ejemplo, instalamos las cookies "dpr" y "wd", cada una con una duración de 7 días, para brindar una experiencia óptima para la pantalla de tu dispositivo, entre otros fines.
-Análisis e investigación
+例如：Cookie 可帮助我们引导服务器之间的网站流量，以及了解不同用户加载 Meta 产品的速度。Cookie 还有助于我们记录您的屏幕和窗口的比率和尺寸，了解您是否已启用高对比度模式，以便能够正确呈现我们的网站和应用。例如，“dpr”和“wd”这两个 Cookie 可用于针对您的设备屏幕提供最优体验等，它们的有效期均为 7 天。
+分析和研究
 
-Utilizamos cookies para comprender mejor cómo las personas utilizan los Productos de Meta con el fin de poder mejorarlos.
+我们使用 Cookie 更好地了解用户使用 Meta 产品的情况，以便做出改善。
 
-Por ejemplo: las cookies nos ayudan a comprender cómo las personas utilizan el servicio de Facebook, analizar qué partes de nuestros Productos resultan más útiles e interesantes, e identificar funciones para mejorar.
-Sitios web y apps de terceros
+例如：Cookie 可帮助我们了解人们使用 Facebook 服务的情况，分析人们认为我们的哪些产品最实用、最吸引人，以及发现哪些功能有待改善。
+第三方网站和应用
 
-Nuestros socios comerciales también pueden decidir compartir con Meta información proveniente de cookies instaladas en los dominios de sus propios sitios web, independientemente de si tienes una cuenta de Facebook o si iniciaste sesión en ella. Las cookies "_fbc" o "_fbp" en particular pueden estar activadas en el dominio del sitio web del socio comercial que visitas. Meta no tiene acceso a estas cookies cuando no estás en el sitio en el que se instalaron (ni siquiera si visitas uno de nuestros dominios), a diferencia de las cookies instaladas en los propios dominios de Meta. Estas cookies permiten realizar las mismas funciones que las cookies instaladas en el propio dominio de Meta, como personalizar contenido (incluidos anuncios), medir anuncios, generar análisis y ofrecer una experiencia más segura, como se establece en esta Política de cookies.
+我们的业务合作伙伴还可能在自己的网站域名中设置 Cookie，用来与 Meta 分享信息，无论您是否拥有 Facebook 帐户或是否登录。具体而言，当您访问业务合作伙伴的网站时，这些网站的域中可能设置了名为 _fbc 或 _fbp 的 Cookie。与 Meta 在自己的域名中设置的 Cookie 不同，除非您访问的就是设置了这些 Cookie 的网站，否则 Meta 无法访问这些 Cookie，即便您访问的是 Meta 的域名。这些 Cookie 与 Meta 在自己的域名中设置的 Cookie 用途相同，即用于提供个性化内容（包括广告）、衡量广告成效、生成分析数据以及打造更安全的体验，本 Cookie 政策对此进行了说明。
 
-¿Dónde utilizamos las cookies?
+我们在什么地方使用 Cookie？
 
-Podemos colocar cookies en tu computadora o dispositivo, y recibir información almacenada en ellas cuando utilizas o visitas:
+我们会将 Cookie 置于您的电脑或设备上，并在您使用或访问以下各项时接收存储在 Cookie 中的信息：
 
-los Productos de Meta;
-los productos proporcionados por otros miembros de las empresas de Meta; y
-los sitios web y las apps proporcionados por otras empresas que utilizan los Productos de Meta, incluidas empresas que incorporan las tecnologías de Meta en sus sitios web y apps. Meta usa cookies y recibe información cuando visitas esos sitios y apps, incluida información del dispositivo e información sobre tu actividad, sin ninguna intervención adicional de tu parte. Esto sucede sin importar si tienes o no una cuenta de Facebook o si iniciaste sesión en ella.
-¿Otras empresas utilizan cookies en relación con los Productos de Meta?
+Meta 产品；
+其他 Meta 旗下公司提供的产品；以及
+使用 Meta 产品的其他公司（例如：在其网站和应用中集成 Meta 技术的公司）所提供的网站和应用。在您访问此等网站和应用时，Meta 会使用 Cookie 获取信息，包括设备信息和您的动态信息，而您无需为此采取任何操作。无论您是否拥有 Facebook 帐户或是否登录，均是如此。
+其他公司会将 Cookie 用于 Meta 产品吗？
 
-Sí, otras empresas utilizan cookies en los Productos de Meta para proporcionarnos servicios de publicidad, medición, marketing y análisis, así como para proporcionar determinadas funciones y mejorar nuestros servicios para ti.
+会，其他公司会在 Meta 产品中使用 Cookie 来向我们提供广告投放、成效衡量、营销和分析服务，向您提供某些功能以及为您改善我们的服务。
 
-Por ejemplo, las cookies de otras empresas permiten personalizar los anuncios fuera de los Productos de Meta, medir su rendimiento y eficacia, y respaldar iniciativas de marketing y análisis. Determinadas funciones en los Productos de Meta utilizan cookies de otras empresas para funcionar, por ejemplo, ciertas funciones de seguridad, pago y mapas. Obtén más información[1] sobre las empresas que utilizan cookies en los Productos de Meta.
+例如，其他公司的 Cookie 有助于在 Meta 产品之外投放个性化广告、衡量广告表现和成效，并提供营销和分析方面的支持。Meta 产品中的某些功能需要借助其他公司的 Cookie 才能运转，例如某些地图、支付和安全功能。详细了解[1]在 Meta 产品内使用 Cookie 的公司。
 
-Existen empresas de terceros que también utilizan cookies en sus propios sitios y apps en relación con los Productos de Meta. Para comprender cómo otras empresas usan las cookies, consulta sus políticas.
+第三方公司还会在自己的网站和应用内针对 Meta 产品使用 Cookie。如需了解其他公司如何使用 Cookie，请阅读其各自的政策。
 
 1
-Lista de empresas
+公司列表
 
-A continuación se muestran los nombres y los sitios web de algunas de las empresas que utilizan cookies en los servicios de Facebook para ofrecernos sus servicios a nosotros y a los negocios que se anuncian en Facebook.
+下面列出了一些公司的名称和网站，这些公司会在 Facebook 服务中使用 Cookie，以便向我们以及在 Facebook 投放广告的商家提供服务。
 
-Última actualización: 13 de septiembre de 2021
+最后更新日期：2021 年 9 月 13 日
 
-Empresa
+公司
 	
-Sitio web
+网站
 
 
 
@@ -332,7 +332,7 @@ https://www.gfk.com
 
 
 
-GIPHY
+Giphy
 
 	
 
@@ -449,7 +449,7 @@ https://www.intuit.com
 
 
 
-Ipsos
+益普索
 
 	
 
@@ -485,7 +485,7 @@ https://kenshoo.com
 
 
 
-LinkedIn
+领英
 
 	
 
@@ -494,7 +494,7 @@ https://www.linkedin.com
 
 
 
-LinkedIn
+领英
 
 	
 
@@ -503,7 +503,7 @@ https://www.adsymptotic.com
 
 
 
-LinkedIn
+领英
 
 	
 
@@ -566,7 +566,7 @@ https://www.metrixlab.com
 
 
 
-Microsoft
+微软
 
 	
 
@@ -575,7 +575,7 @@ https://www.bing.com
 
 
 
-Microsoft
+微软
 
 	
 
@@ -638,7 +638,7 @@ https://next-audience.com
 
 
 
-Nielsen
+尼尔森
 
 	
 
@@ -647,7 +647,7 @@ https://www.nielsen.com
 
 
 
-PayPal
+Paypal
 
 	
 
@@ -941,29 +941,29 @@ Xaxis
 
 https://www.xaxis.com
 
-¿Cómo puedes controlar tu información?
+您如何控制自己的信息？
 
-Utilizamos cookies para personalizar y mejorar el contenido y los servicios, proporcionar una experiencia más segura, y mostrarte anuncios útiles y relevantes dentro y fuera de los Productos de Meta. Puedes controlar cómo utilizamos los datos para mostrarte anuncios y más mediante las herramientas que se describen a continuación.
+我们使用 Cookie 的目的包括：帮助打造个性化内容和服务，完善我们的内容和服务，提供更安全的体验，以及在 Meta 产品内外为您展示实用、相关的广告。您可以使用下述工具，控制我们如何利用 Cookie 数据向您展示广告和其他内容。
 
-Si tienes una cuenta de Facebook
-Puedes usar tus preferencias de anuncios para saber por qué ves un anuncio en particular y controlar el uso que hacemos de la información que recopilamos para mostrarte anuncios.
-Para mostrarte anuncios más relevantes, usamos datos que los anunciantes y otros socios nos proporcionan sobre tu actividad fuera de los Productos de las empresas de Meta, incluidos sitios web y apps. Desde la configuración de anuncios, puedes decidir si quieres que usemos estos datos para mostrarte anuncios.
-Meta Audience Network permite a los anunciantes mostrarte anuncios en apps y sitios web fuera de los Productos de las empresas de Meta. Una de las formas en las que Audience Network muestra anuncios relevantes es a través de tus preferencias de anuncios para determinar qué anuncios te puede interesar ver. Puedes controlarlo en la configuración de anuncios.
-Puedes revisar tu actividad fuera de Facebook, que es un resumen de actividad que negocios y organizaciones comparten con nosotros sobre tus interacciones con ellos, como cuando visitas sus sitios web o apps. Utilizan nuestras herramientas para empresas, como el píxel de Meta, para compartir esta información con nosotros, lo que nos ayuda a proporcionarte una experiencia más personalizada en los Productos de Meta. Obtén más información sobre la actividad fuera de Facebook, cómo la usamos y de qué manera puedes administrarla.
-Todos
+如果您有 Facebook 帐户
+前往广告偏好设置，即可了解您看见特定广告的原因，以及调整我们利用所收集的信息向您展示广告的方式。
+为了向您展示更符合您需求的广告，我们会根据广告主和其他合作伙伴提供的数据，了解您在 Meta 旗下公司产品之外的动态，包括其他网站和应用中的动态。您可以在广告设置中设定我们能否使用此数据向您展示广告。
+通过 Meta Audience Network，广告主可在 Meta 旗下公司产品之外的应用和网站中向您展示广告。为了向用户展示符合其需求的广告，Audience Network 会根据用户的广告偏好判断其可能感兴趣的内容。您可以在广告设置中进行控制。
+您可以查看自己的 Facebook 站外动态，了解商家和组织与我们分享的有关您互动情况（例如您访问他们应用或网站）的动态摘要。商家和组织会通过 Meta Pixel 像素代码等业务工具与我们分享这些信息。这有助于我们在 Meta 产品中为您打造更加个性化的体验。详细了解 Facebook 站外动态、我们对这些数据的使用方式以及您有哪些控制工具可用。
+适合所有人
 
-Puedes indicar que no quieres ver anuncios online basados en intereses de Meta y otras empresas participantes a través de la Digital Advertising Alliance en los Estados Unidos de América, la Digital Advertising Alliance of Canada en Canadá o la European Interactive Digital Advertising Alliance en Europa, o mediante la configuración de tu dispositivo móvil, si está disponible, en Android o iOS 13 (o una versión anterior). Ten en cuenta que los bloqueadores de anuncios y las herramientas que restringen el uso de nuestras cookies pueden interferir con estos controles.
+您可以通过数字广告联盟（美国）、加拿大数字广告联盟（加拿大）、欧洲互动式数字广告联盟（欧洲）或使用移动设备的设置，阻止 Meta 和其他公司以兴趣为依据向您投放网络广告。使用 Android、iOS 13 或更早版本的 iOS 时，可以进行这项设置。请注意，广告拦截程序和限制我们使用 Cookie 的工具可能会干扰这些控制项。
 
-Más información sobre la publicidad online
+关于在线发布广告的更多信息
 
-Las empresas de publicidad con las que trabajamos suelen usar cookies y otras tecnologías similares como parte de sus servicios. Para obtener más información sobre cómo los anunciantes suelen usar cookies y las opciones que ofrecen, puedes consultar los siguientes recursos:
+我们合作的广告公司通常会在服务中使用 Cookie 和类似技术。如需详细了解广告主使用 Cookie 的常规方式和他们提供的选择，可查阅以下资源：
 
-Digital Advertising Alliance
-Digital Advertising Alliance of Canada
-European Interactive Digital Advertising Alliance
-Controles de cookies de navegadores
+数字广告联盟
+加拿大数字广告联盟
+欧洲互动数字广告联盟
+浏览器 Cookie 控制项
 
-Además, tu navegador o tu dispositivo pueden ofrecer opciones de configuración que te permiten elegir si quieres que se instalen cookies del navegador y eliminarlas. Estos controles varían según el navegador, y los fabricantes pueden cambiar tanto las opciones de configuración que ofrecen como su funcionamiento en cualquier momento. Desde el 23 de junio de 2021, puedes encontrar más información sobre los controles que ofrecen los navegadores más populares en los siguientes enlaces. Es posible que algunas partes de los Productos de Meta no funcionen correctamente si desactivas el uso de cookies del navegador. Ten en cuenta que estos controles son distintos a los controles que te ofrecemos.
+此外，您的浏览器或设备可能会提供一些设置，允许您选择是否设置和删除浏览器 Cookie。具体的控制项因浏览器而异，且厂商可以随时更改他们提供的设置项及其运作方式。从 2021 年 6 月 23 日起，您可以访问下方的链接，详细了解主流浏览器提供的控制项。如果您禁用浏览器 Cookie，Meta 产品的某些功能可能无法正常运行。请注意，这些控制项与我们提供的控制项不同。
 
 Google Chrome
 Internet Explorer
