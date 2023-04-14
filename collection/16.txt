@@ -25,7 +25,7 @@ Japan
 South Korea
 United Kingdom
 	Customers may select a data region, but as described in this Help Center article, certain Customer Data may be stored outside this data region. Customer Data from the Germany region is backed up in France, and vice versa.
-Amazon Web Services, Inc.	Slack services (excluding GovSlack): Third-party hosting provider Third-party hosting provider for Availability zones/Edge servers	
+Amazon Web Services, Inc.	Slack services (excluding GovSlack): Third-party hosting provider for Availability zones/Edge servers	
 United States
 Australia
 Germany
