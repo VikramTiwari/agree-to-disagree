@@ -7,9 +7,7 @@ Policy Archive
 Download PDF
 Twitter Privacy Policy
 
-Effective: June 10, 2022
-
-Effective: June 10, 2022
+We have made some updates to our Privacy Policy to reflect that Twitter, Inc. is now X Corp. This version of the Privacy Policy will go into effect on May 18, 2023. Read the current Privacy Policy.
 
 Before you scroll, read this
 
@@ -45,6 +43,172 @@ Learn how to update your settings
 If you have questions about how we use data, just ask
 
 Learn how to contact us
+
+Seriously — what happens with my data?
+Seriously — what happens with my data?
+What data do you collect about me?
+
+You give some data, we get some data. In return we offer useful services. Not what you had in mind? Check your settings.
+
+ 
+
+1. Information We Collect
+
+The information we collect when you use Twitter falls into three categories.
+
+Expand dropdowns for more information:
+
+1.1 Information you provide us.
+1.2 Information we collect when you use Twitter.
+1.3 Information we receive from third parties.
+How do you use my information?
+
+To make Twitter the service you know and love.
+
+2. How We Use Information
+
+Breaking down how we use the information we collect is not simple because of the way the systems that bring our services to you work. For example, the same piece of information may be used differently for different purposes to ultimately deliver a single service. We think it’s most useful to describe the five main ways we use information and if you have questions that are not answered, you can always contact us. Here we go:
+
+Expand dropdowns for more information:
+ 
+
+ 
+2.1 Operate, improve, and personalize our services.
+2.2 Foster safety and security.
+2.3 Measure, analyze and make our services better.
+2.4 Communicate with you about our services.
+2.5 Research.
+My Tweets are public?!?
+My Tweets are public?!?
+How or when do you share my information?
+
+There’s no quick answer to this one, but heads up: Tweets can end up in the news or a search engine.
+
+3. Sharing Information
+
+You should know the ways we share your information, why we share it, and how you can control it. There are five general ways we share your information.
+
+Expand dropdowns for more information:
+ 
+
+ 
+3.1 When you Tweet, post, and share.
+3.2 With third parties & third-party integrations.
+3.3 When required by law, to prevent harm, or in the public interest.
+3.4 With our Affiliates.
+3.5 As a result of a change in ownership.
+Does data have an expiration date?
+Does data have an expiration date?
+How long do you keep data?
+
+Generally, we keep your data as long as your account is up.
+
+4. How Long We Keep Information
+
+We keep different types of information for different periods of time: 
+
+We keep your profile information and content for the duration of your account.
+
+We generally keep other personally identifiable data we collect when you use our products and services for a maximum of 18 months.
+
+Remember public content can exist elsewhere even after you remove it from Twitter. For example, search engines and other third parties may retain copies of your Tweets longer, based upon their own privacy policies, even after they are deleted or expire on Twitter. You can read more about search visibility here.
+
+Where you violate our Rules and your account is suspended, we may keep the identifiers you used to create the account (i.e., email address or phone number) indefinitely to prevent repeat policy offenders from creating new accounts.
+
+We may keep certain information longer than our policies specify in order to comply with legal requirements and for safety and security reasons.
+
+How can I control my data?
+
+You can access it, delete it, or change your settings. Basically, you’re the boss.
+
+5. Take Control
+
+Expand dropdowns for more information:
+ 
+
+5.1 Access, Correction, Portability.
+5.2 Deleting your Information.
+5.3 Objecting to, Restricting, or Withdrawing your Consent.
+5.4 Authorized Agent Requests.
+How does Twitter handle my information wherever I am?
+
+We treat your information fairly, no matter where you live around the world.
+
+6. Your Rights and Ours
+
+We provide Twitter to people all over the world and provide many of the same privacy tools and controls to all of our users regardless of where they live. However, your experience may be slightly different than users in other countries to ensure Twitter respects local requirements.
+
+Expand dropdowns for more information:
+ 
+
+6.1 We have specific legal bases to use your information.
+6.2 We move your data to make Twitter work for you.
+Is Twitter for kids?
+
+Nope, Twitter is not intended for people under 13.
+
+7. Twitter’s Audience
+
+Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+
+You there, Twitter?
+You there, Twitter?
+Will this policy change?
+
+If it does, we’ll let you know.
+
+8. Changes To This Privacy Policy
+
+
+The most current version of this Privacy Policy governs our processing of your personal data and we may revise this Privacy Policy from time to time as needed.
+
+If we do revise this Privacy Policy and make changes that are determined by us to be material, we will provide you notice and an opportunity to review the revised Privacy Policy before you continue to use Twitter.
+
+How can I contact Twitter?
+
+Slide into our … very official inbox.
+
+ 
+
+9. How To Contact Twitter
+
+We want to hear from you if you have thoughts or questions about this Privacy Policy. You can contact us via our Privacy Policy Inquiries page or by writing to us at the appropriate address below.
+
+If you live in the United States or any other country outside of the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is X Corp., with an address of:
+
+X Corp.
+Attn: Privacy Policy Inquiry
+1355 Market Street, Suite 900
+San Francisco, CA 94103
+
+If you live in the European Union, EFTA States, or the United Kingdom, the data controller is Twitter International Unlimited Company, with an address of:
+
+Twitter International Unlimited Company
+Attn: Data Protection Officer
+One Cumberland Place, Fenian Street
+Dublin 2, D02 AX07 IRELAND
+
+
+You can confidentially contact Twitter’s Data Protection Officer through our Data Protection Inquiry Form. If you wish to raise a concern about our data processing practices, you have the right to do so with your local supervisory authority or Twitter International Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the contact details listed on their website.
+
+View previous policies 
+Take control of your privacy
+Adjust your settings 
+
+Effective: June 10, 2022
+
+Current Privacy Policy
+Effective until May 18, 2023
+ 
+Before you scroll, read this
+
+It’s really hard to make everyone happy with a Privacy Policy. Most people who use Twitter want something short and easy to understand. While we wish we could fit everything you need to know into a Tweet, our regulators ask us to meet our legal obligations by describing them all in a lot of detail.
+
+With that in mind, we’ve written our Privacy Policy as simply as possible to empower you to make informed decisions when you use Twitter by making sure you understand and have control over the information we collect, how it’s used, and when it’s shared. 
+
+So if you skip reading every word of the Privacy Policy, at least know this:
+
+ 
 
 Twitter is a public platform
 
@@ -223,7 +387,7 @@ Our new Privacy Policy’s got game
 Play the game 
 Take control of your privacy
 Adjust your settings 
-© 2023 Twitter, Inc.
+© 2023 X Corp.
 Cookies 
 Privacy 
 Terms and conditions 
