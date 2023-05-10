@@ -173,6 +173,16 @@ The cookies you encounter depend on the features and functionality you use. The 
 
 Name
 
+Description
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+Web Domain
+
+Name
+
 lscr
 
 Description
@@ -3444,8 +3454,6 @@ Share this article
 Tweet
 © 2023 X Corp.
 Cookies 
-MStV Transparenzangaben 
-Impressum 
 Privacy 
 Terms and conditions 
 English 
