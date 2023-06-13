@@ -88,7 +88,6 @@ Amazon Web Services, Inc. Elemental MediaConvert	Slack Clips functionality (GovS
 Amazon Transcribe (by Amazon Web Services, Inc.)	Slack Huddles and Slack Clips functionality (GovSlack): transcripts for Slack Huddles and Slack Clips	United States
 Zendesk, Inc.	Third-party service provider of customer support tools	United States
 Cloudfront (Amazon Web Services, Inc.)	CDN	Global
-Fastly, Inc.	CDN	Global
 Note: Content Delivery Networks (“CDN”) are utilized to optimize content delivery for the Services. CDNs are commonly used systems of distributed services that expedite the transmission of content. Note that if a CDN is described as “Global” in the Table, it may process data in any country, regardless of a Customer’s location, to better support end-users of the Services.
 Slack Affiliates
 
