@@ -9,7 +9,7 @@ AgileBits Privacy Policy
 
 Much more than just a policy – 1Password is Private by Design
 
-Last updated: December 7, 2021
+Last updated: June 22, 2023
 
 This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password Applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
 
@@ -101,9 +101,9 @@ Compliance with the laws
 
 AgileBits fully complies with the Canadian privacy laws and the GDPR. AgileBits is a Canadian company, we are not U.S.- E.U. Privacy Shield certified. If you are affiliated to an organization who provides you with 1Password account through its Enterprise level account then there may be additional requirements for us to meet, based on the contracts with the organization. For further information, please read below the section 1Password Product or Account provided by your Organization.
 
-Data Location and Transfer
+Data Location
 
-1Password.eu data are held on servers located within the European Union. Data originating in the European Union remains within the European Union. Service Data access is restricted to members of our staff residing in either the EU or Canada. The European Union recognizes Canada as a destination country with “adequate level of protection” for data privacy of individuals.
+1Password.eu data are held on servers located within the European Union. Secure Data originating in the European Union remains within the European Union.
 
 Customer support system
 
@@ -241,6 +241,10 @@ Data about a user account, which is available to AgileBits.
 You, Data Subject
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
 Change log
+
+2023-06-22:
+
+We have amended the “Data Location and Transfer” section to remove an unnecessary restriction on Service Data access.
 
 2021-12-07:
 
