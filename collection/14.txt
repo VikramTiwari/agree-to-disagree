@@ -1,7 +1,7 @@
 SKIP TO MAIN CONTENT
 Privacy Policy
 
-Effective: January 5, 2023
+Effective: July 5, 2023
 
 This Privacy Policy describes how Slack collects, uses, and discloses information associated with an identified or identifiable individual (referred to in this Privacy Policy as “Personal Data”) and what choices you have around this activity. If you have any questions, please don’t hesitate to contact us.
 
@@ -203,6 +203,10 @@ We collect this information for the business and commercial purposes described i
 Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect (including how we use, disclose, or may sell this information), to delete their personal information, to opt out of any “sales”, to know and opt out of sharing of personal information for delivering advertisements on non-Slack websites, and to not be discriminated against for exercising these rights.
 
 California consumers may make a request pursuant to their rights under the CCPA by contacting us at privacy@slack.com or by filling out this form. We will verify your request using the information associated with your account, including email address. Government identification may be required. Consumers can also designate an authorized agent to exercise these rights on their behalf. Authorized agents must submit proof of authorization.
+
+If you would like to opt-out of sharing activity based on your cookie identifiers, turn on a Global Privacy Control in your web browser or browser extension. Please see the California Privacy Protection Agency’s website at https://oag.ca.gov/privacy/ccpa for more information on valid Global Privacy Controls. If you would like to opt-out of sharing activity based on other identifiers (like email address or phone number), contact us in accordance with the “Contacting Slack” section, below.
+
+For more information on Slack’s role and obligations under the CCPA, please visit Slack’s California Consumer Privacy Act (CCPA) FAQ.
 
 Data Protection Authority
 
