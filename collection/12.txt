@@ -11,6 +11,7 @@ GitHub Corporate Terms of Service
 GitHub Terms for Additional Products and Features
 GitHub Community Guidelines
 GitHub Community Code of Conduct
+GitHub Copilot Pre-release Terms
 GitHub Sponsors Additional Terms
 GitHub Registered Developer Agreement
 GitHub Marketplace Terms of Service
