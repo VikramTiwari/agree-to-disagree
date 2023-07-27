@@ -3,30 +3,7 @@ GitHub Docs
 Version: Free, Pro, & Team
 Search GitHub Docs
 Sign up
-All products
-Site policy
-GitHub Terms
-GitHub Terms of Service
-GitHub Corporate Terms of Service
-GitHub Terms for Additional Products and Features
-GitHub Community Guidelines
-GitHub Community Code of Conduct
-GitHub Copilot Pre-release Terms
-GitHub Sponsors Additional Terms
-GitHub Registered Developer Agreement
-GitHub Marketplace Terms of Service
-GitHub Marketplace Developer Agreement
-GitHub Research Program Terms
-GitHub Open Source Applications Terms and Conditions
-GitHub Event Terms
-GitHub Event Code of Conduct
-Acceptable Use Policies
-Privacy Policies
-Other Site Policies
-Content Removal Policies
-Security Policies
-GitHub Company Policies
-Site policy/GitHub Terms/
+Site policy/GitHub Terms/GitHub Terms of Service
 GitHub Terms of Service
 In this article
 Summary

@@ -3,22 +3,7 @@ GitHub Docs
 Version: Free, Pro, & Team
 Search GitHub Docs
 Sign up
-All products
-Site policy
-GitHub Terms
-Acceptable Use Policies
-Privacy Policies
-GitHub Privacy Statement
-GitHub Subprocessors and Cookies
-GitHub Codespaces Privacy Statement
-GitHub Candidate Privacy Policy
-GitHub Copilot for Business Privacy Statement
-GitHub Octernships Terms of Service
-Other Site Policies
-Content Removal Policies
-Security Policies
-GitHub Company Policies
-Site policy/Privacy Policies/
+Site policy/Privacy Policies/GitHub Privacy Statement
 GitHub Privacy Statement
 In this article
 The short version
