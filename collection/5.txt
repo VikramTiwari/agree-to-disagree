@@ -1,93 +1,93 @@
-Политика в отношении файлов cookie
-Информация о политике
-Что такое файлы cookie и на что распространяется эта политика?
-Почему мы используем файлы cookie?
-Где мы используем файлы cookie?
-Могут ли другие компании использовать файлы cookie в связи с Продуктами Meta?
-Как вы можете управлять своей информацией?
-Другие правила
-Пользовательское соглашение
-Политика в отношении файлов cookie
-Что такое файлы cookie и на что распространяется эта политика?
+Política de cookies
+Conoce la política
+¿Qué son las cookies y qué cubre esta política?
+¿Por qué utilizamos cookies?
+¿Dónde utilizamos las cookies?
+¿Otras empresas utilizan cookies en relación con los Productos de Meta?
+¿Cómo puedes controlar tu información?
+Otras políticas
+Condiciones del servicio
+Política de cookies
+¿Qué son las cookies y qué cubre esta política?
 
-Дата вступления в силу: 16 июня 2023 г.
+Vigente a partir del 16 de junio de 2023
 
-Файлы cookie представляют собой небольшие фрагменты текста и используются для хранения информации в браузерах. Они позволяют хранить и получать идентификаторы и другую информацию на компьютерах, телефонах и других устройствах. Для этих же целей используются другие технологии, в том числе данные, сохраняемые нами в ваших браузерах или устройствах, идентификаторы, связанные с вашими устройствами, и другое программное обеспечение. В рамках настоящей политики все эти технологии называются файлами cookie.
+Las cookies son pequeños fragmentos de texto que se utilizan para almacenar información en navegadores web. Se usan para almacenar y recibir identificadores y otros datos en computadoras, teléfonos y otros dispositivos. Otras tecnologías, incluidos datos que almacenamos en tu navegador web o dispositivo, identificadores asociados con tu dispositivo y otro software, se utilizan con fines similares. En esta política, nos referimos a todas estas tecnologías con el nombre de "cookies".
 
-Мы используем файлы cookie, если у вас есть аккаунт Facebook, если вы используете Продукты Meta, в том числе наш сайт и приложения, а также если вы посещаете другие сайты и приложения, использующие Продукты Meta (включая кнопку "Нравится"). Файлы cookie позволяют Meta предлагать вам Продукты Meta и анализировать полученную информацию о вас, в том числе информацию об использовании вами других сайтов и приложений (вне зависимости от того, зарегистрированы ли вы и выполнен ли вход).
+Utilizamos cookies si tienes una cuenta de Facebook, utilizas los Productos de Meta, incluido nuestro sitio web y nuestras apps, o visitas otros sitios web y apps que usan los Productos de Meta (incluido el botón "Me gusta"). Las cookies permiten a Meta ofrecerte los Productos de Meta y comprender la información que recibimos sobre ti, incluidos datos sobre cómo usas otros sitios web y apps, independientemente de si te registraste o iniciaste sesión.
 
-В настоящей политике разъясняется, как мы используем файлы cookie и какие возможности управления их использованием у вас есть. Если в настоящей политике не указано иное, обработка нами данных, собранных с помощью файлов cookie, регулируется Политикой конфиденциальности.
+En esta política, se explica cómo usamos las cookies y las opciones que tienes. Excepto que se especifique lo contrario en esta política, la Política de privacidad se aplicará al tratamiento de los datos que recopilamos mediante cookies.
 
-Почему мы используем файлы cookie?
+¿Por qué utilizamos cookies?
 
-Файлы cookie позволяют нам предоставлять Продукты Meta, обеспечивать их защиту и улучшать их, например путем персонализации контента, подбора рекламы и измерения ее результативности, а также создания более безопасной среды. К ним относятся файлы cookie сеанса, которые удаляются при закрытии браузера, и постоянные файлы cookie, которые сохраняются в вашем браузере до тех пор, пока не истечет срок их действия или пока вы их не удалите. Файлы cookie, которые мы используем, а также способы их применения[1] могут периодически меняться по мере обновления и улучшения Продуктов Meta. Как правило, мы используем их в указанных ниже целях.
+Las cookies nos ayudan a proporcionar, proteger y mejorar los Productos de Meta, ya que nos permiten, por ejemplo, personalizar el contenido, adaptar los anuncios y medir su rendimiento, y ofrecer una experiencia más segura. Entre ellas se incluyen las cookies de sesión, que se eliminan cuando cierras el navegador, y las persistentes, que permanecen en el navegador hasta que caducan o las eliminas. Las cookies que usamos y la manera en que las usamos[1] pueden cambiar de vez en cuando a medida que mejoramos y actualizamos los Productos de Meta y, habitualmente, las utilizamos con los fines que se detallan a continuación:
 
-Аутентификация
+Autenticación
 
-Мы используем файлы cookie, чтобы подтверждать ваш аккаунт и определять, выполнен ли вход, чтобы обеспечивать вам более удобный доступ к Продуктам Meta, а также показывать вам более актуальные функции и контент.
+Utilizamos cookies para verificar tu cuenta y determinar cuándo inicias sesión. De este modo, podemos ayudarte a acceder a los Productos de Meta con mayor facilidad y mostrarte la experiencia y las funciones correspondientes.
 
-Например, мы используем файлы cookie, чтобы вы могли переходить с одной Страницы Facebook на другую без необходимости повторно выполнять вход. Файлы cookie также позволяют нам запомнить ваш браузер, чтобы вам не приходилось каждый раз заново входить на Facebook, а также чтобы упростить вход на Facebook со сторонних приложений или сайтов. В частности, для этой и других целей мы используем такие файлы cookie, как c_user и xs, длительность существования которых составляет 365 дней.
-Безопасность и целостность сайта и продуктов
+Por ejemplo: utilizamos cookies para mantener tu sesión abierta mientras navegas entre páginas de Facebook. Las cookies también nos ayudan a recordar tu navegador, de tal modo que no tengas que iniciar sesión en Facebook constantemente y puedas hacerlo con facilidad mediante apps y sitios web de terceros. Por ejemplo, utilizamos las cookies "c_user" y "xs", que tienen una duración de 365 días, con este fin, entre otros.
+Seguridad e integridad de los sitios y productos
 
-Мы используем файлы cookie для обеспечения безопасности и защиты вашего аккаунта, данных и Продуктов Meta.
+Utilizamos cookies para proteger tu cuenta, tus datos y los Productos de Meta.
 
-Например, с помощью файлов cookie мы можем выявлять попытки доступа к аккаунтам Facebook без авторизации, например путем простого перебора паролей, и принимать дополнительные меры безопасности. Мы также используем файлы cookie для хранения информации, позволяющей восстановить ваш аккаунт, если вы забудете пароль, или запросить дополнительную аутентификацию, если вы сообщите нам о взломе аккаунта. К таким файлам cookie относятся, например, sb и dbln, позволяющие нам надежно идентифицировать ваш браузер, а также файлы datr. Datr — это уникальный идентификатор вашего браузера, который, помимо прочего, помогает нам защитить вас от мошеннических действий. Например, он позволяет нам идентифицировать доверенные браузеры, посредством которых вы ранее выполняли вход. Срок действия файла datr составляет два года.
+Por ejemplo: las cookies pueden ayudarnos a determinar e imponer medidas adicionales de seguridad en caso de que alguien intente acceder a una cuenta de Facebook sin autorización, por ejemplo, adivinando rápidamente diferentes contraseñas. También utilizamos cookies para almacenar información que nos permita recuperar tu cuenta en caso de que olvides la contraseña o para solicitar información adicional de autenticación si nos indicas que la hackearon. Estas incluyen, por ejemplo, nuestras cookies "sb" y "dbln", que nos permiten identificar tu navegador de forma segura, así como "datr". "Datr" es un identificador único para tu navegador que, entre otras cuestiones, nos permite protegerte contra fraudes. Por ejemplo, nos ayuda a identificar navegadores de confianza donde ya iniciaste sesión antes. "Datr" tiene una duración de dos años.
 
-Мы также используем файлы cookie для борьбы с действиями, которые нарушают наши правила или иным образом препятствуют предоставлению нами Продуктов Meta.
+También utilizamos cookies para combatir actividades que infringen nuestras políticas o afectan de otro modo nuestra capacidad de proporcionar los Productos de Meta.
 
-Например, файлы cookie помогают нам бороться со спамом и фишинговыми атаками путем выявления компьютеров, используемых для массового создания фальшивых аккаунтов Facebook. Мы также используем файлы cookie для выявления компьютеров, зараженных вредоносным ПО, и предотвращения нанесения ими дальнейшего вреда. Например, наш файл csrf помогает нам предотвращать атаки с подделкой межсайтовых запросов. Файл datr также помогает нам идентифицировать браузеры, используемые злоумышленниками, и предотвращать кибератаки, например DoS-атаки, которые могут помешать вам получать доступ к Продуктам Meta. Файлы cookie также помогают нам предотвращать регистрацию аккаунтов Facebook людьми, не достигшими минимально допустимого возраста.
-Реклама, рекомендации, статистика и измерения
+Por ejemplo: las cookies nos ayudan a combatir el spam y los ataques de phishing al permitirnos identificar las computadoras que se usan para crear un gran número de cuentas de Facebook falsas. También utilizamos cookies para detectar las computadoras infectadas con malware y adoptar medidas que les impidan causar más daños. Nuestra cookie "csrf", por ejemplo, nos ayuda a prevenir ataques de falsificación de solicitudes entre sitios. La cookie "datr" también nos permite identificar los navegadores utilizados por personas con intenciones maliciosas y prevenir ataques de ciberseguridad, como un ataque en el que se te niega un servicio, lo que podría impedirte acceder a los Productos de Meta. Las cookies también nos ayudan a impedir que menores de edad se registren en Facebook.
+Publicidad, recomendaciones, estadísticas y medición
 
-Файлы cookie помогают нам показывать рекламу и рекомендовать компании и другие организации пользователям, которых могут заинтересовать продвигаемые ими товары, услуги или инициативы.
+Utilizamos cookies para mostrar anuncios y hacer recomendaciones de negocios y otras organizaciones a personas que pueden estar interesadas en los productos, los servicios o las causas que promocionan.
 
-Например, файлы cookie позволяют нам показывать рекламу людям, которые раньше посещали сайт какой-либо компании, покупали ее товары или использовали ее приложения, а также рекомендовать товары и услуги на основе таких действий. Кроме того, с помощью этих файлов мы можем ограничивать количество показов рекламы, чтобы вы не просматривали раз за разом одно и то же объявление. В частности, файл fr, длительность существования которого составляет 90 дней, используется для показа рекламы, измерения ее результативности и повышения ее актуальности.
+Por ejemplo: las cookies nos permiten entregar anuncios a personas que ya visitaron el sitio web de un negocio, compraron sus productos o usaron sus apps, así como recomendar productos y servicios en función de esa actividad. También nos permiten limitar el número de veces que ves un anuncio para que no veas el mismo una y otra vez. Por ejemplo, la cookie "fr" se usa para entregar anuncios, medirlos y mejorar su relevancia, y tiene una duración de 90 días.
 
-Мы также используем файлы cookie для измерения результативности рекламных кампаний для организаций, использующих Продукты Meta.
+También utilizamos cookies para medir el rendimiento de las campañas publicitarias de negocios que usan los Productos de Meta.
 
-Например, мы используем файлы cookie, чтобы подсчитывать количество показов рекламного объявления и вычислять его стоимость. С помощью файлов cookie мы также измеряем частоту совершения пользователями таких действий, как покупка после показа рекламы. Например, файл _fbp, длительность существования которого составляет 90 дней, идентифицирует браузеры для предоставления сервисов рекламы и аналитики сайтов.
+Por ejemplo: utilizamos cookies para llevar un recuento del número de veces que se muestra un anuncio y calcular su costo. También usamos cookies para medir la frecuencia con que las personas realizan acciones, como hacer una compra después de la impresión de un anuncio. Por ejemplo, la cookie "_fbp" identifica navegadores para proporcionar servicios de análisis de sitios y publicidad, y tiene una duración de 90 días.
 
-Файлы cookie помогают нам показывать рекламу и измерять ее результативность для разных браузеров и устройств, используемых одним и тем же человеком.
+Las cookies nos ayudan a mostrar y medir anuncios en diferentes navegadores y dispositivos utilizados por la misma persona.
 
-Например, мы можем использовать файлы cookie, чтобы не показывать вам одну и ту же рекламу на разных устройствах, которые вы используете.
+Por ejemplo: podemos utilizar cookies para impedir que veas el mismo anuncio una y otra vez en los diferentes dispositivos que usas.
 
-Кроме того, файлы cookie позволяют предоставлять статистику о людях, которые используют Продукты Meta, а также взаимодействуют с рекламой, сайтами и приложениями наших рекламодателей и компаний, использующих Продукты Meta.
+Las cookies también nos permiten proporcionar estadísticas sobre las personas que usan los Productos de Meta, así como las personas que interactúan con los anuncios, los sitios web y las apps de nuestros anunciantes, y los negocios que usan los Productos de Meta.
 
-Например, мы используем файлы cookie, чтобы помочь компаниям понять, какие люди ставят отметки "Нравится" их Страницам Facebook и используют их приложения. Эта информация помогает компаниям предоставлять более актуальный контент и разрабатывать функции, которые будут интересны клиентам.
+Por ejemplo: utilizamos cookies para ayudar a los negocios a comprender los tipos de personas que indican que les gusta su página de Facebook o usan sus apps, de tal modo que puedan proporcionar contenido más relevante y desarrollar funciones con más probabilidades de resultar interesantes para sus clientes.
 
-Мы также используем такие файлы cookie, как oo, длительность существования которого составляет пять лет, чтобы помочь вам отказаться от просмотра рекламы от Meta, основанной на ваших действиях на сторонних сайтах. Узнайте больше о том, какую информацию мы получаем, как мы решаем, какую рекламу показывать вам в Продуктах Meta и за их пределами, а также о том, какие настройки вам доступны.
+También utilizamos cookies, como nuestra cookie "oo" con cinco años de duración, para ayudarte a indicar que no quieres ver anuncios de Meta en función de tu actividad en sitios web de terceros. Obtén más información sobre los datos que recibimos, cómo decidimos qué anuncios mostrarte tanto dentro como fuera de los Productos de Meta y los controles que tienes a tu disposición.
 
-Функции и сервисы сайта
+Funciones y servicios del sitio
 
-Файлы cookie обеспечивают работу функций, помогающих нам предоставлять Продукты Meta.
+Utilizamos cookies para habilitar las funciones que nos ayudan a proporcionar los Productos de Meta.
 
-Например, файлы cookie позволяют нам сохранять предпочтения, узнавать, когда вы просматривали контент Продуктов Meta или взаимодействовали с ним, а также предоставлять вам персонализированные функции и контент. В частности, файлы cookie позволяют нам предоставлять рекомендации вам и другим пользователям, а также настраивать контент на сторонних сайтах, использующих наши социальные плагины. Если вы являетесь администратором Страницы Facebook, файлы cookie помогут вам переключаться между вашим личным аккаунтом Facebook и Страницей Facebook. С помощью таких файлов cookie, как presence на основе сеанса, мы поддерживаем использование вами окон чата Messenger.
+Por ejemplo: las cookies nos ayudan a almacenar preferencias, saber cuándo viste contenido de Productos de Meta o interactuaste con él, y proporcionarte contenido y experiencias personalizados. Por ejemplo, nos permiten realizar sugerencias a ti y a otras personas, y personalizar el contenido de sitios de terceros que usan nuestros plugins sociales. Si eres administrador de una página de Facebook, las cookies te permiten alternar entre publicar en nombre de tu cuenta personal de Facebook o de tu página de Facebook. Usamos cookies, como la cookie basada en sesiones "presence", para permitirte usar ventanas de chat de Messenger.
 
-Мы также используем файлы cookie, чтобы предоставлять вам контент с учетом вашего языка и региона.
+También utilizamos cookies a fin de ofrecerte contenido relevante para tu ubicación.
 
-Например, мы записываем информацию в файл cookie, хранящийся в вашем браузере или на вашем устройстве, чтобы вы видели сайт на нужном языке.
-Обеспечение производительности
+Por ejemplo: almacenamos información en una cookie instalada en tu navegador o dispositivo para que veas el sitio en tu idioma preferido.
+Rendimiento
 
-Мы используем файлы cookie, чтобы обеспечить вам максимальное удобство.
+Usamos cookies para ofrecerte la mejor experiencia posible.
 
-Например, файлы cookie помогают нам направлять трафик между серверами и понимать, как быстро Продукты Meta загружаются у разных людей. Файлы cookie также помогают нам записывать соотношение сторон и размеры вашего экрана и окон, а также узнавать, включили ли вы режим высокой контрастности, и если так, то соответствующим образом настроить отображение наших сайтов и приложений. В частности, мы устанавливаем файлы dpr и wd, длительность существования которых составляет 7 дней, в том числе для таких целей, как обеспечение оптимальной работы экрана вашего устройства.
-Аналитика и исследования
+Por ejemplo: las cookies nos ayudan a dirigir el tráfico entre los servidores y comprender con qué rapidez se cargan los Productos de Meta para distintas personas. También nos ayudan a registrar la relación de aspecto y las dimensiones de la pantalla y las ventanas, y saber si tienes activado el modo de contraste alto, para que podamos mostrar correctamente nuestros sitios y apps. Por ejemplo, instalamos las cookies "dpr" y "wd", cada una con una duración de 7 días, para brindar una experiencia óptima para la pantalla de tu dispositivo, entre otros fines.
+Análisis e investigación
 
-Мы используем файлы cookie, чтобы понимать, как люди используют Продукты Meta, и улучшать их.
+Utilizamos cookies para comprender mejor cómo las personas utilizan los Productos de Meta con el fin de poder mejorarlos.
 
-Например, файлы cookie позволяют узнать, как люди используют сервис Facebook, проанализировать, какие компоненты Продуктов Meta наиболее полезны и интересны пользователям, а также определить, какие функции можно улучшить.
-Сторонние сайты и приложения
+Por ejemplo: las cookies nos ayudan a comprender cómo las personas utilizan el servicio de Facebook, analizar qué partes de nuestros Productos resultan más útiles e interesantes, e identificar funciones para mejorar.
+Sitios web y apps de terceros
 
-Наши партнеры также могут делиться с Meta информацией из файлов cookie, установленных на доменах их сайтов, независимо от того, есть ли у вас аккаунт Facebook и выполнен ли вход. Например, файлы cookie под названием _fbc или _fbp могут быть установлены на домене партнера, чей сайт вы посещаете. В отличие от файлов cookie, установленных на собственных доменах Meta, эти файлы cookie недоступны Meta, когда вы находитесь на любом другом сайте, кроме того, где они установлены, в том числе когда вы находитесь на одном из наших доменов. Они используются в тех же целях, что и файлы cookie, установленные на собственном домене Meta, т. е. для персонализации контента (в том числе рекламы), измерения результативности рекламы, создания аналитики и обеспечения безопасности, как указанно в настоящей Политике в отношении файлов cookie.
+Nuestros socios comerciales también pueden decidir compartir con Meta información proveniente de cookies instaladas en los dominios de sus propios sitios web, independientemente de si tienes una cuenta de Facebook o si iniciaste sesión en ella. Las cookies "_fbc" o "_fbp" en particular pueden estar activadas en el dominio del sitio web del socio comercial que visitas. Meta no tiene acceso a estas cookies cuando no estás en el sitio en el que se instalaron (ni siquiera si visitas uno de nuestros dominios), a diferencia de las cookies instaladas en los propios dominios de Meta. Estas cookies permiten realizar las mismas funciones que las cookies instaladas en el propio dominio de Meta, como personalizar contenido (incluidos anuncios), medir anuncios, generar análisis y ofrecer una experiencia más segura, como se establece en esta Política de cookies.
 
 1
 
-Ниже перечислены часто используемые файлы cookie, а также то, зачем мы их используем.
+Debajo detallamos las cookies que usamos habitualmente y los propósitos frecuentes para los que las utilizamos.
 
-Файл cookie
+Cookie
 	
-Описание
+Descripción
 	
-Срок существования
+Duración
 
 
 
@@ -95,11 +95,11 @@ c_user; xs
 
 	
 
-Мы используем эти файлы cookie, чтобы аутентифицировать вас и позволять вам переходить с одной Страницы Facebook на другую без необходимости повторно выполнять вход.
+Utilizamos estas cookies para autenticar y mantener tu sesión abierta mientras navegas entre páginas de Facebook.
 
 	
 
-365 дней
+365 días
 
 
 
@@ -108,11 +108,11 @@ sb; dbln
 
 	
 
-С помощью этих файлов cookie мы безопасно идентифицируем ваш браузер.
+Estas cookies nos permiten identificar tu navegador de forma segura.
 
 	
 
-2 года
+2 años
 
 
 
@@ -121,11 +121,11 @@ datr
 
 	
 
-Это уникальный идентификатор вашего браузера, который, помимо прочего, помогает нам защитить вас от мошенников. С его помощью мы также идентифицируем браузер, который используют злоумышленники, и предотвращаем кибератаки.
+Es un identificador único para tu navegador que, entre otras cuestiones, nos permite protegerte contra fraudes. Esta cookie también nos ayuda a identificar los navegadores que utilizan las personas malintencionadas y prevenir ataques de ciberseguridad.
 
 	
 
-2 года
+2 años
 
 
 
@@ -134,11 +134,11 @@ csrf
 
 	
 
-Этот файл cookie помогает нам защитить ваш аккаунт.
+Esta cookie nos permite proteger la seguridad de tu cuenta.
 
 	
 
-Сеанс
+Sesión
 
 
 
@@ -147,11 +147,11 @@ fr
 
 	
 
-В зависимости от заданных вами настроек этот файл cookie используется для показа рекламы, а также измерения и повышения ее актуальности.
+Según las opciones que elijas, esta cookie se utiliza para ofrecer, analizar y mejorar la relevancia de los anuncios.
 
 	
 
-90 дней
+90 días
 
 
 
@@ -160,11 +160,11 @@ _fbp; _fbc
 
 	
 
-Эти файлы cookie позволяют компаниям, использующим Продукты Meta, идентифицировать браузеры для показа рекламы и анализа действий на сайтах.
+Estas cookies identifican los navegadores de empresas que usan los Productos de Meta con el fin de proporcionar servicios publicitarios y de análisis de sitios.
 
 	
 
-Сеанс
+Sesión
 
 
 
@@ -173,11 +173,11 @@ oo
 
 	
 
-Этот файл cookie помогает сохранить ваши рекламные предпочтения.
+Con esta cookie almacenamos tus preferencias publicitarias.
 
 	
 
-5 лет
+5 años
 
 
 
@@ -186,11 +186,11 @@ presence
 
 	
 
-Этот файл cookie позволяет вам использовать окна чатов в Messenger.
+Esta cookie te permite usar las ventanas de chat de Messenger.
 
 	
 
-30 дней
+30 días
 
 
 
@@ -199,37 +199,37 @@ dpr; wd
 
 	
 
-Эти файлы cookie адаптируют контент к параметрам экрана вашего устройства.
+Estas cookies nos permiten ofrecer una experiencia óptima con la pantalla de tu dispositivo.
 
 	
 
-7 дней
+7 días
 
-Где мы используем файлы cookie?
+¿Dónde utilizamos las cookies?
 
-Мы можем размещать файлы cookie на вашем компьютере или устройстве и получать информацию, хранящуюся в этих файлах, когда вы используете или посещаете:
+Podemos colocar cookies en tu computadora o dispositivo, y recibir información almacenada en ellas cuando utilizas o visitas:
 
-Продукты Meta.
-Продукты, предоставляемые другими компаниями Meta.
-Сайты и приложения, предоставляемые другими компаниями, использующими Продукты Meta, в том числе компаниями, которые интегрировали технологии Meta в свои сайты и приложения. Meta использует файлы cookie и получает информацию, когда вы посещаете эти сайты и приложения, в том числе данные устройства и сведения о ваших действиях, без каких-либо дополнительных действий с вашей стороны. Это происходит независимо от того, есть ли у вас аккаунт Facebook и выполнен ли вход.
-Могут ли другие компании использовать файлы cookie в связи с Продуктами Meta?
+los Productos de Meta;
+los productos proporcionados por otros miembros de las empresas de Meta; y
+los sitios web y las apps proporcionados por otras empresas que utilizan los Productos de Meta, incluidas empresas que incorporan las tecnologías de Meta en sus sitios web y apps. Meta usa cookies y recibe información cuando visitas esos sitios y apps, incluida información del dispositivo e información sobre tu actividad, sin ninguna intervención adicional de tu parte. Esto sucede sin importar si tienes o no una cuenta de Facebook o si iniciaste sesión en ella.
+¿Otras empresas utilizan cookies en relación con los Productos de Meta?
 
-Да, другие компании используют файлы cookie в Продуктах Meta для предоставления нам сервисов рекламы, измерений, маркетинга и аналитики, а также для предоставления вам определенных функций и улучшения наших сервисов для вас.
+Sí, otras empresas utilizan cookies en los Productos de Meta para proporcionarnos servicios de publicidad, medición, marketing y análisis, así como para proporcionar determinadas funciones y mejorar nuestros servicios para ti.
 
-Например, файлы cookie других компаний помогают подбирать рекламу, демонстрируемую вне Продуктов Meta, измерять ее результативность и эффективность, а также поддерживать работу функций маркетинга и аналитики. Файлы cookie других компаний используются для обеспечения работы некоторых функций Продуктов Meta, например определенных функций карт, платежей и безопасности. Подробнее о компаниях, использующих файлы cookie в Продуктах Meta, см. здесь[2].
+Por ejemplo, las cookies de otras empresas permiten personalizar los anuncios fuera de los Productos de Meta, medir su rendimiento y eficacia, y respaldar iniciativas de marketing y análisis. Determinadas funciones en los Productos de Meta utilizan cookies de otras empresas para funcionar, por ejemplo, ciertas funciones de seguridad, pago y mapas. Obtén más información[2] sobre las empresas que utilizan cookies en los Productos de Meta.
 
-Сторонние компании также используют файлы cookie на своих сайтах и в приложениях в связи с Продуктами Meta. Чтобы понять, как они используют файлы cookie, изучите их правила.
+Existen empresas de terceros que también utilizan cookies en sus propios sitios y apps en relación con los Productos de Meta. Para comprender cómo otras empresas usan las cookies, consulta sus políticas.
 
 2
-Список компаний
+Lista de empresas
 
-Ниже перечислены названия и сайты некоторых компаний, которые используют файлы cookie в Сервисах Facebook, чтобы предоставлять сервисы нам и компаниям, которые размещают рекламу на Facebook.
+A continuación se muestran los nombres y los sitios web de algunas de las empresas que utilizan cookies en los servicios de Facebook para ofrecernos sus servicios a nosotros y a los negocios que se anuncian en Facebook.
 
-Дата последней редакции: 3 мая 2023 г.
+Última actualización: 3 de mayo de 2023
 
-Компания
+Empresa
 	
-Домен
+Dominio
 
 
 
@@ -296,7 +296,7 @@ engagor.com
 
 
 
-Giphy
+GIPHY
 
 	
 
@@ -725,29 +725,29 @@ Zendesk
 
 zendesk.com
 
-Как вы можете управлять своей информацией?
+¿Cómo puedes controlar tu información?
 
-Мы используем файлы cookie для персонализации и улучшения контента и сервисов, обеспечения более безопасного взаимодействия, а также показа вам полезных и актуальных рекламных объявлений в Продуктах Meta и за их пределами. Ниже описаны инструменты, с помощью которых вы можете управлять тем, как мы используем данные для показа вам рекламы и в других целях.
+Utilizamos cookies para personalizar y mejorar el contenido y los servicios, proporcionar una experiencia más segura, y mostrarte anuncios útiles y relevantes dentro y fuera de los Productos de Meta. Puedes controlar cómo utilizamos los datos para mostrarte anuncios y más mediante las herramientas que se describen a continuación.
 
-Если у вас есть аккаунт Facebook
-Вы можете использовать рекламные предпочтения, чтобы узнать, почему вы видите определенное рекламное объявление, и управлять тем, как мы используем собранную информацию для показа вам рекламы.
-Чтобы показывать вам более актуальную рекламу, мы используем информацию о ваших действиях вне Продуктов компаний Meta, в том числе на сайтах и в приложениях, которую нам предоставляют рекламодатели и другие партнеры. В своих настройках рекламы вы можете разрешать или запрещать нам использовать эту информацию для показа вам рекламных объявлений.
-Meta Audience Network — это инструмент, позволяющий рекламодателям показывать вам рекламу в приложениях и на сайтах вне Продуктов компаний Meta. Одним из способов подбора актуальной рекламы в Audience Network является использование ваших рекламных предпочтений для определения интересующих вас объявлений. Вы можете контролировать это в настройках рекламы.
-Вы можете просматривать свои действия вне Facebook, представляющие собой сводные данные о ваших взаимодействиях с другими компаниями и организациями, которые эти компании и организации передают нам, например об использовании их приложений или посещении их сайтов. Для передачи нам этих данных компании и организации используют инструменты для бизнеса, такие как пиксель Meta. Это помогает нам, в частности, персонализировать для вас взаимодействие в Продуктах Meta. Узнайте больше о действиях вне Facebook, а также о том, как мы их используем и как вы можете ими управлять.
-Все
+Si tienes una cuenta de Facebook
+Puedes usar tus preferencias de anuncios para saber por qué ves un anuncio en particular y controlar el uso que hacemos de la información que recopilamos para mostrarte anuncios.
+Para mostrarte anuncios más relevantes, usamos datos que los anunciantes y otros socios nos proporcionan sobre tu actividad fuera de los Productos de las empresas de Meta, incluidos sitios web y apps. Desde la configuración de anuncios, puedes decidir si quieres que usemos estos datos para mostrarte anuncios.
+Meta Audience Network permite a los anunciantes mostrarte anuncios en apps y sitios web fuera de los Productos de las empresas de Meta. Una de las formas en las que Audience Network muestra anuncios relevantes es a través de tus preferencias de anuncios para determinar qué anuncios te puede interesar ver. Puedes controlarlo en la configuración de anuncios.
+Puedes revisar tu actividad fuera de Facebook, que es un resumen de actividad que negocios y organizaciones comparten con nosotros sobre tus interacciones con ellos, como cuando visitas sus sitios web o apps. Utilizan nuestras herramientas para empresas, como el píxel de Meta, para compartir esta información con nosotros, lo que nos ayuda a proporcionarte una experiencia más personalizada en los Productos de Meta. Obtén más información sobre la actividad fuera de Facebook, cómo la usamos y de qué manera puedes administrarla.
+Todos
 
-Вы можете отказаться от показа онлайн-рекламы на основе интересов от Meta и других компаний-участниц через Альянс цифровой рекламы в США, Альянс цифровой рекламы Канады в Канаде, Европейский альянс интерактивной цифровой рекламы в Европе или в настройках своего мобильного устройства на базе Android, iOS 13 или более ранней версии iOS (если такая функция доступна). Обратите внимание, что если вы используете средства блокировки рекламы и инструменты, ограничивающие использование нами файлов cookie, они могут мешать работе этих настроек.
+Puedes indicar que no quieres ver anuncios online basados en intereses de Meta y otras empresas participantes a través de la Digital Advertising Alliance en los Estados Unidos de América, la Digital Advertising Alliance of Canada en Canadá o la European Interactive Digital Advertising Alliance en Europa, o mediante la configuración de tu dispositivo móvil, si está disponible, en Android o iOS 13 (o una versión anterior). Ten en cuenta que los bloqueadores de anuncios y las herramientas que restringen el uso de nuestras cookies pueden interferir con estos controles.
 
-Дополнительная информация об онлайн-рекламе
+Más información sobre la publicidad online
 
-Рекламные компании, с которыми мы сотрудничаем, обычно используют файлы cookie и подобные технологии как часть своих сервисов. Чтобы подробнее узнать о вариантах использования файлов cookie рекламодателями, посетите следующие информационные ресурсы:
+Las empresas de publicidad con las que trabajamos suelen usar cookies y otras tecnologías similares como parte de sus servicios. Para obtener más información sobre cómo los anunciantes suelen usar cookies y las opciones que ofrecen, puedes consultar los siguientes recursos:
 
-Альянс цифровой рекламы
-Альянс цифровой рекламы Канады
-Европейский альянс интерактивной цифровой рекламы
-Средства управления файлами cookie в браузерах
+Digital Advertising Alliance
+Digital Advertising Alliance of Canada
+European Interactive Digital Advertising Alliance
+Controles de cookies de navegadores
 
-Кроме того, в вашем браузере или на вашем устройстве могут быть настройки, позволяющие управлять файлами cookie и удалять их. Эти настройки зависят от браузера, а производители могут в любой момент изменять доступность настроек и особенности их работы. По приведенным ниже ссылкам можно найти дополнительную информацию о настройках, предлагаемых в популярных браузерах по состоянию на 23 июля 2021 года. Некоторые компоненты Продуктов Meta могут работать некорректно, если вы отключите использование файлов cookie в браузере. Обратите внимание, что эти настройки отличаются от настроек, которые вам предоставляем мы.
+Además, tu navegador o tu dispositivo pueden ofrecer opciones de configuración que te permiten elegir si quieres que se instalen cookies del navegador y eliminarlas. Estos controles varían según el navegador, y los fabricantes pueden cambiar tanto las opciones de configuración que ofrecen como su funcionamiento en cualquier momento. Desde el 23 de junio de 2021, puedes encontrar más información sobre los controles que ofrecen los navegadores más populares en los siguientes enlaces. Es posible que algunas partes de los Productos de Meta no funcionen correctamente si desactivas el uso de cookies del navegador. Ten en cuenta que estos controles son distintos a los controles que te ofrecemos.
 
 Google Chrome
 Internet Explorer
