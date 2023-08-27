@@ -70,9 +70,10 @@ Strictly Necessary
 These cookies are necessary for our website to function properly and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms or where they’re essential to provide you with a service you have requested. You cannot opt-out of these cookies. You can set your browser to block or alert you about these cookies, but if you do, some parts of the site will not then work. These cookies do not store any personally identifiable information.
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	acct, csouser, drafts, fkey, flash-message-json, have_a_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, OptanonConsent, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	acct, csouser, drafts, fkey, flash-message-json, have_a_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr	1st Party
 stackoverflow.email	iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId	1st Party
 stackexchange.com	mc, rawr	1st Party
+meta.stackoverflow.com	OptanonAlertBoxClosed, OptanonConsent	1st Party
 imgur.com	__cfduid	3rd Party
 stacksnippets.net	intercom-id-inf0secd, intercom-session-inf0secd	3rd Party
 google.com	__Secure-3PAPISID, __Secure-3PSID, __Secure-APISID, __Secure-HSID, __Secure-SSID, 1P_JAR, APISID, HSID, NID, SAPISID, SID, SIDCC, SSID	3rd Party
@@ -112,7 +113,7 @@ Targeting Cookies
 These cookies are used to make advertising messages more relevant to you and may be set through our site by us or by our advertising partners. They may be used to build a profile of your interests and show you relevant advertising on our site or on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	__gads, _gat_legacyTracker, prov_tgt, urr	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	__gads, _gat_legacyTracker, _so_tgt, urr	1st Party
 pt.stackoverflow.com	GoogleAdServingTest	1st Party
 youtube.com	GPS	3rd Party
 linkedin.com	bcookie, lang, li_gc, lidc, lissc, UserMatchHistory	3rd Party
@@ -129,7 +130,7 @@ casalemedia.com	CMID, CMPRO, CMPS, CMST	3rd Party
 facebook.com	fr	3rd Party
 demdex.net	demdex	3rd Party
 yahoo.com	A1, A1S, A3, B, GUC	3rd Party
-en.wikipedia.org	WMF-Last-Access	3rd Party
+en.wikipedia.org	NetworkProbeLimit, WMF-Last-Access	3rd Party
 www.facebook.com		3rd Party
 
 You can withdraw any consent to the use of cookies or manage any other cookie preferences by visiting our Cookie Settings or clicking on the bottom of every page of our websites. You can then toggle on or off the buttons as appropriate. It may be necessary to refresh the page for the updated settings to be displayed.
