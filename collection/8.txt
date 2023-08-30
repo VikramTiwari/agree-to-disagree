@@ -12,6 +12,7 @@ Accessibility
 Our rules
 My privacy
 How we address misinformation on Twitter
+Recommender Systems
 Contact Us
 Help Center
 Platform Use Guidelines
@@ -3454,8 +3455,6 @@ Share this article
 Tweet
 © 2023 X Corp.
 Cookies 
-MStV Transparenzangaben 
-Impressum 
 Privacy 
 Terms and conditions 
 English 
