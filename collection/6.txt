@@ -494,11 +494,11 @@ Russian
 Slovak 
 Bulgarian 
 Czech 
-Danish 
+Dansk 
 Greek 
 Estonian 
 Finnish 
-Irish 
+Gaeilge 
 Croatian 
 Hungarian 
 Lithuanian 

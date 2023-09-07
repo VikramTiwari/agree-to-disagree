@@ -148,7 +148,9 @@ b. as further specified via:
 
 i. Customer’s use of the Services (including via the Admin Console) and TSS; and
 
-ii. any other written instructions given by Customer and acknowledged by Google as constituting instructions under this Addendum (collectively, the “Instructions”).
+ii. any other written instructions given by Customer and acknowledged by Google as constituting instructions under this Addendum
+
+(collectively, the “Instructions”).
 
 Google will comply with the Instructions unless prohibited by European Law, where European Data Protection Law applies, or prohibited by applicable law, where any other Applicable Privacy Law applies.
 
@@ -781,6 +783,10 @@ June 30, 2022 September 24, 2021 August 19, 2020 August 10, 2020 July 17, 202
 Previous versions of Data Processing Amendment:
 
 July 7, 2022 September 24, 2021 May 27, 2021 October 29, 2019 May 25, 2018 April 25, 2018 July 11, 2017 November 28, 2016 January 7, 2016 April 24, 2015 April 1, 2014 November 14, 2012
+
+Previous versions of Data Processing Addendum for Looker (original) Services (Customers):
+
+February 14, 2023 January 4, 2023 September 20, 2022 June 30, 2022 March 16, 2022 September 24, 2021 April 1, 2021 January 15, 2021 December 17, 2020 August 28, 2020 June 1, 2020 March 9, 2020
 
 PREVIOUS VERSIONS (Last modified August 14, 2023)
 September 20, 2022 
