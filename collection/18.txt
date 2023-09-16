@@ -48,7 +48,7 @@ Privacy Policy
 
 Em português
 
-Effective Date: December 28, 2021
+Effective Date: September 15, 2023
 
 Welcome, and thank you for your interest in Kaggle Inc. (“Kaggle”), and our website(s), products, services and applications (the “Services”). This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information. If you have any questions about this Privacy Policy, you can contact us here.
 
@@ -235,7 +235,7 @@ We regularly review this Privacy Policy and make sure that we process your infor
 
 Data Transfers
 
-Your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data, such as the European frameworks described below.
+Your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data, such as the Data Privacy Framework described below.
 
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
@@ -274,19 +274,15 @@ When we’re complying with legal obligations
 
 We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to legal process or an enforceable governmental request.
 
+Data Privacy Framework
+
+As described in our parent company Google LLC’s Data Privacy Framework certification, we comply with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively, the "Data Privacy Framework" or “DPF”), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information received in the U.S. from the EU, UK or Switzerland in reliance on the DPF. Kaggle has certified to the Department of Commerce that it adheres to the DPF Principles with respect to such information. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. Kaggle remains responsible for any of your personal information that is shared under the Accountability for Onward Transfer Principle with third parties for external processing performed on our behalf, as described in the “Sharing Your Information” section. To learn more about the DPF certification program, and to view our parent company Google LLC’s certification, please visit the Data Privacy Framework website .
+
+If you have an inquiry regarding our privacy practices in relation to our DPF certification, we encourage you to contact us. Kaggle is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). You may also refer a complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the Data Privacy Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Data Privacy Framework.
+
 Model Contract Clauses
 
-The European Commission has approved the use of model contract clauses as a means of ensuring adequate protection when transferring data outside of the EEA. By incorporating model contract clauses into a contract established between the parties transferring data, personal data is considered protected when transferred outside the EEA or the UK to countries which are not covered by an adequacy decision.
-
-We rely on these model contract clauses for data transfers.
-
-EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
-
-As described in our parent company Google LLC’s Privacy Shield certification, we comply with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks ("Privacy Shield") as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from European Economic Area member countries and the United Kingdom as well as Switzerland, respectively. Kaggle has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. Kaggle remains responsible for any of your personal information that is shared under the Onward Transfer Principle with third parties for external processing, as described in the “Sharing Your Information” section. To learn more about the Privacy Shield program, and to view our parent company Google LLC’s certification, please visit the Privacy Shield website.
-
-If you have an inquiry regarding our privacy practices in relation to our Privacy Shield certification, we encourage you to contact us. Kaggle is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). You may also refer a complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
-
-As of July 16, 2020, we no longer rely on the EU-U.S. Privacy Shield to transfer data that originated in the EEA or the UK to the U.S.
+Model contract clauses are non-modifiable written commitments between parties that can be used as a ground for data transfers from the EU (including the EEA), UK and Switzerland to third countries by providing appropriate data protection safeguards. EU Standard Contractual Clauses (SCCs) have been approved by European Commission. The European Commission (you can see the SCCs adopted by the European Commission here). Such clauses have also been approved for transfers of data to countries outside Switzerland. The UK has approved the International Data Transfer Addendum to the EU SCCs (UK Addendum), which is available here. We rely on SCCs and the UK Addendum these model contract clauses for our data transfers, where required.
 
 California Requirements
 
