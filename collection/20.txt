@@ -649,7 +649,7 @@ Sections 2 (Access and Site Controls) and 3 (Data) of Appendix 2 (Security Measu
 
 Google-Managed Multi-Cloud (Google Cloud Platform)
 
-Google-Managed Multi-Cloud Services involve third-party infrastructure and, by design, and have certain distinct characteristics.  
+Google-Managed Multi-Cloud Services involve third-party infrastructure and, by design, have certain distinct characteristics.  
 
 1. Additional Definition.
 
@@ -788,5 +788,5 @@ Previous versions of Data Processing Addendum for Looker (original) Services (Cu
 
 February 14, 2023 January 4, 2023 September 20, 2022 June 30, 2022 March 16, 2022 September 24, 2021 April 1, 2021 January 15, 2021 December 17, 2020 August 28, 2020 June 1, 2020 March 9, 2020
 
-PREVIOUS VERSIONS (Last modified August 14, 2023)
+PREVIOUS VERSIONS (Last modified September 26, 2023)
 September 20, 2022 

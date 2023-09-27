@@ -425,6 +425,8 @@ Parties that control collection of personal data. In certain situations, we may 
 
 We use the categories of personal information described above for the purposes listed in the "GitHub Privacy Statement" section of our Privacy Statement. We also disclose the categories of personal information listed above for business purposes. Please see the "GitHub Privacy Statement" section of our Privacy Statement for additional details.
 
+Press alt+up to activate
+
 Legal
 © 2023 GitHub, Inc.
 Terms
