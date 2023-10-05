@@ -10,7 +10,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective July 1, 2023 | Archived versions
+Effective October 4, 2023 | Archived versions
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -412,7 +412,6 @@ Specific Google services
 
 The following privacy notices provide additional information about some Google services:
 
-Chrome & the Chrome Operating System
 Payments
 Fiber
 Google Fi
