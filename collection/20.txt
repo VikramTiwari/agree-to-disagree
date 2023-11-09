@@ -2,7 +2,7 @@ Back to Google Cloud Terms Directory
 Current
 Cloud Data Processing Addendum (Customers)
 
-This Cloud Data Processing Addendum (including its appendices, the “Addendum”) is incorporated into the Agreement(s) (as defined below) between Google and Customer. This Addendum was formerly known as the “Data Processing and Security Terms” under an Agreement for Google Cloud Platform or Looker (original) or the “Data Processing Amendment” under an Agreement for Google Workspace or Cloud Identity.
+This Cloud Data Processing Addendum (including its appendices, the “Addendum”) is incorporated into the Agreement(s) (as defined below) between Google and Customer. This Addendum was formerly known as the “Data Processing and Security Terms” under an Agreement for Google Cloud Platform, Looker (original) or Google SecOps Services or the “Data Processing Amendment” under an Agreement for Google Workspace or Cloud Identity.
 
 Table of Contents:
 
@@ -36,7 +36,7 @@ General Terms
 
     14. Interpretation
 
-Appendix 1: Subject Matter and   Details of the Data Processing
+Appendix 1: Subject Matter and Details of the Data Processing
 
 Appendix 2: Security Measures
 
@@ -70,6 +70,8 @@ Appendix 4: Specific Products
 
     Looker (original)
 
+    SecOps Services
+
 General Terms
 1. Overview
 
@@ -77,7 +79,7 @@ This Addendum describes the parties’ obligations, including under applicable p
 
 2. Definitions
 
-2.1  In this Addendum:
+2.1 In this Addendum:
 
 “Addendum Effective Date” means the date on which Customer accepted, or the parties otherwise agreed to, this Addendum. 
 “Additional Security Controls” means security resources, features, functionality, and controls that Customer may use at its option and as it determines, including the Admin Console, encryption, logging and monitoring, identity and access management, security scanning, and firewalls.
@@ -95,7 +97,7 @@ This Addendum describes the parties’ obligations, including under applicable p
 “GDPR” means, as applicable: (a) the EU GDPR; or (b) the UK GDPR.
 “Google’s Third-Party Auditor” means a Google-appointed, qualified and independent third-party auditor, whose then-current identity Google will disclose to Customer.
 “Instructions” has the meaning given in Section 5.2 (Compliance with Customer’s Instructions).
-“Notification Email Address” means the email address(es) designated by Customer in the Admin Console or Order Form to receive certain notifications from Google. 
+“Notification Email Address” means the email address(es) designated by Customer in the Admin Console or Order Form to receive certain notifications from Google. 
 “Security Documentation” means the Compliance Certifications and the SOC Reports.
 “Security Measures” has the meaning given in Section 7.1.1 (Google’s Security Measures).
 “Services” means the applicable services described in Appendix 4 (Specific Products).
@@ -238,7 +240,7 @@ b. Customer Independent Review. Customer may conduct an audit to verify Google�
 
 a. Customer must contact Google’s Cloud Data Protection Team to request:
 
-i.  access to the SOC Reports for a relevant controller under Section 7.5.1 (Reviews of Security Documentation); or
+i. access to the SOC Reports for a relevant controller under Section 7.5.1 (Reviews of Security Documentation); or
 
 ii. an audit under Section 7.5.2(a) (Customer Audit).
 
@@ -330,7 +332,7 @@ ii. if there is no such provision, by notifying Google.
 
 13. Notices
 
-Notices under this Addendum (including notifications of any Data Incidents) will be delivered to the Notification Email Address.  Customer is responsible for using the Admin Console to ensure that its Notification Email Address remains current and valid.
+Notices under this Addendum (including notifications of any Data Incidents) will be delivered to the Notification Email Address. Customer is responsible for using the Admin Console to ensure that its Notification Email Address remains current and valid.
 
 14. Interpretation
 
@@ -344,7 +346,7 @@ c. this Addendum and the remainder of the Agreement, this Addendum will prevail.
 
 For clarity, if Customer has more than one Agreement, this Addendum will amend each of the Agreements separately.
 
-14.2 Section References.  Unless indicated otherwise, section references in any Appendix to this Addendum refer to sections of the General Terms of the Addendum.
+14.2 Section References. Unless indicated otherwise, section references in any Appendix to this Addendum refer to sections of the General Terms of the Addendum.
 
 Appendix 1: Subject Matter and Details of the Data Processing
 
@@ -478,7 +480,7 @@ Customer will immediately forward to the relevant controller any notice provided
 
 a. if Google has adopted an Alternative Transfer Solution for any Restricted Transfers, Google will inform Customer of the relevant solution and ensure that such Restricted Transfers are made in accordance with it; or
 
-b. if Google has not adopted, or informs Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted Transfers:
+b. if Google has not adopted an Alternative Transfer Solution for any Restricted Transfers, or informs Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted Transfers (without adopting a replacement Alternative Transfer Solution):
 
 i. if Google’s address is in an Adequate Country:
 
@@ -494,11 +496,9 @@ ii. if Google’s address is not in an Adequate Country, the SCCs (Controller-to
 
 a. as described in Section 7.5.1 (Reviews of Security Documentation);
 
-b. in the Google Cloud Privacy Resource Center at https://cloud.google.com/privacy;
+b. in any additional locations described in Appendix 4 (Specific Products); and
 
-c. in any additional locations described in Appendix 4 (Specific Products); and
-
-d. in relation to Google’s adoption of an Alternative Transfer Solution, at https://cloud.google.com/terms/alternative-transfer-solution.
+c. in relation to Google’s adoption of an Alternative Transfer Solution, at https://cloud.google.com/terms/alternative-transfer-solution.
 
 4.4 SCC Audits. If Customer SCCs apply as described in Section 4.1 (Restricted Transfers) of these European Data Protection Law terms, Google will allow Customer (or an independent auditor appointed by Customer) to conduct audits as described in those SCCs and, during an audit, make available all information required by those SCCs, both in accordance with Section 7.5.3 (Additional Business Terms for Reviews and Audits).
 
@@ -567,7 +567,7 @@ Google Cloud Platform
 1. Additional Definitions.
 
 “Account”, if not defined in the Agreement, means Customer’s Google Cloud Platform account.
-“Customer Data”, if not defined in the Agreement, means data provided to Google by Customer or End Users through the Services under the Account, and data that Customer or End Users derive from that data through their use of the Services.
+“Customer Data”, if not defined in the Agreement, means data provided to Google by Customer or End Users through Google Cloud Platform under the Account, and data that Customer or End Users derive from that data through their use of Google Cloud Platform.
 “Google Cloud Platform” means the Google Cloud Platform services described at https://cloud.google.com/terms/services, excluding any Third-Party Offerings.
 “Third-Party Offerings”, if not defined in the Agreement, means (a) third-party services, software, products, and other offerings that are not incorporated into Google Cloud Platform or Software, (b) offerings identified in the "Third-Party Terms" section of the Service Specific Terms of the Agreement, and (c) third-party operating systems.
 
@@ -579,7 +579,9 @@ Google Cloud Platform
 
 5. Cloud Data Protection Team. The Data Protection Team for Google Cloud Platform can be contacted at https://support.google.com/cloud/contact/dpo.
 
-6. Service Specific Terms.
+6. Information about Restricted Transfers. Additional information relevant to Restricted Transfers, Additional Security Controls and other supplementary protective measures is available at cloud.google.com/privacy/.
+
+7. Service Specific Terms.
 
 Bare Metal Solution (Google Cloud Platform)
 
@@ -649,13 +651,13 @@ Sections 2 (Access and Site Controls) and 3 (Data) of Appendix 2 (Security Measu
 
 Google-Managed Multi-Cloud (Google Cloud Platform)
 
-Google-Managed Multi-Cloud Services involve third-party infrastructure and, by design, have certain distinct characteristics.  
+Google-Managed Multi-Cloud Services involve third-party infrastructure and, by design, have certain distinct characteristics.
 
 1. Additional Definition.
 
 “Google-Managed MCS Data Processing Amendment” means the terms at https://cloud.google.com/terms/mcs-data-processing-terms.
 
-2. Multi-Cloud Data Processing Terms. The Google-Managed MCS Data Processing Amendment supplements and amends this Addendum with respect to Google-Managed Multi-Cloud Services for Google Cloud Platform.  
+2. Multi-Cloud Data Processing Terms. The Google-Managed MCS Data Processing Amendment supplements and amends this Addendum with respect to Google-Managed Multi-Cloud Services for Google Cloud Platform.
 
 Google Cloud VMware Engine (Google Cloud Platform)
 
@@ -709,13 +711,15 @@ a. Google logically separates each End User’s data from the data of other End 
 
 b. data for an authenticated End User will not be displayed to another End User (unless the former End User or an Administrator allows the data to be shared).
 
-8. Service Data Addendum. If Google makes an optional Service Data Addendum available for acceptance by Customer in relation to this Addendum, availability of that optional addendum will constitute a “DPA Update” if such term is defined in any Service Data Addendum previously entered into by Customer.
+8. Information about Restricted Transfers. Additional information relevant to Restricted Transfers, Additional Security Controls and other supplementary protective measures is available at cloud.google.com/privacy/.
 
-9. Service Specific Terms.
+9. Service Data Addendum. If Google makes an optional Service Data Addendum available for acceptance by Customer in relation to this Addendum, availability of that optional addendum will constitute a “DPA Update” if such term is defined in any Service Data Addendum previously entered into by Customer.
+
+10. Service Specific Terms.
 
 AppSheet (Google Workspace)
 
-1.  Amendments. This Addendum is amended as follows with respect to AppSheet:
+1. Amendments. This Addendum is amended as follows with respect to AppSheet:
 
 The paragraph titled “Server Operating Systems” in Section 1(a) of Appendix 2 (Security Measures) is replaced with the following:
 Server Operating Systems. Google servers use a Linux based implementation customized for the application environment.
@@ -735,8 +739,8 @@ Looker (original)
 
 2. Amendments. This Addendum is amended as follows with respect to Looker (original):
 
-The definition of "Notification Email Address” is replaced with the following: 
-"Notification Email Address” means the email address(es) designated by Customer in the Order Form or via Looker (as applicable) to receive certain notifications from Google.
+The definition of “Notification Email Address” is replaced with the following:
+”Notification Email Address” means the email address(es) designated by Customer in the Order Form or via Looker (as applicable) to receive certain notifications from Google.
 The definitions of “SCCs (Controller-to-Processor)”, “SCCs (Processor-to-Controller)”, “SCCs (Processor-to-Processor)” and “SCCs (Processor-to-Processor, Google Exporter)” in Appendix 3 (Specific Privacy Laws) are replaced with the following:
 “SCCs (Controller-to-Processor)” means the terms at: https://cloud.google.com/terms/looker/legal/sccs/eu-c2p;
 “SCCs (Processor-to-Controller)” means the terms at: https://cloud.google.com/terms/looker/legal/sccs/eu-p2c;
@@ -768,13 +772,48 @@ Google-Managed Multi-Cloud Services involve third-party infrastructure and, by d
 
 10. Cloud Data Protection Team. The Data Protection Team for Looker (original) can be contacted at https://support.google.com/cloud/contact/dpo. 
 
-11. Google’s Processing Records.  To the extent any Applicable Privacy Law requires Google to collect and maintain records of certain information relating to Customer, Customer will supply such information to Google upon request, and notify Google of any updates required to keep such information accurate and up-to-date, unless Google requests that Customer supply and update such information via another means.
+11. Google’s Processing Records. To the extent any Applicable Privacy Law requires Google to collect and maintain records of certain information relating to Customer, Customer will supply such information to Google upon request, and notify Google of any updates required to keep such information accurate and up-to-date, unless Google requests that Customer supply and update such information via another means.
 
 12. Additional Application Security Measures. Google will implement and maintain the additional Security Measures described below for Looker (original):
 
 a. Google follows at least industry standard practices for security architecture. Proxy servers used for Google’s applications help secure access to Looker by providing a single point to filter attacks through IP denylisting and connection rate limiting.
 
 b. Customer administrators control access to applications by Google personnel to provide technical support requested by Customer or End Users.
+
+SecOps Services
+
+1. Additional Definitions.
+
+“Account”, if not defined in the Agreement, means Customer’s SecOps Services or Google Cloud Platform account, as applicable.
+“Customer Data”, if not defined in the Agreement, means data provided to Google by Customer or End Users through SecOps Services under the Account.
+“SecOps Services” means Chronicle SIEM, Chronicle SOAR and Mandiant Solutions, each as described at https://cloud.google.com/terms/secops/services, excluding any Third-Party Offerings. For the avoidance of doubt, SecOps Services exclude Mandiant Managed Services and Mandiant Consulting Services.
+“Third-Party Offerings”, if not defined in the Agreement, means (a) third-party services, software, products, and other offerings that are not incorporated into SecOps Services or Software, and (b) third-party operating systems.
+
+2. Amendments. This Addendum is amended as follows with respect to SecOps Services:
+
+The definition of "Additional Security Controls” is replaced with the following: 
+“Additional Security Controls” means security resources, features, functionality and/or controls (if any) that Customer may use at its option and/or as it determines, including (if any) encryption, logging and monitoring, identity and access management, and security scanning.
+The definition of “Audited Services” is replaced with the following:
+“Audited Services” means the then-current SecOps Services indicated as being in-scope for the relevant certification or report at https://cloud.google.com/security/compliance/secops/services-in-scope. Google may not remove any SecOps Services from this URL unless they have been discontinued in accordance with the applicable Agreement.
+The definitions of “SCCs (Controller-to-Processor)”, “SCCs (Processor-to-Controller)”, “SCCs (Processor-to-Processor)” and “SCCs (Processor-to-Processor, Google Exporter)” in Appendix 3 (Specific Privacy Laws) are replaced with the following:
+“SCCs (Controller-to-Processor)” means the terms at: https://cloud.google.com/terms/secops/sccs/eu-c2p 
+“SCCs (Processor-to-Controller)” means the terms at: https://cloud.google.com/terms/secops/sccs/eu-p2c.
+“SCCs (Processor-to-Processor)” means the terms at: https://cloud.google.com/terms/secops/sccs/eu-p2p
+“SCCs (Processor-to-Processor, Google Exporter)” means the terms at: https://cloud.google.com/terms/secops/sccs/eu-p2p-google-exporter
+Section 7.4 (Compliance Certifications and SOC Reports) of the Addendum is modified to read as follows:
+7.4 Compliance Certifications and SOC Reports. Google will maintain at least the certifications and reports as identified at https://cloud.google.com/security/compliance/secops/services-in-scope for the Audited Services to verify the continued effectiveness of the Security Measures (the “Compliance Certifications” and “SOC Reports”). 
+
+Google may add standards at any time. Google may replace a Compliance Certification or SOC Report with an equivalent or enhanced alternative.
+
+3. Data Center Locations. The locations of SecOps Services data centers are described at https://cloud.google.com/terms/secops/data-residency.
+
+4. No Certification by Non-EMEA Customers. Customer is not obliged to certify or identify its competent Supervisory Authority as described in Section 4.2 (Certification by Non-EMEA Customers) of the European Data Protection terms in Appendix 3 (Specific Privacy Laws) for SecOps Services.
+
+5. Information about Subprocessors. Names, locations, and activities of Subprocessors for SecOps Services are described at https://cloud.google.com/terms/secops/subprocessors.
+
+6. Cloud Data Protection Team. The Data Protection Team for SecOps Services can be contacted at https://support.google.com/cloud/contact/dpo (and/or via such other means as Google may provide from time to time).
+
+7. Google’s Processing Records. To the extent any Applicable Privacy Law requires Google to collect and maintain records of certain information relating to Customer, Customer will supply such information to Google upon request, and notify Google of any updates required to keep such information accurate and up-to-date, unless Google requests that Customer supply and update such information via another means.
 
 Previous versions of Data Processing and Security Terms:
 
@@ -788,5 +827,5 @@ Previous versions of Data Processing Addendum for Looker (original) Services (Cu
 
 February 14, 2023 January 4, 2023 September 20, 2022 June 30, 2022 March 16, 2022 September 24, 2021 April 1, 2021 January 15, 2021 December 17, 2020 August 28, 2020 June 1, 2020 March 9, 2020
 
-PREVIOUS VERSIONS (Last modified September 26, 2023)
-September 20, 2022 
+PREVIOUS VERSIONS (Last modified November 8, 2023)
+September 26, 2023  September 20, 2022 
