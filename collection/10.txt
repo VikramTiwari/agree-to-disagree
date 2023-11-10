@@ -9,11 +9,11 @@ AgileBits Privacy Policy
 
 Much more than just a policy – 1Password is Private by Design
 
-Last updated: June 22, 2023
+Last updated: November 1, 2023
 
-This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password Applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
+This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
 
-If you have questions or complaints regarding this Privacy Policy or Our practices, please contact Us via email at dpo@1password.com.
+If you have questions or complaints regarding this Privacy Policy or Our practices, please contact Us via email at privacy@1password.com.
 
 Your privacy is important to us and we respect each individual’s right to privacy. This privacy policy explains the personal data that 1Password collects and processes, how it processes data and for what purposes it is collected and processed. This Privacy Policy further describes our commitment to preserving the privacy and security of your personal data. We will collect and use information through Our Website only in the ways disclosed in this Privacy Policy. We have created this Privacy Policy to let you know what information we collect when you visit Our Site, why we collect it, and how it is used. By using this website, you consent to the data practices prescribed in this Privacy Policy.
 
@@ -27,7 +27,7 @@ Who are You
 
 Unless otherwise noted, we refer you, the Customer, as an owner or organizer of an individual, family, team, or business account.
 
-If you represent an organization, such as a business or educational institution, that utilizes 1Password products or services through Enterprise accounts or if you are an end user of 1Password product or a 1Password account provided by your organization, please see the 1Password Enterprise Accounts section of this privacy statement to learn how we process your data.
+If you represent an organization, such as a business or educational institution, that utilizes 1Password products or services through Enterprise accounts or if you are an end user of 1Password product or a 1Password account provided by your organization, please see the 1Password Enterprise Accounts section of this privacy statement to learn how we process your data.
 
 Non-Owners
 
@@ -99,7 +99,7 @@ If 1Password is involved in a merger, acquisition, or sale of all or a portion o
 
 Compliance with the laws
 
-AgileBits fully complies with the Canadian privacy laws and the GDPR. AgileBits is a Canadian company, we are not U.S.- E.U. Privacy Shield certified. If you are affiliated to an organization who provides you with 1Password account through its Enterprise level account then there may be additional requirements for us to meet, based on the contracts with the organization. For further information, please read below the section 1Password Product or Account provided by your Organization.
+AgileBits fully complies with applicable data protection laws. If you are affiliated to an organization who provides you with 1Password account through its Enterprise level account then there may be additional requirements for us to meet, based on the contracts with the organization. For further information, please read below the section 1Password Product or Account provided by your Organization.
 
 Data Location
 
@@ -113,7 +113,7 @@ Third-Party Data Processors
 
 Your Secure and Service data are held by third-party data processors, who provide us with hosting and other infrastructure services. The locations of these are described above. In many cases (but we cannot promise that this will always be the case) even Service data held by these entities is encrypted with keys held only by us.
 
-Data needed to process payments is collected by our payment processor, Stripe, Inc., which conforms to the U.S.-E.U. Privacy Shield Framework. See https://stripe.com/in/legal/privacy-shield-policy
+Data needed to process payments is collected by our payment processor, Stripe, Inc., which conforms to the U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce (collectively, the “DPF”). See https://stripe.com/legal/data-privacy-framework.
 
 Contacting You
 
@@ -148,7 +148,9 @@ Disaster recovery and data availability requirements mean that AgileBits has a l
 
 (iv) Your right to access and control your personal data
 
-You can also make choices about collection and use of your data by AgileBits. You can control your personal data and exercise your data protection rights by contacting AgileBits at the address and information provided below. You can add, remove, edit, change any data that are in the 1Password vault. If you are an affiliate of an organization which provides you with the access to 1Password account and services, there may be certain restrictions to the above, based on your affiliate organization’s privacy or other similar policies. For further details, please review below the section under 1Password Product or Account provided by your Organization.
+You can control your personal data and exercise your data protection rights by contacting AgileBits at dsar@1password.com.
+
+In addition, you can add, remove, edit, change any data that are in the 1Password vault. If you are an affiliate of an organization which provides you with the access to 1Password account and services, there may be certain restrictions to the above, based on your affiliate organization’s privacy or other similar policies. For further details, please review below the section under 1Password Product or Account provided by your Organization.
 
 Cookies and Tracking
 
@@ -156,7 +158,7 @@ We do set and use cookies (small text files placed on your device) on our own do
 
 You may disable cookies in your browser and continue to use our services without impact. We do not use third-party trackers in our web application (my.1password.com), or our client applications for macOS, Windows, Linux, Android or iOS.
 
-Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Account Password, and Secret Key) on subsequent sign-ins. For more information on our use of cookies, please visit our Cookie Policy page here.
+Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Account Password, and Secret Key) on subsequent sign-ins. For more information on our use of cookies, please visit our Cookie Policy page here.
 
 Consent for Underage Enrollment
 
@@ -174,7 +176,7 @@ In an event of a breach, we recognize our responsibility to our customers and to
 
 1Password Product or Account provided by your Organization
 
-When we offer 1Password products and services to you through your organization, we continue to adhere to the Canadian privacy laws and the data protection requirements under the GDPR. We follow the Canadian data privacy laws and the GDPR, in addition to any requirements under the contracts with your organization, to ensure that your data are located, and if applicable, appropriately transferred.
+When we offer 1Password products and services to you through your organization, we continue to adhere to applicable data protection laws, in addition to any requirements under the contracts with your organization, to ensure that your data are located, and if applicable, appropriately transferred.
 
 If you use a 1Password product or 1Password account to access our products and services, and such 1Password product or 1Password account was provided by the organization that you are affiliated with, that organization is the controller or the administrator of your 1Password product or 1Password account. Your organization can access and process your data associated with your 1Password product or account. If your organization provides you with access to 1Password product or 1Password account, your use of the product or account is subject to your organisation’s policies, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organization’s administrator. We are not responsible for the privacy or security practices of your organization, which may differ from those set out in this privacy policy.
 
@@ -186,7 +188,9 @@ At our discretion, we may make changes to this Policy and note the date of the l
 
 Contact Us
 
-If you have any questions about this Policy, you can contact our support team or write us by mail at:
+If you have any questions about this Policy, you can contact us at privacy@1Password.com or write us by mail at:
+
+Privacy Office
 
 4711 Yonge St, 10th Floor,
 Toronto, Ontario,
@@ -197,50 +201,76 @@ Supervisory Authority
 
 If you have concerns or complaints about this policy or practices with regard to that you do not feel you can resolve through contacting us, you should bring those concerns to your local regulatory authority.
 
-For residents of the European Union, our primary Supervisory Authority is the Berlin Commissioner for Data Protection and Information Freedom.
-
-Berliner Beauftragte für Datenschutz und Informationsfreiheit
-Friedrichstr. 219
-10969 Berlin, Germany
-
-Tel.: +49 30 13889-0
-Fax: +49 30 2155050
-E-Mail: mailbox@datenschutz-berlin.de
-https://www.datenschutz-berlin.de/
-🙌 Thanks for reading! ❤️
-
 Glossary
+
 AgileBits, we, our, Service Provider
-AgileBits Inc., a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. Owners and operators of 1Password. As Data Processors, we include AgileBits’ employees and subcontractors appointed by AgileBits.
+
+AgileBits Inc., a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. Owners and operators of 1Password. As Data Processors, we include AgileBits' employees and subcontractors appointed by AgileBits.
+
 Data Processor
+
 Data Processor as defined by the GDPR. We and the subprocessors (hosting services, payment processors) we appoint are the Data Processors.
+
 Account Password
+
 A user secret that, along with the user’s Secret Key, is necessary to decrypt Secure Data.
+
 AgileBits staff, staff
+
 Our Directors, employees, and subcontractors
+
 GDPR
-European Union’s General Data Protection Regulation
+
+European Union’s General Data Protection Regulation
+
 Decrypt
+
 Decryption transforms encrypted data back to its original form. It cannot be performed without the appropriate cryptographic key.
+
 Encrypt, Encryption
+
 Encryption transforms usable data into a form that conceals all information contained in the original data. This data transformation uses a cryptographic key.
+
 Owner, Organizer
+
 Business and Family accounts, which allow for multiple members, will have Owners or Organizers. Owners and Organizers have some rights over the data belonging to members of the Business or Family.
+
 Personal Data
-As defined under the Canadian privacy laws and the GDPR.
+
+As defined under applicable data protection laws.
+
 Secret Key
+
 A user secret typically stored on the user’s device that is necessary, along with the user’s Account Password to decrypt Secure Data.
+
 Subprocessor
+
 Anyone other than us who we have appointed to process customer data. Subprocessors can see no more data than we can see. Examples include our data hosting providers and payment processors.
+
 Supervisory Authority
+
 A local regulator under the GDPR which has the job of seeing that we protect your data properly.
+
 Secure Data
+
 Data encrypted with keys derived from the user’s Account Password and Secret Key. This data cannot be decrypted by AgileBits.
+
 Service Data
+
 Data about a user account, which is available to AgileBits.
+
 You, Data Subject
+
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
+
 Change log
+
+2023-11-1:
+
+We have updated various communication channels for questions and data subject access right requests
+We have updated specific references to GDPR and Canadian privacy laws, with applicable data protection laws.
+We have updated the references to US Privacy Shield to the “DPF.”
+We have removed an outdated Supervisory Authority.
 
 2023-06-22:
 
@@ -252,7 +282,7 @@ We have added language regarding our use of third-party trackers on our web page
 
 2021-10-21:
 
-We have added language clarifying the use of your 1Password websites’ visits related data.
+We have added language clarifying the use of your 1Password websites' visits related data.
 
 2021-04-15:
 
@@ -277,18 +307,27 @@ Typographical error corrected. No change in meaning.
 2018-03-15:
 
 More explicity include data processing agreement (GDPR)
+
 Status of AgileBits contractors and employees wrt to data processing (GDPR)
+
 More GDPR terms in the glossary.
+
 Open with a statement of purpose of this document
+
 Business accounts
+
 Explicitly discuss philosophy that customer has rights to their own data (spirit of GDPR)
+
 Right of Erasure (GDPR)
+
 Right to Access (GDPR)
+
 Breach notification (GDPR)
 
 2017-09-07:
 
 We clarified how we help you keep your data when we part ways.
+
 We also expanded on how your Secure Data is handled on our end.
 
 Archived versions
