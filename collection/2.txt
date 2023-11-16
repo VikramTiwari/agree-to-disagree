@@ -10,7 +10,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective October 4, 2023 | Archived versions
+Effective November 15, 2023 | Archived versions
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -549,7 +549,7 @@ A flight confirmation email you receive may be used to create a “check-in” b
 When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
 detect abuse
 
-When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
+When we detect spam, malware, illegal content (including child sexual abuse and exploitation material), and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
 
 devices
 
