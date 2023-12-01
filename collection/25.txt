@@ -1,32 +1,9 @@
 Public Network Terms of Service
-Stack Overflow for Teams Terms of Service
-Free
-Basic
-Business
-API Terms of Use
-Advertising Terms of Service
-Agency IAB Terms
-Advertiser IAB Terms
-Employer Branding Agreement
-Privacy Policy
-Teams: Free, Basic & Business
-Teams, Enterprise
-Collectives
-Integrations
-Microsoft Teams - Teams: Free, Basic & Business
-Microsoft Teams - Teams, Enterprise
-Slack - Teams: Free, Basic & Business
-Slack - Teams, Enterprise
-Jira - Teams, Business
-Jira - Teams, Enterprise
-Talent
-General Data Protection Regulation (GDPR)
-Subprocessors
-Stack Overflow for Teams Data Processing Addendum
-Collectives Joint Controller Agreement
-Cookie Policy
 Acceptable Use Policy
-Trademark Guidance
+Privacy Policy
+Collectives
+Cookie Policy
+API Terms of Use
 Digital Services Act
 Contact
 Submit Data Request
