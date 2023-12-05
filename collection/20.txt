@@ -468,9 +468,11 @@ a. European Law prohibits Google from complying with an Instruction;
 
 b. an Instruction does not comply with European Data Protection Law; or
 
-c. Google is otherwise unable to comply with an Instruction, in each case unless such notice is prohibited by European Law. If Customer is a processor,
+c. Google is otherwise unable to comply with an Instruction,
 
-Customer will immediately forward to the relevant controller any notice provided by Google under this section.
+    in each case unless such notice is prohibited by European Law.
+
+If Customer is a processor, Customer will immediately forward to the relevant controller any notice provided by Google under this section.
 
 3. Customer’s Audit Rights. Google will allow Customer or an independent auditor appointed by Customer to conduct audits (including inspections) as described in Section 7.5.2(a) (Customer Audit). During such an audit, Google will make available all information necessary to demonstrate compliance with its obligations under this Addendum and contribute to the audit as described in Section 7.5 (Reviews and Audits of Compliance) and this section.
 
