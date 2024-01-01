@@ -443,7 +443,7 @@ Parties that control collection of personal data. In certain situations, we may 
 Press alt+up to activate
 
 Legal
-© 2023 GitHub, Inc.
+© 2024 GitHub, Inc.
 Terms
 Privacy
 Status
