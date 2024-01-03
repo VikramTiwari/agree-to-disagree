@@ -9,7 +9,7 @@ AgileBits Privacy Policy
 
 Much more than just a policy – 1Password is Private by Design
 
-Last updated: November 1, 2023
+Last updated: January 2, 2024
 
 This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
 
@@ -152,13 +152,51 @@ You can control your personal data and exercise your data protection rights by c
 
 In addition, you can add, remove, edit, change any data that are in the 1Password vault. If you are an affiliate of an organization which provides you with the access to 1Password account and services, there may be certain restrictions to the above, based on your affiliate organization’s privacy or other similar policies. For further details, please review below the section under 1Password Product or Account provided by your Organization.
 
-Cookies and Tracking
+Chat Bots
 
-We do set and use cookies (small text files placed on your device) on our own domains and subdomains to store settings that assist with identifying your account for sign-in. We also use third-party packages and trackers for our public pages that may set cookies on your computer. These cookies are used to understand broad and anonymous user behavior when you visit 1password.com, 1password.ca or 1password.eu. Such user behavior includes time spent by a visitor on the website, most visited webpage, aggregated clicks on signups etc. We also use these third-party cookies to serve more relevant advertisements to visitors once they have left the 1Password website on our partner sites across the web.
+We use chat bots or automated communication tools to facilitate your communications with us across our Services. These tools may collect and record the contents of any communications you send through them. They may also collect analytics information, such as device and usage information. We may disclose this information to our relevant service providers for the purpose of providing these tools, improving our customer support and internal marketing purposes.
 
-You may disable cookies in your browser and continue to use our services without impact. We do not use third-party trackers in our web application (my.1password.com), or our client applications for macOS, Windows, Linux, Android or iOS.
+Cookies and Other Tracking Devices
 
-Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Account Password, and Secret Key) on subsequent sign-ins. For more information on our use of cookies, please visit our Cookie Policy page here.
+First of all, we do not use third-party trackers in our web application (my.1password.com), or our client applications for macOS, Windows, Linux, Android or iOS. However, we set and use cookies (small text files placed on your device) and other tracking devices on our own domains and subdomains to store settings that assist with identifying your account for sign-in. For the purposes of this section, we will call both cookies and other tracking devices “cookies.” We also use third-party packages and trackers for our public pages that may set cookies on your computer. These cookies collect identifiable information that allows us to better understand our audience and serve more relevant advertisements to visitors once they leave the 1Password website. We also use these cookies to understand broad and anonymous user behavior when you visit the 1password.com websites. Such user behavior includes time spent by a visitor on the website, most visited webpage, etc.
+
+What Types of Cookies Do We Use and Why?
+
+The following information lists the different types of cookies implemented on 1Password.com websites, examples of who serves those cookies, and links to the privacy notices of those cookie servers. Because the specific cookies we use may vary over time, as well as differ by the specific page you are browsing, the information below is illustrative only.
+
+Essential Cookies
+
+Purpose : These cookies are essential for the website to function properly. They enable basic website functionality, such as account permissions and security.
+
+Who Serves these Cookies : 1Password, Transcend, Google, Unleash
+
+Functional Cookies
+
+Purpose : Functional cookies are used to support and enhance website functionality. Information collected through functional cookies may be available to third parties.
+
+Who Serves these Cookies : 1Password
+
+Analytics Cookies
+
+Purpose : Analytics cookies help us understand how visitors interact with our website, enabling us to improve user experience and optimize our content. Information collected through analytics cookies may be available to third parties.
+
+Who Serves these Cookies : Google, Trade Desk
+
+Marketing Cookies
+
+Purpose : We use marketing cookies to personalize your experience, show you targeted ads, and analyze the effectiveness of our marketing campaigns. Information collected through marketing cookies may be available to third parties.
+
+Who Serves these Cookies : Google, Trade Desk
+
+We do not use cookies in a manner that discloses to third parties that a specific person viewed specific video materials. However, we may use embedded video content that provides you access to content hosted on third party websites. The hosts of such embedded videos may place cookies on your device when you view their content. Any cookies or other information collected through such embedded videos are subject to the terms of the provider’s privacy policy.
+
+How Long Do Cookies Stay on My Device?
+
+Some cookies operate from the time you visit the 1Password websites until the end of that particular browsing session. These cookies, which are called “session cookies,” expire and are automatically deleted when you close your Internet browser. Some cookies will stay on your device between browsing sessions and will not expire or automatically delete when you close your Internet browser. These cookies are called “persistent cookies” and the length of time they will remain on your device will vary from cookie to cookie. Persistent cookies are used for a number of purposes, such as storing your preferences so that they are available for your next visit and to keep a more accurate account of how often you visit the Website, how your use of the Services may change over time, and the effectiveness of advertising efforts.
+
+Managing Cookies
+
+You may disable cookies in your browser at any time. Please note that disabling all cookies may result in performance issues on our website. Client applications, including web browsers, will store information about your account to assist with future sign-ins and keep some information available to you when you are not signed in. Users may remove all such information from their devices, but doing so will require that they provide complete information (account details, Account Password, and Secret Key) on subsequent sign-ins. We also provide you with the ability to opt-out of non-essential cookies through the tools available in the footer of our webpage.
 
 Consent for Underage Enrollment
 
@@ -264,6 +302,10 @@ You, Data Subject
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
 
 Change log
+
+2024-01-02:
+
+We have added a section explaining the use of Chatbots and have amended the section on Cookies and Tracking
 
 2023-11-1:
 
