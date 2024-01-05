@@ -293,7 +293,9 @@ Kaggle does not sell your personal information. We only share your information a
 The CCPA requires a description of data practices using specific categories. This table uses these categories to organize the information in this Privacy Policy.
 
 Categories of personal information we collect
+
 Business purposes for which information may be used or disclosed
+
 Parties with whom information may be shared
 
 Identifiers such as your name, phone number, and address, as well as unique identifiers tied to the browser, application, or device you’re using.
