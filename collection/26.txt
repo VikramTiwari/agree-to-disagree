@@ -9,3 +9,8 @@ Detailed information about this error has automatically been recorded and we hav
 Yes, we do look at every error. We even try to fix some of them.
 
 It’s not strictly necessary, but if you’d like to give us additional information about this error, do so at our feedback site, https://meta.stackoverflow.com.
+
+By clicking “Accept all cookies”, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy.
+Accept all cookies
+Necessary cookies only
+Customize settings
