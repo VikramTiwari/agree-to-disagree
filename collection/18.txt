@@ -43,12 +43,12 @@ Sign In
 Register
 Kaggle uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
 Learn more.
-Ok, Got it.
+OK, Got it.
 Privacy Policy
 
 Em português
 
-Effective Date: September 15, 2023
+Effective Date: February 5, 2024
 
 Welcome, and thank you for your interest in Kaggle Inc. (“Kaggle”), and our website(s), products, services and applications (the “Services”). This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information. If you have any questions about this Privacy Policy, you can contact us here.
 
@@ -133,6 +133,10 @@ Protect Kaggle, Our Users, and the Public
 We use information to help improve the safety and reliability of our Services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Kaggle, our users, or the public. For example, we collect and analyze IP addresses and cookie data to protect against automated abuse. This abuse can take many forms, such as sending spam to Kaggle users or launching a Distributed Denial of Service (DDoS) attack.
 
 We also analyze your content to help us detect abuse such as spam, malware, and illegal content. When we detect spam, malware, illegal content, and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
+
+ReCaptcha
+
+This site is protected by reCaptcha and the Google Privacy Policy and Terms of Service apply.
 
 Managing and Deleting Your Information
 Managing, Reviewing, and Updating Your Information

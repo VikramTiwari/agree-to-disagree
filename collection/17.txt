@@ -43,7 +43,7 @@ Sign In
 Register
 Kaggle uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
 Learn more.
-Ok, Got it.
+OK, Got it.
 Terms
 
 PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS. IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.
