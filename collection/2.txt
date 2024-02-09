@@ -10,7 +10,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective January 15, 2024 | Archived versions
+Effective February 8, 2024 | Archived versions
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -374,7 +374,7 @@ Auditing and measurement: Google uses information for analytics and measurement 
 
 Maintaining our services: Google uses information to ensure our services are working as intended, such as tracking outages or troubleshooting bugs and other issues that you report to us.
 
-Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities.
+Research and development: Google uses information to improve our services and to develop new products, features and technologies that benefit our users and the public. For example, we use publicly available information to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities.
 
 Use of service providers: Google shares information with service providers to perform services on our behalf, in compliance with our Privacy Policy and other appropriate confidentiality and security measures. For example, we may rely on service providers to help provide customer support.
 
@@ -621,7 +621,7 @@ For example, information about security threats can help us notify you if we thi
 
 publicly accessible sources
 
-For example, we may collect information that’s publicly available online or from other public sources to help train Google’s AI models and build products and features like Google Translate, Bard, and Cloud AI capabilities. Or, if your business’s information appears on a website, we may index and display it on Google services.
+For example, we may collect information that’s publicly available online or from other public sources to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities. Or, if your business’s information appears on a website, we may index and display it on Google services.
 
 rely on cookies to function properly
 
