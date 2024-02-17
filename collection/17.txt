@@ -50,7 +50,7 @@ PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJ
 
 Terms of Use
 
-Effective Date: May 26, 2022
+Effective Date: February 16, 2024
 
 Welcome to Kaggle. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these Terms or the Services, please contact us. These Terms of Use (the “Terms”) are a binding contract between you and Kaggle Inc. (“Kaggle,” “we” and “us”). Kaggle is organized under the laws of the State of Delaware, USA, and has offices located at 1600 Amphitheatre Parkway, Mountain View, California 94043 USA. You must agree to and accept all of the Terms, or you don’t have the right to use the Services. Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document, as well as those in the Privacy Policy, Copyright Dispute Policy and the Community Guidelines. In these Terms, the words “include” or “including” mean “including but not limited to”, and examples are for illustration purposes and are not limiting.
 
@@ -228,6 +228,8 @@ Limitation of Liability. TO THE FULLEST EXTENT ALLOWED BY APPLICABLE LAW, UNDER 
 Indemnity. To the fullest extent allowed by applicable law, you will defend, indemnify and hold Kaggle, its affiliates, officers, agents, employees, and partners harmless from and against any and all claims, liabilities, damages (actual and consequential), losses and expenses (including attorneys’ fees) arising from or in any way related to any third party claims (including from other users) relating to (a) your submissions to the Services including any Content, User Submissions or Competitions, (b) your use of the Services (including any actions taken by a third party using your account), and (c) your violation of these Terms.
 
 Assignment. You may not assign, delegate or transfer these Terms or your rights or obligations hereunder, or your Services account, in any way (by operation of law or otherwise) without Kaggle’s prior written consent. We may transfer, assign, or delegate these Terms and our rights and obligations without consent.
+
+Compliance. In accordance with Article 13 under the Digital Services Act, Kaggle has appointed Google Ireland Limited, a company incorporated and operating under the laws of Ireland, registered number 368047 and located at Gordon House, Barrow Street, Dublin, Ireland as its legal representative for the services offered to users in the EEA which come in scope of the Digital Services Act. For questions, please contact: dsalegalrepresentative@google.com
 
 About These Terms
 
