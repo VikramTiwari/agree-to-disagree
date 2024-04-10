@@ -624,6 +624,14 @@ e. business continuity and disaster recovery policies or procedures.
 
 Customer is solely responsible for securing (other than physical security of Bare Metal Solution servers), logging and monitoring, maintaining and supporting, and backing up any Operating Systems, Customer Data, software, and applications Customer uses with, uploads to, or hosts on Bare Metal Solution.
 
+Cloud NGFW (Google Cloud Platform)
+
+The edition of Cloud NGFW titled “Cloud NGFW Enterprise” (“CNE”) is designed to mitigate cybersecurity risks and, as such, has certain distinct characteristics.
+
+1. Amendments.  The Addendum is amended as follows with respect to CNE:
+
+Sections 6.1 (Deletion by Customer) and 6.2 (Return or Deletion When Term Ends) will not prevent Google or Subprocessors from retaining any file or network traffic packet capture submitted for TSS purposes and designated by CNE as a security threat, provided that the file or network traffic packet capture does not include Customer Personal Data.
+
 Google Distributed Cloud Edge (Google Cloud Platform)
 
 Google Distributed Cloud Edge (“GDCE”) is not deployed at a Google data center and, by design, has certain distinct characteristics.
@@ -833,5 +841,5 @@ Previous versions of SecOps Services DPST (Customers):
 
 February 6, 2023 November 28, 2022 September 27, 2021 October 1, 2020
 
-PREVIOUS VERSIONS (Last modified November 8, 2023)
-August 15, 2023  September 20, 2022 
+PREVIOUS VERSIONS (Last modified April 9, 2024)
+November 8, 2023  August 15, 2023  September 20, 2022 
