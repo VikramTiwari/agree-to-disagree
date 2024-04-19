@@ -1,3 +1,5 @@
+Log In
+Forgot Account?
 
 
 
@@ -144,7 +146,7 @@ Live Policies: These policies apply to all content broadcast to Facebook Live.
 
 Date of Last Revision: July 26 2022
 English (US)EspañolFrançais (France)中文(简体)العربيةPortuguês (Brasil)Italiano한국어Deutschहिन्दी日本語
-Sign UpLog InMessengerFacebook LiteVideoPlacesGamesMarketplaceMeta PayMeta StoreMeta QuestImagine with Meta AIInstagramThreadsFundraisersServicesVoting Information CenterPrivacy PolicyConsumer Health PrivacyPrivacy CenterGroups
+Sign UpLog InMessengerFacebook LiteVideoPlacesGamesMarketplaceMeta PayMeta StoreMeta QuestMeta AIInstagramThreadsFundraisersServicesVoting Information CenterPrivacy PolicyConsumer Health PrivacyPrivacy CenterGroups
 Privacy
  
  · Consumer Health Privacy
