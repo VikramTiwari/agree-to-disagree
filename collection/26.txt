@@ -61,6 +61,7 @@ intercom.com	gtm_id	3rd Party
 artstation.com	__cf_bm	3rd Party
 ajax.googleapis.com	OptanonAlertBoxClosed, OptanonConsent	3rd Party
 www.pluralsight.com	__cf_bm	3rd Party
+superuser.com	__cf_bm	3rd Party
 discordapp.com	__cf_bm	3rd Party
 
 Additionally, some strictly necessary cookies are dynamically generated based on unique identifiers. These cookies are:
@@ -97,12 +98,13 @@ Targeting Cookies
 These cookies are used to make advertising messages more relevant to you and may be set through our site by us or by our advertising partners. They may be used to build a profile of your interests and show you relevant advertising on our site or on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
 
 Domain	Cookies	Used as
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	__gads, _gat_legacyTracker, _so_tgt, urr	1st Party
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com	__gads, __gpi, _gat_legacyTracker, _so_tgt, urr	1st Party
 bidr.io	bito, bitoIsSecure	1st Party
 everesttech.net	everest_g_v2	1st Party
 pt.stackoverflow.com	GoogleAdServingTest	1st Party
 youtube.com	GPS	3rd Party
 linkedin.com	bcookie, lang, li_gc, lidc, lissc, UserMatchHistory	3rd Party
+adnxs.com	anj, uuid2	3rd Party
 twitter.com	guest_id, guest_id_ads, guest_id_marketing, personalization_id	3rd Party
 mathtag.com	mt_mop, uuid	3rd Party
 yandex.ru	i, yandexuid, ymex	3rd Party
