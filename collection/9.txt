@@ -1,3 +1,5 @@
+Skip to Main Content
+Terms of Service
 Terms of Service
 
 Service Agreement for 1Password users and customers
@@ -93,6 +95,7 @@ AgileBits Inc., its directors, employees, partners, agents, suppliers, or affili
 
 Disclaimer And Non-Waiver of Rights
 
+
 AgileBits Inc. makes no guarantees, representations or warranties of any kind as regards the website and associated technology. Any purportedly applicable warranties, terms and conditions are excluded, to the fullest extent permitted by law. Your use of the Service is at your sole risk.
 
 The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance, except as provided for under the laws of any province in Canada. In such cases, the provincial law shall apply to the extent necessary.
@@ -136,8 +139,11 @@ Contact Us
 If you have any questions about these Terms, you can contact our support team or write us by mail at:
 
 4711 Yonge Street, 10th Floor
+
 Toronto, Ontario,
+
 M2N 6K8
+
 Canada
 
 Subscription Terms for Business Customers
@@ -149,6 +155,7 @@ This Subscription Agreement is entered into by and between AgileBits Inc. dba 1P
 1Password and Customer are collectively referred to as the Parties and individually as a Party. If you are entering into this Subscription Agreement on behalf of a company or legal entity, you represent that you have the authority to bind such entity to these terms and conditions. This Subscription Agreement permits Customer to access and use Services pursuant to the terms and conditions contained herein.
 
 1. DEFINITIONS
+
 
 (i) Agreement means the Order Form and this Subscription Agreement and any other documents, such as, the 1Password privacy policy or the 1Password Data Protection Agreement attached hereto by reference.
 
@@ -190,6 +197,7 @@ This Subscription Agreement is entered into by and between AgileBits Inc. dba 1P
 
 3. FEES AND PAYMENT
 
+
 3.1 Subscription Fees. If the Customer has directly purchased and subscribed to the Services through one of the 1Password websites (www.1Password.com, www.1Password.eu or www.1Password.ca) in which case the Subscription Fees including applicable taxes will be charged at the time of transaction (direct billing). Otherwise, the Subscription Fees payable for the Services are based on Customer’s number of Users as set forth in the Order Form or modified in accordance with this Section 3.1. Except as otherwise set forth herein or in an Order Form, (i) fees are quoted and payable in United States dollars, (ii) fees are based on subscription Services purchased, and (iii) payment obligations are non-cancelable and fees paid are non-refundable, except as permitted in Section 6.1, Section 7.2, Section 9.3, or Section 11.2. A direct billing Customer may purchase additional subscription Services for its Users at any time through www.1Password.com, www.1Password.eu or www.1Password.ca. A Customer who purchases Subscription by way of an Order Form may at any time request additional Users during the Subscription Term. 1Password shall, on quarterly basis, reconcile Customer’s account for any additional Users. Fees associated with the additional Users shall be applicable from the Effective Date of a new Order Form for such additional Users and Fees shall be due payable within 30 days of the Effective Date. For the avoidance of doubt, all renewals shall be invoiced at the applicable number of Users in place at the conclusion of the prior Subscription Term.
 
 3.2 Additional Services or Professional Services; Expenses. Customer and 1Password may enter into a statement of work for additional services or professional services and any applicable expenses. The statement of work will include terms related to such additional services or professional services, or any expenses. A separate Order Form shall be agreed and executed between the Parties for such additional services or professional services, as applicable.
@@ -201,6 +209,7 @@ This Subscription Agreement is entered into by and between AgileBits Inc. dba 1P
 3.5 Taxes. Customer agrees to pay all applicable taxes levied by any tax authority on the Service or on Customer's use thereof, which shall be separately invoiced, excluding taxes based on the net income of 1Password. Customer shall provide to 1Password any certificate of exemption or similar document required to exempt any transaction under this Agreement from sales tax or other tax liability.
 
 4. PROPRIETARY RIGHTS
+
 
 4.1 Reservation of Rights. As between the Parties, the Service and all intellectual property rights therein, are and will remain the sole property of 1Password, and no rights are granted to Customer with respect to the Services, or the intellectual property rights therein, other than the limited rights and licenses specified in this Agreement. Customer will not access or use the Services, or the intellectual property rights therein, except as expressly permitted by this Agreement.
 
@@ -242,7 +251,9 @@ This Subscription Agreement is entered into by and between AgileBits Inc. dba 1P
 
 7.3 Customer Indemnification. Customer agrees to defend 1Password against any Claims made or brought against 1Password by a third party alleging that the Customer Data or any other information provided by Customer to 1Password for use in connection with the Services, infringes or violates the intellectual property rights or privacy rights of a third party and to indemnify 1Password from any damages finally awarded by a court of competent jurisdiction against 1Password or amounts agreed to in settlement in connection with any such Claim. Customer's obligations under this paragraph shall only apply to the extent that: (a) 1Password promptly notifies Customer in writing of the Claim; (b) Customer has control of the defense and all related settlement negotiations relating to the Claim, provided however the settlement of any Claim shall not be made without advance written permission of 1Password, which shall not be unreasonably withheld; and (c) 1Password provides Customer with the assistance, information and authority reasonably necessary to perform the foregoing. 1Password shall promptly provide Customer with written notice of any Claim which 1Password believes falls within the scope of this Section. 1Password's failure to provide written notice to Customer shall not affect Customer's indemnification obligations hereunder except to the extent that Customer is materially prejudiced thereby. At any time after Customer becomes aware of any such Claim, Customer may procure for 1Password the right to continue to use the information for use in connection with the Services at its own expense. 1Password shall not be responsible for any delay or disruption to the Customer's use of the Services, including any damages stemming therefrom, caused by a Claim falling under this section.
 
-8. LIMITATION OF LIABILITY. IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER FOR ANY LOST PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER OR PUNITIVE DAMAGES, HOWEVER CAUSED, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. EXCEPT FOR ITS OBLIGATIONS UNDER SECTION 5 (CONFIDENTIALITY) AND SECTION 7 (INDEMNIFICATION), IN NO EVENT SHALL 1PASSWORD 'S LIABILITY FOR DAMAGES UNDER THIS AGREEMENT FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, EXCEED THE AMOUNT OF MONEY PAID BY CUSTOMER FOR THE SERVICE DURING THE 12-MONTH PERIOD IMMEDIATELY PRECEDING THE INCIDENT. WITH RESPECT TO ITS OBLIGATIONS UNDER SECTION 7 (INDEMNIFICATION) ABOVE, THE LIABILITY OF 1PASSWORD TO CUSTOMER FOR ACTUAL DAMAGES FROM ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION (WHETHER IN CONTRACT, TORT OR OTHERWISE), SHALL NOT EXCEED THE TOTAL AMOUNT OF FEES PAID (OR PAYABLE) BY CUSTOMER TO 1PASSWORD HEREUNDER. THE FOREGOING SHALL NOT LIMIT THE PARTIES' PAYMENT OBLIGATIONS UNDER SECTION 3 ABOVE. CUSTOMER ACKNOWLEDGES THAT THE AMOUNT OF FEES PAYABLE BY CUSTOMER TO 1PASSWORD HEREUNDER REFLECT THE ALLOCATION OF RISK SET FORTH IN THIS AGREEMENT AND THAT 1PASSWORD WOULD NOT HAVE ENTERED INTO THIS AGREEMENT WITHOUT THE LIMITATIONS ON ITS LIABILITY CONTAINED IN THIS SECTION. THESE LIABILITY LIMITATIONS APPLY EVEN IF CONTRACTUAL REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE.
+8. LIMITATION OF LIABILITY.
+
+IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER FOR ANY LOST PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER OR PUNITIVE DAMAGES, HOWEVER CAUSED, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. EXCEPT FOR ITS OBLIGATIONS UNDER SECTION 5 (CONFIDENTIALITY) AND SECTION 7 (INDEMNIFICATION), IN NO EVENT SHALL 1PASSWORD 'S LIABILITY FOR DAMAGES UNDER THIS AGREEMENT FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, EXCEED THE AMOUNT OF MONEY PAID BY CUSTOMER FOR THE SERVICE DURING THE 12-MONTH PERIOD IMMEDIATELY PRECEDING THE INCIDENT. WITH RESPECT TO ITS OBLIGATIONS UNDER SECTION 7 (INDEMNIFICATION) ABOVE, THE LIABILITY OF 1PASSWORD TO CUSTOMER FOR ACTUAL DAMAGES FROM ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION (WHETHER IN CONTRACT, TORT OR OTHERWISE), SHALL NOT EXCEED THE TOTAL AMOUNT OF FEES PAID (OR PAYABLE) BY CUSTOMER TO 1PASSWORD HEREUNDER. THE FOREGOING SHALL NOT LIMIT THE PARTIES' PAYMENT OBLIGATIONS UNDER SECTION 3 ABOVE. CUSTOMER ACKNOWLEDGES THAT THE AMOUNT OF FEES PAYABLE BY CUSTOMER TO 1PASSWORD HEREUNDER REFLECT THE ALLOCATION OF RISK SET FORTH IN THIS AGREEMENT AND THAT 1PASSWORD WOULD NOT HAVE ENTERED INTO THIS AGREEMENT WITHOUT THE LIMITATIONS ON ITS LIABILITY CONTAINED IN THIS SECTION. THESE LIABILITY LIMITATIONS APPLY EVEN IF CONTRACTUAL REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE.
 
 9. TERM AND TERMINATION
 
@@ -287,9 +298,83 @@ In addition, 1Password and the Customer shall comply with all applicable laws, r
 Change Log
 
 2021-09-23: We added Terms of Service for Business Customers.
+
 2021-04-15: We changed our office address.
+
 2019-04-04: We added a section about operational emails.
+
 2018-10-26: We changed our office address.
+
 2017-09-08: We clarified what happens if we part ways.
 
-Archived revisions
+Archived revisions >
+
+
+
+
+
+
+
+
+Terms of Service
+English
+Show options
+1Password Products
+Extended Access Management
+Enterprise Password Manager
+Password Manager
+Passage
+Password Generator
+Username Generator
+Comparison
+Demos
+Switch
+Pricing
+Features
+Autofill
+Password Sharing
+Two-factor Authentication
+Passkeys
+Resources
+Webinars
+Customer Stories
+Resource library
+Blog
+1Password University
+Security
+Privacy
+Developers
+Developer Documentation
+Developer Community
+Integrations
+Secrets Management
+Bug Bounty
+Support
+Support Community
+Customer Support
+Privacy Support
+Company
+About
+We're Hiring!
+Press
+Podcast
+Newsletter
+Legal Center
+Trust Center
+Partners
+Affiliate
+Partnerships
+Downloads
+macOS
+Windows
+iOS
+Android
+Browser
+Linux
+CLI
+Terms of Service
+Cookie Policy
+Your Privacy Options
+Privacy Policy
+Accessibility
+© 2024 1Password. All rights reserved. 4711 Yonge St, 10th Floor, Toronto Ontario, M2N 6K8, Canada
