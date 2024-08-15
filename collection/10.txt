@@ -1,10 +1,13 @@
+Skip to Main Content
+Legal
+Privacy Policy
 AgileBits Privacy Policy
 
-Much more than just a policy – 1Password is Private by Design
+Much more than just a policy – 1Password is Private by Design.
 
 Last updated: January 2, 2024
 
-This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
+This Privacy Policy applies to the websites owned and operated (“Website”) by AgileBits Inc., doing business as 1Password (1Password, We, Us, or Our). This Privacy Policy describes how 1Password collects and uses the personal data collected through the Website (including, but not limited to, www.1Password.com, www.1Password.eu and www.1Password.ca) and Services located behind the logins of 1Password applications. It also describes individual rights regarding the use of, access to, and how to update, correct, or remove personal information. The use of information collected through Our Services shall be limited to the purpose of providing the Service for which 1Password is engaged.
 
 If you have questions or complaints regarding this Privacy Policy or Our practices, please contact Us via email at privacy@1password.com.
 
@@ -20,7 +23,7 @@ Who are You
 
 Unless otherwise noted, we refer you, the Customer, as an owner or organizer of an individual, family, team, or business account.
 
-If you represent an organization, such as a business or educational institution, that utilizes 1Password products or services through Enterprise accounts or if you are an end user of 1Password product or a 1Password account provided by your organization, please see the 1Password Enterprise Accounts section of this privacy statement to learn how we process your data.
+If you represent an organization, such as a business or educational institution, that utilizes 1Password products or services through Enterprise accounts or if you are an end user of 1Password product or a 1Password account provided by your organization, please see the 1Password Enterprise Accounts section of this privacy statement to learn how we process your data.
 
 Non-Owners
 
@@ -69,11 +72,17 @@ Information Collected from Your Use of Our Website
 In a few areas on Our Website, We ask you to provide personal information that will enable Us to enhance your site visit, to assist you with technical support issues or to follow up with you after your visit. It is completely optional for you to participate. For example, We request information from you when you:
 
 Subscribe to a newsletter
+
 Participate in promotional offers
+
 1Password uses your information for specific purposes. Your information may be used to:
+
 Send you requested information about 1Password
+
 Provide support
+
 Market 1Password products or Services to you
+
 Provide you with access to 1Password Services
 
 Personal information you provide will be kept confidential and used to support your customer relationship with Our company.
@@ -92,7 +101,7 @@ If 1Password is involved in a merger, acquisition, or sale of all or a portion o
 
 Compliance with the laws
 
-AgileBits fully complies with applicable data protection laws. If you are affiliated to an organization who provides you with 1Password account through its Enterprise level account then there may be additional requirements for us to meet, based on the contracts with the organization. For further information, please read below the section 1Password Product or Account provided by your Organization.
+AgileBits fully complies with applicable data protection laws. If you are affiliated to an organization who provides you with 1Password account through its Enterprise level account then there may be additional requirements for us to meet, based on the contracts with the organization. For further information, please read below the section 1Password Product or Account provided by your Organization.
 
 Data Location
 
@@ -100,7 +109,7 @@ Data Location
 
 Customer support system
 
-Our customer support and email services are hosted primarily in the United States. Any information you choose send us through email or our customer support system may pass through and be stored on a variety of intermediate services. If you wish, you may encrypt email to us using our PGP public key.
+Our customer support and email services are hosted primarily in the United States. Any information you choose send us through email or our customer support system may pass through and be stored on a variety of intermediate services. If you wish, you may encrypt email to us using our PGP public key.
 
 Third-Party Data Processors
 
@@ -143,7 +152,7 @@ Disaster recovery and data availability requirements mean that AgileBits has a l
 
 You can control your personal data and exercise your data protection rights by contacting AgileBits at dsar@1password.com.
 
-In addition, you can add, remove, edit, change any data that are in the 1Password vault. If you are an affiliate of an organization which provides you with the access to 1Password account and services, there may be certain restrictions to the above, based on your affiliate organization’s privacy or other similar policies. For further details, please review below the section under 1Password Product or Account provided by your Organization.
+In addition, you can add, remove, edit, change any data that are in the 1Password vault. If you are an affiliate of an organization which provides you with the access to 1Password account and services, there may be certain restrictions to the above, based on your affiliate organization’s privacy or other similar policies. For further details, please review below the section under 1Password Product or Account provided by your Organization.
 
 Chat Bots
 
@@ -151,7 +160,7 @@ We use chat bots or automated communication tools to facilitate your communicati
 
 Cookies and Other Tracking Devices
 
-First of all, we do not use third-party trackers in our web application (my.1password.com), or our client applications for macOS, Windows, Linux, Android or iOS. However, we set and use cookies (small text files placed on your device) and other tracking devices on our own domains and subdomains to store settings that assist with identifying your account for sign-in. For the purposes of this section, we will call both cookies and other tracking devices “cookies.” We also use third-party packages and trackers for our public pages that may set cookies on your computer. These cookies collect identifiable information that allows us to better understand our audience and serve more relevant advertisements to visitors once they leave the 1Password website. We also use these cookies to understand broad and anonymous user behavior when you visit the 1password.com websites. Such user behavior includes time spent by a visitor on the website, most visited webpage, etc.
+We do not use third-party trackers in our web application (my.1password.com), or our client applications for macOS, Windows, Linux, Android or iOS. However, we set and use cookies (small text files placed on your device) and other tracking devices on our own domains and subdomains to store settings that assist with identifying your account for sign-in. For the purposes of this section, we will call both cookies and other tracking devices “cookies.” We also use third-party packages and trackers for our public pages that may set cookies on your computer. These cookies collect identifiable information that allows us to better understand our audience and serve more relevant advertisements to visitors once they leave the 1Password website. We also use these cookies to understand broad and anonymous user behavior when you visit the 1password.com websites. Such user behavior includes time spent by a visitor on the website, most visited webpage, etc.
 
 What Types of Cookies Do We Use and Why?
 
@@ -159,27 +168,27 @@ The following information lists the different types of cookies implemented on 1P
 
 Essential Cookies
 
-Purpose : These cookies are essential for the website to function properly. They enable basic website functionality, such as account permissions and security.
+Purpose: These cookies are essential for the website to function properly. They enable basic website functionality, such as account permissions and security.
 
-Who Serves these Cookies : 1Password, Transcend, Google, Unleash
+Who Serves these Cookies: 1Password, Transcend, Google, Unleash
 
 Functional Cookies
 
-Purpose : Functional cookies are used to support and enhance website functionality. Information collected through functional cookies may be available to third parties.
+Purpose: Functional cookies are used to support and enhance website functionality. Information collected through functional cookies may be available to third parties.
 
 Who Serves these Cookies : 1Password
 
 Analytics Cookies
 
-Purpose : Analytics cookies help us understand how visitors interact with our website, enabling us to improve user experience and optimize our content. Information collected through analytics cookies may be available to third parties.
+Purpose: Analytics cookies help us understand how visitors interact with our website, enabling us to improve user experience and optimize our content. Information collected through analytics cookies may be available to third parties.
 
-Who Serves these Cookies : Google, Trade Desk
+Who Serves these Cookies: Google, Trade Desk
 
 Marketing Cookies
 
-Purpose : We use marketing cookies to personalize your experience, show you targeted ads, and analyze the effectiveness of our marketing campaigns. Information collected through marketing cookies may be available to third parties.
+Purpose: We use marketing cookies to personalize your experience, show you targeted ads, and analyze the effectiveness of our marketing campaigns. Information collected through marketing cookies may be available to third parties.
 
-Who Serves these Cookies : Google, Trade Desk
+Who Serves these Cookies: Google, Trade Desk
 
 We do not use cookies in a manner that discloses to third parties that a specific person viewed specific video materials. However, we may use embedded video content that provides you access to content hosted on third party websites. The hosts of such embedded videos may place cookies on your device when you view their content. Any cookies or other information collected through such embedded videos are subject to the terms of the provider’s privacy policy.
 
@@ -224,8 +233,11 @@ If you have any questions about this Policy, you can contact us at privacy@1Pass
 Privacy Office
 
 4711 Yonge St, 10th Floor,
+
 Toronto, Ontario,
+
 M2N 6K8
+
 Canada
 
 Supervisory Authority
@@ -233,7 +245,6 @@ Supervisory Authority
 If you have concerns or complaints about this policy or practices with regard to that you do not feel you can resolve through contacting us, you should bring those concerns to your local regulatory authority.
 
 Glossary
-
 AgileBits, we, our, Service Provider
 
 AgileBits Inc., a Canadian company located at 4711 Yonge St, 10th Floor, Toronto, Ontario, M2N 6K8, Canada. Owners and operators of 1Password. As Data Processors, we include AgileBits' employees and subcontractors appointed by AgileBits.
@@ -252,7 +263,8 @@ Our Directors, employees, and subcontractors
 
 GDPR
 
-European Union’s General Data Protection Regulation
+
+European Union’s General Data Protection Regulation
 
 Decrypt
 
@@ -295,7 +307,6 @@ You, Data Subject
 You are the Data Subject as defined in the GDPR. In general, we are addressing “you” as the Owner or Organizer of an Individual, Family, Team, or Business account.
 
 Change log
-
 2024-01-02:
 
 We have added a section explaining the use of Chatbots and have amended the section on Cookies and Tracking
@@ -303,8 +314,11 @@ We have added a section explaining the use of Chatbots and have amended the sect
 2023-11-1:
 
 We have updated various communication channels for questions and data subject access right requests
+
 We have updated specific references to GDPR and Canadian privacy laws, with applicable data protection laws.
+
 We have updated the references to US Privacy Shield to the “DPF.”
+
 We have removed an outdated Supervisory Authority.
 
 2023-06-22:
@@ -335,13 +349,13 @@ We changed our office address.
 
 List GDPR Supervisory Authority.
 
-2018-04-04:
+https://1password.com/legal/privacy/privacy-20180511/:
 
 Typographical error corrected. No change in meaning.
 
-2018-03-15:
+https://1password.com/legal/privacy/privacy-20180511/:
 
-More explicity include data processing agreement (GDPR)
+More explicitly include data processing agreement (GDPR)
 
 Status of AgileBits contractors and employees wrt to data processing (GDPR)
 
@@ -366,3 +380,70 @@ We clarified how we help you keep your data when we part ways.
 We also expanded on how your Secure Data is handled on our end.
 
 Archived versions
+
+
+
+
+Legal
+Privacy Policy
+English
+Show options
+1Password products
+Extended Access Management
+Enterprise Password Manager
+Personal Password Manager
+Passage
+Password generator
+Username generator
+Comparison
+Demos
+Switch
+Pricing
+Features
+Autofill
+Password sharing
+Two-factor authentication
+Passkeys
+Resources
+Webinars
+Customer stories
+Resource library
+Blog
+1Password University
+Security
+Privacy
+Developers
+Developer documentation
+Developer Community
+Integrations
+Secrets management
+Bug bounty
+Support
+Support Community
+Customer support
+Privacy support
+Company
+About
+We're hiring!
+Press
+Podcast
+Newsletter
+Legal Center
+Trust Center
+Partners
+Affiliate
+Partnerships
+Downloads
+macOS
+Windows
+iOS
+Android
+Browser
+Linux
+CLI
+Terms of Service
+Cookie Policy
+Your Privacy Options
+Privacy Policy
+Accessibility
+© 2024 1Password. All rights reserved. 4711 Yonge St, 10th Floor, Toronto Ontario, M2N 6K8, Canada
