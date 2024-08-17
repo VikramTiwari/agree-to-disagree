@@ -1,8 +1,15 @@
-Back to Google Cloud Terms Directory 
+Back to Google Cloud Terms Directory
 Current
 Cloud Data Processing Addendum (Customers)
 
 This Cloud Data Processing Addendum (including its appendices, the “Addendum”) is incorporated into the Agreement(s) (as defined below) between Google and Customer. This Addendum was formerly known as the “Data Processing and Security Terms” under an Agreement for Google Cloud Platform, Looker (original) or Google SecOps Services, the “Data Processing Amendment” under an Agreement for Google Workspace or Cloud Identity or the “Data Processing Addendum” under an Agreement for Mandiant Consulting Services and Managed Services.
+
+Expand all
+General Terms
+Appendix 1: Subject Matter and Details of Data Processing
+Appendix 2: Security Measures
+Appendix 3: Specific Privacy Laws
+Appendix 4: Specific Products
 
 Previous versions of Data Processing and Security Terms:
 
@@ -24,5 +31,90 @@ Previous versions of Data Processing Addendum for SecOps Consulting Services and
 
 October 5, 2023 September 19, 2023 June 15, 2023 February 22, 2023 February 6, 2023
 
-PREVIOUS VERSIONS (Last modified August 5, 2024)
-May 23, 2024  April 9, 2024  November 8, 2023  August 15, 2023  September 20, 2022 
+PREVIOUS VERSIONS (LAST MODIFIED AUGUST 5, 2024)
+May 23, 2024
+April 9, 2024
+November 8, 2023
+August 15, 2023
+September 20, 2022
+Overview
+Solutions
+Products
+Pricing
+Resources
+Contact Us
+
+search_spark
+send_spark
+Docs
+Support
+language
+‪English‬
+Sign in
+Start free
+Start free
+Contact Us
+Why Google
+Choosing Google Cloud
+Trust and security
+Open cloud
+Multicloud
+Global infrastructure
+Customers and case studies
+Analyst reports
+Whitepapers
+Blog
+Products and pricing
+Google Cloud pricing
+Google Workspace pricing
+See all products
+Solutions
+Infrastructure modernization
+Databases
+Application modernization
+Smart analytics
+Artificial Intelligence
+Security
+Productivity & work transformation
+Industry solutions
+DevOps solutions
+Small business solutions
+See all solutions
+Resources
+Google Cloud Affiliate Program
+Google Cloud documentation
+Google Cloud quickstarts
+Google Cloud Marketplace
+Learn about cloud computing
+Support
+Code samples
+Cloud Architecture Center
+Training
+Certifications
+Google for Developers
+Google Cloud for Startups
+System status
+Release Notes
+Engage
+Contact sales
+Find a Partner
+Become a Partner
+Events
+Podcasts
+Developer Center
+Press Corner
+Google Cloud on YouTube
+Google Cloud Tech on YouTube
+Follow on X
+Join User Research
+We're hiring. Join Google Cloud!
+Google Cloud Community
+About Google
+Privacy
+Site terms
+Google Cloud terms
+Our third decade of climate action: join us
+Sign up for the Google Cloud newsletter
+Subscribe
+language
+‪English‬

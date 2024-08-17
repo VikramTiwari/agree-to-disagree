@@ -34,6 +34,10 @@ expand_more
 
 More
 
+auto_awesome_motion
+
+View Active Events
+
 search
 Sign In
 Register
