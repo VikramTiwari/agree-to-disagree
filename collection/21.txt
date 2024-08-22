@@ -5,7 +5,7 @@ Expand all
 Third-Party Subprocessors
 Google Group Subprocessors
 Subprocessors for Cloud Identity Services
-PREVIOUS VERSIONS (LAST MODIFIED AUGUST 8, 2024)
+PREVIOUS VERSIONS (Last modified August 8, 2024)
 July 16, 2024
 April 30, 2024
 April 9, 2024

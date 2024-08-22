@@ -347,13 +347,9 @@ We changed our office address.
 
 2018-05-11:
 
-List GDPR Supervisory Authority.
-
-https://1password.com/legal/privacy/privacy-20180511/:
+List GDPR Supervisory Authority
 
 Typographical error corrected. No change in meaning.
-
-https://1password.com/legal/privacy/privacy-20180511/:
 
 More explicitly include data processing agreement (GDPR)
 
