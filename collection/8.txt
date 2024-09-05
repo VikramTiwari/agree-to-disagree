@@ -1,5 +1,5 @@
 help.twitter.com
 Verifying you are human. This may take a few seconds.
 help.twitter.com needs to review the security of your connection before proceeding.
-Ray ID: 8bd9c1c4c8b6cf1b
+Ray ID: 8be1ff60aadbc938
 Performance & security by Cloudflare
