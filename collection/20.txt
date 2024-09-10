@@ -31,7 +31,8 @@ Previous versions of Data Processing Addendum for SecOps Consulting Services and
 
 October 5, 2023 September 19, 2023 June 15, 2023 February 22, 2023 February 6, 2023
 
-PREVIOUS VERSIONS (Last modified August 5, 2024)
+PREVIOUS VERSIONS (Last modified September 9, 2024)
+August 5, 2024
 May 23, 2024
 April 9, 2024
 November 8, 2023
