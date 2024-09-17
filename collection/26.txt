@@ -1,3 +1,4 @@
+ Planned maintenance impacting Stack Overflow and all Stack Exchange sites is scheduled for Monday, September 16, 2024, 5:00 PM-10:00 PM EDT (Monday, September 16, 21:00 UTC- Tuesday, September 17, 2:00 UTC). The email/password authentication method will be unavailable for logging in and registering. Read more here
 Public Network Terms of Service
 Acceptable Use Policy
 Privacy Policy

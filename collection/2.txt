@@ -10,7 +10,7 @@ Looking to change your privacy settings?
 
 Take the Privacy Checkup
 
-Effective March 28, 2024 | Archived versions
+Effective September 16, 2024 | Archived versions
 
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
@@ -416,6 +416,7 @@ The following privacy notices provide additional information about some Google s
 
 Payments
 Fiber
+Gemini Apps
 Google Fi
 Google Workspace for Education
 Read Along
@@ -698,6 +699,10 @@ Connecticut Act Concerning Personal Data Privacy and Online Monitoring (CTDPA); 
 Utah Consumer Privacy Act (UCPA)
 Washington My Health My Data Act (MHDM)
 Nevada Senate Bill 370
+Florida Digital Bill of Rights (FDBR)
+Texas Data Privacy and Security Act (TDPSA)
+Oregon Consumer Privacy Act (OCPA)
+Montana Consumer Data Privacy Act (MTCDPA)
 use the information we collect across our services
 
 Depending on your available settings, some examples of how we use the information we collect across our services include:
