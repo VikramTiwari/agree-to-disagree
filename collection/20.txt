@@ -472,17 +472,18 @@ Turkey
 1. Additional Definitions.
 
 “Turkish Data Protection Law” means the Turkish Law on the Protection of Personal Data No. 6698 dated April 7, 2016.
+“Turkish Personal Data Protection Authority” means the Kişisel Verileri Koruma Kurumu.
 “Turkish SCCs” means standard contract clauses under Turkish Data Protection Law.
 
 2. Data Transfers.
 
-2.1 Supplementary Terms. If Customer’s billing address is in Turkey and Google makes any optional additional terms (including Turkish SCCs) available for acceptance by Customer in relation to transfers of Customer Personal Data under Turkish Data Protection Law, those terms will supplement this Addendum.
+2.1 Supplementary Terms. If Customer’s billing address is in Turkey and Google makes any optional additional terms (including Turkish SCCs) available for acceptance by Customer in relation to transfers of Customer Personal Data under Turkish Data Protection Law, those terms will supplement this Addendum as from the date they are notified to the Turkish Personal Data Protection Authority in accordance with Section 2.2 (Notification to the Competent Authority) below, as evidenced by Customer to Google.
 
-2.2 Termination Due to Data Transfer Risk. If Customer concludes, based on its current or intended use of the Services, that appropriate safeguards are not provided for transferred Customer Personal Data, then Customer may immediately terminate the applicable Agreement in accordance with that Agreement's termination for convenience provision or, if there is no such provision, by notifying Google.
+2.2 Notification to the Competent Authority. If Customer enters into Turkish SCCs under this Section 2 (Data Transfers) and Turkish Data Protection Law requires notification to the Turkish Personal Data Protection Authority of use of Turkish SCCs, Customer will be responsible for providing such notice within five (5) business days of signature of the Turkish SCCs.
 
-2.3 Notification to the Competent Authority. If Customer enters into Turkish SCCs under this Section 2 (Data Transfers) and Turkish Data Protection Law requires notification to the Turkish Data Protection Authority of use of Turkish SCCs, Customer will be responsible for providing such notice within five days of signature of the Turkish SCCs.
+2.3 SCC Audits. If Customer enters into Turkish SCCs under this Section 2 (Data Transfers), Google will allow Customer (or an independent auditor appointed by Customer) to conduct audits as described in those SCCs and, during an audit, make available all information required by those SCCs, both in accordance with Section 7.5.3 (Additional Business Terms for Reviews and Audits).
 
-2.4 SCC Audits. If Customer enters into Turkish SCCs under this Section 2 (Data Transfers), Google will allow Customer (or an independent auditor appointed by Customer) to conduct audits as described in those SCCs and, during an audit, make available all information required by those SCCs, both in accordance with Section 7.5.3 (Additional Business Terms for Reviews and Audits).
+2.4 Termination Due to Data Transfer Risk. If Customer concludes, based on its current or intended use of the Services, that appropriate safeguards are not provided for transferred Customer Personal Data, then Customer may immediately terminate the applicable Agreement in accordance with that Agreement's termination for convenience provision or, if there is no such provision, by notifying Google.
 
 2.5 No Modification of Turkish SCCs. Nothing in the Agreement (including this Addendum) is intended to modify or contradict the Turkish SCCs or prejudice the fundamental rights or freedoms of data subjects under Turkish Data Protection Law.
 
@@ -884,5 +885,5 @@ Previous versions of Data Processing Addendum for SecOps Consulting Services and
 
 October 5, 2023 September 19, 2023 June 15, 2023 February 22, 2023 February 6, 2023
 
-PREVIOUS VERSIONS (Last modified September 9, 2024)
-August 5, 2024  May 23, 2024  April 9, 2024  November 8, 2023  August 15, 2023  September 20, 2022 
+PREVIOUS VERSIONS (Last modified September 26, 2024)
+September 9, 2024  August 5, 2024  May 23, 2024  April 9, 2024  November 8, 2023  August 15, 2023  September 20, 2022 

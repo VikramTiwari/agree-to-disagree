@@ -375,8 +375,6 @@ This Agreement may only be modified by a written amendment signed by an authoriz
 
 Questions about the Terms of Service? Contact us through the GitHub Support portal.
 
-Press alt+up to activate
-
 Legal
 © 2024 GitHub, Inc.
 Terms
