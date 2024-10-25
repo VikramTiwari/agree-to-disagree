@@ -46,14 +46,15 @@ Kaggle uses cookies from Google to deliver and enhance the quality of its servic
 Learn more.
 OK, Got it.
 Terms
-
-We’re updating our Terms of Use on October 4, 2024 to help clarify and make it easier to understand what to expect as you use the service. Until then, these existing Terms continue to apply. See a preview of the upcoming Terms.
+VERSION
+October 4, 2024 (active)
+VERSION
 
 PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR SERVICES (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS. IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.
 
 Terms of Use
 
-Effective Date: February 16, 2024
+Effective Date: October 4, 2024
 
 Welcome to Kaggle. Please read on to learn the rules and restrictions that govern your use of our website(s), products, services and applications (the “Services”). If you have any questions, comments, or concerns regarding these Terms or the Services, please contact us. These Terms of Use (the “Terms”) are a binding contract between you and Kaggle Inc. (“Kaggle,” “we” and “us”). Kaggle is organized under the laws of the State of Delaware, USA, and has offices located at 1600 Amphitheatre Parkway, Mountain View, California 94043 USA. You must agree to and accept all of the Terms, or you don’t have the right to use the Services. Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. These Terms include the provisions in this document, as well as those in the Privacy Policy, Copyright Dispute Policy and the Community Guidelines. In these Terms, the words “include” or “including” mean “including but not limited to”, and examples are for illustration purposes and are not limiting.
 
@@ -92,8 +93,9 @@ Copies or stores any significant portion of the Content;
 Decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services.
 Processes or stores any data that is subject to the International Traffic in Arms Regulations maintained by the U.S. Department of State.
 Engages in cryptomining or otherwise encourages, requests or allows any form of cryptomining.
+Violates these Terms.
 
-Without limitation to any other remedies available to Kaggle, a violation of any of the foregoing is grounds for termination of your right to use or access the Services. We reserve the right to remove any Content or User Submissions from the Services at any time, for any reason (including if someone alleges you contributed that Content in violation of these Terms), and without notice.
+Without limitation to any other remedies available to Kaggle, a violation of any of the foregoing is grounds for termination of your right to use or access the Services. We reserve the right to remove any Content or User Submissions from the Services at any time, in particular for the reasons mentioned above (including if someone alleges you contributed that Content in violation of these Terms), and without prior notice.
 
 What are my rights in Kaggle?
 
@@ -140,7 +142,7 @@ You may be a Host User or a Participant User for a specific Competition (but not
 
 You acknowledge and agree that Kaggle may, without any liability but without any obligation to do so, remove or disqualify a Participant User, a Host User or a Competition if Kaggle believes that such Participant User, Competition or Host User are in violation these Terms or otherwise pose a risk to Kaggle, the Service or another user of the Service.
 
-Regardless of anything to the contrary, Participant Users acknowledge and agree that Kaggle and Host Users have no obligation to hold a Competition Entry in confidence or otherwise restrict their activities based on receipt of such Competition Entry. Kaggle has no obligation to become involved in disputes between users (for example, between a Participant User and a Host User) or between users and any third party relating the use of the Services. Except for Kaggle hosted Competitions, Kaggle does not oversee Competitions (including the selection of Winning Entries) and does not endorse any content users submit to the Services. When you host or participate in a Competition, you release Kaggle from claims, damages, and demands of every kind — known or unknown, suspected or unsuspected, disclosed or undisclosed — arising out of or in any way related to such disputes and the Services. All content you access or submit via the Services is at your own risk. You are solely responsible for any resulting damage or loss to any party.
+Regardless of anything to the contrary, Participant Users acknowledge and agree that Kaggle and Host Users have no obligation to hold a Competition Entry in confidence or otherwise restrict their activities based on receipt of such Competition Entry. Kaggle has no obligation to become involved in disputes between users (for example, between a Participant User and a Host User) or between users and any third party relating to the use of the Services. Except for Kaggle hosted Competitions, Kaggle does not oversee Competitions (including the selection of Winning Entries) and does not endorse any content users submit to the Services. When you host or participate in a Competition, you release Kaggle from claims, damages, and demands of every kind — known or unknown, suspected or unsuspected, disclosed or undisclosed — arising out of or in any way related to such disputes and the Services. All content you access or submit via the Services is at your own risk. You are solely responsible for any resulting damage or loss to any party.
 
 What are Environments?
 
@@ -164,7 +166,7 @@ If you and Kaggle agree (separate from these Terms) that Kaggle will assist you 
 
 What if I see something on the Services that infringes my copyright?
 
-You may have heard of the Digital Millennium Copyright Act (the “DMCA”), as it relates to online service providers, like Kaggle, being asked to remove material that allegedly violates someone’s copyright. We respect others’ intellectual property rights, and we reserve the right to delete or disable Content alleged to be infringing, and to terminate the accounts of repeat alleged infringers. To review our complete Copyright Dispute Policy and learn how to report potentially infringing content, click here. To learn more about the DMCA, click here.
+If you think someone is infringing your intellectual property rights, you can send us notice of the infringement and we’ll take appropriate action. For example, we may suspend service for repeat copyright infringers as described in our Copyright Help Center.
 
 Will Kaggle ever change the Services?
 
@@ -194,7 +196,7 @@ What if I want to stop using Kaggle?
 
 If you do not have any active Competitions that you are hosting, then you’re free to stop using the Service at any time; please refer to our Privacy Policy, as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services. If you are hosting active Competitions then you should complete the Competitions, in full, before you stop using the Services.
 
-Kaggle is also free to terminate (or suspend access to) your use of the Services or your account, for any reason in our discretion, including your breach of these Terms. Kaggle has the sole right to decide whether you are in violation of any of the restrictions in these Terms.
+Kaggle is also free to terminate (or suspend access to) your use of the Services or your account, in particular if your use is in breach of these Terms or any applicable laws. Kaggle has the sole right to decide whether you are in violation of any of the restrictions in these Terms.
 
 Account termination may result in destruction of any Content associated with your account, so keep that in mind before you decide to terminate your account.
 
